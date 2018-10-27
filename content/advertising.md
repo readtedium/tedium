@@ -1,15 +1,13 @@
 +++
 author = "Ernie Smith"
-date = 2015-07-26T09:11:27Z
+date = "2015-07-26T09:11:27.000+00:00"
 description = "Learn more about potential advertising opportunities with Tedium."
-draft = false
 image = "https://tedium.imgix.net/2018/04/zn2nj4fxnimqxnzsttgz--1-.gif"
 slug = "advertising"
-variant = "page"
 title = "Advertise with us"
+variant = "page"
 
 +++
-
 {{% whitebox %}}
 
 {{% big %}}**Tedium is a great spot** for your ad campaign. As an email-driven content hub focused on turning noise into signal, we can offer:{{% /big %}}
@@ -23,9 +21,11 @@ title = "Advertise with us"
 {{% /whitebox %}}{{% redbox %}}
 
 {{% quote %}}
+
 ### “He writes these long posts filled with details where he digs up old patent filings, or clippings from hundred-year-old newspapers, archival audio … He just goes so nuts—and I love it.”
+
 {{% /quote %}}
- 
+
 **— Alex Goldmark,** supervising producer [of NPR's Planet Money](http://www.npr.org/sections/money/2017/02/13/515035040/episode-754-im-so-happy-for-you), describing that thing we do with Tedium.
 
 {{% /redbox %}}{{% graybox %}}
@@ -36,22 +36,26 @@ title = "Advertise with us"
 
 **Multiple Issues:** Wanna stick around a while? We also offer a monthlong sponsorship, at a bulk discount rate. Please reach out for rates.
 
-**Issue Takeover:** Want us to target our content in a certain issue so it matches up a little closer to your product line? That's absolutely possible, but [please email for rates](mailto:ernie@tedium.co). *Note: We do not offer guest posts, nor do we offer backlinks on existing posts.*
+**Issue Takeover:** Want us to target our content in a certain issue so it matches up a little closer to your product line? That's absolutely possible, but [please email for rates](mailto:ernie@tedium.co). _Note: We do not offer guest posts, nor do we offer backlinks on existing posts._
 
-**Please [email us to discuss possible sponsorship opportunities.](mailto:ernie@tedium.co)** We'd be happy to work something out!
+**Please** [**email us to discuss possible sponsorship opportunities.**](mailto:ernie@tedium.co) We'd be happy to work something out!
 
 {{% /graybox %}}{{% redbox %}}
 
 {{% number %}}
+
 ### 10k+
+
 {{% /number %}}
 
-**The number of subscribers** to Tedium, a newsletter whose content has been featured on such fine outlets as Digg, NPR's Planet Money, and The Onion's A.V. Club. (We're also syndicated through such *even finer* outlets as Vice's Motherboard, Atlas Obscura, and Neatorama.)
+**The number of subscribers** to Tedium, a newsletter whose content has been featured on such fine outlets as Digg, NPR's Planet Money, and The Onion's A.V. Club. (We're also syndicated through such _even finer_ outlets as Vice's Motherboard, Atlas Obscura, and Neatorama.)
 
 {{% /redbox %}}{{% graybox %}}
 
 {{% quote %}}
+
 ### “Super fast shipment, A+++++ communication, 13/10 would recommend!”
+
 {{% /quote %}}
 
 **— Man Bartlett,** artist, [featured in July 11’s issue](http://tedium.co/2017/07/11/lint-roller-history-dryer-lint/).
