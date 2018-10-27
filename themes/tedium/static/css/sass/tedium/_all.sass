@@ -1,0 +1,355 @@
+b, strong, h1, h2, h3, h4, h6
+  font-family: $family-slab-serif
+  color: $tedium-red
+  font-weight: 400
+
+p:empty
+  display: none
+
+// body
+  background-image: url(/img/paper_fibers.png)
+  background-size: 200px
+  background-repeat: repeat
+
+main, header, footer
+  mix-blend-mode: multiply
+
+main, footer
+  a
+    color: $tedium-red
+    text-decoration: underline
+
+  a:hover
+    text-decoration: none
+
+.is-hero
+  background-image: url(/img/aerodromenew7.png),url(/img/fold.png)
+  background-size: cover, 100% 27px
+  background-repeat: no-repeat, repeat-x
+  background-position: -30px, bottom
+  background-blend-mode: multiply
+  margin-top: -10px
+  .logo
+    width: 400px
+    max-width: 400px
+    margin-left: auto
+    margin-right: auto
+    +mobile
+      max-width: 100% !important
+  .logo img
+    opacity: 1
+    mix-blend-mode: multiply
+    filter: blur(0.6px)
+    -webkit-filter: blur(0.6px)
+    -webkit-backdrop-filter: blur(20px)
+    width: 400px
+    max-width: 400px
+    box-shadow: 0 0 0.1px 0.1px #c00c20
+    +mobile
+      max-width: 100% !important
+  .logo-subtitle
+    font-family: "Nexa Slab Light"
+    text-transform: uppercase
+    rotate: -0.1deg
+    font-size: 16pt
+    margin-top: 0px
+    filter: blur(0.5px)
+    -webkit-filter: blur(0.5px)
+    -webkit-backdrop-filter: blur(20px)
+  .is-intro
+    background: #efefef
+    font-size: 21px
+    mix-blend-mode: multiply
+  .email-octopus-form-wrapper
+    padding-top: .5em
+    margin-left: -.6em
+    margin-right: -.6em
+
+.hero.is-primary
+  background-color: #c00c20
+
+hr.classy-divider
+  display: block
+  width: 100%
+  clear: both
+  border-color: #cccccc
+  border: 1pt dotted
+  height: 4px
+  border-left: 0
+  border-right: 0
+  margin: 3em auto
+
+.is-toptease
+  display: table
+  margin: 5em auto 0em
+  width: 85%
+  background-color: rgb(187, 56, 89)
+  background-image: linear-gradient(rgba(192, 12, 32, 1),rgba(98, 99, 97, 0.15)),linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url(https://images.unsplash.com/photo-1422479278902-8cef24992df0?dpr=1&auto=format&fit=crop&w=1500&h=1001&q=80&cs=tinysrgb&crop=)
+
+.is-red
+  background-color: #c00c20
+  color: white
+  border: 0
+
+.is-red:hover
+  background-color: #a00a20
+  color: white
+
+.showcase, .prefooter
+  display: table
+  width: 90%
+  margin: auto
+  padding: 0em 1.5rem 1rem
+
+.showcase
+  .tile
+    flex: auto
+
+.article-banner
+  background-size: cover
+  mix-blend-mode: multiply
+  height: 450px
+  img
+    max-width: 400px
+
+.article-headline
+  h1.title
+    text-align: center
+    font-size: 4.375rem !important
+    line-height: 4.375rem
+    font-weight: 400 !important
+    color: #c00c20
+  h2.subtitle
+    font-size: 2.2rem
+    color: #999
+    text-align: center
+    font-family: NexaSlab-Bold,sans-serif
+    line-height: 3rem
+    margin-left: 8%
+    margin-right: 8%
+
+.tile.is-parent
+  padding: 0 !important
+
+.is-newspaper
+  border-left-style: solid
+  border-width: 11px
+  border-image: url(/img/side.png) 22
+  border-top: 0
+  border-bottom: 0
+  border-right: 0
+  background-blend-mode: soft-light
+  background-image: url(/img/paper_fibers.png)
+  background-size: 200px 200px
+  background-repeat: repeat
+  margin-top: 3px
+  .is-top-edge
+    border-top-style: solid
+    border-width: 12px
+    border-image: url(/img/top.png) 24
+    border-image-repeat: repeat
+    border-left: 0
+    border-bottom: 0
+    border-right: 0
+  .is-right-edge
+    border-right-style: solid
+    border-width: 20px
+    border-image: url(/img/right.png) 47
+    background-blend-mode: soft-light
+    border-image-repeat: repeat
+    border-top: 0
+    border-bottom: 0
+    border-left: 0
+
+.is-newsprint
+  background-image: url('/img/paper_fibers.png')
+  background-size: 200px 200px
+  background-repeat: repeat
+  figure
+    background: url('/img/silkscreen.svg')
+    background-size: 4px 4px
+    background-repeat: repeat
+    box-shadow: 0 0 20px 4px #ededed inset
+    filter: blur(0.6px)
+    -webkit-filter: blur(0.6px)
+    -webkit-backdrop-filter: blur(20px)
+  img
+    opacity: .5
+
+.front-title-big
+  position: absolute
+  z-index: 300
+  font-family: NexaSlab-Regular,sans-serif
+  font-size: 3rem
+  background-color: #c00c20
+  color: #fff!important
+  min-width: 70%
+  line-height: 1.2em
+  padding: .2em .2em 0
+  margin: 25% 15%
+  display: inline-block
+  opacity: .7
+  letter-spacing: 0
+  text-align: center
+  top: 0%
+
+.front-title
+  position: absolute
+  z-index: 300
+  font-family: NexaSlab-Regular,sans-serif
+  font-size: 1.5rem
+  background-color: #c00c20
+  color: #fff!important
+  min-width: 70%
+  line-height: 1.2em
+  padding: .2em .2em 0
+  margin: 25% 15%
+  display: inline-block
+  opacity: .7
+  letter-spacing: 0
+  text-align: center
+  top: 0%
+.front-title-time
+  background-color: #c00c20
+  color: #fff
+  width: 100%
+  text-align: right
+  position: absolute
+  z-index: 300
+  bottom: 0
+  opacity: .7
+  padding-right: 1rem
+  padding-top: .2rem
+  font-size: .8rem
+  text-transform: uppercase
+
+.is-front-sidebar
+  margin-left: 2em
+  margin-right: -2em
+  border-left: 1pt dotted #ccc
+  +touch
+    margin-left: 0 !important
+    margin-right: 0 !important
+    border-left: 0 !important
+    border-top: 1pt dotted #ccc
+  hr
+    border-color: #cccccc
+    border: 1pt dotted
+    height: 4px
+    border-left: 0
+    border-right: 0
+    margin-left: 5em
+    margin-right: 5em
+  .front-number
+    font-size: 5em
+    line-height: .8em
+    margin-left: .5rem
+    margin-right: .5rem
+    text-align: center
+  .front-quote
+    font-size: 1.6em
+    text-align: center
+    margin-right: 1em
+    margin-left: 1em
+
+.is-front-ad
+  img
+    width: 100%
+    min-width: 300px
+
+.content
+  p, li
+    font-size: 16pt !important
+    line-height: 2.5rem !important
+  h3
+    font-size: 2.5rem
+    text-align: center
+  ol
+    list-style-type: none
+    li
+      counter-increment: step-counter
+      margin-top: 10px
+      margin-bottom: 1.5rem
+      text-align: left
+      margin-left: 2rem
+    li::before
+      content: counter(step-counter)
+      margin-left: -4rem
+      margin-right: 1.5rem
+      font-size: 2rem
+      background-color: #c00c20
+      color: #fff
+      font-weight: 700
+      padding: 7px 8px 0
+      border-radius: 3px
+      display: inline-block
+      width: 2.5rem
+      text-align: center
+      margin-top: 0
+      line-height: 100%
+      vertical-align: bottom
+  img
+    width: 80%
+    margin-left: auto
+    margin-right: auto
+    display: block
+  .md-whitebox, .md-graybox, .md-redbox
+    padding: 2em 3em
+    margin-left: -1em
+    margin-right: -1em
+    h3
+      margin-top: 1rem
+  .md-adbox
+    padding: 1em 3em
+    margin-left: -1em
+    margin-right: -1em
+  .md-whitebox
+    background-color: #fff
+  .md-graybox
+    background-color: #efefef
+  .md-redbox
+    background-color: #c00c20
+    p, a, b, strong, h3
+      color: #fff !important
+  .md-adbox
+    display: table
+    p
+      font-size: 1.125rem !important
+      line-height: 1.75rem !important
+    img
+      float: left
+      max-width: 200px
+      padding-right: 1em
+      margin-top: .75em
+  .md-big, .md-big p
+    font-size: 1.5625rem
+    line-height: 2.5rem
+    margin-bottom: 1.25rem
+    margin-top: 1.25rem
+    b, strong
+      font-size: 2.5rem
+  .md-number
+    h3
+      font-size: 8.75rem!important
+      line-height: 6.25rem!important
+      margin-top: 2rem
+      margin-bottom: 1rem
+  .md-smallimg
+    img
+      width: inherit
+      max-width: 80%
+      margin-top: 1em
+      margin-bottom: 1em
+      display: block
+
+.footer
+  background-image: url(https://cdn.tedium.co/aerodromenew3.png)
+  background-size: cover
+  background-position: center
+  box-shadow: inset 0px 0px 71px 40px #ffffff
+  mix-blend-mode: multiply
+  p
+    font-size: 13pt !important
+    line-height: 2rem !important
+  img
+    width: 100px

@@ -1,16 +1,13 @@
 baseurl = "/" # Controls base URL
 languageCode = "en-US" # Controls html lang attribute
-title = "Tedium: The Dull Side of the Internet." # Homepage title and page title suffix
-paginate = 10 # Number of posts to show before paginating
-theme = "tedium" # to use as default theme
+title = "Bulma for Hugo" # Homepage title and page title suffix
+paginate = 5 # Number of posts to show before paginating
+theme = "bulma" # to use as default theme
 
 enableRobotsTXT = true # Suggested, it generates a robots.txt
 googleAnalytics = "" # Optional, add tracking Id for analytics
 disqusShortname = "" # Optional, add Disqus shortname for comments
 SectionPagesMenu = "main" # Enable menu system for lazy bloggers
-
-[permalinks]
-  post = "/:year/:month/:day/:slug/"
 
 [params]
   theme_variant = "" # possible value for the theme_variant `cerulean,cosmo,cyborg,darkly,flatly,journal,litera,lumen,lux,materia,minty,pulse,sandstone,simplex,slate,solar,spacelab,superhero,united,yeti`
