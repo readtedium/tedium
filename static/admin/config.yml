@@ -1,6 +1,6 @@
 backend:
   name: github
-  branch: readtedium/tedium
+  repo: readtedium/tedium
 # This line should *not* be indented
 publish_mode: editorial_workflow
 # These lines should *not* be indented
