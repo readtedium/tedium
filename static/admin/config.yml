@@ -17,8 +17,8 @@ collections:
       - {label: "Categories", name: "categories", widget: "list"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Description", name: "description", widget: "string"}
-      - {label: "Slug", name: "slug", widget: "sting"}
-      - {label: "Draft", name: "draft", widget: "sting", default: "true"}
+      - {label: "Slug", name: "slug", widget: "string"}
+      - {label: "Draft", name: "draft", widget: "string", default: "true"}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Layout", name: "variant", widget: "string", default: "article"}
       - {label: "Tags", name: "tags", widget: "list"}
