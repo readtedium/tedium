@@ -1,9 +1,6 @@
 backend:
   name: github
   branch: readtedium/tedium
-  accept_roles: #optional - accepts all users if left out
-    - admin
-    - editor
 # This line should *not* be indented
 publish_mode: editorial_workflow
 # These lines should *not* be indented
