@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quake Clans on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/quake-clans/</link>
+    <description>Recent content in Quake Clans on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 01 Jun 2018 07:04:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/quake-clans/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>By Our Powers Combined …</title>
+      <link>/2018/06/01/webring-history/</link>
+      <pubDate>Fri, 01 Jun 2018 07:04:00 +0000</pubDate>
+      
+      <guid>/2018/06/01/webring-history/</guid>
+      <description>Today in Tedium: These days, social media tends to take a specific form—basically, you share content on a platform owned by someone else, who profits off your data and attention span. (No, this is not a piece about GDPR. I. Promise.) The idea of a truly federated social network that brings together individuals but is unburdened by the big guy, is still relatively uncommon. (I’m on Mastodon, though. Are you?) Recently, one social network that did a good job of promoting the little guy, StumbleUpon, announced it was shutting down.</description>
+    </item>
+    
+  </channel>
+</rss>

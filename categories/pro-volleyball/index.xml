@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pro Volleyball on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/pro-volleyball/</link>
+    <description>Recent content in Pro Volleyball on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 24 May 2017 07:25:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/pro-volleyball/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Out Of Our League</title>
+      <link>/2017/05/24/obscure-sports-leagues/</link>
+      <pubDate>Wed, 24 May 2017 07:25:00 +0000</pubDate>
+      
+      <guid>/2017/05/24/obscure-sports-leagues/</guid>
+      <description>Today in Tedium: Despite our interest in sports as a society, for whatever reason, we can’t seem to handle more than a handful of specific professional team sports at any one time. Clearly, there’s an ongoing interest in basketball, baseball, football (both kinds), hockey, and (if you’re feeling generous with the definition of “team sport”) auto racing, but there are just some sports that struggle to move beyond a niche, or perhaps can’t get notice outside of the Olympics.</description>
+    </item>
+    
+  </channel>
+</rss>

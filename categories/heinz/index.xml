@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heinz on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/heinz/</link>
+    <description>Recent content in Heinz on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 15 Dec 2017 09:12:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/heinz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What The Hellmann</title>
+      <link>/2017/12/15/condiment-sauces-history/</link>
+      <pubDate>Fri, 15 Dec 2017 09:12:00 +0000</pubDate>
+      
+      <guid>/2017/12/15/condiment-sauces-history/</guid>
+      <description>Today in Tedium: There have been many instances in my life that I’ve been told I’m a sauce obsessive. Maybe I pour a little too much A1 on a steak, a too-aggressive dip of a fry into a side of ranch dressing, a little too much salsa on the side of an omelet. I’m sure if I ran into Gordon Ramsay somewhere and he saw how much sauce I used, he would scold me.</description>
+    </item>
+    
+    <item>
+      <title>Who Doesn’t Love Pickles?</title>
+      <link>/2017/01/04/interesting-facts-about-pickles/</link>
+      <pubDate>Wed, 04 Jan 2017 09:36:00 +0000</pubDate>
+      
+      <guid>/2017/01/04/interesting-facts-about-pickles/</guid>
+      <description>Today in Tedium: Of the many things that we lost in 2016, one of the saddest losses might have been a purely cultural one. At the end of 2016, the Carnegie Deli, an iconic slice of New York City, served its last overstuffed, overpriced pastrami sandwich. (That’s despite an on-the-table, quickly rebuffed offer from a New York restaurateur to buy out the owners for $10 million.) The Jewish deli will survive—Katz’s is still with us, for one thing—but it’s still a bummer.</description>
+    </item>
+    
+  </channel>
+</rss>

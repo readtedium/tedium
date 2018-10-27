@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eric Schmidt on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/eric-schmidt/</link>
+    <description>Recent content in Eric Schmidt on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 04 Oct 2017 07:01:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/eric-schmidt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Encoded, Decoded</title>
+      <link>/2017/10/04/usenet-binaries-history/</link>
+      <pubDate>Wed, 04 Oct 2017 07:01:00 +0000</pubDate>
+      
+      <guid>/2017/10/04/usenet-binaries-history/</guid>
+      <description>Today in Tedium: As I pointed out earlier this year, people love free stuff when it comes to the internet. Beyond communication, it may be the most popular use of the internet around. But what happens when a platform intended for communication becomes overwhelmed by free stuff? To put it simply, that’s what Usenet is. The protocol, with a history that goes back nearly 40 years, evolved from its arcane roots as a place for technically minded college students and sysops to communicate into a newbie-overrun protocol, then into a major hub for file sharing.</description>
+    </item>
+    
+  </channel>
+</rss>

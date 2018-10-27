@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fm Radio on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/fm-radio/</link>
+    <description>Recent content in Fm Radio on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 12 May 2017 07:18:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/fm-radio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Invisible Puzzle</title>
+      <link>/2017/05/12/wireless-spectrum-allocation-challenges/</link>
+      <pubDate>Fri, 12 May 2017 07:18:00 +0000</pubDate>
+      
+      <guid>/2017/05/12/wireless-spectrum-allocation-challenges/</guid>
+      <description>Today in Tedium: Barring our constant debates on net neutrality, one of the places where the Federal Communications Commission has the largest footprint is with our wireless spectrum. It’s a spectrum that has to serve many minders, and there are constant complaints about the spectrum being crowded. But those complaints, despite feeling modern and up-to-date, are far from new—we’ve been dealing with them pretty much ever since there was spectrum regulation.</description>
+    </item>
+    
+    <item>
+      <title>You’re Wearing An Antenna</title>
+      <link>/2017/01/23/headphones-fm-radio-antenna/</link>
+      <pubDate>Mon, 23 Jan 2017 22:00:00 +0000</pubDate>
+      
+      <guid>/2017/01/23/headphones-fm-radio-antenna/</guid>
+      <description>As it turns out, the release of the iPhone 7 last fall likely closed the door on something the broadcast industry has long crossed its fingers for.  My piece last week on FMX, the discarded radio technology that faded from view, drew a comment from reader Conrad Kramer, who was drawn to one of the side elements, where I discussed efforts by the broadcasting industry to get FM radio functionality enabled in smartphones.</description>
+    </item>
+    
+    <item>
+      <title>Don’t Touch That Dial</title>
+      <link>/2017/01/18/radio-technology-upgrades-fmx-history/</link>
+      <pubDate>Wed, 18 Jan 2017 09:49:00 +0000</pubDate>
+      
+      <guid>/2017/01/18/radio-technology-upgrades-fmx-history/</guid>
+      <description>Today in Tedium: Recently, the Norwegian government—which has helped the country become first-movers on the electric car front—decided that it wanted to be ahead of another kind of curve. It was a curve that not everyone was ready for, however. Norway recently decided to drop FM radio, in favor of a modern equivalent, digital audio broadcasting (DAB). This early move comes with a lot of risks, as does every other attempt to mess with the technology that drives the airwaves.</description>
+    </item>
+    
+    <item>
+      <title>Waaaaay Left of the Dial</title>
+      <link>/2016/07/01/frankenfm-radio-fcc-analog-tv/</link>
+      <pubDate>Fri, 01 Jul 2016 07:50:00 +0000</pubDate>
+      
+      <guid>/2016/07/01/frankenfm-radio-fcc-analog-tv/</guid>
+      <description>Today in Tedium: TV on the Radio isn&amp;rsquo;t just the name of a really freaking good band. Instead, it&amp;rsquo;s a quirk of the design of analog television. But a funny thing happened on the way to obscurity: As analog TV gave way to digital, a handful of risk-taking broadcasters, sensing an opportunity, have started to run those analog TV stations as FM radio stations—big FCC plans be damned. The shift is surprisingly contentious in the world of broadcast.</description>
+    </item>
+    
+    <item>
+      <title>When Signal Beats Noise</title>
+      <link>/2016/05/13/dxing-radio-television-history/</link>
+      <pubDate>Fri, 13 May 2016 07:48:00 +0000</pubDate>
+      
+      <guid>/2016/05/13/dxing-radio-television-history/</guid>
+      <description>Today in Tedium: For decades, television owners haven&amp;rsquo;t been content with simply embracing the options already in front of them. There are lots of tales of this nature throughout TV history—from the people who owned (or in some cases, built) massive satellite dishes so they could pick up obscure television signals from other parts of the world, to the public-access weirdos who have long created their own kinds of television (some of whom got really lucky), to the people who got obsessed with the Amiga in the &amp;lsquo;90s.</description>
+    </item>
+    
+  </channel>
+</rss>

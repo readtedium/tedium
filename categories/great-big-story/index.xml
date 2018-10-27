@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Great Big Story on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/great-big-story/</link>
+    <description>Recent content in Great Big Story on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 16 May 2018 04:01:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/great-big-story/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WebTV’s Greatest Celebrity User</title>
+      <link>/2018/05/16/r-stevie-moore-webtv/</link>
+      <pubDate>Wed, 16 May 2018 04:01:00 +0000</pubDate>
+      
+      <guid>/2018/05/16/r-stevie-moore-webtv/</guid>
+      <description>R. Stevie Moore is an extraordinary archivist of his own material. Recently, the online short film series Great Big Story released a superb mini documentary about Stevie and on April 6, 2018, R. Stevie Moore was featured on the front page of Wikipedia.  The page asked “Did you know R. Stevie Moore pioneered modern indie rock, earning him the sobriquet ‘the godfather of home recording?’”
+Yes, Wikipedia. I believe we already knew that.</description>
+    </item>
+    
+  </channel>
+</rss>

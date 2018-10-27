@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tandy on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/tandy/</link>
+    <description>Recent content in Tandy on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 09 Jun 2017 04:40:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/tandy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Back To The Shack</title>
+      <link>/2017/06/09/radio-shack-bankruptcy-auction-history/</link>
+      <pubDate>Fri, 09 Jun 2017 04:40:00 +0000</pubDate>
+      
+      <guid>/2017/06/09/radio-shack-bankruptcy-auction-history/</guid>
+      <description>Today in Tedium: For many reasons, largely related to a shifting business model incompatible with modern tech needs, a whole generation of people saw RadioShack as less a store for tinkerers and more a place to buy commodity tech products. It was a business model that fell out of sync with the enthusiast community that once championed its products, and the twice-bankrupt RadioShack has been paying the price for that pivot ever since.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dos on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/dos/</link>
+    <description>Recent content in Dos on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 05 Sep 2018 07:25:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/dos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Double Trouble</title>
+      <link>/2018/09/05/disk-compression-stacker-doublespace-history/</link>
+      <pubDate>Wed, 05 Sep 2018 07:25:00 +0000</pubDate>
+      
+      <guid>/2018/09/05/disk-compression-stacker-doublespace-history/</guid>
+      <description>Today in Tedium: As anyone who has ever owned a smartphone with the minimum amount of flash storage knows, space runs out fast, and once you realize you need more than you’ve allocated yourself, it’s way too late. In computing, this is a story that goes back decades, to a time when giant platters walked (OK, rolled) the Earth. But while running out of storage space on a 16-gig iPhone is annoying, it’s at least reasonable; you can put stuff on the cloud, and if the space drives you nuts, you can always upgrade.</description>
+    </item>
+    
+    <item>
+      <title>Command Line</title>
+      <link>/2018/07/18/dos-nostalgia-squirrel-monkey-interview/</link>
+      <pubDate>Wed, 18 Jul 2018 07:01:00 +0000</pubDate>
+      
+      <guid>/2018/07/18/dos-nostalgia-squirrel-monkey-interview/</guid>
+      <description>Hey all, Ernie here with a fresh piece from David Buck, who has moved away from his NES for a while to tell you all about how awesome DOS is as a creative medium. Yeah, DOS.
+Today in Tedium: From the early 90s, up until 2005 or so, I did much of my computer gaming on an American Megatrends IBM PC, running MS-DOS and Windows 3.11. I even got online once using Netscape Communicator.</description>
+    </item>
+    
+  </channel>
+</rss>

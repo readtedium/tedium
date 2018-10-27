@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Metv Fm on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/metv-fm/</link>
+    <description>Recent content in Metv Fm on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 01 Jul 2016 07:50:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/metv-fm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Waaaaay Left of the Dial</title>
+      <link>/2016/07/01/frankenfm-radio-fcc-analog-tv/</link>
+      <pubDate>Fri, 01 Jul 2016 07:50:00 +0000</pubDate>
+      
+      <guid>/2016/07/01/frankenfm-radio-fcc-analog-tv/</guid>
+      <description>Today in Tedium: TV on the Radio isn&amp;rsquo;t just the name of a really freaking good band. Instead, it&amp;rsquo;s a quirk of the design of analog television. But a funny thing happened on the way to obscurity: As analog TV gave way to digital, a handful of risk-taking broadcasters, sensing an opportunity, have started to run those analog TV stations as FM radio stations—big FCC plans be damned. The shift is surprisingly contentious in the world of broadcast.</description>
+    </item>
+    
+  </channel>
+</rss>

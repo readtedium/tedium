@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proprietary Cables on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/proprietary-cables/</link>
+    <description>Recent content in Proprietary Cables on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 07 Feb 2018 05:58:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/proprietary-cables/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tech’s Biggest Racket</title>
+      <link>/2018/02/07/apple-magsafe-charger-racket/</link>
+      <pubDate>Wed, 07 Feb 2018 05:58:00 +0000</pubDate>
+      
+      <guid>/2018/02/07/apple-magsafe-charger-racket/</guid>
+      <description>Over at the New York Times, John Herrman has given voice to a certain kind of obsolescence that we’ve come to see a lot—that created not by the technology itself, but by the constant forward thrust of technology that has forced a device that technically still has a lot of years left in it into the dumpster.  “If my old iPad could talk, it might ask me what has changed,” he wrote.</description>
+    </item>
+    
+  </channel>
+</rss>

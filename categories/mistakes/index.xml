@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mistakes on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/mistakes/</link>
+    <description>Recent content in Mistakes on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 25 Oct 2017 07:10:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/mistakes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>When Copyright Goes Copywrong</title>
+      <link>/2017/10/25/public-domain-film-history-copyright/</link>
+      <pubDate>Wed, 25 Oct 2017 07:10:00 +0000</pubDate>
+      
+      <guid>/2017/10/25/public-domain-film-history-copyright/</guid>
+      <description>Today in Tedium: When horror movie icon George A. Romero died earlier this year, it should have started a copyright expiration timeline for his most famous and influential work, the 1968 classic and Halloween icon Night of the Living Dead. But something really scary happened to the film before it became a hit: Due to a last-second title change and a distributor error, the former Night of the Flesh Eaters fell into the public domain upon its release.</description>
+    </item>
+    
+    <item>
+      <title>We All Make Mistakes</title>
+      <link>/2016/05/18/mistakes-errors-human-nature/</link>
+      <pubDate>Wed, 18 May 2016 07:58:00 +0000</pubDate>
+      
+      <guid>/2016/05/18/mistakes-errors-human-nature/</guid>
+      <description>Today in Tedium: People make mistakes often. We&amp;rsquo;re human. We&amp;rsquo;re fallible. It&amp;rsquo;s the thing that most easily proves that we&amp;rsquo;re not robotic. See, if a bot makes a mistake, it&amp;rsquo;s ten to one because a human programmed it incorrectly. And honestly, those errors aren&amp;rsquo;t necessarily bad things. We make mistakes every day, bounce back from them and are significantly more amazing as a result. They make us more human, more creative, and allow us to test what our limits are.</description>
+    </item>
+    
+  </channel>
+</rss>

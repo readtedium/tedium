@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internet Relay Chat on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/internet-relay-chat/</link>
+    <description>Recent content in Internet Relay Chat on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 18 Oct 2017 07:48:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/internet-relay-chat/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Picking Up The Slack</title>
+      <link>/2017/10/18/irc-vs-slack-chat-history/</link>
+      <pubDate>Wed, 18 Oct 2017 07:48:00 +0000</pubDate>
+      
+      <guid>/2017/10/18/irc-vs-slack-chat-history/</guid>
+      <description>Today in Tedium: Love it or hate it, the business-focused chat platform Slack clearly has done something right in its four years of existence. (Case in point: It’s worth $5 billion somehow, based on a recent investment by SoftBank.) It’s particularly strange for many users in the context of what it does. Breaking down all its integrations and emoji, and it’s basically a smart chat client. Chat clients, of course, have been around forever—particularly in the form of Internet Relay Chat, or IRC, and while it was pretty successful, it never crossed into pop culture the way Slack has.</description>
+    </item>
+    
+  </channel>
+</rss>

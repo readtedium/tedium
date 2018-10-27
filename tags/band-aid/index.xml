@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Band Aid on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/band-aid/</link>
+    <description>Recent content in Band Aid on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 20 May 2015 07:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/band-aid/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>This one&#39;s for the wounded</title>
+      <link>/2015/05/20/history-of-bandages/</link>
+      <pubDate>Wed, 20 May 2015 07:00:00 +0000</pubDate>
+      
+      <guid>/2015/05/20/history-of-bandages/</guid>
+      <description>Today in Tedium: Blood is a terrible thing to waste, and for centuries, the ways to stop blood from leaving the body were inefficient at best and not exactly easy to use. But one day, a guy spotted a problem that his wife was having and came up with one of the most brilliant solutions for solving simple injuries that the world had ever seen. And we’ve only kept innovating from there.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Copycats on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/copycats/</link>
+    <description>Recent content in Copycats on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 15 Sep 2017 07:37:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/copycats/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Knockoff Game</title>
+      <link>/2017/09/15/game-boy-knockoff-consoles/</link>
+      <pubDate>Fri, 15 Sep 2017 07:37:00 +0000</pubDate>
+      
+      <guid>/2017/09/15/game-boy-knockoff-consoles/</guid>
+      <description>Today in Tedium: If you wander through some corners of eBay, or Amazon, or even YouTube, you’ll see ‘em: The clones. Cheap clones. Expensive clones. Clones that play five different systems. Clones that rip off multiple consoles at once. Some, even, open source. But before there were clones, there were cheap knockoffs. And the target of some of the most obvious cheap knockoffs was the Game Boy—a device that, despite its lack of color screen, captured the imagination of millions of 8-year-olds back in the early ‘90s.</description>
+    </item>
+    
+  </channel>
+</rss>

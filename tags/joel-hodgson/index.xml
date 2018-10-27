@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joel Hodgson on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/joel-hodgson/</link>
+    <description>Recent content in Joel Hodgson on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 13 Apr 2017 07:49:04 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/joel-hodgson/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>We’ll Send Him Cheesy Movies</title>
+      <link>/2017/04/13/mst3k-revival-joel-hodgson-creative-redo/</link>
+      <pubDate>Thu, 13 Apr 2017 07:49:04 +0000</pubDate>
+      
+      <guid>/2017/04/13/mst3k-revival-joel-hodgson-creative-redo/</guid>
+      <description>Recently, I had a reader send me a zip file full of old ideas I had for a website I worked on nearly 20 years ago. It was an unusual bit of digital archaeology, in part because I didn’t actually remember the project until after I had seen the end results. Then, it all came back to me—a revival of ideas, good and bad, the reflection that I’ve been building sites like the one I&amp;rsquo;m typing on now since before I was even in college.</description>
+    </item>
+    
+  </channel>
+</rss>

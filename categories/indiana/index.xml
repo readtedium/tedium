@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Indiana on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/indiana/</link>
+    <description>Recent content in Indiana on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 09 May 2018 07:41:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/indiana/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>They Steal Horses, Don’t They?</title>
+      <link>/2018/05/09/horse-thief-detective-history/</link>
+      <pubDate>Wed, 09 May 2018 07:41:00 +0000</pubDate>
+      
+      <guid>/2018/05/09/horse-thief-detective-history/</guid>
+      <description>Today in Tedium: Often, theft is something very much defined by its era. In the past decade, smartphone thefts have grown rampant (occasionally leading to cute stories that cross borders and cultures), and it wasn’t too long before that when objects like sneakers and car stereos were the targets of robbery. Perhaps the target of the criminal activity changes—perhaps someone’s taking aim at your cryptocurrency at the moment—but the basic concept (what’s yours is now mine) doesn’t.</description>
+    </item>
+    
+  </channel>
+</rss>

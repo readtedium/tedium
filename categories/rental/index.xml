@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rental on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/rental/</link>
+    <description>Recent content in Rental on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 29 Nov 2017 09:52:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/rental/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Buy, Don’t Rent</title>
+      <link>/2017/11/29/rent-to-own-rent-a-center-history/</link>
+      <pubDate>Wed, 29 Nov 2017 09:52:00 +0000</pubDate>
+      
+      <guid>/2017/11/29/rent-to-own-rent-a-center-history/</guid>
+      <description>Today in Tedium: Spend the weekend buying junk in honor of Black Friday and Cyber Monday? Lucky you. Whether your addiction of choice was Michaels, Macy’s, or Massdrop, hopefully you found just the right kind of crap. Of course, one of the key ways to sell crap is to draw people in with a TV, a laptop, or something else that’s shiny with a screen. But what if you’re trying to simply make ends need and you need a TV set or furniture?</description>
+    </item>
+    
+    <item>
+      <title>Own To Rent</title>
+      <link>/2016/10/21/rental-crisis-history-problems/</link>
+      <pubDate>Fri, 21 Oct 2016 05:35:10 +0000</pubDate>
+      
+      <guid>/2016/10/21/rental-crisis-history-problems/</guid>
+      <description>Editor’s note: Today’s issue is created in partnership with the folks at Make Room, a nonpartisan organization sponsored by the housing nonprofit Enterprise Community Partners.
+Today in Tedium: There’s a lot of country hiding between New York and San Francisco, but for some reason, these two cities dominate discussions about rent prices in the United States. It’s understandable. It’s pretty easy for your eyes to pop when you read about a 1-bedroom apartment’s price topping $3,500, as ApartmentList reported about San Francisco earlier this month.</description>
+    </item>
+    
+  </channel>
+</rss>

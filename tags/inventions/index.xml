@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inventions on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/inventions/</link>
+    <description>Recent content in Inventions on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 24 Aug 2018 07:46:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/inventions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Math &#43; The Mechanics</title>
+      <link>/2018/08/24/curta-calculator-history/</link>
+      <pubDate>Fri, 24 Aug 2018 07:46:00 +0000</pubDate>
+      
+      <guid>/2018/08/24/curta-calculator-history/</guid>
+      <description>Today in Tedium: We think of computers as being purely digital objects—computational beasts that work with abstracted collections of 1s and 0s. As complexity increased, so did the tactics to making the computing devices smaller, to the point where we can shove one in our skin as if that’s something we wanna do. Of course, computers are reliant on power these days, but there was a time when computers didn’t need things like batteries, because they weren’t electronic.</description>
+    </item>
+    
+    <item>
+      <title>Hooked On Velcro</title>
+      <link>/2018/06/06/velcro-history/</link>
+      <pubDate>Wed, 06 Jun 2018 07:06:00 +0000</pubDate>
+      
+      <guid>/2018/06/06/velcro-history/</guid>
+      <description>Today in Tedium: Over the weekend, I spent a bit of time cleaning my messenger bag, which had an annoying problem—the pointy half of the Velcro was filthy, covered in ugly pieces of fabric it had picked up through years of heavy regular use. After looking online, I found the great solution to this annoying problem: I took the sharp part of a plastic tape dispenser and rubbed it through the rough part of the material, which, amazingly, did the trick.</description>
+    </item>
+    
+  </channel>
+</rss>

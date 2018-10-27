@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>California on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/california/</link>
+    <description>Recent content in California on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 05 Jun 2018 22:57:10 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/california/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Future of Fringe</title>
+      <link>/2018/06/05/chris-carlson-puppeteer-fringe-candidate/</link>
+      <pubDate>Tue, 05 Jun 2018 22:57:10 +0000</pubDate>
+      
+      <guid>/2018/06/05/chris-carlson-puppeteer-fringe-candidate/</guid>
+      <description>I’ve mentioned this before, but one of my favorite old magazines of all time is a dead-tree tome called Internet Underground that did a pretty good job of covering early internet culture thoughtfully, and perhaps with a little edge.  Of their many articles from back in the day, one that sticks with me is from their third issue, in which writer Alex Gordon highlighted the way that third-party “fringe” presidential candidates were using the Web to help draw attention to their unlikely-but-still-valid campaigns.</description>
+    </item>
+    
+  </channel>
+</rss>

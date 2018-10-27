@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John Fahey on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/john-fahey/</link>
+    <description>Recent content in John Fahey on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 14 Feb 2017 09:17:31 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/john-fahey/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Late-Career Recovery</title>
+      <link>/2017/02/14/john-fahey-late-career-recovery/</link>
+      <pubDate>Tue, 14 Feb 2017 09:17:31 +0000</pubDate>
+      
+      <guid>/2017/02/14/john-fahey-late-career-recovery/</guid>
+      <description>Recently, I re-watched the movie Hugo, a truly dazzling 2011 Martin Scorsese film about a young boy who, in the process of running the clocks inside a 1930s-era train station, helps an old shop owner realize that he’s not a failure, but a living legend.
+It’s a story, based on a book, that’s rooted in pure fantasy—I mean, obviously it’s unlikely that a young child could get away with the scheme suggested in the film—but Georges Méliès is a real guy, best known for his inventive early films, most notably A Trip to the Moon.</description>
+    </item>
+    
+  </channel>
+</rss>

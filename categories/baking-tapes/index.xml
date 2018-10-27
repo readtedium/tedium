@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Baking Tapes on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/baking-tapes/</link>
+    <description>Recent content in Baking Tapes on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 21 Aug 2015 03:16:18 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/baking-tapes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tape Deck Heart</title>
+      <link>/2015/08/21/magnetic-tape-revival/</link>
+      <pubDate>Fri, 21 Aug 2015 03:16:18 +0000</pubDate>
+      
+      <guid>/2015/08/21/magnetic-tape-revival/</guid>
+      <description>Today in Tedium: When&amp;rsquo;s the big comeback for magnetic tapes coming around, anyway? These days, vinyl is making a serious comeback with the public. Even Taylor Swift is selling a ton of vinyl records these days. But in a world where streaming and optical discs are more common than ever, the magnetic tape—which arguably has as much nostalgic hipster cachet as the vinyl record, and across a variety of formats at that—hasn&amp;rsquo;t seen nearly as much love.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yugoslavia on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/yugoslavia/</link>
+    <description>Recent content in Yugoslavia on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 02 Sep 2016 06:57:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/yugoslavia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Wires Barely Reach</title>
+      <link>/2016/09/02/internet-bbs-global-expansion/</link>
+      <pubDate>Fri, 02 Sep 2016 06:57:00 +0000</pubDate>
+      
+      <guid>/2016/09/02/internet-bbs-global-expansion/</guid>
+      <description>Today in Tedium: We take so much of our online connections for granted. You probably visit hundreds of pages a day on a device fast enough to melt fabric, gobbling up gigabytes of data without even thinking about it. And there&amp;rsquo;s a good chance that if you didn&amp;rsquo;t have a connection, you would be mildly annoyed. But those connections were not a given in many parts of the world for years after the internet became commonplace in developed countries.</description>
+    </item>
+    
+  </channel>
+</rss>

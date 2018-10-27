@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frank Sidebottom on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/frank-sidebottom/</link>
+    <description>Recent content in Frank Sidebottom on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 02 Jan 2017 21:56:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/frank-sidebottom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Let’s Be Frank</title>
+      <link>/2017/01/02/frank-sidebottom-story/</link>
+      <pubDate>Mon, 02 Jan 2017 21:56:00 +0000</pubDate>
+      
+      <guid>/2017/01/02/frank-sidebottom-story/</guid>
+      <description>Behind the Mask: It takes a certain kind of human being to create a persona for yourself, and—by all accounts—Chris Sievey was very much that person.  The British musician made his name in the ‘80s with an oddball comic persona named Frank Sidebottom, who was noted for both the giant mask he wore and his ability to rewrite classic pop songs into comic odes about Frank’s hometown, the Manchester suburb of Timperley.</description>
+    </item>
+    
+  </channel>
+</rss>

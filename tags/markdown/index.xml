@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/markdown/</link>
+    <description>Recent content in Markdown on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 19 Aug 2016 07:53:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bare-Metal Writing</title>
+      <link>/2016/08/19/bare-metal-writing-word-processor-history/</link>
+      <pubDate>Fri, 19 Aug 2016 07:53:00 +0000</pubDate>
+      
+      <guid>/2016/08/19/bare-metal-writing-word-processor-history/</guid>
+      <description>Today in Tedium: I&amp;rsquo;m writing these opening lines in Markdown, using a Mac app called Focused, one of many attempts to rethink the word processor as a minimalist exercise. Every one of my articles starts out in this app (or at least in John Gruber&amp;rsquo;s neglected gift to the world), and yet, I always find myself looking for another option, periodically launching into a Google deep dive that rarely leads to a better solution.</description>
+    </item>
+    
+  </channel>
+</rss>

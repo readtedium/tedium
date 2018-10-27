@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/teaching/</link>
+    <description>Recent content in Teaching on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 25 Sep 2015 07:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Game Boy For Math</title>
+      <link>/2015/09/25/graphing-calculators-gaming-popularity/</link>
+      <pubDate>Fri, 25 Sep 2015 07:00:00 +0000</pubDate>
+      
+      <guid>/2015/09/25/graphing-calculators-gaming-popularity/</guid>
+      <description>Editor&amp;rsquo;s Note: After tonight&amp;rsquo;s issue, I&amp;rsquo;ll be out of the office for a bit. Like a CBS sitcom airing in June, expect a couple weeks of reruns.
+Today in Tedium: Last week&amp;rsquo;s saga of clock-hacker Ahmed Mohamed has become a political fireball. It&amp;rsquo;s a case of a student who chose to bend the rules of his own education and try to learn things outside of school, only to get punished for it.</description>
+    </item>
+    
+  </channel>
+</rss>

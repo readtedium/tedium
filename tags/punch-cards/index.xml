@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Punch Cards on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/punch-cards/</link>
+    <description>Recent content in Punch Cards on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 31 May 2017 07:12:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/punch-cards/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>You Spin Me Right Round, Baby</title>
+      <link>/2017/05/31/early-hard-drive-history/</link>
+      <pubDate>Wed, 31 May 2017 07:12:00 +0000</pubDate>
+      
+      <guid>/2017/05/31/early-hard-drive-history/</guid>
+      <description>Today in Tedium: Hard drives may be the most fundamental building block of the computer revolution. Hitting the perfect balance between size and cost, it was a defining piece of computer history, one that made our machines more permanent and helped us rethink the way we store information. With a hard drive, we were eventually able to move away from the idea of thinking of our documents in terms of a linear order and a physical space.</description>
+    </item>
+    
+    <item>
+      <title>Tiny Data</title>
+      <link>/2017/03/30/ibm-port-a-punch-card-device/</link>
+      <pubDate>Thu, 30 Mar 2017 07:14:31 +0000</pubDate>
+      
+      <guid>/2017/03/30/ibm-port-a-punch-card-device/</guid>
+      <description>These days, we have a whole lot of options for portably collecting information that needs to be put in a computer. But in 1960, that wasn’t always easy.  Usually, this meant paper—but considering they barely even had working OCR at the time, it also meant a lot of manual entry after the fact.
+Fortunately, IBM had a solution to this problem: A portable device called the Port-A-Punch, which allowed workers in the field to create their own punch cards by hand to use for later.</description>
+    </item>
+    
+  </channel>
+</rss>

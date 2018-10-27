@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Usb Disks on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/usb-disks/</link>
+    <description>Recent content in Usb Disks on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 13 Jan 2017 22:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/usb-disks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Terrible Digital Trinkets</title>
+      <link>/2017/01/13/terrible-novelty-usb-drives/</link>
+      <pubDate>Fri, 13 Jan 2017 22:00:00 +0000</pubDate>
+      
+      <guid>/2017/01/13/terrible-novelty-usb-drives/</guid>
+      <description>Not too long ago, I acquired a pretty useful USB drive that is a combination of large and small. It’s large because it has 128 gigabytes of storage, which comes in handy for my experiences testing Chromium OS and Ubuntu on my MacBook Pro. It’s small because it’s designed to recede in my laptop. It’s about the size of the tip of my finger. It’s, of course, incredibly easy to lose.</description>
+    </item>
+    
+  </channel>
+</rss>

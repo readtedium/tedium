@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Westerly on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/westerly/</link>
+    <description>Recent content in Westerly on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 05 Sep 2017 07:47:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/westerly/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Beachside Mystery</title>
+      <link>/2017/09/05/rhode-island-weird-beach-mystery/</link>
+      <pubDate>Tue, 05 Sep 2017 07:47:00 +0000</pubDate>
+      
+      <guid>/2017/09/05/rhode-island-weird-beach-mystery/</guid>
+      <description>Sorry, guys: The unofficial end of summer gets us no closer to the solution of the summer’s great mystery. Yes, that’s right, there was a big mystery hiding in the sand this summer—and it would’ve been a kickass discovery using any average metal detector.  Here’s the deal: Beachgoers in Westerly, Rhode Island have been confused as heck about a large metal object that was jutting out of the ground on the city’s beach.</description>
+    </item>
+    
+  </channel>
+</rss>

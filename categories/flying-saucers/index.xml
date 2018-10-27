@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flying Saucers on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/flying-saucers/</link>
+    <description>Recent content in Flying Saucers on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 11 Oct 2017 07:55:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/flying-saucers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flying Patents</title>
+      <link>/2017/10/11/flying-saucer-patents/</link>
+      <pubDate>Wed, 11 Oct 2017 07:55:00 +0000</pubDate>
+      
+      <guid>/2017/10/11/flying-saucer-patents/</guid>
+      <description>Today in Tedium: Early in the summer of 1947, an amateur pilot from Idaho named Kenneth Arnold spotted something in the Washington skies that kind of blew his mind. Despite the skies being clear that day, he saw a series of nine flashes of horizontal light. Soon, he landed, told others what he saw, and, without his initial knowledge, his story spread through the popular consciousness, taking on a life on its own, as well as a name—the flying saucer.</description>
+    </item>
+    
+  </channel>
+</rss>

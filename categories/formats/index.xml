@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Formats on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/formats/</link>
+    <description>Recent content in Formats on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 04 Jan 2017 22:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/formats/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Bigger, Better Tape</title>
+      <link>/2017/01/04/sony-elcaset-history-tape/</link>
+      <pubDate>Wed, 04 Jan 2017 22:00:00 +0000</pubDate>
+      
+      <guid>/2017/01/04/sony-elcaset-history-tape/</guid>
+      <description>Start the tape: Roughly a year and a half ago, I made a pitch that we were due for a magnetic-tape comeback similar to the one we’ve seen for vinyl. (I titled it after a Frank Turner album, because Frank Turner is cool.) Now, we haven’t seen that magnetic-tape comeback just yet, but it might help if I did my part by highlighting tape-format obscurities.  One of those obscurities worth a mention is the Elcaset, just one of Sony’s many attempts to create a new standard of some kind.</description>
+    </item>
+    
+    <item>
+      <title>An Annoying Clicking Sound</title>
+      <link>/2016/12/07/iomega-zip-disk-click-of-death-history/</link>
+      <pubDate>Wed, 07 Dec 2016 09:54:00 +0000</pubDate>
+      
+      <guid>/2016/12/07/iomega-zip-disk-click-of-death-history/</guid>
+      <description>Today in Tedium: As proprietary, non-standardized formats go, Iomega’s Zip drive got a heck of a lot further than most of its competitors. It managed to improve on a format people were used to (the old floppy) just enough that it ensured it’d gain popularity. It fit niches for people who had to share a lot of data. And it even had a sizable base of home users—which was impressive for its time.</description>
+    </item>
+    
+    <item>
+      <title>Format War Footnotes</title>
+      <link>/2015/09/04/format-wars-laserdisc-hitclips/</link>
+      <pubDate>Fri, 04 Sep 2015 08:48:24 +0000</pubDate>
+      
+      <guid>/2015/09/04/format-wars-laserdisc-hitclips/</guid>
+      <description>Today in Tedium: They say that history is written by the people who win—a standard that translates to wars and land grabs of all types. But it also translates pretty effectively to format wars. Generally, when we reminisce about old-school formats, we tend to focus on vinyl records, tape decks, and floppy disks, but those only really scratch the surface of the kind of bizarre formats out there to grab content from.</description>
+    </item>
+    
+  </channel>
+</rss>

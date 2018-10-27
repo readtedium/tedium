@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patents on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/patents/</link>
+    <description>Recent content in Patents on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 11 Oct 2017 07:55:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/patents/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flying Patents</title>
+      <link>/2017/10/11/flying-saucer-patents/</link>
+      <pubDate>Wed, 11 Oct 2017 07:55:00 +0000</pubDate>
+      
+      <guid>/2017/10/11/flying-saucer-patents/</guid>
+      <description>Today in Tedium: Early in the summer of 1947, an amateur pilot from Idaho named Kenneth Arnold spotted something in the Washington skies that kind of blew his mind. Despite the skies being clear that day, he saw a series of nine flashes of horizontal light. Soon, he landed, told others what he saw, and, without his initial knowledge, his story spread through the popular consciousness, taking on a life on its own, as well as a name—the flying saucer.</description>
+    </item>
+    
+    <item>
+      <title>Let’s Lock Information Down</title>
+      <link>/2017/08/25/drm-history-intertrust-contentguard/</link>
+      <pubDate>Fri, 25 Aug 2017 07:10:00 +0000</pubDate>
+      
+      <guid>/2017/08/25/drm-history-intertrust-contentguard/</guid>
+      <description>Today in Tedium: Digital rights management seemingly came out of nowhere to define our relationship with technology in the modern day. Popularly, it seemed like its birth had come as a direct response to the growth of piracy in the film and music industries, but what’s interesting—and perhaps not properly contextualized—is that it existed for years prior to Napster, and had a technical component before the Digital Millennium Copyright Act gave it a legal component.</description>
+    </item>
+    
+    <item>
+      <title>When It Rains, It Pours</title>
+      <link>/2016/09/23/umbrella-patents-innovation-challenges/</link>
+      <pubDate>Fri, 23 Sep 2016 07:32:00 +0000</pubDate>
+      
+      <guid>/2016/09/23/umbrella-patents-innovation-challenges/</guid>
+      <description>Today in Tedium: Umbrellas are a good way to protect your head in case of inclement weather. Problem is, they’re not a perfect way. And that is made obvious by the fact that you’re sometimes hit by at least a little of the wet stuff even after you use such a device. If it gets windy (or even if it doesn&amp;rsquo;t), their structural integrity breaks down easily, exposing users to rain.</description>
+    </item>
+    
+  </channel>
+</rss>

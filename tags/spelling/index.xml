@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spelling on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/spelling/</link>
+    <description>Recent content in Spelling on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 20 Nov 2015 09:55:45 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/spelling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Enuf is Enough</title>
+      <link>/2015/11/20/word-lobby-orthography-history/</link>
+      <pubDate>Fri, 20 Nov 2015 09:55:45 +0000</pubDate>
+      
+      <guid>/2015/11/20/word-lobby-orthography-history/</guid>
+      <description>Today in Tedium: In their own quiet ways, spelling and grammar are each forms of lobbying. Language is one of the few facts of everyday life that started out as a variety of opinions on what things should be called. And those opinions, like a diamond pressed into form, slowly molded into a definitive shape. But there&amp;rsquo;s a limit to how much we&amp;rsquo;re OK with as a society—hence the popularity of dictionaries and style guides, which draw up a map for how we use words on a daily basis.</description>
+    </item>
+    
+  </channel>
+</rss>

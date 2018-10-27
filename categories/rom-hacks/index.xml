@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rom Hacks on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/rom-hacks/</link>
+    <description>Recent content in Rom Hacks on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 11 Apr 2018 07:28:34 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/rom-hacks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Not Just Nostalgia</title>
+      <link>/2018/04/11/nes-homebrew-scene-history/</link>
+      <pubDate>Wed, 11 Apr 2018 07:28:34 +0000</pubDate>
+      
+      <guid>/2018/04/11/nes-homebrew-scene-history/</guid>
+      <description>Hey guys, Ernie here with another great piece from David Buck, who we last saw talking about Oingo Boingo. Tonight, he’s got something else brewin’.
+Today in Tedium: Growing up in the era of the Nintendo Entertainment System, I always wanted to create my own NES game. I scribbled ideas in notebooks, mapped out levels on graph paper and spent countless hours composing my own MIDI-based soundtracks to games that didn’t exist.</description>
+    </item>
+    
+  </channel>
+</rss>

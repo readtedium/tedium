@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terrorism on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/terrorism/</link>
+    <description>Recent content in Terrorism on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 08 Jul 2015 07:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/terrorism/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Burn After Reading</title>
+      <link>/2015/07/08/burn-after-reading-controversial-books/</link>
+      <pubDate>Wed, 08 Jul 2015 07:30:00 +0000</pubDate>
+      
+      <guid>/2015/07/08/burn-after-reading-controversial-books/</guid>
+      <description>Today in Tedium: In the age of the internet, it&amp;rsquo;s easier than ever to get one&amp;rsquo;s hand on information that touches the very edge of the First Amendment&amp;rsquo;s limits. (We are by no means recommending you do that. Stick to Disney.com.) But before that, if you wanted to tell someone how to make a bomb in the kitchen of your mom—as an al-Qaeda magazine once infamously put it—it came down to literature.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sociology on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/sociology/</link>
+    <description>Recent content in Sociology on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 03 Feb 2016 09:32:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/sociology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Greenlandia</title>
+      <link>/2016/02/03/greenland-popular-culture/</link>
+      <pubDate>Wed, 03 Feb 2016 09:32:00 +0000</pubDate>
+      
+      <guid>/2016/02/03/greenland-popular-culture/</guid>
+      <description>Today in Tedium: What does your pop culture look like when there&amp;rsquo;s not a lot of modern culture to pop? This is an interesting challenge in a lot of ways for the world&amp;rsquo;s most-sparsely-populated country, Greenland. With a population of less than 60,000 and a land area larger than Mexico, Indonesia, France, or Germany—though with nearly all of that area covered in a giant block of ice—Greenland is most definitely a region where creating a unique, modern culture can be a bit of a challenge.</description>
+    </item>
+    
+    <item>
+      <title>Diaspora: Not just a forgotten social network</title>
+      <link>/2015/05/15/how-a-diaspora-forms/</link>
+      <pubDate>Fri, 15 May 2015 07:00:00 +0000</pubDate>
+      
+      <guid>/2015/05/15/how-a-diaspora-forms/</guid>
+      <description>Today in Tedium: North America is a melting pot of the highest order, and it&amp;rsquo;s something that&amp;rsquo;s best exemplified by our junk food—a stew made of Taco Bell, ranch dressing, Sriracha, ramen noodles, and a whole lot of ground beef. But despite our disparate histories and tastes, we all made it here—some assimilating more than others. In today&amp;rsquo;s issue of Tedium, we consider some of the more unusual cultural pockets that have put a stake into the United States.</description>
+    </item>
+    
+  </channel>
+</rss>

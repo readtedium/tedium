@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Printing on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/printing/</link>
+    <description>Recent content in Printing on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 19 Jan 2018 09:59:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/printing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dots Vs. Pixels</title>
+      <link>/2018/01/19/dots-per-inch-pixels-per-inch/</link>
+      <pubDate>Fri, 19 Jan 2018 09:59:00 +0000</pubDate>
+      
+      <guid>/2018/01/19/dots-per-inch-pixels-per-inch/</guid>
+      <description>Today in Tedium: If you stare into the heart of your smartphone for a while, you may start to make out the pixels. If your smartphone is really old, like the original iPhone or a cheap Android phone, that might not take a while, because the pixel resolution is quite low. But if you have an iPhone X, with its 458ppi (pixels per inch) OLED screen, perhaps it might not be so easy.</description>
+    </item>
+    
+    <item>
+      <title>CMYK All The Way</title>
+      <link>/2017/04/19/color-printing-lithography-history/</link>
+      <pubDate>Wed, 19 Apr 2017 07:43:00 +0000</pubDate>
+      
+      <guid>/2017/04/19/color-printing-lithography-history/</guid>
+      <description>Today in Tedium: In the 1990s, after much delay, the newspaper industry’s largest and most prominent newspapers finally started printing most of their pages in color on a regular basis. It was a much delayed phenomenon, driven less by a lack of technology and more by a mixture of cost and tradition. In 1993, The New York Times printed its first page in color, far later than most of the rest of the newspaper industry, and the only other big holdouts at that point were The Wall Street Journal and The Washington Post.</description>
+    </item>
+    
+    <item>
+      <title>Ink-Stained Headlines</title>
+      <link>/2017/03/16/printer-ink-criminal-activity-theft/</link>
+      <pubDate>Thu, 16 Mar 2017 07:57:06 +0000</pubDate>
+      
+      <guid>/2017/03/16/printer-ink-criminal-activity-theft/</guid>
+      <description>You know what’s a terrible racket? Printer ink. Driven up by artificial markets and complex, incompatible cartridge systems, printers have become one of the most depressing parts of any computing experience—especially if you own one at home.  And they bring out the worst behavior in companies. Hewlett-Packard last year had a scandal on its hands after it added digital rights management to its printers, then turned it off after people complained.</description>
+    </item>
+    
+  </channel>
+</rss>

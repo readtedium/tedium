@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Touch Bar on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/touch-bar/</link>
+    <description>Recent content in Touch Bar on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 31 Jan 2017 03:02:33 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/touch-bar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>U Can’t Touch This</title>
+      <link>/2017/01/31/apple-touch-bar-north-carolina-bar/</link>
+      <pubDate>Tue, 31 Jan 2017 03:02:33 +0000</pubDate>
+      
+      <guid>/2017/01/31/apple-touch-bar-north-carolina-bar/</guid>
+      <description>Our computers are becoming so sophisticated that they might just include built-in cheating functionality—even if it’s not really intended. Which should make life pretty interesting for teachers and assessment boards.  Today’s example involves Apple’s modestly useful Touch Bar, which was met with a modest level of derision when it was first announced in September. Sensing a problem, the Board of Law Examiners of the State of North Carolina recently announced that it would require people taking the bar to turn off the Touch Bar, out of concern that it would allow users to cheat.</description>
+    </item>
+    
+  </channel>
+</rss>

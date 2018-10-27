@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Budapest on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/budapest/</link>
+    <description>Recent content in Budapest on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 21 Oct 2015 06:58:20 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/budapest/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Escalating Danger</title>
+      <link>/2015/10/21/escalators-are-dangerous/</link>
+      <pubDate>Wed, 21 Oct 2015 06:58:20 +0000</pubDate>
+      
+      <guid>/2015/10/21/escalators-are-dangerous/</guid>
+      <description>Today in Tedium: Mitch Hedberg was a funny guy, and the main reason he was funny was because his one-liners were so on-point. Perhaps his best-known one involved the escalator. &amp;ldquo;An escalator can never break, it can only become stairs,&amp;rdquo; he famously joked. &amp;ldquo;You would never see an &amp;lsquo;Escalator Temporarily Out Of Order&amp;rsquo; sign, just &amp;lsquo;Escalator Temporarily Stairs. Sorry for the convenience. We apologize for the fact that you can still get up there.</description>
+    </item>
+    
+  </channel>
+</rss>

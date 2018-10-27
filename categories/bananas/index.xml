@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bananas on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/bananas/</link>
+    <description>Recent content in Bananas on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 13 Jul 2017 05:33:14 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/bananas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Strung Out</title>
+      <link>/2017/07/13/banana-peel-string-phloem-bundles/</link>
+      <pubDate>Thu, 13 Jul 2017 05:33:14 +0000</pubDate>
+      
+      <guid>/2017/07/13/banana-peel-string-phloem-bundles/</guid>
+      <description>Perhaps you’ve seen them and assumed that you weren’t really good at taking the peel off the banana—the equivalent of banana lint. Perhaps you’ve eaten one, unsure of what it was, and wondered why it wasn’t as sweet as the rest of the banana.  I’m talking, of course, about the little string inside of the banana, which is often in the peel, but sometimes on the banana itself. It’s a curio that few people discuss for some reason.</description>
+    </item>
+    
+  </channel>
+</rss>

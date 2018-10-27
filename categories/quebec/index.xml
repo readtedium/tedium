@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quebec on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/quebec/</link>
+    <description>Recent content in Quebec on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 15 May 2015 07:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/quebec/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Diaspora: Not just a forgotten social network</title>
+      <link>/2015/05/15/how-a-diaspora-forms/</link>
+      <pubDate>Fri, 15 May 2015 07:00:00 +0000</pubDate>
+      
+      <guid>/2015/05/15/how-a-diaspora-forms/</guid>
+      <description>Today in Tedium: North America is a melting pot of the highest order, and it&amp;rsquo;s something that&amp;rsquo;s best exemplified by our junk food—a stew made of Taco Bell, ranch dressing, Sriracha, ramen noodles, and a whole lot of ground beef. But despite our disparate histories and tastes, we all made it here—some assimilating more than others. In today&amp;rsquo;s issue of Tedium, we consider some of the more unusual cultural pockets that have put a stake into the United States.</description>
+    </item>
+    
+  </channel>
+</rss>

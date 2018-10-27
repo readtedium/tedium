@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vintage Technology on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/vintage-technology/</link>
+    <description>Recent content in Vintage Technology on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 05 Oct 2018 06:39:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/vintage-technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Silicon Persistence</title>
+      <link>/2018/10/05/sgi-collector-history/</link>
+      <pubDate>Fri, 05 Oct 2018 06:39:00 +0000</pubDate>
+      
+      <guid>/2018/10/05/sgi-collector-history/</guid>
+      <description>Hey all, Ernie here with a recent piece of mine that also showed up in Motherboard. In case you haven&amp;rsquo;t read it yet, it&amp;rsquo;s a good one and highlights both SGI and the the excellent community IRIX.cc. Read on, and hope you dig!
+Today in Tedium: Recently, I was faced with an unusual question about a piece of hardware that very few people have ever used. The question: What makes a giant workstation, one that once cost as much as a house when it was first produced in the early ‘90s and makes as much noise as a vacuum, so appealing to a 16-year-old?</description>
+    </item>
+    
+    <item>
+      <title>Fall Of Voodoo</title>
+      <link>/2018/02/14/3dfx-history-failure/</link>
+      <pubDate>Wed, 14 Feb 2018 16:10:01 +0000</pubDate>
+      
+      <guid>/2018/02/14/3dfx-history-failure/</guid>
+      <description>Today in Tedium: Today’s startup companies seem to have a certain arc to them—they get some seed funding, they launch, they draw some interest for their good idea, they keep growing, and maybe they become a part of the fabric of our lives … or a part of the fabric of a significantly larger company. Strangely, 3Dfx didn’t so much draw interest as blow the lid off of a trend that redefined how we think of video games.</description>
+    </item>
+    
+    <item>
+      <title>Right Track, Wrong Station</title>
+      <link>/2017/09/06/kartrak-railroad-barcode-history/</link>
+      <pubDate>Wed, 06 Sep 2017 07:28:00 +0000</pubDate>
+      
+      <guid>/2017/09/06/kartrak-railroad-barcode-history/</guid>
+      <description>Today in Tedium: Trying to codify and organize things is really hard. Case in point: When Amazon tried to launch a cashier-free grocery store concept late last year, the company saw a lot of problems crop up when too many customers used the store at the same time. On a macro level, the railroad industry once faced similar problems with automatically tracking things—a problem they started working on 60 years ago, without the benefits of modern innovation.</description>
+    </item>
+    
+    <item>
+      <title>Back To The Shack</title>
+      <link>/2017/06/09/radio-shack-bankruptcy-auction-history/</link>
+      <pubDate>Fri, 09 Jun 2017 04:40:00 +0000</pubDate>
+      
+      <guid>/2017/06/09/radio-shack-bankruptcy-auction-history/</guid>
+      <description>Today in Tedium: For many reasons, largely related to a shifting business model incompatible with modern tech needs, a whole generation of people saw RadioShack as less a store for tinkerers and more a place to buy commodity tech products. It was a business model that fell out of sync with the enthusiast community that once championed its products, and the twice-bankrupt RadioShack has been paying the price for that pivot ever since.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drugs on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/drugs/</link>
+    <description>Recent content in Drugs on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 12 Feb 2016 09:09:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/drugs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Brand Indigestion</title>
+      <link>/2016/02/12/xifaxan-pharmaceutical-marketing/</link>
+      <pubDate>Fri, 12 Feb 2016 09:09:00 +0000</pubDate>
+      
+      <guid>/2016/02/12/xifaxan-pharmaceutical-marketing/</guid>
+      <description>Today in Tedium: Mascots can be great ways to promote a product, but sometimes they&amp;rsquo;re full of crap. The Xifaxan intestine, which I&amp;rsquo;ve been going on about for months now, fits into the latter category. Xifaxan, if you&amp;rsquo;re not familiar, is a medication for irritable bowel syndrome. Some marketing company somewhere got paid millions of dollars to create an animated character that runs around ready to lose its … y&amp;rsquo;know, every time it turns a corner.</description>
+    </item>
+    
+    <item>
+      <title>The Drugs Don&#39;t Work</title>
+      <link>/2016/01/27/alternative-medicine-interest/</link>
+      <pubDate>Wed, 27 Jan 2016 04:27:28 +0000</pubDate>
+      
+      <guid>/2016/01/27/alternative-medicine-interest/</guid>
+      <description>Today in Tedium: Does meditation make for a good replacement to, y&amp;rsquo;know, going to a doctor? That doctor may tell you that skipping the normal treatment isn&amp;rsquo;t a good idea, but those without health insurance have increasingly embraced alternative medicine as a replacement for the more expensive stuff. A new Centers for Disease Control and Prevention study found that people without insurance between 2002 and 2012 were more likely to give alternative medicine offerings a spin, while those with insurance were just as indifferent to alternative medicine as always.</description>
+    </item>
+    
+  </channel>
+</rss>

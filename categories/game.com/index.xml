@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game.com on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/game.com/</link>
+    <description>Recent content in Game.com on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 24 Aug 2016 07:22:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/game.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eye Of The Tiger</title>
+      <link>/2016/08/24/tiger-electronics-lcd-games-history/</link>
+      <pubDate>Wed, 24 Aug 2016 07:22:00 +0000</pubDate>
+      
+      <guid>/2016/08/24/tiger-electronics-lcd-games-history/</guid>
+      <description>Today in Tedium: Let&amp;rsquo;s get something out of the way right away. Compared to what Sega, Nintendo, NEC, and Atari were peddling in the early &amp;lsquo;90s, it&amp;rsquo;s downright stunning that Tiger Electronics, the cut-rate LCD game manufacturer, even found a way to compete with those companies. But Tiger Electronics did, and weirdly, it thrived just long enough for Hasbro to come in, scoop it up, and turn its Furby concept into a monstrous success during the 1998 holiday season.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Macintosh on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/macintosh/</link>
+    <description>Recent content in Macintosh on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 31 Aug 2018 07:38:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/macintosh/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Clippy Couture</title>
+      <link>/2018/08/31/clip-art-history/</link>
+      <pubDate>Fri, 31 Aug 2018 07:38:00 +0000</pubDate>
+      
+      <guid>/2018/08/31/clip-art-history/</guid>
+      <description>Today in Tedium: Art is everywhere. It’s easier to access than it’s ever been. All you need to do to access art is to turn on your search engine of choice—Google, Flickr, Giphy—and start searching. The hard part of this, of course, is that this art is often copyrighted, and while there are cases where the copyright is a bit more loosey-goosey (thank you, Creative Commons), many times, if you’re trying to print off a flyer or newsletter for your local sect of Satanists, you might need a free alternative.</description>
+    </item>
+    
+    <item>
+      <title>Window Dressing</title>
+      <link>/2018/05/23/windows-fake-osx-macos-interface-skins-history/</link>
+      <pubDate>Wed, 23 May 2018 07:06:00 +0000</pubDate>
+      
+      <guid>/2018/05/23/windows-fake-osx-macos-interface-skins-history/</guid>
+      <description>Today in Tedium: There’s something about the macOS operating system that kind of drives people wild. (Heck, even the original Mac OS has its strong partisans.) In the 17 years since Apple first launched the first iteration of the operating system based on its Darwin Unix variant, something fairly curious started to happen: People without Macs suddenly wanted the operating system, if not the hardware it ran on. This phenomenon is somewhat common today—I personally just set up a Hackintosh of my own recently—but I’d like to highlight a different kind of “Hackintosh,” the kind that played dress-up with Windows.</description>
+    </item>
+    
+    <item>
+      <title>Tech’s Biggest Racket</title>
+      <link>/2018/02/07/apple-magsafe-charger-racket/</link>
+      <pubDate>Wed, 07 Feb 2018 05:58:00 +0000</pubDate>
+      
+      <guid>/2018/02/07/apple-magsafe-charger-racket/</guid>
+      <description>Over at the New York Times, John Herrman has given voice to a certain kind of obsolescence that we’ve come to see a lot—that created not by the technology itself, but by the constant forward thrust of technology that has forced a device that technically still has a lot of years left in it into the dumpster.  “If my old iPad could talk, it might ask me what has changed,” he wrote.</description>
+    </item>
+    
+    <item>
+      <title>The Best Mouse Pads Money Could Buy</title>
+      <link>/2016/07/13/mouse-pads-invention-history/</link>
+      <pubDate>Wed, 13 Jul 2016 07:50:00 +0000</pubDate>
+      
+      <guid>/2016/07/13/mouse-pads-invention-history/</guid>
+      <description>Today in Tedium: Is there a product that has meshed as well with the modern office as the mouse pad? The squishy, rubbery rectangle, home to a million snazzy designs and a defining piece of cubicle furniture, was (and still kinda is) like a Trapper Keeper for adults, a commodity product that was an essential accessory for computer users for decades. Even in an age where optical mice rule the roost, mouse pads are still common.</description>
+    </item>
+    
+  </channel>
+</rss>

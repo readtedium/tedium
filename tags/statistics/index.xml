@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistics on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/statistics/</link>
+    <description>Recent content in Statistics on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 06 Mar 2018 09:57:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Screwy Straw Stat</title>
+      <link>/2018/03/06/plastic-straw-statistic-questions/</link>
+      <pubDate>Tue, 06 Mar 2018 09:57:00 +0000</pubDate>
+      
+      <guid>/2018/03/06/plastic-straw-statistic-questions/</guid>
+      <description>As you may or may not know, I often speak up against the way that sometimes, a “fact” will show up on Wikipedia, unchallenged, for years, only to stumble into books large and small over the next number of years, something I call “The Windex Problem.”  But what if the data point is something being shared not by an encyclopedia, but by a number of nonprofits looking to make the case for a bigger mission?</description>
+    </item>
+    
+  </channel>
+</rss>

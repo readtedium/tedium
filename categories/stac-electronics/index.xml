@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stac Electronics on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/stac-electronics/</link>
+    <description>Recent content in Stac Electronics on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 05 Sep 2018 07:25:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/stac-electronics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Double Trouble</title>
+      <link>/2018/09/05/disk-compression-stacker-doublespace-history/</link>
+      <pubDate>Wed, 05 Sep 2018 07:25:00 +0000</pubDate>
+      
+      <guid>/2018/09/05/disk-compression-stacker-doublespace-history/</guid>
+      <description>Today in Tedium: As anyone who has ever owned a smartphone with the minimum amount of flash storage knows, space runs out fast, and once you realize you need more than you’ve allocated yourself, it’s way too late. In computing, this is a story that goes back decades, to a time when giant platters walked (OK, rolled) the Earth. But while running out of storage space on a 16-gig iPhone is annoying, it’s at least reasonable; you can put stuff on the cloud, and if the space drives you nuts, you can always upgrade.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weblogs on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/weblogs/</link>
+    <description>Recent content in Weblogs on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 02 Jan 2018 03:54:36 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/weblogs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Is Blogging Dead?</title>
+      <link>/2018/01/02/is-blogging-dead-2018/</link>
+      <pubDate>Tue, 02 Jan 2018 03:54:36 +0000</pubDate>
+      
+      <guid>/2018/01/02/is-blogging-dead-2018/</guid>
+      <description>Is a newsletter a blog? And if it is, does that make what I do with Tedium blogging? And if so, is that practice in decline as we enter 2018?  That’s not exactly how I approach this process, certainly, but I think it’s worth discussing at length at the moment, as the culture of blogging evolves away from what it once was. Over at JSTOR’s excellent daily news site, author Farah Mohammed analyzes blogging in the past tense, pondering whether the medium is in broader decline, as big-name bloggers like Nicholas Kristof leave the game.</description>
+    </item>
+    
+  </channel>
+</rss>

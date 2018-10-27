@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keyboards on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/keyboards/</link>
+    <description>Recent content in Keyboards on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 20 Jul 2018 07:33:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/keyboards/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Click, Clack</title>
+      <link>/2018/07/20/cherry-mx-keyboard-history/</link>
+      <pubDate>Fri, 20 Jul 2018 07:33:00 +0000</pubDate>
+      
+      <guid>/2018/07/20/cherry-mx-keyboard-history/</guid>
+      <description>Editor’s Note: Tonight’s Tedium is a piece of mine that recently ran in Motherboard_, a site that recently ran a cool piece on a counterfeit iPhone X. Enjoy!_
+&amp;nbsp;
+Today in Tedium: Sometimes, cornering the market on a relatively niche idea is all a company needs to seal its fate as an enterprise that’s destined to stick around for the long haul. And you don’t get more relatively niche than the keyboard switch, as far as gadgets go.</description>
+    </item>
+    
+    <item>
+      <title>Press Your Luck</title>
+      <link>/2018/03/22/button-pressing-study/</link>
+      <pubDate>Thu, 22 Mar 2018 06:18:24 +0000</pubDate>
+      
+      <guid>/2018/03/22/button-pressing-study/</guid>
+      <description>Nearly a year ago, I bought a mechanical keyboard in an attempt to understand a phenomenon that I had been hearing about for a long time—the fact that many people really freaking love the heft of these old-style keys, which don’t get nearly as much love as they probably should. What I found was that I never wanted to use my full-sized Apple keyboard ever again. Burn that thing with fire!</description>
+    </item>
+    
+    <item>
+      <title>The Keys To Success</title>
+      <link>/2017/04/28/video-games-keyboards-intellivision/</link>
+      <pubDate>Fri, 28 Apr 2017 07:39:00 +0000</pubDate>
+      
+      <guid>/2017/04/28/video-games-keyboards-intellivision/</guid>
+      <description>Today in Tedium: Of all the reasons for the video game crash of 1983, perhaps the most unappreciated might be the fact that computers were finally starting to gain a place in many households—and they could do a lot more than play games. (Jack Tramiel knew how to price a computer.) Game console manufacturers understood this ahead of time—in fact, they seemed to design their entire business models around the idea that the machines could eventually be upgraded to full-fledged computers, or at least into something more useful than what was seen as a toy.</description>
+    </item>
+    
+  </channel>
+</rss>

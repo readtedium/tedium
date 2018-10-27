@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lottery Winners on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/lottery-winners/</link>
+    <description>Recent content in Lottery Winners on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 05 Jan 2018 09:53:43 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/lottery-winners/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lucky Tickets</title>
+      <link>/2018/01/05/lottery-error-south-carolina/</link>
+      <pubDate>Fri, 05 Jan 2018 09:53:43 +0000</pubDate>
+      
+      <guid>/2018/01/05/lottery-error-south-carolina/</guid>
+      <description>If a lottery system screws up, should the winners who benefited from that screwup win the prize they unwittingly earned?  That’s the question that officials from the South Carolina Education Lottery are currently grappling with after last month producing a whole lot of winning tickets by accident through its Holiday Cash Add-A-Play game. On Christmas day, the game produced thousands of tickets over a two-hour period that produced a winner for each game.</description>
+    </item>
+    
+  </channel>
+</rss>

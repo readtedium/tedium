@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beds on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/beds/</link>
+    <description>Recent content in Beds on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 19 Oct 2017 05:44:12 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/beds/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lurking In Your Bed</title>
+      <link>/2017/10/19/hipster-mattress-online-sales-practices/</link>
+      <pubDate>Thu, 19 Oct 2017 05:44:12 +0000</pubDate>
+      
+      <guid>/2017/10/19/hipster-mattress-online-sales-practices/</guid>
+      <description>As you guys may or may not know, my first really big piece on Tedium was a takedown of sorts on hipster mattresses. It pondered the idea of how the companies came to prominence, as well as what it would take to start up a company just like this. It was absurd, but it was fun to write. It’s currently the top-ranking item on Google for the term “hipster mattress.”  Since then, I’ve gotten, somewhat like clockwork, repeated emails asking if I might add links to my website to promote either other mattress companies, or websites that review mattresses.</description>
+    </item>
+    
+    <item>
+      <title>Hipster Mattresses: Why?</title>
+      <link>/2016/01/15/hipster-mattresses-casper-yogabed/</link>
+      <pubDate>Fri, 15 Jan 2016 09:25:00 +0000</pubDate>
+      
+      <guid>/2016/01/15/hipster-mattresses-casper-yogabed/</guid>
+      <description>Today in Tedium: Is there anything more annoying than a mattress company that thinks it&amp;rsquo;s clever? It&amp;rsquo;s weird, but in the past year or so, we&amp;rsquo;ve seen a whole boatload of companies that want to turn the process of buying a mattress into something fun. But buying mattresses shouldn&amp;rsquo;t be fun. It should be work, something you do once or twice in your life and forget about after you&amp;rsquo;ve gotten over the frustration of getting the mattress into your bedroom.</description>
+    </item>
+    
+  </channel>
+</rss>

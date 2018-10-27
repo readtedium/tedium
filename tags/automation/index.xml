@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automation on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/automation/</link>
+    <description>Recent content in Automation on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 19 Dec 2017 09:13:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Doing It For Erma</title>
+      <link>/2017/12/19/let-erma-do-it-internet-archive/</link>
+      <pubDate>Tue, 19 Dec 2017 09:13:00 +0000</pubDate>
+      
+      <guid>/2017/12/19/let-erma-do-it-internet-archive/</guid>
+      <description>Earlier this year, I got incredibly fascinated by a book. One that had fallen off of store shelves nearly 60 years ago. The problem was, I had no way of getting hold of that book without actually going to the trouble of buying it.  Perhaps that was a little annoying, but David O. Woodbury’s 1956 work Let Erma Do It, which is titled after one of the first automated check-sorting systems ever produced, was a worthy book at the front end of the era of automation that has brought us so many things since.</description>
+    </item>
+    
+    <item>
+      <title>Right Track, Wrong Station</title>
+      <link>/2017/09/06/kartrak-railroad-barcode-history/</link>
+      <pubDate>Wed, 06 Sep 2017 07:28:00 +0000</pubDate>
+      
+      <guid>/2017/09/06/kartrak-railroad-barcode-history/</guid>
+      <description>Today in Tedium: Trying to codify and organize things is really hard. Case in point: When Amazon tried to launch a cashier-free grocery store concept late last year, the company saw a lot of problems crop up when too many customers used the store at the same time. On a macro level, the railroad industry once faced similar problems with automatically tracking things—a problem they started working on 60 years ago, without the benefits of modern innovation.</description>
+    </item>
+    
+    <item>
+      <title>Scanning And Sorting</title>
+      <link>/2017/09/01/check-processing-history-automation/</link>
+      <pubDate>Fri, 01 Sep 2017 07:31:00 +0000</pubDate>
+      
+      <guid>/2017/09/01/check-processing-history-automation/</guid>
+      <description>Today in Tedium: The physical check, for most general purposes, is a sheer relic—basically used mostly for specific big-ticket purchases like rent, it certainly doesn’t have the sex appeal of, say, blockchain-based currencies like Ethereum and Litecoin. But it’s worth keeping in mind that check scanning, sorting, and distribution played an important early role in electronic commerce. Before we got niceties like ACH and magnetic strips, it set the wheels in motion for our highly automated commerce-based world.</description>
+    </item>
+    
+    <item>
+      <title>When Robots Can Write</title>
+      <link>/2016/08/12/robots-writing-algorithms-articoolo/</link>
+      <pubDate>Fri, 12 Aug 2016 07:17:00 +0000</pubDate>
+      
+      <guid>/2016/08/12/robots-writing-algorithms-articoolo/</guid>
+      <description>Today in Tedium: It seems like a constant refrain of the internet era–the robots are coming to steal our jobs, and they&amp;rsquo;re getting better by the day. So far, that has mostly meant that heavy industrial jobs have become increasingly automated and restaurants in San Francisco are basically making food without the added work of human hands. (And hey, if you think about it, vending machines are a very basic form of automation.</description>
+    </item>
+    
+    <item>
+      <title>Recorded For Quality Assurance</title>
+      <link>/2016/08/03/call-centers-technology-history/</link>
+      <pubDate>Wed, 03 Aug 2016 06:57:38 +0000</pubDate>
+      
+      <guid>/2016/08/03/call-centers-technology-history/</guid>
+      <description>Today in Tedium: Customer support is a big frustration for the public. We want to be treated well, we want the human on the other end of the line to correctly pronounce our name, we want them to be friendly even when we&amp;rsquo;re not, and (most importantly) we want our problem solved. Most of the time, we&amp;rsquo;re lucky to get one of these things out of a customer support interaction. But &amp;hellip; y&amp;rsquo;know, it&amp;rsquo;s weird how quickly we embraced this approach to solving our big problems.</description>
+    </item>
+    
+  </channel>
+</rss>

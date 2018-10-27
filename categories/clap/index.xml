@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clap on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/clap/</link>
+    <description>Recent content in Clap on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 23 Mar 2018 07:44:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/clap/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Please Clap</title>
+      <link>/2018/03/23/the-clapper-history/</link>
+      <pubDate>Fri, 23 Mar 2018 07:44:00 +0000</pubDate>
+      
+      <guid>/2018/03/23/the-clapper-history/</guid>
+      <description>Today in Tedium: The tale of Ring, the startup that Amazon just acquired recently, is a fascinating one: An idea that got rejected on Shark Tank under a different name, the concept quickly found steam from new investors like the rapper Nas and became one of the most interesting forms of home automation, an industry that, according to Statista, is worth a cool $18.9 billion in 2018. But home automation had to start somewhere, and I’d like to argue that, barring any homes of the future, it really started gaining mainstream momentum with a device marketed by a guy perhaps better known for the Chia Pet.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lawns on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/lawns/</link>
+    <description>Recent content in Lawns on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 16 Jun 2015 06:41:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/lawns/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Get off my lawn</title>
+      <link>/2015/06/16/lawn-care-history-get-off-my-lawn/</link>
+      <pubDate>Tue, 16 Jun 2015 06:41:00 +0000</pubDate>
+      
+      <guid>/2015/06/16/lawn-care-history-get-off-my-lawn/</guid>
+      <description>Today in Tedium: Rich people care about their grass way more than normal people do. Now, rarely is this an issue, but in recent months, the ongoing California drought has made this mundane issue a political one. This week, the city of Rancho Santa Fe became a target of this culture clash after _The Washington Post_ highlighted the water-rationing requirement it soon faces. Local residents aren&amp;rsquo;t happy. “When we bought, we didn’t plan on getting a place that looks like we’re living in an African savanna,” said conservative radio host and local resident Steve Yuhas.</description>
+    </item>
+    
+  </channel>
+</rss>

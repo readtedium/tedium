@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aerobed on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/aerobed/</link>
+    <description>Recent content in Aerobed on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 07 Sep 2016 07:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/aerobed/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I&#39;m Floating On Air</title>
+      <link>/2016/09/07/air-mattresses-bizarre-facts/</link>
+      <pubDate>Wed, 07 Sep 2016 07:30:00 +0000</pubDate>
+      
+      <guid>/2016/09/07/air-mattresses-bizarre-facts/</guid>
+      <description>Today in Tedium: Nine months ago, I made a lot of people mad for the dumbest reason. I criticized something that a lot of people surprisingly hold dear: Mattresses. Specifically, I pondered why the &amp;ldquo;hipster mattress,&amp;rdquo; as I controversially called it, had become such a prominent, widely advertised phenomenon online. People got grumpy. My rant briefly topped Hacker News. I was surprised. But not as surprised as I was when I stumbled across the airweave, a product whose selling point is that the mattress is mostly air supported by fancy fiber.</description>
+    </item>
+    
+  </channel>
+</rss>

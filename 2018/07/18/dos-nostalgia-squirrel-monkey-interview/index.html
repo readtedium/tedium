@@ -1,0 +1,496 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta name="generator" content="Hugo 0.49.2" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title> Command Line </title>
+
+    
+    <meta name="description" content="Nearly 40 years ago, DOS reshaped computing on the IBM PC. These days, nostalgia for that era—and a dose of fresh creativity—is keeping its legacy alive."> 
+      
+    
+    
+    
+
+    
+
+  <meta name="author" content="David Buck">
+
+
+    <meta property="og:title" content="Command Line" />
+<meta property="og:description" content="Nearly 40 years ago, DOS reshaped computing on the IBM PC. These days, nostalgia for that era—and a dose of fresh creativity—is keeping its legacy alive." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/2018/07/18/dos-nostalgia-squirrel-monkey-interview/" /><meta property="article:published_time" content="2018-07-18T07:01:00&#43;00:00"/>
+<meta property="article:modified_time" content="2018-07-18T07:01:00&#43;00:00"/>
+
+    
+
+
+
+
+
+    
+    
+    
+
+    <link rel="canonical" href="/2018/07/18/dos-nostalgia-squirrel-monkey-interview/">   <link rel="shortcut icon" type="image/png" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABwlBMVEUAAAA/3MUK07UJ0rRk6NkC0rMAw5sAx6Ic1rs/3MYAlU0E0rQAhjMAyKIAiTkM07UJ07UAhC8m2L4o2L5O4Msn2L4AzKoAzq0128Mo2b8F0rQE0rMu2cAt2cAA0bI228MA0LAAy6kr2b8Q1LcF0rMH0rUAxp4t2b8c1ros2b8P1LcAzKsAzq4528Q02sIM07YAfyg93cUD0rMA0LEA0bFK4c0M1LcL07Uv2sEAzawY1rlJ4c0w2sEAzKkY1rqr+PQN07Yj170G0rQI07UF0bMt2cAF0rMC0bIL07UF0bMs2cAF0rMA0bIC0bIL07UF0rMA0bIA0bIA0bIO1LYr2b8N07Yp2L4F0rMF0rQJ07UA0bIC0bMA0bIH0rQK07UD0bMA0LAF0rMAyqYE0rMA0bIS1Lg228ID0bMM07YS1LcI07QL07UJ07UC0bMM07YG0rMS1Lc328IR1LcC0bIK07UM07Yo2L4P1LcL07UD0rMD0rMD0rMB0bIH0rQ23MMQ1LcD0rMN1LYB0LAJ0rQ33MMG0bMP1bgD0rMN07YH0rQH0rQ33MQF0rMD0rMN1LYo2L4F0rQG0rSA6tsA0bIB0bL////yxqscAAAAk3RSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgnDXAUItvZKBAi6+vpMuf3++wEIAQcEBFn5AgR9UwMEoQLD/AEH4AIdAzha+UMEAQcc9AM4CAFSA9IC+4AEAc8yAwIEBAHOMQOBBLfLMAnFlAJNsa0LAAAAAWJLR0SVCGB6gwAAAAd0SU1FB+EBBBI4BduZ4woAAAF5SURBVDjLY2CAAUYmZgcWRydnVhc2dg4GTMAJlOdydZvs7sHtiU0FSJ7Hy3uyz2RfP24XNl4OLPJ8Xv5A+YBAsAo0M2DyQZMnY1fBL+AgCJXHrkIoWDgEJo9NhUioaBhCHqoiXExcAqZAMkIqckrU5MkoKqSjZeAmyMbIxSIZAFIRMCVOOl4epkAmQSERrwKOJMXkySl4rEhVSkufHDAZtyMzlDPdJweiyiN7UyRLIHsKQj5wMnowSIar5ExJQcjn5qnmqyFHlzqKL7EoQPMlphUaaL7EcGSBZiGKLzFUZGgVFSP5ElNFCVPpFORwhAeVto4uWEGwUJk3alSAVXhIR+tB7ShHTi5QkOIzpUKqEmKCPpODgReaipSUyVWl0tW6GEkWGhRBk2tq6wzrsSVqqPaGRqOmZmMTXWwqwNpbTFvbzMwtsGUMoPb2DqOmTksxK2xZLyhgck1XtzVIuw22zNszeXJvH0i7rR1G9gVlf/v+CRMnWaPYDgA74gwO0j2znAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxNy0wMS0wNFQxODo1NjowNSswMTowME2yC4wAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTctMDEtMDRUMTg6NTY6MDUrMDE6MDA877MwAAAAV3pUWHRSYXcgcHJvZmlsZSB0eXBlIGlwdGMAAHic4/IMCHFWKCjKT8vMSeVSAAMjCy5jCxMjE0uTFAMTIESANMNkAyOzVCDL2NTIxMzEHMQHy4BIoEouAOoXEXTyQjWVAAAAAElFTkSuQmCC">
+
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"> 
+    <link rel="stylesheet" href="https://cdn.tedium.co/MyFontsWebfontsKit.css" />
+    <link rel="stylesheet" href="https://emailoctopus.com/bundles/emailoctopuslist/css/formEmbed.css">
+    <link rel="stylesheet" href="/css/bulma.min.css"> 
+    <link rel="stylesheet" href="/css/landing.css">   
+    
+    
+</head>
+
+
+<body class="tedium-body">
+    <header> 
+
+<nav class="navbar is-transparent">
+  <div class="navbar-brand">
+    <a class="navbar-item" href="/">
+      <img src="https://cdn.tedium.co/logo.gif" alt="Tedium logo">
+    </a>
+    <div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </div>
+
+  <div class="navbar-menu">
+    <div class="navbar-start">
+      
+      <a class="navbar-item" target="blank" href="https://github.com/github">
+        <span class="icon">
+          <i class="fa fa-github"></i>
+        </span>
+      </a>
+      
+
+      
+      <a class="navbar-item" target="blank" href="https://twitter.com/twitter">
+        <span class="icon">
+          <i class="fa fa-twitter"></i>
+        </span>
+      </a>
+      
+    </div>
+
+    
+    
+    <span class="navbar-burger">
+        <span></span>
+        <span></span>
+        <span></span>
+    </span>
+
+    
+    
+    <div class="navbar-end">
+      <div class="navbar-item">
+        
+        
+          <a itemprop="url" class="navbar-item  is-active" href="/post/"><span itemprop="name">Posts</span></a>
+        
+      </div>
+    </div>
+  </div>
+</nav>
+ </header>
+    <main>
+
+<div class="is-newspaper">
+<div class="is-top-edge">
+    <div class="is-right-edge">
+<div class="main-container" itemscope itemtype="http://schema.org/BlogPosting">
+     
+<meta itemprop="name" content="Command Line">
+<meta itemprop="description" content="Nearly 40 years ago, DOS reshaped computing on the IBM PC. These days, nostalgia for that era—and a dose of fresh creativity—is keeping its legacy alive.">
+
+
+<meta itemprop="datePublished" content="2018-07-18T07:01:00&#43;00:00" />
+<meta itemprop="dateModified" content="2018-07-18T07:01:00&#43;00:00" />
+<meta itemprop="wordCount" content="2449">
+
+
+
+<meta itemprop="keywords" content="dos,ms-dos,ibm pc,nostalgia,squirrel monkey,the 8-bit guy,Jo Luijten,computers,computer history,retro,homebrew," />
+
+    <section class="hero is-primary is-medium article-banner"  style="background-image: url('https://tedium.imgix.net/2018/07/tedium071718.gif')" >
+        <div class="hero-body">
+            <div class="container has-text-centered">
+                <h2><a href="/"><img src="https://cdn.tedium.co/logo.gif" alt="Tedium: The Dull Side of the Internet."></a></h2>
+
+            </div>
+        </div>
+    </section>
+    <section class="section article-headline">
+        <div class="container">
+          <div class="columns is-mobile is-centered">
+          <div class="column is-9">
+      <h1 class="title is-2" itemprop="headline">
+          Command Line
+      </h1>
+      
+      <h2 class="subtitle" itemprop="description">Nearly 40 years ago, DOS reshaped computing on the IBM PC. These days, nostalgia for that era—and a dose of fresh creativity—is keeping its legacy alive.</h2>
+      
+      <p class="has-text-centered"><span class="icon">
+  <i class="fa fa-clock-o" aria-hidden="true"></i>
+</span>
+<span>12 minute read</span>
+<span class="icon">
+ <i class="fa fa-pencil" aria-hidden="true"></i>
+</span>
+
+  Published: <time datetime="2018-07-18T07:01:00&#43;00:00">Jul 18, 2018</time>
+
+</p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="section blog">
+        <div class="container">
+            <div class="columns is-mobile is-centered">
+                <div class="column is-9">
+
+                    <div class="content blog-post section" itemprop="articleBody">
+
+                        
+
+
+                        <div class="md-whitebox">
+  <p><em>Hey all, Ernie here with a fresh piece <a href="https://tedium.co/author/david/">from David Buck</a>, who has moved away from his NES for a while to tell you all about how awesome DOS is as a creative medium. Yeah, DOS.</em></p>
+
+<p><span class="md-big">
+  <strong>Today in Tedium:</strong> From the early 90s, up until 2005 or so, I did much of my computer gaming on an American Megatrends IBM PC, running MS-DOS and Windows 3.11. I even got online once using Netscape Communicator. It wasn’t that I had a special affinity for legacy systems or felt nostalgic, it’s just that I have a gaming backlog going all the way back to 1994. These days, nostalgia is helping to revive interest in some of these legacy systems. One man has taken using DOS and QBasic to a higher art form with his Squirrel Monkey videos. In today’s Tedium, we’ll meet Jo Luijten—the man behind the nostalgia and examine how a legacy operating system is being used in unique and creative ways today. <em>— David @ Tedium</em>
+</span></p>
+
+</div>
+
+
+<style type="text/css">.md-adbox a, .md-adbox b, .md-adbox strong{color: #F96854 !important;}.md-adbox {background: #052D49 !important;}.md-adbox p {color: #ffffff !important;}</style>
+<div class="md-adbox">
+
+<p><a href="https://www.patreon.com/tedium"><img src="https://tedium.imgix.net/2017/11/patreonnewb.png" alt="Tedium on Patreon" /></a></p>
+
+<p><strong>Keep Us Moving!</strong> Tedium takes a lot of time to work on and snark wise about. <a href="https://www.patreon.com/tedium">If you want to help us out</a>, we have a Patreon page where you can donate. <a href="https://www.patreon.com/tedium">Keep the issues coming</a>!</p>
+
+<p><span class="md-small">
+  We accept advertising, too! <a href=“http://tedium.co/advertising/“>Check out this page to learn more</a>.
+</span></p>
+
+
+</div>
+
+
+<p><div class="md-redbox">
+  <div class="md-number">
+  <h3 id="1981">1981</h3>
+
+</div>
+
+<p><strong>The year the original version</strong> of the Disk Operating System (DOS) was introduced to the world. Coded by Seattle Computer Products employee <a href="http://www.patersontech.com/dos/softalk.aspx">Tim Paterson</a> in the first half of 1980 (as QDOS—the quick and dirty operating system), DOS became the main operating system for millions of microcomputers of the time thanks to its early association with the IBM PC. In an <a href="https://books.google.com/books?id=WwgoLLivAL0C&amp;pg=PA54">April 1986 interview with <em>Computer World</em> magazine</a>, Paterson talked at length about his experience with DOS. Written in 8080 Assembly language on a Z80 machine and later translated into 8086, the quick and dirty operating system would eventually be sold to Microsoft for $50,000 and become MS-DOS.</p>
+
+</div>
+<div class="md-whitebox">
+  <p><img src="https://tedium.imgix.net/2018/07/0717_dos.jpg" alt="IBM DOS" /></p>
+
+<p><em>The initial version of IBM DOS. (<a href="https://commons.wikimedia.org/wiki/File:IBM_PC_DOS_1.0_screenshot.jpg">Wikimedia Commons</a>)</em></p>
+
+<h3 id="a-single-tasking-single-user-non-graphical-command-line-operating-system">A single tasking, single user, non-graphical command line operating system</h3>
+
+<p><strong>In early 1980, IBM was looking</strong> for an operating system for its upcoming original personal computer. Microsoft had <a href="http://www.patersontech.com/dos/byte%E2%80%93history.aspx">already been working on an idea for an operating system for use with the 8086 chip</a>, pairing up with Seattle Computer Products to create stand-alone disk BASIC the previous year. While they waited for an 8086 version of CP/M (a massive subject on its own)—a <a href="https://history-computer.com/ModernComputer/Software/DOS.html">popular 8-bit operating system in wide use at the time</a>—they grew impatient and set to work on an operating system of their own. From this impatience, a coder for Seattle Computer Products set to work on a new operating system—86-DOS.</p>
+
+<p>In a <a href="http://www.patersontech.com/dos/softalk.aspx">March 1983 interview with <em>Softalk</em></a>, Paterson discusses the DOS project:</p>
+
+<blockquote>
+<p>“We needed an operating system at Seattle Computer for our own computers and I wanted to do one. So we decided to go for it. I was waiting for Digital to come out with CP/M-86. I thought they would have it real soon. If they had beat me I wouldn’t have taken the trouble. I had always wanted to write my own operating system. I’ve always hated CP/M and thought I could do it a lot better. Step one was to write down what CP/M-80 did. Step two was to design a file system that was fast and efficient.”</p>
+
+<p>One of the significant differences between MS-DOS and CP/M-86, when it finally appeared, was the file management system. CP/M usually provides a window to no more than 16K or 32K. With MS-DOS, the entire file is available. Paterson created QDOS’s file management module using the same method found in standalone Basic-86.</p>
+</blockquote>
+
+<p>Eventually, Microsoft would release a GUI-based system that ran on MS-DOS, called Microsoft Windows—and the rest, as they say, is history.</p>
+
+<p>MS-DOS has a long and interesting history, expertly told over at <a href="http://www.computerhistory.org/atchm/microsoft-ms-dos-early-source-code/">the Computer History Museum</a>—where you can also download the first two versions of MS-DOS for noncommercial use and we won’t touch on the CP/M vs. DOS controversy here—<a href="https://www.wired.com/2012/08/ms-dos-examined-for-thef/"><em>WIRED</em> already did that in 2012</a>—but it remains a fascinating subject. Perhaps the most interesting thing about MS-DOS in 2018 is how nostalgia for the operating system is driving creativity online in new and different ways.</p>
+
+</div>
+<div class="md-redbox">
+  <div class="md-quote">
+  <h3 id="when-i-designed-dos-i-knew-that-fitting-the-cluster-number-in-a-single-byte-limiting-the-number-of-clusters-to-256-wouldn-t-get-the-job-done-as-disks-got-bigger-i-increased-the-fat-entry-to-12-bits-allowing-over-4000-clusters-with-a-cluster-size-of-as-much-as-16k-bytes-this-would-allow-for-disks-as-large-as-64mb-you-could-even-push-it-to-a-32k-cluster-and-128mb-disk-size-although-that-large-cluster-could-waste-a-lot-space">“When I designed DOS, I knew that fitting the cluster number in a single byte, limiting the number of clusters to 256, wouldn’t get the job done as disks got bigger. I increased the FAT entry to 12 bits, allowing over 4000 clusters. With a cluster size of as much as 16K bytes, this would allow for disks as large as 64MB. You could even push it to a 32K cluster and 128MB disk size, although that large cluster could waste a lot space.”</h3>
+
+</div>
+
+<p><strong>— Tim Paterson, from his personal website</strong>. Paterson <a href="http://dosmandrivel.blogspot.com/2007/09/design-of-dos.html?m=1">wasn’t happy with the way CP/M tracked disk space</a>. He was concerned with poor performance, especially while searching for files. Because FAT entries are stored as a chain, it’s much faster to read files.</p>
+
+</div>
+<div class="md-whitebox">
+  <p><img src="https://tedium.imgix.net/2018/07/0717_planetx3.jpg" alt="Planet X3" /></p>
+
+<p><em>A screenshot of Planet X3&rsquo;s tile editor, running in DOSBox. (via The 8-Bit Guy&rsquo;s Facebook Page)</em></p>
+
+<h3 id="the-youtuber-that-made-more-than-100k-on-kickstarter-by-building-a-dos-game">The YouTuber that made more than $100k on Kickstarter by building a DOS game</h3>
+
+<p><strong>Some legacy operating systems</strong> <a href="https://tedium.co/2017/04/20/obscure-operating-systems-os2-qnx/">occasionally find strange and new applications</a> long after they’ve become obsolete, and DOS is no exception. Take the case of David Murray—perhaps better known for his YouTube channels <a href="http://www.the8bitguy.com/">The 8-Bit Guy</a> or <a href="http://www.the8bitguy.com/category/8-bit-keys/">8-Bit Keys</a>—a guy who’s programming a <a href="https://kotaku.com/in-2018-a-pc-game-is-being-made-in-dos-1827463766">brand new game in DOS</a> in 2018.</p>
+
+<p>Following the massive success of his <a href="https://www.kickstarter.com/projects/1973096722/planet-x3-for-ms-dos">Kickstarter campaign</a>, Murray is unleashing <em>Planet X3</em> into the world. The game is a sequel to Murray’s Commodore 64 homebrew <em><a href="http://www.the8bitguy.com/planet-x2-announced/">Planet X2</a></em>, from 2017. He’s getting remarkably close to finishing the game, but creating an MS-DOS game in 2018 is not without its challenges.</p>
+
+<p>In a recent interview with <a href="https://www.gamasutra.com/view/news/320530/Meet_the_dev_making_his_first_DOS_game__in_2018.php?elq_mid=85651&amp;elq_cid=13565941"><em>Gamasutra</em></a>, Murray discusses these challenges—predominantly related to graphics and storage space—and expresses his excitement about making an MS-DOS game in the modern day, an excitement shared by his fans.</p>
+
+<p>He also points out that while the game will be released on physical media—3.5 inch and 5.25 inch floppy disks, of course—most folks will probably use an emulator like <a href="https://www.dosbox.com/">DOSBox</a>.</p>
+
+<p>“A lot of people want the physical media and box,” he noted to the website. “Granted, a lot of those people will never use the physical media, they’ll use the digital download and they’ll play it on DOSBox, but nevertheless, they want to own it, and that’s part of the appeal of it.”</p>
+
+<p>While DOS is still being used to create and play games, there’s another unique use of the operating system—multimedia production.</p>
+
+</div>
+<div class="md-redbox">
+  <div class="md-quote">
+  <h3 id="the-idea-of-creating-a-non-existent-world-in-the-past-intrigued-me-although-it-s-not-my-goal-to-make-realistic-what-if-videos-i-think-that-the-vast-majorities-of-retrofied-social-media-games-and-websites-could-have-worked-in-the-eighties">“The idea of creating a non-existent world in the past intrigued me. Although it’s not my goal to make realistic what-if videos, I think that the vast majorities of retrofied social media, games and websites could have worked in the Eighties.”</h3>
+
+</div>
+
+<p><strong>— Jo Luijten,</strong> a Dutch television engineer who lives and works in the United States, on why he created Squirrel Monkey and <em>Wonders of the World Wide Web</em>. Although partly motivated by nostalgia, it isn’t the only reason he makes his creations.</p>
+
+</div>
+<div class="md-whitebox">
+  <p><img src="https://tedium.imgix.net/2018/07/0717_weirdpauljo.jpg" alt="Jo Luijten" /></p>
+
+<p><em>Jo Luijten, right, shown with fellow YouTuber Weird Paul Petroskey.</em></p>
+
+<h3 id="meet-the-guy-who-uses-dos-to-create-multimedia-productions">Meet the guy who uses DOS to create multimedia productions</h3>
+
+<p>If you’re a regular reader of sites like <a href="https://nerdist.com/?s=squirrel-monkey">Nerdist</a>, <a href="https://boingboing.net/2018/07/16/what-would-ebay-have-been-like.html">Boing Boing</a> or Wired (among <em>many</em> others), then you’re probably familiar with the multimedia presence of Jo Luijten, though you may not know his name. The 40 year old Dutch content engineer started making retro inspired videos in 2012 when he began goofing around in MS Paint. The retro-inspired <em>Angry Birds</em> scene he created was uploaded to YouTube and Squirrel Monkey— a <a href="http://www.youtube.com/squirrelmonkeycom">Youtube channel</a> with fake VHS-documentaries that show what social media, games and apps would have looked like if they were made in the Eighties and Nineties—was born.</p>
+
+<p>While he uses modern technology to edit and record audio, he still uses a combination of DOS and QuickBasic to create his Squirrel Monkey videos. Autodesk Animator, Schism tracker and Scream Tracker III clone to generate music and sound effects round out his legacy software arsenal.</p>
+
+<p>For his recent <a href="https://youtu.be/hUi-yUpBqo0">Amazon in the 80s</a> video, he used the following code:</p>
+
+<p><img src="https://tedium.imgix.net/2018/07/quickbasic.jpg" alt="QuickBasic" /></p>
+
+<p>Presented as a science and technology television program called <em>Wonders of the World Wide Web</em>, the show uses a VHS aesthetic and voiceover from Luijten’s wife, Kinna McInroe— a voice you may recognize from the feature film 1999 <em>Office Space</em>.</p>
+
+<p>The show itself demonstrates a hypothetical look at what today’s popular sites and services may have been like in the area of MS-DOS and video stores. It’s like the <a href="https://tedium.co/2016/11/15/video-professor-infomercial-history/">Video Professor</a> meets <a href="https://nl.wikipedia.org/wiki/Wondere_Wereld">Wondere Werald</a> (a Dutch science and technology informational program).</p>
+
+<p>Each segment has its own charms and humor, but here are a few of Luijten’s— and Tedium’s—favorites:</p>
+
+<p><a href="https://www.youtube.com/watch?v=xrYRH3PYYT0">https://www.youtube.com/watch?v=xrYRH3PYYT0</a></p>
+
+<p><em>If Facebook were invented in the &lsquo;90s …</em></p>
+
+<p><a href="https://www.youtube.com/watch?v=2UgPAZtRErI">https://www.youtube.com/watch?v=2UgPAZtRErI</a></p>
+
+<p><em>Discord in the Eighties</em></p>
+
+<p><a href="https://www.youtube.com/watch?v=hUi-yUpBqo0">https://www.youtube.com/watch?v=hUi-yUpBqo0</a></p>
+
+<p><em>Amazon in the Eighties</em></p>
+
+<p><a href="https://www.youtube.com/watch?v=qoU36wOBWPI">https://www.youtube.com/watch?v=qoU36wOBWPI</a></p>
+
+<p><em>If @Soundcloud was around in 1994 …</em></p>
+
+<p><a href="https://www.youtube.com/watch?v=MsDIw3gXD74">https://www.youtube.com/watch?v=MsDIw3gXD74</a></p>
+
+<p><em>Twitch in the &lsquo;80s</em></p>
+
+<p><a href="https://www.youtube.com/watch?v=xGcrvGTMgkg">https://www.youtube.com/watch?v=xGcrvGTMgkg</a></p>
+
+<p><em>Siri in the &lsquo;80s</em></p>
+
+<p><a href="https://www.youtube.com/watch?v=R6bZxUvb7K0">https://www.youtube.com/watch?v=R6bZxUvb7K0</a></p>
+
+<p><em>Snapchat in the &lsquo;90s</em></p>
+
+<p><a href="https://www.youtube.com/watch?v=tqD9OCa8ywQ">https://www.youtube.com/watch?v=tqD9OCa8ywQ</a></p>
+
+<p><em>The Wikipedia in the &lsquo;80s</em></p>
+
+<p><a href="https://www.youtube.com/watch?v=jzPgOq89thw">https://www.youtube.com/watch?v=jzPgOq89thw</a></p>
+
+<p><em>eBay in 1988</em></p>
+
+<p>Each Squirrel Monkey video is its own hilarious, self-contained skit and there are many more coming soon. Luijten is always open to collaboration as well and can be reached through his <a href="http://www.joluijten.com">official website</a>.</p>
+
+</div>
+<div class="md-redbox">
+  <div class="md-quote">
+  <h3 id="although-my-videos-are-situated-in-a-parallel-universe-the-graphics-bring-back-memories-to-many-people-i-often-hear-reactions-like-this-brings-me-back-or-wow-i-m-old-i-ve-even-received-reactions-from-teenagers-who-don-t-understand-why-they-feel-nostalgic-as-well">“Although my videos are situated in a parallel universe, the graphics bring back memories to many people. I often hear reactions like ‘this brings me back’ or ‘wow, I’m old.’ I’ve even received reactions from teenagers who don’t understand why they feel nostalgic as well.”</h3>
+
+</div>
+
+<p><strong>— Luijten,</strong> on reactions to his Squirrel Monkey content. His YouTube channel was at 50,000 subscribers at the time of our interview and has already grown to 60,000 at the time of publishing. He shows no signs of slowing down and works with smaller channels—such as <a href="https://www.youtube.com/user/weirdpaulp">Weird Paul Petroskey</a> (regularly featured in several videos)—to help them gain an audience.</p>
+
+</div>
+<div class="md-whitebox">
+  <p><img src="https://tedium.imgix.net/2018/07/0717_guild.jpg" alt="International Guild of DOS Users" /></p>
+
+<h3 id="dos-fan-jo-luijten-can-make-you-an-honorary-member-of-the-international-guild-of-dos-users">DOS fan? Jo Luijten can make you an honorary member of The International Guild of DOS Users</h3>
+
+<p><strong>Despite its origins as a joke,</strong> you too can be made an honorary member of <a href="http://www.igodu.org/">The International Guild of DOS Users</a>.</p>
+
+<p>Per Luijten, the website began as a humorous repository of DOS-related information. Designed to have the appearance of a DOS-based tutorial program (or perhaps an early World Wide Web page), the site is a logical extension of the Squirrel Monkey aesthetic—a retro, stylized look at modern tech, dripping with nostalgia for the old stuff.</p>
+
+<p>DOS is one of Jo’s favorite operating systems.</p>
+
+<blockquote>
+<p>I made IGODU.org in one evening when I was bored and jobless. Although it is a joke, I receive many serious requests by email from people who wanted to become a member. I replied and made them a lifetime honorary member.</p>
+
+<p>As a child I grew up with command prompt based operating systems like MS-DOS and CP/M. What I like about both systems is that they are to the point, have a calm look, and that I am in control. New operating systems often do things that you don’t want them to do. A couple of days ago, I wanted to check my email before I had to go to work and suddenly Windows started to download a bunch of updates without asking me first.</p>
+
+<p>Sometimes typing commands works faster than clicking through settings, so in my college days, I programmed an application called WinDOS, that turns a Windows desktop into a DOS-screen so that you can use DOS-commands in a Windows environment. I also made a couple of new DOS commands like the command “pizza” that allows you to order online food. I never finished it.</p>
+</blockquote>
+
+<p>IGODU is still not a true organization—it’s basically one big exercise in absurdism—but if you contact Jo through the site, he may just make you a lifetime member. Still, the site contains some useful information and the colorful, nostalgic design is fun in its elegant simplicity. You may even learn a few DOS tricks you’ve never known about before.</p>
+
+</div>
+<div class="md-redbox">
+  <div class="md-number">
+  <h3 id="three">three</h3>
+
+</div>
+
+<p><strong>The number of titles</strong> in one of my favorite computer game series’ from the MS-DOS era, <em>Jill of the Jungle</em>. The 1992 arcade action/platformer from <a href="https://www.epicgames.com/site/en-US/home">Epic Megagames</a> began life as shareware and sold well enough to spawn two sequels—<em>Jill Goes Underground</em> and <em>Jill Saves the Prince</em>. With a mix of platforming and action/adventure, the game is short, fun romp from a long-gone era. The game is still fun, if a bit dated and can be played at the <a href="https://archive.org/details/msdos_Jill_of_the_Jungle_1992">Internet Archive</a>. While it reignited my interest in DOS gaming, I’m not the only one feeling nostalgic about this operating system these days.</p>
+
+</div>
+<div class="md-whitebox">
+  <h3 id="so-what-if-tedium-were-published-in-the-80s">So … what if Tedium were published in the 80s?</h3>
+
+<p><strong>Most of us here at Tedium grew up with MS-DOS</strong> and these early computer games and programs. <em>(Editor’s note: I’m currently staving off an addition to <a href="https://amzn.to/2zPdtG7">Epic Pinball</a>. I may not survive.)</em> Combining that with some of our topic selections and our visual themes, it isn’t difficult to imagine what our publication would look like in the 80s. Jo was kind enough to create a GIF imagining what Tedium would look like in the 80s:</p>
+
+<p><img src="https://media.giphy.com/media/41fdAWZX887dBSHtAd/giphy.gif" alt="Tedium for DOS" /></p>
+
+<p>We would probably be more like an early BBS system, still chasing the long tail with glorious EGA graphics and a command line interface. Just load up your Tedium floppy disk and at the C:\ prompt, type:</p>
+
+<pre><code>C:\&gt;cd\tedium
+</code></pre>
+
+<p>Then:</p>
+
+<pre><code>C:\tedium&gt;read
+</code></pre>
+
+<p>Select your text size and topics, hit ENTER and enjoy reading Tedium! Feel free to send us suggestions by picking up suggestion cards at your local gas station and mailing them to:</p>
+
+<p>Tedium: the Dull Side of the Internet
+PO Box 10-NES
+R. Stevie Moore Street
+Springfield, USA*</p>
+
+<p><em>*not an actual address or real thing at all. Offer subject to change at any time. Not valid in the contiguous United States or anywhere. If you received a faulty disk, that’s a shame.</em></p>
+
+</div>
+<div class="md-graybox">
+  <p><strong>There is a certain elegance to Luijten’s work.</strong> It isn’t just the run-of-the-mill, “Hey, look! It’s something from now … but in the 80s!” type of disposable content that’s been done to death. The superb writing, editing and sophistication of <em>Wonders of the World Wide Web</em> make it worthwhile to view the series multiple times while simultaneously showing off what a legacy operating system can do.</p>
+
+<p>It’s not just David Murray or Jo Luijten dwelling on nostalgia. They’re actively using nostalgia to inject something fresh into their own modern day creations, just like our friends in the <a href="https://tedium.co/2018/04/10/nes-homebrew-scene-history/">NES homebrew community</a>.</p>
+
+<p>Creating something new, yet familiar is being elevated to a fine art and Jo Luijten—the Squirrel Monkey himself—is at the heart of it.</p>
+
+<p><em><strong>Correction:</strong> An earlier version of this story misstated the full name of DOS. We regret the error.</em></p>
+
+</div>
+</p>
+
+                    </div>
+                    <div class="title is-4">
+                        <p>
+  Published
+  
+    
+      by <span itemprop="author">David Buck</span>
+    
+  
+  <time datetime="2018-07-18T07:01:00&#43;00:00">
+    18 Jul, 2018
+  </time>
+  
+    in <span itemprop="articleSection"><a href="/categories/jo-luijten/">Jo Luijten</a>, <a href="/categories/computer-history/">computer history</a>, <a href="/categories/computers/">computers</a>, <a href="/categories/dos/">dos</a>, <a href="/categories/homebrew/">homebrew</a>, <a href="/categories/ibm-pc/">ibm pc</a>, <a href="/categories/ms-dos/">ms-dos</a>, <a href="/categories/nostalgia/">nostalgia</a>, <a href="/categories/retro/">retro</a>, <a href="/categories/squirrel-monkey/">squirrel monkey</a> and <a href="/categories/the-8-bit-guy/">the 8-bit guy</a></span>
+  
+  
+    and tagged <a href="/tags/jo-luijten/">Jo Luijten</a>, <a href="/tags/computer-history/">computer history</a>, <a href="/tags/computers/">computers</a>, <a href="/tags/dos/">dos</a>, <a href="/tags/homebrew/">homebrew</a>, <a href="/tags/ibm-pc/">ibm pc</a>, <a href="/tags/ms-dos/">ms-dos</a>, <a href="/tags/nostalgia/">nostalgia</a>, <a href="/tags/retro/">retro</a>, <a href="/tags/squirrel-monkey/">squirrel monkey</a> and <a href="/tags/the-8-bit-guy/">the 8-bit guy</a>
+  
+  using <span itemprop="wordCount">2449</span> words.
+</p>
+
+                        
+  
+
+
+
+  <aside>
+    <header><strong>Related Content</strong></header>
+    <hr>
+    <ul>
+      
+      
+        <li><a href="/2018/10/05/sgi-collector-history/">Silicon Persistence</a> &ndash; 16 minutes
+      
+        <li><a href="/2018/09/05/disk-compression-stacker-doublespace-history/">Double Trouble</a> &ndash; 11 minutes
+      
+        <li><a href="/2018/08/17/video-games-advertising-mascots-history/">The Ballad of Yo! Noid</a> &ndash; 10 minutes
+      
+        <li><a href="/2018/07/25/tv-programming-quirks-history/">TV’s Hidden Math</a> &ndash; 14 minutes
+      
+        <li><a href="/2018/07/20/cherry-mx-keyboard-history/">Click, Clack</a> &ndash; 11 minutes
+      
+        <li><a href="/2018/06/20/speak-and-spell-history/">The Toy That Talked Back</a> &ndash; 12 minutes
+      
+        <li><a href="/2018/06/08/acorn-arm-holdings-history/">With ARM Wide Open</a> &ndash; 12 minutes
+      
+    </ul>
+  </aside>
+
+
+                    </div>
+
+                    
+
+                </div>
+            </div>
+
+        </div>
+    </section>
+</div>
+
+</div>
+</div>
+</div>
+
+</main>
+    <footer> <footer class="footer" style="background-image: url(https://cdn.tedium.co/aerodromenew3.png); background-size: cover; background-position: center;">
+    <div class="container">
+        <div class="content has-text-centered">
+          <div class="copyright">
+            <p><a href="/"><img src="https://cdn.tedium.co/t-logo.gif"></a></p>
+            <p>Copyright © 2015-2018 <a href="https://tedium.co/">Tedium: The Dull Side of the Internet.</a> All rights reserved. <br> <a href="https://tedium.co/about">About Tedium</a> | <a href="https://www.patreon.com/tedium">Support us on Patreon</a> | <a href="https://tedium.co/contribute">Share your ideas!</a> | <a href="https://tedium.co/privacy-policy/">Privacy Policy</a> |  <a href="https://tedium.co/advertising/">Advertise With Us</a>
+              <br>
+              <em><strong>Disclosure:</strong> From time to time, we may use affiliate links in our content—but only when it makes sense. Promise.</em>
+              <br>
+              <em><strong>A note regarding emails:</strong> Tedium-related queries only please. PR requests unrelated to this project will be ignored.</em></p>
+          </div>
+            <p>
+                Based on <a href="https://gohugo.io/">Hugo</a> and <a href="https://themes.gohugo.io/bulma/">Bulma</a>.
+                
+                Additional power is provided by
+                  <strong>love</strong>.
+                
+            </p>
+        </div>
+    </div>
+</footer>
+ </footer>
+
+    <script async type="text/javascript" src="/js/bulma.js"></script>
+    <script async type="text/javascript"  src="/js/clipboard.min.js"></script>
+    <script async type="text/javascript"  src="/js/clip.js"></script>
+</body>
+
+</html>

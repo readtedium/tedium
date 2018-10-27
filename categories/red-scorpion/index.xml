@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Red Scorpion on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/red-scorpion/</link>
+    <description>Recent content in Red Scorpion on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 08 Apr 2016 07:42:35 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/red-scorpion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jack Abramoff, Film Producer</title>
+      <link>/2016/04/08/jack-abramoff-film-producer/</link>
+      <pubDate>Fri, 08 Apr 2016 07:42:35 +0000</pubDate>
+      
+      <guid>/2016/04/08/jack-abramoff-film-producer/</guid>
+      <description>Today in Tedium: No matter how many redemption tours he goes on, Jack Abramoff remains an infamous name in political circles. In the mid-2000s, he was the man at the center of a wide array of lobbying scandals, sometimes involving obscure parts of the United States like the Northern Mariana Islands and Guam. A decade ago this month, Abramoff was planning for a prison stay, having just been sentenced in a fraud case involving a casino cruise line.</description>
+    </item>
+    
+  </channel>
+</rss>

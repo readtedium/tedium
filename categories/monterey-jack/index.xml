@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monterey Jack on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/monterey-jack/</link>
+    <description>Recent content in Monterey Jack on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 05 Jul 2017 07:02:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/monterey-jack/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cheese, American Style</title>
+      <link>/2017/07/05/american-cheese-culture-history/</link>
+      <pubDate>Wed, 05 Jul 2017 07:02:00 +0000</pubDate>
+      
+      <guid>/2017/07/05/american-cheese-culture-history/</guid>
+      <description>Today in Tedium: Of the many things the United States has become known for globally over the years, our addiction to cheese probably stands out the most. We didn’t create it, but we made it ours: An essential part of our diets, a calling card for our food on a global level, and an easy thing to mock within our culture. The U.S. just celebrated its birthday—a birthday that’s built around strong signs of patriotism.</description>
+    </item>
+    
+  </channel>
+</rss>

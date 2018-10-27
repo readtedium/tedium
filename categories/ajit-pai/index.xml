@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ajit Pai on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/ajit-pai/</link>
+    <description>Recent content in Ajit Pai on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 06 Dec 2017 09:21:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/ajit-pai/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Our Next Annoying National Upgrade</title>
+      <link>/2017/12/06/atsc-3-0-digital-television-standard/</link>
+      <pubDate>Wed, 06 Dec 2017 09:21:00 +0000</pubDate>
+      
+      <guid>/2017/12/06/atsc-3-0-digital-television-standard/</guid>
+      <description>Today in Tedium: With all the recent chatter about Ajit Pai’s aggressive attempt to roll back net neutrality standards, it’s easy for other parts of the Federal Communications Commission’s winding docket to get lost. But there are things that the FCC is doing beyond ruining your internet that are worth discussing. One of those things is the recent passage of a measure to allow the voluntary rollout of ATSC 3.0, a television transmission standard that could rejigger the way we watch the boob tube.</description>
+    </item>
+    
+  </channel>
+</rss>

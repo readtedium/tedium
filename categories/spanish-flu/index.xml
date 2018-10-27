@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spanish Flu on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/spanish-flu/</link>
+    <description>Recent content in Spanish Flu on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 16 Oct 2017 19:42:35 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/spanish-flu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Tale of Two Samoas</title>
+      <link>/2017/10/16/american-samoa-spanish-flu/</link>
+      <pubDate>Mon, 16 Oct 2017 19:42:35 +0000</pubDate>
+      
+      <guid>/2017/10/16/american-samoa-spanish-flu/</guid>
+      <description>For understandable reasons, Puerto Rico is perhaps the main U.S. territory on the minds of the American public at the moment. The island of 3.5 million has been utterly devastated by Hurricane Maria and it will likely be years before it’s back to a semblance of its normal self—a situation not being helped, to say the least, by the current president.  Tedium, of course, isn’t a news blog, but sometimes it helps to take news and highlight it through the frame of history.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Factoid on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/factoid/</link>
+    <description>Recent content in Factoid on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 06 Feb 2017 22:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/factoid/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Facts Are Facts</title>
+      <link>/2017/02/06/fact-vs-factoid-accuracy/</link>
+      <pubDate>Mon, 06 Feb 2017 22:00:00 +0000</pubDate>
+      
+      <guid>/2017/02/06/fact-vs-factoid-accuracy/</guid>
+      <description>Last week’s piece on disc rot drew a bunch of attention from a variety of media outlets, along with some online critics that weren’t convinced that discs actually rot, based on their personal experience. (I put up a response regarding that over on Twitter.) But one reader’s comment caught my attention …  “Dude, I don&amp;rsquo;t think the word ‘factoid’ means what you think it does,” writer 15 Percent Faster informed us.</description>
+    </item>
+    
+  </channel>
+</rss>

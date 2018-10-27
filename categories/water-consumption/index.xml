@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water Consumption on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/water-consumption/</link>
+    <description>Recent content in Water Consumption on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 02 Mar 2016 08:36:57 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/water-consumption/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>You Can&#39;t Drink Saltwater</title>
+      <link>/2016/03/02/desalination-saltwater-reverse-osmosis/</link>
+      <pubDate>Wed, 02 Mar 2016 08:36:57 +0000</pubDate>
+      
+      <guid>/2016/03/02/desalination-saltwater-reverse-osmosis/</guid>
+      <description>Today in Tedium: Salt is a great substance, and one that deserves an important place in our culture. But salt is also the most annoying substance on the planet, in that it makes nearly all of our water supply basically unusable for drinking purposes. Now, removing salt from water is not a painless process, but in an era when drought is a fact of life in places as far-flung as Australia and California, desalination is becoming an increasingly important process for increasing our freshwater supply by just a little bit.</description>
+    </item>
+    
+    <item>
+      <title>I&#39;ll Have Water, Please</title>
+      <link>/2015/10/16/restaurant-water-consumption-phenomenon/</link>
+      <pubDate>Fri, 16 Oct 2015 07:34:46 +0000</pubDate>
+      
+      <guid>/2015/10/16/restaurant-water-consumption-phenomenon/</guid>
+      <description>Today in Tedium: Going to a restaurant is a game of expectations. We expect certain things out of the experience, based on the set parameters when we walk in the door. If we&amp;rsquo;re going to Mickey D&amp;rsquo;s, we expect our food pretty fast and fairly low-quality. If the restaurant doesn&amp;rsquo;t have a counter, we expect a menu at the table. And when we sit down at a restaurant—in the United States, at least—we expect a couple of glasses of water ready to go to help satiate our appetites.</description>
+    </item>
+    
+  </channel>
+</rss>

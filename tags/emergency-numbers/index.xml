@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emergency Numbers on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/emergency-numbers/</link>
+    <description>Recent content in Emergency Numbers on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 21 Jun 2017 07:54:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/emergency-numbers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>In Case Of Emergency</title>
+      <link>/2017/06/21/911-emergency-system-history/</link>
+      <pubDate>Wed, 21 Jun 2017 07:54:00 +0000</pubDate>
+      
+      <guid>/2017/06/21/911-emergency-system-history/</guid>
+      <description>Today in Tedium: Of all the things William Shatner has done in his career—captain of the starship USS Enterprise, veteran police officer, totally-game muse for Ben Folds, fairly good tweeter for being 86 years old—the one thing that&amp;rsquo;s stuck with me the most is his years on Rescue 911, the early reality show that was America&amp;rsquo;s Most Wanted (mostly) without the crime and Unsolved Mysteries with the solutions laid out clear as day.</description>
+    </item>
+    
+  </channel>
+</rss>

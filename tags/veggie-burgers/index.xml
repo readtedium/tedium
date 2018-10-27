@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veggie Burgers on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/veggie-burgers/</link>
+    <description>Recent content in Veggie Burgers on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 13 Aug 2015 19:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/veggie-burgers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How the fake sausage is made</title>
+      <link>/2015/08/13/how-the-fake-sausage-is-made/</link>
+      <pubDate>Thu, 13 Aug 2015 19:30:00 +0000</pubDate>
+      
+      <guid>/2015/08/13/how-the-fake-sausage-is-made/</guid>
+      <description>Today in Tedium: Getting people excited about fake mayonnaise is a challenge, but Hampton Creek Farms has admirably pulled off the task so far, convincing some that it had pulled off the impossible: replacing the egg in many every-day uses—particularly mayonnaise. But an article about the company in Business Insider last week implied that all was not well in the world of pseudo-mayo. The article suggested that the company stretched the truth about its primary products, that it tried to kill off a mandated severance package, and that it put a product on the market without knowing if it would spoil prematurely.</description>
+    </item>
+    
+  </channel>
+</rss>

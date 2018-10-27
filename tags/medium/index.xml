@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Medium on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/medium/</link>
+    <description>Recent content in Medium on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 07 Sep 2017 06:33:11 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/medium/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Great Platform Problem</title>
+      <link>/2017/09/07/youtube-demonetization-problem/</link>
+      <pubDate>Thu, 07 Sep 2017 06:33:11 +0000</pubDate>
+      
+      <guid>/2017/09/07/youtube-demonetization-problem/</guid>
+      <description>Yesterday afternoon, I admit, was a bit rough. In a good way, but still rough. A piece from months ago by Andrew Egan, my regular contributor to the site, hit the Reddit front page completely unexpectedly, bringing my server to its knees. It was not exactly how I saw myself spending a Tuesday afternoon, but I got things worked out. Bump up the specs on the cloud server a little bit, change some server settings to make sure it&amp;rsquo;s working to the best of its abilities, and back in business.</description>
+    </item>
+    
+  </channel>
+</rss>

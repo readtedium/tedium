@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Light Gun on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/light-gun/</link>
+    <description>Recent content in Light Gun on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 18 Jul 2018 05:57:32 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/light-gun/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Duck, Duck, Goose?</title>
+      <link>/2018/07/18/duck-hunt-modern-mallard/</link>
+      <pubDate>Wed, 18 Jul 2018 05:57:32 +0000</pubDate>
+      
+      <guid>/2018/07/18/duck-hunt-modern-mallard/</guid>
+      <description>The NES Zapper holds a unique place in pop culture. A gaming gimmick with somewhat limited support, the light gun, which worked by responding to a flash of light on a screen, carries a very specific sense of nostalgia for many because it was a very common pack-in cart for the Nintendo device.  It would never be released in its current form today—its somewhat realistic gun shape would never fly in 2018, in no small part because of the Lazer Tag saga that partly did in Nintendo’s one-time partner Worlds of Wonder—but it’s an amazing piece of nostalgia.</description>
+    </item>
+    
+  </channel>
+</rss>

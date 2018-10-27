@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sega Genesis on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/sega-genesis/</link>
+    <description>Recent content in Sega Genesis on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 20 Jul 2017 07:59:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/sega-genesis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sega, In Channel Form</title>
+      <link>/2017/07/20/sega-channel-history/</link>
+      <pubDate>Thu, 20 Jul 2017 07:59:00 +0000</pubDate>
+      
+      <guid>/2017/07/20/sega-channel-history/</guid>
+      <description>If you’re a fan of Nintendo today, odds are you’ve been getting a bit of an earful about the company’s botched voice chat, which is a key element of the company’s online service for the Switch.  But video game companies failing to properly roll out online features is a problem that’s anything but new—in fact, it’s been happening for decades, a mixture of failing to understand the audience and failing to properly use the technology in the right context.</description>
+    </item>
+    
+    <item>
+      <title>Reverse-Engineering The Industry</title>
+      <link>/2017/03/10/video-games-reverse-engineering-tengen-accolade/</link>
+      <pubDate>Fri, 10 Mar 2017 09:14:00 +0000</pubDate>
+      
+      <guid>/2017/03/10/video-games-reverse-engineering-tengen-accolade/</guid>
+      <description>Today in Tedium: When it comes to video game consoles, the manufacturers don’t like it when you bend the rules. But it happens anyway. Technically inclined individuals inevitably want to bend the platforms to their will, despite platform owners that want to protect their massive investments, and aren’t afraid to resort to lawsuits to get their way. There are plenty of cases like this, most infamously the case of the Game Genie.</description>
+    </item>
+    
+    <item>
+      <title>Adapters, Unplugged</title>
+      <link>/2016/09/28/ac-adapters-power-outlet-purpose/</link>
+      <pubDate>Wed, 28 Sep 2016 07:28:00 +0000</pubDate>
+      
+      <guid>/2016/09/28/ac-adapters-power-outlet-purpose/</guid>
+      <description>Today in Tedium: Power outlets are frustrating, but the devices we use on a daily basis? They don&amp;rsquo;t necessarily make things easier. In fact, the bricks that come with many modern devices, from your router to your Bluetooth speakers to your game console, tend to be giant, and at first, they were designed without any consideration for the fact that there was ample competition for your limited outlet space. Why have AC adapters traditionally been so frustrating?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Call Centers on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/call-centers/</link>
+    <description>Recent content in Call Centers on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 03 Aug 2016 06:57:38 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/call-centers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recorded For Quality Assurance</title>
+      <link>/2016/08/03/call-centers-technology-history/</link>
+      <pubDate>Wed, 03 Aug 2016 06:57:38 +0000</pubDate>
+      
+      <guid>/2016/08/03/call-centers-technology-history/</guid>
+      <description>Today in Tedium: Customer support is a big frustration for the public. We want to be treated well, we want the human on the other end of the line to correctly pronounce our name, we want them to be friendly even when we&amp;rsquo;re not, and (most importantly) we want our problem solved. Most of the time, we&amp;rsquo;re lucky to get one of these things out of a customer support interaction. But &amp;hellip; y&amp;rsquo;know, it&amp;rsquo;s weird how quickly we embraced this approach to solving our big problems.</description>
+    </item>
+    
+  </channel>
+</rss>

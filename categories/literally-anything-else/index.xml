@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Literally Anything Else on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/literally-anything-else/</link>
+    <description>Recent content in Literally Anything Else on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 09 Nov 2016 04:09:47 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/literally-anything-else/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anything But Politics</title>
+      <link>/2016/11/09/mental-health-break/</link>
+      <pubDate>Wed, 09 Nov 2016 04:09:47 +0000</pubDate>
+      
+      <guid>/2016/11/09/mental-health-break/</guid>
+      <description>Today in Tedium: If you’re in the U.S.—and perhaps, even if you’re not—every other message you’re getting right now is probably about this dang 2016 presidential election that’s coming to a close as we speak. Much fighting has been had. Many stories have been written. As a newsletter, Tedium exists to talk about dull, unusual things that basically aren’t, well … the 2016 election. Your brain most certainly needs a break from the electoral pummeling it’s going to be taking in the next few hours as Wolf Blitzer and Chris Matthews do the opposite of soothing your frayed nerves.</description>
+    </item>
+    
+  </channel>
+</rss>

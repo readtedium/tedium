@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ac Adapters on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/ac-adapters/</link>
+    <description>Recent content in Ac Adapters on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 28 Sep 2016 07:28:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/ac-adapters/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adapters, Unplugged</title>
+      <link>/2016/09/28/ac-adapters-power-outlet-purpose/</link>
+      <pubDate>Wed, 28 Sep 2016 07:28:00 +0000</pubDate>
+      
+      <guid>/2016/09/28/ac-adapters-power-outlet-purpose/</guid>
+      <description>Today in Tedium: Power outlets are frustrating, but the devices we use on a daily basis? They don&amp;rsquo;t necessarily make things easier. In fact, the bricks that come with many modern devices, from your router to your Bluetooth speakers to your game console, tend to be giant, and at first, they were designed without any consideration for the fact that there was ample competition for your limited outlet space. Why have AC adapters traditionally been so frustrating?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spyware on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/spyware/</link>
+    <description>Recent content in Spyware on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 22 Dec 2017 09:45:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/spyware/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fake Elf News</title>
+      <link>/2017/12/22/elf-bowling-history/</link>
+      <pubDate>Fri, 22 Dec 2017 09:45:00 +0000</pubDate>
+      
+      <guid>/2017/12/22/elf-bowling-history/</guid>
+      <description>Today in Tedium: I know this sounds pretty crazy and dangerous, but there was once a time when we sent one another executable files via email. It was kinda like playing Russian Roulette with our operating systems, but we still did it. (No executables in this message. Promise.) And one of these executable files that was distributed over this medium that’s infamously prone to security problems is basically a goofy holiday-themed game.</description>
+    </item>
+    
+  </channel>
+</rss>

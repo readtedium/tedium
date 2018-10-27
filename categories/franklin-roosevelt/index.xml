@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Franklin Roosevelt on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/franklin-roosevelt/</link>
+    <description>Recent content in Franklin Roosevelt on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 21 Jan 2015 05:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/franklin-roosevelt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>State of the #SOTU</title>
+      <link>/2015/01/21/state-of-the-union-history/</link>
+      <pubDate>Wed, 21 Jan 2015 05:30:00 +0000</pubDate>
+      
+      <guid>/2015/01/21/state-of-the-union-history/</guid>
+      <description>Today in Tedium: The State of the Union is generally the biggest speech of most years&amp;mdash;one that has taken a pretty massive role in our society, and is seen as an event that defines the political tone for the entire year. But a few interesting facts about the SOTU: It&amp;rsquo;s not always a speech, and its defining role as a defining political event is actually a relatively recent phenomenon as far as U.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neon Lighting on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/neon-lighting/</link>
+    <description>Recent content in Neon Lighting on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 25 Mar 2015 07:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/neon-lighting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Here’s a bright idea</title>
+      <link>/2015/03/25/bright-idea-lighting-history/</link>
+      <pubDate>Wed, 25 Mar 2015 07:30:00 +0000</pubDate>
+      
+      <guid>/2015/03/25/bright-idea-lighting-history/</guid>
+      <description>Today in Tedium: Not many light bulbs can say that they&amp;rsquo;ve managed to survive two World Wars and then some, but the fire department in Livermore, California has managed to keep a life of its own far beyond many of the firefighters that have stayed on call over the past 114 years. The bulb, which the department calls &amp;ldquo;The Centennial Bulb,&amp;rdquo; has only been shut off a few times in its history, and remains working to this day essentially because they go out of their way to never turn the light bulb off.</description>
+    </item>
+    
+  </channel>
+</rss>

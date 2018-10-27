@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mst3k on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/mst3k/</link>
+    <description>Recent content in Mst3k on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 10 Aug 2018 07:18:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/mst3k/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Podcasting Puppet Master</title>
+      <link>/2018/08/10/mst3k-puppeteer-interview/</link>
+      <pubDate>Fri, 10 Aug 2018 07:18:00 +0000</pubDate>
+      
+      <guid>/2018/08/10/mst3k-puppeteer-interview/</guid>
+      <description>Hey all, Ernie here with a fresh piece from David Buck, who last came to you with a piece on DOS nostalgia. This time, he highlights the story of a guy who helped bring you the most recent season of MST3K, among other things.
+Today in Tedium: From the early days of civilization to modern day pop culture, puppetry has always been used to tell stories. What happens when you mix music, comedy and puppets?</description>
+    </item>
+    
+    <item>
+      <title>We’ll Send Him Cheesy Movies</title>
+      <link>/2017/04/13/mst3k-revival-joel-hodgson-creative-redo/</link>
+      <pubDate>Thu, 13 Apr 2017 07:49:04 +0000</pubDate>
+      
+      <guid>/2017/04/13/mst3k-revival-joel-hodgson-creative-redo/</guid>
+      <description>Recently, I had a reader send me a zip file full of old ideas I had for a website I worked on nearly 20 years ago. It was an unusual bit of digital archaeology, in part because I didn’t actually remember the project until after I had seen the end results. Then, it all came back to me—a revival of ideas, good and bad, the reflection that I’ve been building sites like the one I&amp;rsquo;m typing on now since before I was even in college.</description>
+    </item>
+    
+  </channel>
+</rss>

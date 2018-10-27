@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Youtube on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/youtube/</link>
+    <description>Recent content in Youtube on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 07 Aug 2018 04:47:27 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Symbiotic Infringement</title>
+      <link>/2018/08/07/consumer-john-oliver-copyright-infringement/</link>
+      <pubDate>Tue, 07 Aug 2018 04:47:27 +0000</pubDate>
+      
+      <guid>/2018/08/07/consumer-john-oliver-copyright-infringement/</guid>
+      <description>On a day when the news is utterly saturated with stories about a famous YouTube user getting blocked from the service, I’d like to spend some time writing about another YouTube user who was blocked from the service today.  You don’t know him, but you’ve likely seen the videos he uploaded—because news sites linked those videos pretty religiously.
+The user, named “consumer,” played a small but important role in the YouTube ecosystem.</description>
+    </item>
+    
+    <item>
+      <title>Why “Zombie” Lingers</title>
+      <link>/2018/01/16/cranberries-zombie-legacy/</link>
+      <pubDate>Tue, 16 Jan 2018 08:26:49 +0000</pubDate>
+      
+      <guid>/2018/01/16/cranberries-zombie-legacy/</guid>
+      <description>It&amp;rsquo;s painful every time we lose a major rock star, especially one who still had a lot of years left in front of them, as Irish singer and Cranberries frontwoman Dolores O’Riordan did. She hadn’t even hit age 50 yet, and her career was such that her biggest successes came and went before she had hit the age of 30. “Linger” and “Zombie” were sizable hits before she had even turned 24.</description>
+    </item>
+    
+    <item>
+      <title>The Great Platform Problem</title>
+      <link>/2017/09/07/youtube-demonetization-problem/</link>
+      <pubDate>Thu, 07 Sep 2017 06:33:11 +0000</pubDate>
+      
+      <guid>/2017/09/07/youtube-demonetization-problem/</guid>
+      <description>Yesterday afternoon, I admit, was a bit rough. In a good way, but still rough. A piece from months ago by Andrew Egan, my regular contributor to the site, hit the Reddit front page completely unexpectedly, bringing my server to its knees. It was not exactly how I saw myself spending a Tuesday afternoon, but I got things worked out. Bump up the specs on the cloud server a little bit, change some server settings to make sure it&amp;rsquo;s working to the best of its abilities, and back in business.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unsolved Mysteries on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/unsolved-mysteries/</link>
+    <description>Recent content in Unsolved Mysteries on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 20 Jun 2018 03:26:11 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/unsolved-mysteries/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Solved</title>
+      <link>/2018/06/20/unsolved-mysteries-modern-updates/</link>
+      <pubDate>Wed, 20 Jun 2018 03:26:11 +0000</pubDate>
+      
+      <guid>/2018/06/20/unsolved-mysteries-modern-updates/</guid>
+      <description>More than 30 years ago, onetime Eliot Ness stand-in Robert Stack found a way to embellish his legacy in the modern era.  The solution was through a show named Unsolved Mysteries, one of the first reality-based shows of the modern era, mixing scripted plots with true stories. First appearing as a special in 1987, it became a full-fledged series not long after the success of a similar program, America’s Most Wanted on Fox.</description>
+    </item>
+    
+    <item>
+      <title>A Beachside Mystery</title>
+      <link>/2017/09/05/rhode-island-weird-beach-mystery/</link>
+      <pubDate>Tue, 05 Sep 2017 07:47:00 +0000</pubDate>
+      
+      <guid>/2017/09/05/rhode-island-weird-beach-mystery/</guid>
+      <description>Sorry, guys: The unofficial end of summer gets us no closer to the solution of the summer’s great mystery. Yes, that’s right, there was a big mystery hiding in the sand this summer—and it would’ve been a kickass discovery using any average metal detector.  Here’s the deal: Beachgoers in Westerly, Rhode Island have been confused as heck about a large metal object that was jutting out of the ground on the city’s beach.</description>
+    </item>
+    
+  </channel>
+</rss>

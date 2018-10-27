@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kraft Cheese on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/kraft-cheese/</link>
+    <description>Recent content in Kraft Cheese on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 05 Jul 2017 07:02:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/kraft-cheese/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cheese, American Style</title>
+      <link>/2017/07/05/american-cheese-culture-history/</link>
+      <pubDate>Wed, 05 Jul 2017 07:02:00 +0000</pubDate>
+      
+      <guid>/2017/07/05/american-cheese-culture-history/</guid>
+      <description>Today in Tedium: Of the many things the United States has become known for globally over the years, our addiction to cheese probably stands out the most. We didn’t create it, but we made it ours: An essential part of our diets, a calling card for our food on a global level, and an easy thing to mock within our culture. The U.S. just celebrated its birthday—a birthday that’s built around strong signs of patriotism.</description>
+    </item>
+    
+    <item>
+      <title>America The Processed</title>
+      <link>/2016/05/11/america-beer-budweiser-analysis/</link>
+      <pubDate>Wed, 11 May 2016 07:41:00 +0000</pubDate>
+      
+      <guid>/2016/05/11/america-beer-budweiser-analysis/</guid>
+      <description>Today in Tedium: How arrogant do you have to be to name your product after an entire country, to assume that you&amp;rsquo;ve earned that right? On Tuesday, the no-longer-American company Anheuser-Busch InBev announced that it was temporarily changing the name of its inexplicably popular beverage Budweiser to America, ahead of the 2016 election. &amp;ldquo;It’s something that we could have not done overnight. If we’d launched Budweiser yesterday, as a new brand, we probably wouldn&amp;rsquo;t have had the license to do it,&amp;rdquo; Budweiser Vice President Ricardo Marques told Fast Company&amp;rsquo;s design vertical.</description>
+    </item>
+    
+  </channel>
+</rss>

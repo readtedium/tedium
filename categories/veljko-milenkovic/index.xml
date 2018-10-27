@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veljko Milenkovic on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/veljko-milenkovic/</link>
+    <description>Recent content in Veljko Milenkovic on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 20 Apr 2018 07:45:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/veljko-milenkovic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Going Through The Motions</title>
+      <link>/2018/04/20/robotic-arm-history-unimate-versatran/</link>
+      <pubDate>Fri, 20 Apr 2018 07:45:00 +0000</pubDate>
+      
+      <guid>/2018/04/20/robotic-arm-history-unimate-versatran/</guid>
+      <description>Today in Tedium: In the nearly 100 years since Czech playwright Karel Čapek borrowed the phrase “robot” from his brother Josef and introduced it to the lexicon, the relationship between man and machine has become endlessly complex and world-defining. And robotic limbs in are a particularly great example of this. Most of our modern innovations have been shaped by the fact that, nearly 60 years ago, someone figured out a way to program a machine to function like an arm—redefining the role of industry in the process.</description>
+    </item>
+    
+  </channel>
+</rss>

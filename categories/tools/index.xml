@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/tools/</link>
+    <description>Recent content in Tools on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 23 Sep 2015 07:46:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Swiss Army Life</title>
+      <link>/2015/09/23/swiss-army-knife-history/</link>
+      <pubDate>Wed, 23 Sep 2015 07:46:00 +0000</pubDate>
+      
+      <guid>/2015/09/23/swiss-army-knife-history/</guid>
+      <description>Today in Tedium: I’ve decided that I’m a big fan of Swiss army knives. Not the knives themselves, necessarily—I can never properly finagle my nails to pull the blades out of the casing—but the idea behind them. A single object with numerous uses is an incredibly powerful idea, and one that the Swiss Army Knife got to first. Something about this simple, elegant concept gets lost somewhere in a Bed Bath and Beyond run, probably because multi-tools probably cut away at their stuff-laden businesses.</description>
+    </item>
+    
+  </channel>
+</rss>

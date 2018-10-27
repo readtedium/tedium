@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Utah on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/utah/</link>
+    <description>Recent content in Utah on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 27 Apr 2017 07:07:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/utah/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stating The Seemingly Obvious</title>
+      <link>/2017/04/27/utah-bar-restaurant-sign-regulation/</link>
+      <pubDate>Thu, 27 Apr 2017 07:07:00 +0000</pubDate>
+      
+      <guid>/2017/04/27/utah-bar-restaurant-sign-regulation/</guid>
+      <description>Utah is a great state, but with its historic ties to the Mormon religion (and that religion’s hard-to-ignore political clout), it occasionally runs into some head-scratching situations—especially when it comes to alcohol.  The Church of Jesus Christ of Latter-day Saints prohibits its members from consuming alcohol, and that has informed the state’s laws on the issue over the years.
+Beer is sold at bars and some restaurants, but at an alcohol level that barely even counts.</description>
+    </item>
+    
+  </channel>
+</rss>

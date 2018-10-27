@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nintendo Entertainment System on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/nintendo-entertainment-system/</link>
+    <description>Recent content in Nintendo Entertainment System on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 11 Apr 2018 07:28:34 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/nintendo-entertainment-system/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Not Just Nostalgia</title>
+      <link>/2018/04/11/nes-homebrew-scene-history/</link>
+      <pubDate>Wed, 11 Apr 2018 07:28:34 +0000</pubDate>
+      
+      <guid>/2018/04/11/nes-homebrew-scene-history/</guid>
+      <description>Hey guys, Ernie here with another great piece from David Buck, who we last saw talking about Oingo Boingo. Tonight, he’s got something else brewin’.
+Today in Tedium: Growing up in the era of the Nintendo Entertainment System, I always wanted to create my own NES game. I scribbled ideas in notebooks, mapped out levels on graph paper and spent countless hours composing my own MIDI-based soundtracks to games that didn’t exist.</description>
+    </item>
+    
+    <item>
+      <title>Australian Rules Nintendo</title>
+      <link>/2017/12/28/nintendo-beam-software-australia-history/</link>
+      <pubDate>Thu, 28 Dec 2017 09:07:00 +0000</pubDate>
+      
+      <guid>/2017/12/28/nintendo-beam-software-australia-history/</guid>
+      <description>Recently I found myself hanging out in a retro video game store, looking at the cheapo bin at the various titles for the NES and other systems. If you’ve done something similar in the recent past, you’ll know that the cheapo bin will inevitably be filled with lots of sports games. It doesn’t matter if the sports games are well-regarded or even iconic—for whatever reason gamers just don’t want to buy them.</description>
+    </item>
+    
+  </channel>
+</rss>

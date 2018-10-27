@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viruses on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/viruses/</link>
+    <description>Recent content in Viruses on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 22 Dec 2017 09:45:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/viruses/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fake Elf News</title>
+      <link>/2017/12/22/elf-bowling-history/</link>
+      <pubDate>Fri, 22 Dec 2017 09:45:00 +0000</pubDate>
+      
+      <guid>/2017/12/22/elf-bowling-history/</guid>
+      <description>Today in Tedium: I know this sounds pretty crazy and dangerous, but there was once a time when we sent one another executable files via email. It was kinda like playing Russian Roulette with our operating systems, but we still did it. (No executables in this message. Promise.) And one of these executable files that was distributed over this medium that’s infamously prone to security problems is basically a goofy holiday-themed game.</description>
+    </item>
+    
+    <item>
+      <title>We&#39;re going viral</title>
+      <link>/2015/07/24/early-computer-virus-history/</link>
+      <pubDate>Fri, 24 Jul 2015 06:27:00 +0000</pubDate>
+      
+      <guid>/2015/07/24/early-computer-virus-history/</guid>
+      <description>Today in Tedium: The computer virus has kind of taken on a life of its own in popular culture, often being seen as a device that destroys computers and data, while making itself known in the process. Things have changed since that hallowed era—the malware is still with us, but the way it attacks computers has changed drastically since the &amp;lsquo;80s. Today, we talk about computer viruses as if we&amp;rsquo;re in the midst of an archaeological dig.</description>
+    </item>
+    
+  </channel>
+</rss>

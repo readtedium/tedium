@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apple Ii on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/apple-ii/</link>
+    <description>Recent content in Apple Ii on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 05 May 2017 07:07:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/apple-ii/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Clone Wars</title>
+      <link>/2017/05/05/apple-ii-clones-franklin-vtech/</link>
+      <pubDate>Fri, 05 May 2017 07:07:00 +0000</pubDate>
+      
+      <guid>/2017/05/05/apple-ii-clones-franklin-vtech/</guid>
+      <description>Today in Tedium: Often, retrospectives on computer history focus pretty intently on the IBM PC era and how that system’s many clones helped to democratize computing by centering most computing-industry efforts on a single platform—a major breakthrough at the time. But other platforms attracted clones as well—including the Apple II, though the computing giant’s protectionist habits kicked in quickly. And oddly enough, it may have the best thing for everyone involved—including consumers.</description>
+    </item>
+    
+    <item>
+      <title>A Banner Decade</title>
+      <link>/2016/06/03/the-print-shop-banner-decade/</link>
+      <pubDate>Fri, 03 Jun 2016 07:00:00 +0000</pubDate>
+      
+      <guid>/2016/06/03/the-print-shop-banner-decade/</guid>
+      <description>Today in Tedium: The desktop publishing era, short as it was, did something really important: It turned the process of publishing into something anyone could do cheaply and professionally. But &amp;ldquo;professionally&amp;rdquo; is a funny word, and it means different things to different people. For some, simply having access to a couple of fonts outside of what you could get with a typewriter was enough; for others, it was less about creating an impressive design and more about creating a design that was a step above what you could do with a pen and paper.</description>
+    </item>
+    
+  </channel>
+</rss>

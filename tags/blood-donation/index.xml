@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blood Donation on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/blood-donation/</link>
+    <description>Recent content in Blood Donation on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 21 Mar 2018 07:40:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/blood-donation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Drip And Drive</title>
+      <link>/2018/03/21/blood-donation-bloodmobile-history/</link>
+      <pubDate>Wed, 21 Mar 2018 07:40:00 +0000</pubDate>
+      
+      <guid>/2018/03/21/blood-donation-bloodmobile-history/</guid>
+      <description>Today in Tedium: Recently, my wife has really gotten into putting on blood drives, in no small part because of their ability to save lives—by making the iron-laden resources already running through our veins and arteries available to people who need them just a little bit more. These blood drives, quite often, happen in public places. You don’t have to go to the Red Cross; the Red Cross will come to you.</description>
+    </item>
+    
+  </channel>
+</rss>

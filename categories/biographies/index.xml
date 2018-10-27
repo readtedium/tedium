@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biographies on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/biographies/</link>
+    <description>Recent content in Biographies on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 10 Jan 2018 09:10:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/biographies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Biography, Unauthorized</title>
+      <link>/2018/01/10/kitty-kelley-michael-wolff-unauthorized-biography-history/</link>
+      <pubDate>Wed, 10 Jan 2018 09:10:00 +0000</pubDate>
+      
+      <guid>/2018/01/10/kitty-kelley-michael-wolff-unauthorized-biography-history/</guid>
+      <description>Editor’s note: Hey guys, Ernie here with a surprisingly timely piece from Andrew Egan. Just a word of warning—the subject matter is a little on the scandalous side, so if you’re not in the mood for that, may I suggest this piece about Teddy Ruxpin instead? If you’re cool with it, keep reading.
+Today in Tedium: The rules guiding journalists have never been understood by the larger public. Phrases like “off the record” and “confirmed source” seem self-explanatory but are governed by detailed rules that often flumox seasoned journalists.</description>
+    </item>
+    
+    <item>
+      <title>Who’s Who? Who Cares</title>
+      <link>/2017/07/19/whos-who-vanity-publishing-history/</link>
+      <pubDate>Wed, 19 Jul 2017 07:39:00 +0000</pubDate>
+      
+      <guid>/2017/07/19/whos-who-vanity-publishing-history/</guid>
+      <description>Today in Tedium: On an average day floating through the press release service PR Newswire, it’s inevitable that you run into a list of people who are designated as new members of the “Who’s Who” list. The list always varies but the intent is always the same: To give a person notice for their life and career. The problem with these lists is that, in an era where everyone is seemingly notable for something, they seem to amount to a hill of beans.</description>
+    </item>
+    
+  </channel>
+</rss>

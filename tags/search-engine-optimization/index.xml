@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Search Engine Optimization on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/search-engine-optimization/</link>
+    <description>Recent content in Search Engine Optimization on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 03 Oct 2018 07:42:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/search-engine-optimization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Extreme Googling</title>
+      <link>/2018/10/03/google-20th-anniversary-culture-importance/</link>
+      <pubDate>Wed, 03 Oct 2018 07:42:00 +0000</pubDate>
+      
+      <guid>/2018/10/03/google-20th-anniversary-culture-importance/</guid>
+      <description>Today in Tedium: Love, hate, or criticize them, Google is just a part of life these days. (They’re marginally less evil than Facebook, which helps.) Silicon Valley’s algorithmic gift to the world is now two decades old, having celebrated its 20th birthday with a doodle just last week, one that came a few weeks after its actual birthday—the September 4, 1998 incorporation of the company. It’s strange to consider that a company so fundamental to our world is still so relatively young.</description>
+    </item>
+    
+    <item>
+      <title>No Thanks, Spammers</title>
+      <link>/2018/04/24/seo-spammers-ruining-open-web/</link>
+      <pubDate>Tue, 24 Apr 2018 07:19:04 +0000</pubDate>
+      
+      <guid>/2018/04/24/seo-spammers-ruining-open-web/</guid>
+      <description>Tedium has a decent number of readers, but when it comes down to it, it’s a small blip on the larger internet—a small professional publisher at a time when so many of our publishers are large and centralized.  As a result of this relatively unique status, I get a lot of messages on a fairly regular basis asking me to do one of a few things:
+ Update a link on a story I’ve already written to get in a business I didn’t previously mention.</description>
+    </item>
+    
+  </channel>
+</rss>

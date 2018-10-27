@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Railroads on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/railroads/</link>
+    <description>Recent content in Railroads on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 06 Sep 2017 07:28:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/railroads/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Right Track, Wrong Station</title>
+      <link>/2017/09/06/kartrak-railroad-barcode-history/</link>
+      <pubDate>Wed, 06 Sep 2017 07:28:00 +0000</pubDate>
+      
+      <guid>/2017/09/06/kartrak-railroad-barcode-history/</guid>
+      <description>Today in Tedium: Trying to codify and organize things is really hard. Case in point: When Amazon tried to launch a cashier-free grocery store concept late last year, the company saw a lot of problems crop up when too many customers used the store at the same time. On a macro level, the railroad industry once faced similar problems with automatically tracking things—a problem they started working on 60 years ago, without the benefits of modern innovation.</description>
+    </item>
+    
+  </channel>
+</rss>

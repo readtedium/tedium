@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Price Tags on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/price-tags/</link>
+    <description>Recent content in Price Tags on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 14 Nov 2017 09:14:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/price-tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Switching Labels</title>
+      <link>/2017/11/14/retail-theft-ticket-switching/</link>
+      <pubDate>Tue, 14 Nov 2017 09:14:00 +0000</pubDate>
+      
+      <guid>/2017/11/14/retail-theft-ticket-switching/</guid>
+      <description>Recently I had two pretty good six-packs of beer for $3.99 each. I had scored a deal because I wasn’t picky—the beers were rebranded by a grocery store to celebrate a special event that happened months prior, but the tell was on the cap—these beers, despite the labels, had been brewed by a well-known local craft brewer, and were the same beers that were in the “beer cave” for seven dollars more.</description>
+    </item>
+    
+  </channel>
+</rss>

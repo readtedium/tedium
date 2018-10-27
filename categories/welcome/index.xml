@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/welcome/</link>
+    <description>Recent content in Welcome on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 07 Sep 2016 04:43:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/welcome/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Your Email&#39;s On FIRE !!!</title>
+      <link>/subscriber-landing/</link>
+      <pubDate>Wed, 07 Sep 2016 04:43:00 +0000</pubDate>
+      
+      <guid>/subscriber-landing/</guid>
+      <description>Welcome to Tedium! We&amp;rsquo;re glad to have you on the list! We&amp;rsquo;ll be sending you pieces twice a week until infinity. We&amp;rsquo;re happy to have you, but we&amp;rsquo;ll try not to annoy you too much. If you have feedback, you can put it right here, and if you&amp;rsquo;d like to get a taste of what you just signed up for, here are a few of our favorite issues:</description>
+    </item>
+    
+  </channel>
+</rss>

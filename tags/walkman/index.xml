@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Walkman on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/walkman/</link>
+    <description>Recent content in Walkman on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 23 Jan 2017 22:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/walkman/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>You’re Wearing An Antenna</title>
+      <link>/2017/01/23/headphones-fm-radio-antenna/</link>
+      <pubDate>Mon, 23 Jan 2017 22:00:00 +0000</pubDate>
+      
+      <guid>/2017/01/23/headphones-fm-radio-antenna/</guid>
+      <description>As it turns out, the release of the iPhone 7 last fall likely closed the door on something the broadcast industry has long crossed its fingers for.  My piece last week on FMX, the discarded radio technology that faded from view, drew a comment from reader Conrad Kramer, who was drawn to one of the side elements, where I discussed efforts by the broadcasting industry to get FM radio functionality enabled in smartphones.</description>
+    </item>
+    
+  </channel>
+</rss>

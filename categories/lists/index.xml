@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lists on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/lists/</link>
+    <description>Recent content in Lists on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 06 May 2015 05:46:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/lists/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1.) Learn About Lists 2.) See Item 1</title>
+      <link>/2015/05/06/learn-about-lists/</link>
+      <pubDate>Wed, 06 May 2015 05:46:00 +0000</pubDate>
+      
+      <guid>/2015/05/06/learn-about-lists/</guid>
+      <description>Today in Tedium: David Letterman is retiring soon, and while he didn&amp;rsquo;t invent the list, he probably did more to ensure its pop-culture legacy than anything _BuzzFeed_ could ever hope. Author and Death and Taxes editor-in-chief Brian Abrams, who wrote a book about Letterman&amp;rsquo;s NBC career last year, noted that the idea for Letterman&amp;rsquo;s Top Ten list came as a satire of the then-current obsession with lists in the mass media.</description>
+    </item>
+    
+  </channel>
+</rss>

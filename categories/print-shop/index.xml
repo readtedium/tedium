@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Print Shop on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/print-shop/</link>
+    <description>Recent content in Print Shop on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 19 Apr 2017 07:43:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/print-shop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CMYK All The Way</title>
+      <link>/2017/04/19/color-printing-lithography-history/</link>
+      <pubDate>Wed, 19 Apr 2017 07:43:00 +0000</pubDate>
+      
+      <guid>/2017/04/19/color-printing-lithography-history/</guid>
+      <description>Today in Tedium: In the 1990s, after much delay, the newspaper industry’s largest and most prominent newspapers finally started printing most of their pages in color on a regular basis. It was a much delayed phenomenon, driven less by a lack of technology and more by a mixture of cost and tradition. In 1993, The New York Times printed its first page in color, far later than most of the rest of the newspaper industry, and the only other big holdouts at that point were The Wall Street Journal and The Washington Post.</description>
+    </item>
+    
+    <item>
+      <title>A Banner Decade</title>
+      <link>/2016/06/03/the-print-shop-banner-decade/</link>
+      <pubDate>Fri, 03 Jun 2016 07:00:00 +0000</pubDate>
+      
+      <guid>/2016/06/03/the-print-shop-banner-decade/</guid>
+      <description>Today in Tedium: The desktop publishing era, short as it was, did something really important: It turned the process of publishing into something anyone could do cheaply and professionally. But &amp;ldquo;professionally&amp;rdquo; is a funny word, and it means different things to different people. For some, simply having access to a couple of fonts outside of what you could get with a typewriter was enough; for others, it was less about creating an impressive design and more about creating a design that was a step above what you could do with a pen and paper.</description>
+    </item>
+    
+  </channel>
+</rss>

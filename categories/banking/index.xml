@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Banking on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/banking/</link>
+    <description>Recent content in Banking on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 01 Sep 2017 07:31:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/banking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Scanning And Sorting</title>
+      <link>/2017/09/01/check-processing-history-automation/</link>
+      <pubDate>Fri, 01 Sep 2017 07:31:00 +0000</pubDate>
+      
+      <guid>/2017/09/01/check-processing-history-automation/</guid>
+      <description>Today in Tedium: The physical check, for most general purposes, is a sheer relic—basically used mostly for specific big-ticket purchases like rent, it certainly doesn’t have the sex appeal of, say, blockchain-based currencies like Ethereum and Litecoin. But it’s worth keeping in mind that check scanning, sorting, and distribution played an important early role in electronic commerce. Before we got niceties like ACH and magnetic strips, it set the wheels in motion for our highly automated commerce-based world.</description>
+    </item>
+    
+  </channel>
+</rss>

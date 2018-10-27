@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syquest on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/syquest/</link>
+    <description>Recent content in Syquest on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 07 Dec 2016 09:54:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/syquest/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Annoying Clicking Sound</title>
+      <link>/2016/12/07/iomega-zip-disk-click-of-death-history/</link>
+      <pubDate>Wed, 07 Dec 2016 09:54:00 +0000</pubDate>
+      
+      <guid>/2016/12/07/iomega-zip-disk-click-of-death-history/</guid>
+      <description>Today in Tedium: As proprietary, non-standardized formats go, Iomega’s Zip drive got a heck of a lot further than most of its competitors. It managed to improve on a format people were used to (the old floppy) just enough that it ensured it’d gain popularity. It fit niches for people who had to share a lot of data. And it even had a sizable base of home users—which was impressive for its time.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Toilet on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/toilet/</link>
+    <description>Recent content in Toilet on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 06 Jul 2018 07:44:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/toilet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Internet&#39;s Final Frontier</title>
+      <link>/2018/07/06/smart-bathroom-technology-toilets/</link>
+      <pubDate>Fri, 06 Jul 2018 07:44:00 +0000</pubDate>
+      
+      <guid>/2018/07/06/smart-bathroom-technology-toilets/</guid>
+      <description>Today in Tedium: Thanks to the ever-shrinking nature of our electronics, the internet can go literally anywhere. I mean anywhere. It fits in your bag, appears on your television set, shows up on your desk, it makes a great window into your fridge, and even appears in your pocket. And since it fits in your pocket, that means you can take it inside the bathroom, making it a worthy replacement for a certain series of books we covered earlier this year.</description>
+    </item>
+    
+    <item>
+      <title>Toilet Duck Dynasty</title>
+      <link>/2017/07/06/toilet-duck-design-history/</link>
+      <pubDate>Thu, 06 Jul 2017 07:34:00 +0000</pubDate>
+      
+      <guid>/2017/07/06/toilet-duck-design-history/</guid>
+      <description>It’s not easy to come up with a product that’s built around a completely, utterly unique design. Especially involving a topic as unflattering as cleaning a toilet.  But in the early 1980s, a man named Walter Düring had such a moment. The Swiss man’s company, Düring AG, had made a name for itself with the concept of decalcification, based on a formula his mother, Maria, came up with. But it was in the early 1980s that the firm had come up with something truly successful on a mainstream stage: A uniquely shaped nozzle that could spray decalcifiers into obscure crevices.</description>
+    </item>
+    
+  </channel>
+</rss>

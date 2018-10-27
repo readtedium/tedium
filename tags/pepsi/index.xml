@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pepsi on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/pepsi/</link>
+    <description>Recent content in Pepsi on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 03 Nov 2017 07:41:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/pepsi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rethinking Sugar Water</title>
+      <link>/2017/11/03/virgin-cola-history/</link>
+      <pubDate>Fri, 03 Nov 2017 07:41:00 +0000</pubDate>
+      
+      <guid>/2017/11/03/virgin-cola-history/</guid>
+      <description>Today in Tedium: Everything has a story, and today’s Tedium tells the story behind a two-decade-old press kit, covered in plastic, that I recently acquired. On the front, the kit made a claim that it would be important to keep around. “KEEP THIS MEDIA KIT,” the front of the thing stated. “Someday it will be worth a lot of money. Someday it will be known as ‘the first Virgin Cola media kit.</description>
+    </item>
+    
+  </channel>
+</rss>

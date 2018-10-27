@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geneaology on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/geneaology/</link>
+    <description>Recent content in Geneaology on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 14 Jan 2015 07:34:26 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/geneaology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Genealogy for Fanbois</title>
+      <link>/2015/01/14/ducktales-geneaology-fanbois/</link>
+      <pubDate>Wed, 14 Jan 2015 07:34:26 +0000</pubDate>
+      
+      <guid>/2015/01/14/ducktales-geneaology-fanbois/</guid>
+      <description>Today in Tedium: When it comes to the internet, two particular topics are known for driving obsessiveness—genealogy and fandom. They require similar thought processes and skill sets—extreme knowledge of the subject, a willingness to dive deep into the subject matter, a lot of extra time on one&amp;rsquo;s hands—and, at times, they can work together. Most people don&amp;rsquo;t have time to do the heavy lifting to do a deep dive on this kind of fandom, so we&amp;rsquo;ve done the hard work for you.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Airports on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/airports/</link>
+    <description>Recent content in Airports on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 26 Sep 2018 05:22:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/airports/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Network Effects</title>
+      <link>/2018/09/26/why-airport-stores-are-named-after-tv-networks/</link>
+      <pubDate>Wed, 26 Sep 2018 05:22:00 +0000</pubDate>
+      
+      <guid>/2018/09/26/why-airport-stores-are-named-after-tv-networks/</guid>
+      <description>Hey all! In lieu of a new piece, tonight’s Tedium is a lightly updated classic edition discussing one of the weirdest phenomena you’ll see at the airport: The naming conventions of the stores. Admit it, you’re curious.
+Today in Tedium: When you travel to different places—in the U.S. in particular, perhaps less so outside of it—the airports often feel like they’re designed of a single piece of cloth, despite the fact that they’re most certainly not.</description>
+    </item>
+    
+    <item>
+      <title>Smaller Airports, Lower Stakes</title>
+      <link>/2016/12/14/municipal-regional-airports/</link>
+      <pubDate>Wed, 14 Dec 2016 09:11:00 +0000</pubDate>
+      
+      <guid>/2016/12/14/municipal-regional-airports/</guid>
+      <description>Editor’s note: Hey all, our excellent contributor Andrew Egan is back again; apparently not sick of working with me just yet. Enjoy!
+Today in Tedium: This is my third Tedium piece in as many months. Though previous articles placed figures on World War II tourism in Germany or the danger of a relatively new aerial sport, the revelations offered in this piece were the most ardently cautioned against by sources. One, who will go unnamed, practically begged me not to write about this while others reacted to the news by slowly sucking air through clenched teeth.</description>
+    </item>
+    
+  </channel>
+</rss>

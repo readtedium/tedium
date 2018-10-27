@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sheldon Adelson on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/sheldon-adelson/</link>
+    <description>Recent content in Sheldon Adelson on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 18 Dec 2015 09:40:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/sheldon-adelson/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Shell Game</title>
+      <link>/2015/12/18/shell-companies-easy-to-launch/</link>
+      <pubDate>Fri, 18 Dec 2015 09:40:00 +0000</pubDate>
+      
+      <guid>/2015/12/18/shell-companies-easy-to-launch/</guid>
+      <description>Today in Tedium: Last week, the journalists at the Las Vegas Review-Journal had a problem: Their newspaper had a new owner, but they couldn&amp;rsquo;t figure out who the hell it was. After roughly a week of reporting, they finally figured out exactly who spent $140 million on the paper—one Sheldon Adelson, the casino owner and major Republican donor—but it wasn&amp;rsquo;t easy to get quite that far. Thanks to the law, there was nothing requiring the owner to come forward and reveal themselves to the public.</description>
+    </item>
+    
+  </channel>
+</rss>

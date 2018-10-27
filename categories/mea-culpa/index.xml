@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mea Culpa on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/mea-culpa/</link>
+    <description>Recent content in Mea Culpa on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 08 Aug 2017 05:07:05 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/mea-culpa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reopening the Book</title>
+      <link>/2017/08/08/encyclopaedia-britannica-cdrom-update/</link>
+      <pubDate>Tue, 08 Aug 2017 05:07:05 +0000</pubDate>
+      
+      <guid>/2017/08/08/encyclopaedia-britannica-cdrom-update/</guid>
+      <description>If you look at nearly every retelling of Encyclopaedia Britannica’s move away from the physical book, the story goes something like this: Britannica ran head-first into the digital revolution and nearly lost its head in the process. And, like a few other retellings of this story, that was the story arc of a recent piece of mine on the matter.  So it wasn’t the world’s greatest feeling to see someone claiming that I had gotten this story arc completely wrong.</description>
+    </item>
+    
+  </channel>
+</rss>

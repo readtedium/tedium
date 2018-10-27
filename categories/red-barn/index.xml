@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Red Barn on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/red-barn/</link>
+    <description>Recent content in Red Barn on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 29 Mar 2017 07:42:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/red-barn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Boom, Roasted</title>
+      <link>/2017/03/29/fast-food-failures-kenny-rogers-roasters/</link>
+      <pubDate>Wed, 29 Mar 2017 07:42:00 +0000</pubDate>
+      
+      <guid>/2017/03/29/fast-food-failures-kenny-rogers-roasters/</guid>
+      <description>Today in Tedium: We have a hard enough time wrapping our heads around a Pizza Hut or a Taco Bell, let alone a combination Pizza Hut and Taco Bell. But co-branding practices like this are often quite insane—and Yum Brands is far from the worst on this front. Recently, I passed by a Carvel ice cream stand at an airport that had integrated elements of a Nathan’s Famous hot dogs, an Arthur Treacher’s fish stand, and a Kenny Rogers Roasters chicken restaurant, all in the same tiny facility.</description>
+    </item>
+    
+  </channel>
+</rss>

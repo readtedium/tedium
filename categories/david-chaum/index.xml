@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Chaum on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/david-chaum/</link>
+    <description>Recent content in David Chaum on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 28 Nov 2017 09:15:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/david-chaum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cashing In Early</title>
+      <link>/2017/11/28/digicash-ecash-bitcoin-history/</link>
+      <pubDate>Tue, 28 Nov 2017 09:15:00 +0000</pubDate>
+      
+      <guid>/2017/11/28/digicash-ecash-bitcoin-history/</guid>
+      <description>Cryptocurrency is having a bit of a moment right now, thanks in no small part to bitcoin, the currency launched under unusual circumstances that has suddenly become really, really popular. (As I write this, it’s continuing its daylong flirtation with the $10,000 valuation mark.)  But of course, while cryptocurrency is growing in popularity, bitcoin and other blockchain-based currencies can’t come close to making the claim to being the first digital currency.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tim Quirk on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/tim-quirk/</link>
+    <description>Recent content in Tim Quirk on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 06 Apr 2017 07:29:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/tim-quirk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Like A Rock</title>
+      <link>/2017/04/06/bob-seger-digital-holdout/</link>
+      <pubDate>Thu, 06 Apr 2017 07:29:00 +0000</pubDate>
+      
+      <guid>/2017/04/06/bob-seger-digital-holdout/</guid>
+      <description>Music executive Tim Quirk is best known for his band Too Much Joy, but his big problem these days is that there’s not enough joy—at least when it comes to the music of Bob Seger.  Last week, Quirk made a lengthy case in an NPR article as to why Seger, who is barely represented on any digital music platforms at all, should make his back catalog available on services like iTunes and Spotify.</description>
+    </item>
+    
+  </channel>
+</rss>

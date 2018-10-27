@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hydrox on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/hydrox/</link>
+    <description>Recent content in Hydrox on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 10 May 2017 07:51:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/hydrox/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How The Cookie Crumbles</title>
+      <link>/2017/05/10/hydrox-oreo-competition-history/</link>
+      <pubDate>Wed, 10 May 2017 07:51:00 +0000</pubDate>
+      
+      <guid>/2017/05/10/hydrox-oreo-competition-history/</guid>
+      <description>Today in Tedium: The Oreo cookie, tasty as it is, gets way too much attention from the public, in part because Nabisco is so good at marketing. That’s not to say that it doesn’t deserve at least some of it—certainly there’s much to be discussed about the cookie, including its fairly intricate ornamental design, which has largely remained unchanged since 1952, and its recent contest to decide a new cookie flavor.</description>
+    </item>
+    
+  </channel>
+</rss>

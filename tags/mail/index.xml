@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mail on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/mail/</link>
+    <description>Recent content in Mail on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 18 Apr 2018 21:05:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/mail/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fishing For Checks</title>
+      <link>/2018/04/18/mail-fishing-theft-phenomenon/</link>
+      <pubDate>Wed, 18 Apr 2018 21:05:00 +0000</pubDate>
+      
+      <guid>/2018/04/18/mail-fishing-theft-phenomenon/</guid>
+      <description>When I described to my wife the nature of the story I’m about to tell you about, I called it a “phenomenon,” to which she responded asking whether or not it was too strong a word to describe what sounds like a truly bizarre form of theft.  But as it turns out, knuckleheads using strong glue and string to pull letters (or, let’s be honest, checks) out of mailboxes is a phenomenon called “mail fishing,” and it’s a phenomenon that highlights the weaknesses of a system that is already struggling to keep up with the modern day.</description>
+    </item>
+    
+    <item>
+      <title>Lickety Split</title>
+      <link>/2017/04/12/envelope-adhesives-licking-history/</link>
+      <pubDate>Wed, 12 Apr 2017 07:22:00 +0000</pubDate>
+      
+      <guid>/2017/04/12/envelope-adhesives-licking-history/</guid>
+      <description>Today in Tedium: Considering all the money that the greeting card industry spends on making really interesting looking cards (but not as interesting, of course, as they were when Robert Crumb was a greeting card illustrator), I have a question: Why do gift card envelopes still rely on a kind of glue that adheres with licking? Do they not realize that people frequently write these cards in pen, and might realize, halfway through the process, that they forgot a loved one?</description>
+    </item>
+    
+    <item>
+      <title>Delivered To Your Door</title>
+      <link>/2017/02/17/monthly-subscription-box-delivery-history/</link>
+      <pubDate>Fri, 17 Feb 2017 09:45:00 +0000</pubDate>
+      
+      <guid>/2017/02/17/monthly-subscription-box-delivery-history/</guid>
+      <description>Today in Tedium: Don’t let the talk of content on the cloud fool you. It’s easier than ever to get physical stuff mailed to your duplex nearly every single day of the year. (OK, maybe it’s not Jetsons-easy yet. We’ll get there.) In recent years, that’s led to the rise of subscription box services like Birchbox, BlueApron, and Loot Crate. (Personally, I’m obsessed with Blue Bottle’s biweekly coffee bean delivery service.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internet Explorer on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/internet-explorer/</link>
+    <description>Recent content in Internet Explorer on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 03 Mar 2017 09:08:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/internet-explorer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Your Code Is Junky</title>
+      <link>/2017/03/03/microsoft-frontpage-history-web-design-wysiwyg/</link>
+      <pubDate>Fri, 03 Mar 2017 09:08:00 +0000</pubDate>
+      
+      <guid>/2017/03/03/microsoft-frontpage-history-web-design-wysiwyg/</guid>
+      <description>Today in Tedium: As I’ve covered a few times in the past, the hard part about any budding technology—whether it’s delivering packages, driving down interstate highways, or beaming satellite signals to homes around the country—is the infrastructure, how easy that infrastructure is to use. The internet is obviously a pretty key example of this issue in action, with products like WebTV and CompuServe imagining a specific direction for reading content online.</description>
+    </item>
+    
+    <item>
+      <title>The History of Internet Explorer Hatred</title>
+      <link>/2015/03/20/the-history-of-internet-explorer-hatred/</link>
+      <pubDate>Fri, 20 Mar 2015 03:00:00 +0000</pubDate>
+      
+      <guid>/2015/03/20/the-history-of-internet-explorer-hatred/</guid>
+      <description>Today in Tedium: Your browser says a lot about you. It highlights your socioeconomic class, your knowledge of computing, your inherent biases, and even the likelihood that you’re a failure at just about everything. For many people, using Internet Explorer was a sign that your relative or co-worker didn’t “get it,” and their resistance to changing browsers was a sign that they never would. Developers, without knowing your name or your circumstances, would curse you under your breath, because your clicking on their website made their job harder.</description>
+    </item>
+    
+  </channel>
+</rss>

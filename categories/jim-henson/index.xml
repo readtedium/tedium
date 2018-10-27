@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jim Henson on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/jim-henson/</link>
+    <description>Recent content in Jim Henson on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 20 Jan 2017 09:58:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/jim-henson/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Too Terrible For Television</title>
+      <link>/2017/01/20/weird-unsold-television-pilots/</link>
+      <pubDate>Fri, 20 Jan 2017 09:58:00 +0000</pubDate>
+      
+      <guid>/2017/01/20/weird-unsold-television-pilots/</guid>
+      <description>Today in Tedium: The idea that there should be limits on the quality of what ends up on or TV screens is a common one that’s been around for ages. Hell, that’s why one of the defining shows of the 1980s is called You Can’t Do That On Television. Which is why, in a weird way, it kind of makes sense that many of the new shows actually getting on the air in 2017 are actually revivals of successful ones—including, as was just announced, Will and Grace.</description>
+    </item>
+    
+    <item>
+      <title>Bare-Metal Writing</title>
+      <link>/2016/08/19/bare-metal-writing-word-processor-history/</link>
+      <pubDate>Fri, 19 Aug 2016 07:53:00 +0000</pubDate>
+      
+      <guid>/2016/08/19/bare-metal-writing-word-processor-history/</guid>
+      <description>Today in Tedium: I&amp;rsquo;m writing these opening lines in Markdown, using a Mac app called Focused, one of many attempts to rethink the word processor as a minimalist exercise. Every one of my articles starts out in this app (or at least in John Gruber&amp;rsquo;s neglected gift to the world), and yet, I always find myself looking for another option, periodically launching into a Google deep dive that rarely leads to a better solution.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Legal System on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/legal-system/</link>
+    <description>Recent content in Legal System on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 01 Jul 2015 06:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/legal-system/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Game Genie Generation</title>
+      <link>/2015/07/01/the-game-genie-generation/</link>
+      <pubDate>Wed, 01 Jul 2015 06:30:00 +0000</pubDate>
+      
+      <guid>/2015/07/01/the-game-genie-generation/</guid>
+      <description>Today in Tedium: For kids of a certain age, the Game Genie was a life-changer. Literally. It could change the number of lives you had in whatever cartridge you put it on, as well as do a bunch of other crazy things to the game you were playing. It provided a thrill that we&amp;rsquo;ve kinda gotten away from as video games have grown more complex, but the device leaves behind a rich legacy.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pentalobe Screwdriver on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/pentalobe-screwdriver/</link>
+    <description>Recent content in Pentalobe Screwdriver on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 16 Sep 2016 07:26:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/pentalobe-screwdriver/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>We Screwed Up</title>
+      <link>/2016/09/16/screw-history-standards/</link>
+      <pubDate>Fri, 16 Sep 2016 07:26:00 +0000</pubDate>
+      
+      <guid>/2016/09/16/screw-history-standards/</guid>
+      <description>Today in Tedium: Despite the name of this internet publication, I&amp;rsquo;ve never mentioned what might perhaps be the most tedious part of the world&amp;rsquo;s modern existence, the most basic of building blocks that connects every one of our devices, manufacturing processes, and likely even the chair you&amp;rsquo;re sitting in right now: The screw. It strikes me that screws are the ultimate example of objects that hide under our noses that we never think about.</description>
+    </item>
+    
+  </channel>
+</rss>

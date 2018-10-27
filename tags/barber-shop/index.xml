@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Barber Shop on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/barber-shop/</link>
+    <description>Recent content in Barber Shop on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 02 Aug 2017 07:07:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/barber-shop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bend, Don’t Break</title>
+      <link>/2017/08/02/unbreakable-combs-history/</link>
+      <pubDate>Wed, 02 Aug 2017 07:07:00 +0000</pubDate>
+      
+      <guid>/2017/08/02/unbreakable-combs-history/</guid>
+      <description>Today in Tedium: Modern hair combs are unusually simple tools—perhaps our simplest. Their single row of bristles, usually black, are designed to do one thing—separate and organize your hair follicles into a more attractive format. They do this effectively, without the need of any electricity. And they’re cheap, too—you never have one when you need one, but you can buy a pack of 72 of them for eight bucks, or 11 cents each.</description>
+    </item>
+    
+    <item>
+      <title>A Little off the Top</title>
+      <link>/2016/02/17/barber-shop-credit-card-transactions/</link>
+      <pubDate>Wed, 17 Feb 2016 03:57:00 +0000</pubDate>
+      
+      <guid>/2016/02/17/barber-shop-credit-card-transactions/</guid>
+      <description>Today in Tedium: If you find yourself in a mom-and-pop barber shop or hair salon of any kind, you might find this common (but annoying) state of affairs in play: Despite the fact that basically every other store on the block accepts credit cards, the barber shop is the lone holdout on that front, forcing consumers who may have otherwise stopped paying cash for most things long ago to hit up the ATM.</description>
+    </item>
+    
+  </channel>
+</rss>

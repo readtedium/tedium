@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>University on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/university/</link>
+    <description>Recent content in University on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 28 Feb 2017 07:53:20 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/university/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>a lowercase controversy</title>
+      <link>/2017/02/28/quinnipiac-university-lowercase-logo-controversy/</link>
+      <pubDate>Tue, 28 Feb 2017 07:53:20 +0000</pubDate>
+      
+      <guid>/2017/02/28/quinnipiac-university-lowercase-logo-controversy/</guid>
+      <description>the thing with uppercase letters is that if they aren’t there, you start to miss them after a while. they tend to carry a certain weight about them, one that speaks to a certain authority.
+(IT’S AN AUTHORITY LOST WHEN EVERY SINGLE LETTER IS UPPERCASE.)
+recently, this became an issue for the students of Quinnipiac university, because their school decided to change its logo without uppercasing the u.
+angry petitions were filed, and complaints on social media followed.</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s Teach Textbooks A Lesson</title>
+      <link>/2016/08/26/college-textbooks-high-prices-theories/</link>
+      <pubDate>Fri, 26 Aug 2016 07:39:00 +0000</pubDate>
+      
+      <guid>/2016/08/26/college-textbooks-high-prices-theories/</guid>
+      <description>Today in Tedium: When I recently wrote about airport stores, one of the most interesting (albeit minor) facets of the piece was the fact that airport travelers are generally considered a captive audience, making it easy for shops to jack up prices. But they&amp;rsquo;re far from the only industry sector that knows a thing or two about captive audiences. Just ask textbook publishers; they&amp;rsquo;re experts at this sort of thing. (It&amp;rsquo;s like they&amp;rsquo;re selling EpiPens.</description>
+    </item>
+    
+  </channel>
+</rss>

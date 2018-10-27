@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Loud Noises on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/loud-noises/</link>
+    <description>Recent content in Loud Noises on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 24 Jan 2018 09:25:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/loud-noises/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Worst Part Of Waking Up</title>
+      <link>/2018/01/24/digital-alarm-clock-history/</link>
+      <pubDate>Wed, 24 Jan 2018 09:25:00 +0000</pubDate>
+      
+      <guid>/2018/01/24/digital-alarm-clock-history/</guid>
+      <description>Today in Tedium: Here’s a strange question for you Tedium readers out there. Can you become nostalgic for abrasive noises? Particularly those noises that are specifically designed to force you out of bed into the arms of morning glory? I ask this because I was posed a question on this topic recently by a pal of mine, Sarah Davis, a.k.a. Laughterkey, one of the best Tumblr users of all time. She was watching a cooking video recently when she heard an alarm that took her way back to her childhood—a staccato four-beep sound which you can find isolated here.</description>
+    </item>
+    
+    <item>
+      <title>LOUD NOISES</title>
+      <link>/2015/01/23/loudest-noises-ever-nuclear-attack/</link>
+      <pubDate>Fri, 23 Jan 2015 07:00:00 +0000</pubDate>
+      
+      <guid>/2015/01/23/loudest-noises-ever-nuclear-attack/</guid>
+      <description>Today in Tedium: This week, the Federal Communications Commission dropped the hammer on cable-TV giants ESPN and Viacom, fining them a combined $1.4 million for running an ad for the movie Olympus Has Fallen. The reason? The ad featured tones from the Emergency Alert System (EAS), and the FCC was not cool with allowing an advertiser to use the tones. They weren&amp;rsquo;t the only ones to face the fine—NBCUniversal got nailed by a $530,000 fine in 2014.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soft Modem on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/soft-modem/</link>
+    <description>Recent content in Soft Modem on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 21 Mar 2017 07:45:37 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/soft-modem/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Going Soft</title>
+      <link>/2017/03/21/dial-up-soft-modem-history/</link>
+      <pubDate>Tue, 21 Mar 2017 07:45:37 +0000</pubDate>
+      
+      <guid>/2017/03/21/dial-up-soft-modem-history/</guid>
+      <description>Dial-up modems were underpowered enough back in the days of AOL, but at the height of their popularity, manufacturers figured out a way to make them even worse.  During the late ‘90s, a spate of companies, including big name modem manufacturers like U.S. Robotics, Motorola, and PCtel, had the idea to replace hardware-based modems, which generally required a separate digital signal processor to manage the dial-up connection, with software-based equivalents, which took this task and put it on top of the CPU already being used.</description>
+    </item>
+    
+  </channel>
+</rss>

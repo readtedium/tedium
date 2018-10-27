@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refrigerator on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/refrigerator/</link>
+    <description>Recent content in Refrigerator on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 04 Apr 2018 07:40:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/refrigerator/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tales From The Minibar</title>
+      <link>/2018/04/04/why-are-hotel-minibars-expensive/</link>
+      <pubDate>Wed, 04 Apr 2018 07:40:00 +0000</pubDate>
+      
+      <guid>/2018/04/04/why-are-hotel-minibars-expensive/</guid>
+      <description>Today in Tedium: More than 20 years ago, a reporter for The New Republic took a sharp stab at a famous conservative conference by implying nefarious activity that involved a minibar. “The minibar is open and empty little bottles of booze are scattered on the carpet,” the reporter wrote of the 1997 Conservative Political Action Conference (CPAC). “On the bed, a Gideon Bible, used earlier in the night to resolve an argument, is open to Exodus.</description>
+    </item>
+    
+  </channel>
+</rss>

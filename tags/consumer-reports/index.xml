@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Consumer Reports on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/consumer-reports/</link>
+    <description>Recent content in Consumer Reports on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 16 Feb 2018 09:55:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/consumer-reports/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Consumer Conflict</title>
+      <link>/2018/02/16/consumer-reports-history-origin/</link>
+      <pubDate>Fri, 16 Feb 2018 09:55:00 +0000</pubDate>
+      
+      <guid>/2018/02/16/consumer-reports-history-origin/</guid>
+      <description>Today in Tedium: Last year, a consumer advocate showed up in the most unlikely place: On YouTube, the home of the no-questions-asked unboxing channel. Cody Crouch, aka iTwe4kz, reviewed a set of earbuds from a company called Kanoa. In a Nike hat and a Puma sleeveless shirt, Crouch (who was clearly frustrated) trashed the earbuds at length and questioned the behavior of the company that was banking on him to give a good review.</description>
+    </item>
+    
+  </channel>
+</rss>

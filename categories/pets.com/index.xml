@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pets.com on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/pets.com/</link>
+    <description>Recent content in Pets.com on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 25 Jan 2017 21:50:19 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/pets.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Impurrfect History</title>
+      <link>/2017/01/25/cats-dot-com-domain-history/</link>
+      <pubDate>Wed, 25 Jan 2017 21:50:19 +0000</pubDate>
+      
+      <guid>/2017/01/25/cats-dot-com-domain-history/</guid>
+      <description>Let’s face facts: Having an awesome domain name is no guarantee for success. This was proven just a couple of weeks ago in my piece about the failure of Pets.com. But it still highlights a whole lot of potential.  Which is why the recent domain sale of Cats.com—literally, an entire domain name for the internet’s favorite animal—is one that we should closely watch. The domain is currently sitting at $125,000 on the auction site Flippa, and will sell to the highest bidder in the next five days.</description>
+    </item>
+    
+    <item>
+      <title>All Sock Puppets Go To Heaven</title>
+      <link>/2017/01/13/pets-dot-com-failure-history/</link>
+      <pubDate>Fri, 13 Jan 2017 09:52:00 +0000</pubDate>
+      
+      <guid>/2017/01/13/pets-dot-com-failure-history/</guid>
+      <description>Today in Tedium: How much was the Silicon Valley bubble responsible for the companies that failed the hardest at the turn of the 21st century? Conversely, how responsible were the basic ideas behind those companies for those failures? Was it really terrible timing, or a stock market that couldn’t support the tech world’s innovation during a hugely creative period? Or did the tech world simply prop up ideas, or at least businesses, that didn’t actually work?</description>
+    </item>
+    
+  </channel>
+</rss>

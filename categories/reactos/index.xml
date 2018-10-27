@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reactos on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/reactos/</link>
+    <description>Recent content in Reactos on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 21 Apr 2017 07:32:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/reactos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Operating In Obscurity</title>
+      <link>/2017/04/21/obscure-operating-systems-os2-qnx/</link>
+      <pubDate>Fri, 21 Apr 2017 07:32:00 +0000</pubDate>
+      
+      <guid>/2017/04/21/obscure-operating-systems-os2-qnx/</guid>
+      <description>Today in Tedium: Operating systems are the cockroaches of the digital revolution. They’re everywhere, hiding in low-level crevices, and most of the time, you don’t really notice when they’re there—except, of course, when they draw attention to themselves. (Cough, cough Windows 8 cough.) But most of those operating systems fade from view—except when they don’t. Case in point: The company Arca Noae claims it’s about to launch a brand-new version of IBM’s coulda-been ‘90s contender, OS/2.</description>
+    </item>
+    
+  </channel>
+</rss>

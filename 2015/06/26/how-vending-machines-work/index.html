@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta name="generator" content="Hugo 0.49.2" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title> A Machine That Gives You Stuff </title>
+
+    
+    <meta name="description" content="Vending machines have a long, storied history that dates back to … whaddya mean I can&#39;t get my candy bar out of this stupid thing?!"> 
+      
+    
+    
+    
+
+    
+
+  <meta name="author" content="Ernie Smith">
+
+
+    <meta property="og:title" content="A Machine That Gives You Stuff" />
+<meta property="og:description" content="Vending machines have a long, storied history that dates back to … whaddya mean I can&#39;t get my candy bar out of this stupid thing?!" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/2015/06/26/how-vending-machines-work/" /><meta property="article:published_time" content="2015-06-26T07:21:00&#43;00:00"/>
+<meta property="article:modified_time" content="2015-06-26T07:21:00&#43;00:00"/>
+
+    
+
+
+
+
+
+    
+    
+    
+
+    <link rel="canonical" href="/2015/06/26/how-vending-machines-work/">   <link rel="shortcut icon" type="image/png" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABwlBMVEUAAAA/3MUK07UJ0rRk6NkC0rMAw5sAx6Ic1rs/3MYAlU0E0rQAhjMAyKIAiTkM07UJ07UAhC8m2L4o2L5O4Msn2L4AzKoAzq0128Mo2b8F0rQE0rMu2cAt2cAA0bI228MA0LAAy6kr2b8Q1LcF0rMH0rUAxp4t2b8c1ros2b8P1LcAzKsAzq4528Q02sIM07YAfyg93cUD0rMA0LEA0bFK4c0M1LcL07Uv2sEAzawY1rlJ4c0w2sEAzKkY1rqr+PQN07Yj170G0rQI07UF0bMt2cAF0rMC0bIL07UF0bMs2cAF0rMA0bIC0bIL07UF0rMA0bIA0bIA0bIO1LYr2b8N07Yp2L4F0rMF0rQJ07UA0bIC0bMA0bIH0rQK07UD0bMA0LAF0rMAyqYE0rMA0bIS1Lg228ID0bMM07YS1LcI07QL07UJ07UC0bMM07YG0rMS1Lc328IR1LcC0bIK07UM07Yo2L4P1LcL07UD0rMD0rMD0rMB0bIH0rQ23MMQ1LcD0rMN1LYB0LAJ0rQ33MMG0bMP1bgD0rMN07YH0rQH0rQ33MQF0rMD0rMN1LYo2L4F0rQG0rSA6tsA0bIB0bL////yxqscAAAAk3RSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgnDXAUItvZKBAi6+vpMuf3++wEIAQcEBFn5AgR9UwMEoQLD/AEH4AIdAzha+UMEAQcc9AM4CAFSA9IC+4AEAc8yAwIEBAHOMQOBBLfLMAnFlAJNsa0LAAAAAWJLR0SVCGB6gwAAAAd0SU1FB+EBBBI4BduZ4woAAAF5SURBVDjLY2CAAUYmZgcWRydnVhc2dg4GTMAJlOdydZvs7sHtiU0FSJ7Hy3uyz2RfP24XNl4OLPJ8Xv5A+YBAsAo0M2DyQZMnY1fBL+AgCJXHrkIoWDgEJo9NhUioaBhCHqoiXExcAqZAMkIqckrU5MkoKqSjZeAmyMbIxSIZAFIRMCVOOl4epkAmQSERrwKOJMXkySl4rEhVSkufHDAZtyMzlDPdJweiyiN7UyRLIHsKQj5wMnowSIar5ExJQcjn5qnmqyFHlzqKL7EoQPMlphUaaL7EcGSBZiGKLzFUZGgVFSP5ElNFCVPpFORwhAeVto4uWEGwUJk3alSAVXhIR+tB7ShHTi5QkOIzpUKqEmKCPpODgReaipSUyVWl0tW6GEkWGhRBk2tq6wzrsSVqqPaGRqOmZmMTXWwqwNpbTFvbzMwtsGUMoPb2DqOmTksxK2xZLyhgck1XtzVIuw22zNszeXJvH0i7rR1G9gVlf/v+CRMnWaPYDgA74gwO0j2znAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxNy0wMS0wNFQxODo1NjowNSswMTowME2yC4wAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTctMDEtMDRUMTg6NTY6MDUrMDE6MDA877MwAAAAV3pUWHRSYXcgcHJvZmlsZSB0eXBlIGlwdGMAAHic4/IMCHFWKCjKT8vMSeVSAAMjCy5jCxMjE0uTFAMTIESANMNkAyOzVCDL2NTIxMzEHMQHy4BIoEouAOoXEXTyQjWVAAAAAElFTkSuQmCC">
+
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"> 
+    <link rel="stylesheet" href="https://cdn.tedium.co/MyFontsWebfontsKit.css" />
+    <link rel="stylesheet" href="https://emailoctopus.com/bundles/emailoctopuslist/css/formEmbed.css">
+    <link rel="stylesheet" href="/css/bulma.min.css"> 
+    <link rel="stylesheet" href="/css/landing.css">   
+    
+    
+</head>
+
+
+<body class="tedium-body">
+    <header> 
+
+<nav class="navbar is-transparent">
+  <div class="navbar-brand">
+    <a class="navbar-item" href="/">
+      <img src="https://cdn.tedium.co/logo.gif" alt="Tedium logo">
+    </a>
+    <div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </div>
+
+  <div class="navbar-menu">
+    <div class="navbar-start">
+      
+      <a class="navbar-item" target="blank" href="https://github.com/github">
+        <span class="icon">
+          <i class="fa fa-github"></i>
+        </span>
+      </a>
+      
+
+      
+      <a class="navbar-item" target="blank" href="https://twitter.com/twitter">
+        <span class="icon">
+          <i class="fa fa-twitter"></i>
+        </span>
+      </a>
+      
+    </div>
+
+    
+    
+    <span class="navbar-burger">
+        <span></span>
+        <span></span>
+        <span></span>
+    </span>
+
+    
+    
+    <div class="navbar-end">
+      <div class="navbar-item">
+        
+        
+          <a itemprop="url" class="navbar-item  is-active" href="/post/"><span itemprop="name">Posts</span></a>
+        
+      </div>
+    </div>
+  </div>
+</nav>
+ </header>
+    <main>
+
+<div class="is-newspaper">
+<div class="is-top-edge">
+    <div class="is-right-edge">
+<div class="main-container" itemscope itemtype="http://schema.org/BlogPosting">
+     
+<meta itemprop="name" content="A Machine That Gives You Stuff">
+<meta itemprop="description" content="Vending machines have a long, storied history that dates back to … whaddya mean I can&#39;t get my candy bar out of this stupid thing?!">
+
+
+<meta itemprop="datePublished" content="2015-06-26T07:21:00&#43;00:00" />
+<meta itemprop="dateModified" content="2015-06-26T07:21:00&#43;00:00" />
+<meta itemprop="wordCount" content="1311">
+
+
+
+<meta itemprop="keywords" content="history,retail,commerce,food,vending machines,holy water," />
+
+    <section class="hero is-primary is-medium article-banner"  style="background-image: url('https://tedium.imgix.net/2018/04/tedium062515--1-.gif')" >
+        <div class="hero-body">
+            <div class="container has-text-centered">
+                <h2><a href="/"><img src="https://cdn.tedium.co/logo.gif" alt="Tedium: The Dull Side of the Internet."></a></h2>
+
+            </div>
+        </div>
+    </section>
+    <section class="section article-headline">
+        <div class="container">
+          <div class="columns is-mobile is-centered">
+          <div class="column is-9">
+      <h1 class="title is-2" itemprop="headline">
+          A Machine That Gives You Stuff
+      </h1>
+      
+      <h2 class="subtitle" itemprop="description">Vending machines have a long, storied history that dates back to … whaddya mean I can&#39;t get my candy bar out of this stupid thing?!</h2>
+      
+      <p class="has-text-centered"><span class="icon">
+  <i class="fa fa-clock-o" aria-hidden="true"></i>
+</span>
+<span>7 minute read</span>
+<span class="icon">
+ <i class="fa fa-pencil" aria-hidden="true"></i>
+</span>
+
+  Published: <time datetime="2015-06-26T07:21:00&#43;00:00">Jun 26, 2015</time>
+
+</p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="section blog">
+        <div class="container">
+            <div class="columns is-mobile is-centered">
+                <div class="column is-9">
+
+                    <div class="content blog-post section" itemprop="articleBody">
+
+                        
+
+
+                        <p><div class="md-whitebox">
+  <p><span class="md-big">
+  <strong>Today in Tedium:</strong> Vending machines are one of the few things keeping us away from the dream of a cashless society. The devices, which offer up an array of items for a little bit of pocket change, are silent but prevalent. They represent some of <a href="http://www.theonion.com/article/vending-machine-most-date-technology-school-50737">our most technologically advanced</a> furniture, and they&rsquo;ll probably always be there for us in our time of need. Today&rsquo;s Tedium discusses their history—along with why, for some reason, they make us want to steal stuff. <em>— Ernie @ Tedium</em>
+</span></p>
+
+</div>
+<div class="md-graybox">
+  <p><img src="https://tedium.imgix.net/2018/04/iyzxfbufhi7tyqcgdgqc.jpg" alt="First vending machine" /></p>
+
+<h3 id="the-first-vending-machine-was-created-to-prevent-holy-water-theft">The first vending machine was created to prevent holy water theft</h3>
+
+<p><strong>Heron of Alexandria invented a lot of things,</strong> many of which helped set the stage for our modern society. Steam engine? <a href="http://www.ancient-origins.net/ancient-technology/ancient-invention-steam-engine-hero-alexandria-001467">He was all over it</a>. A wind-powered machine? <a href="https://commons.wikimedia.org/wiki/File:Heron's_Windwheel.jpg">That was him</a>. The syringe? <a href="https://explorable.com/heron-inventions">He got there first</a>.</p>
+
+<p>But perhaps the most interesting thing he invented during his lifetime was a machine that efficiently ensured that people weren&rsquo;t taking too much holy water at the temples where they went to worship. It was an annoying, frustrating problem, <a href="http://io9.com/5901156/the-first-ever-vending-machine-stopped-people-from-stealing-holy-water">but Heron came up with a solution that was immensely clever</a>.</p>
+
+<p>Basically, people would drop tokens inside of the holy water dispenser, and the weight of the token would push against a lever that opened a small door. While the door was open, the holy water would fall out. Eventually, however, the coin would fall and the door would close—ensuring that people never took more than their fair share of holy water.</p>
+
+<p>The craziest part? Modern society didn&rsquo;t really embrace his invention for about 1,800 years. Heron died around 70 A.D.; it wasn&rsquo;t until 1883, when inventor Percival Everett <a href="https://books.google.com/books?id=iCSqgzfy38QC&amp;pg=PA6&amp;lpg=PA6&amp;dq=Percival+Everitt+postcard&amp;source=bl&amp;ots=rqk92gp0Tf&amp;sig=x5U9FYFCy5v67dw8axfAK9OXeNA&amp;hl=en&amp;sa=X&amp;ei=tJ-MVZ_NBNSiyASd3Y3wAQ&amp;ved=0CCsQ6AEwAg#v=onepage&amp;q=Percival%20Everitt%20postcard&amp;f=false">created a vending machine for postcards and notepaper</a>, that Heron&rsquo;s idea proved to have a lasting impact.</p>
+
+<p>Granted, we use it <a href="http://us9.campaign-archive1.com/?u=dfa53e03a5aa8e49e4fb09eb0&amp;id=377a369725&amp;e=266d2f683f">for Cool American Doritos</a> these days rather than holy water, but the mechanisms are fairly similar—money goes in, gears turn, stuff comes out. Everything should be this simple.</p>
+
+</div>
+<div class="md-redbox">
+  <div class="md-number">
+  <h3 id="3-4k">$3.4k</h3>
+
+</div>
+
+<p><span class="md-big">
+  <strong>The amount it&rsquo;ll cost you</strong> to buy a standard vending machine <a href="http://amzn.to/1TQ4wNk">on Amazon</a>. If you charge $1.25 for each item, pay 75 cents wholesale for each item inside, and sell twenty items per week from your vending machine, you&rsquo;ll make your money back in about six and a half years. That hasn&rsquo;t, however, stopped the vending machine industry from <a href="http://phys.org/news/2011-04-vending-machines-high-tech-web-based.html">earning more than $20 billion in revenue</a> each year.
+</span></p>
+
+</div>
+<div class="md-whitebox">
+  <p><img src="https://tedium.imgix.net/2018/04/y01stnfam1cjg14bzv2l.jpg" alt="Coin-op TV" /></p>
+
+<h3 id="saw-you-and-me-on-the-coin-op-tv">Saw you and me on the coin-op TV</h3>
+
+<p><strong>Vending machines have traditionally been associated</strong> with just a few types of products—basically, food and drink. However, the basic mechanisms that drive vending are pretty common in other products, such as laundry machines, arcade games, and jukeboxes.</p>
+
+<p>Perhaps the weirdest such use of the coin-operated mechanism, however, is the coin-operated television. Popular in the 1960s and the 1970s, the devices allowed people to pay a quarter to watch half an hour of local television, a respite that certainly came in handy during periods where you were basically stuck somewhere for a long time—think bus stations, airports, and laundromats.</p>
+
+<p>The most well-known brand for coin-op televisions was the Tel-A-Chair, which was prominent at LAX. A 1970 _Parade_ magazine article, <a href="http://www.retrospace.org/2015/06/tech-30-tv-chair.html">recently resurfaced by <em>Retrospace</em></a>, highlights the fact that the chairs were moneymakers for both the company and the airport.</p>
+
+<p>&ldquo;It costs us $350 to manufacture a chair,&rdquo; creator John W. Rich noted. &ldquo;And we give the airports and bus stations 35 percent of the revenue for the location. We&rsquo;ve had requests from dozens of airports, rail-roads, bus stations, and beauty parlors. Wherever people wait, the Tel-A-Chair is a natural.&rdquo;</p>
+
+<p>It was a good idea, though one with a limited time frame. Within two decades, laptops and Game Boys became popular time-wasters. Within four decades, everyone had smartphones, WiFi, and Netflix to kill our wasted time. Who needs a coin-operated TV when you have Siri in your pocket?</p>
+
+<p>Arcade machines can be put into the same category as coin-op TVs when you think about it. When&rsquo;s the last time you walked into an arcade that wasn&rsquo;t owned by Dave or Buster? Stuff is easier to vend than experiences are.</p>
+
+</div>
+<div class="md-redbox">
+  <div class="md-number">
+  <h3 id="119">119</h3>
+
+</div>
+
+<p><strong>The number of ridges</strong> that one can find <a href="http://mentalfloss.com/article/28044/how-many-ridges-are-quarter-and-why-are-they-there-first-place">on an American quarter</a>. Ridges came about as a fraud-prevention device, and most vending machines can recognize those ridges. Vending machines are generally smart enough to figure out the relative dimensions of a quarter, a dime, and a nickel—and the number of ridges are an important part of that equation as they help give the coins their basic shape. Despite being significantly smaller than quarters, by the way, dimes have 118 ridges, just one less than their higher-in-value cousins.</p>
+
+</div>
+<div class="md-graybox">
+  <h3 id="five-methods-that-vending-machines-have-used-to-verify-dollar-bills">Five methods that vending machines have used to verify dollar bills</h3>
+
+<ol>
+<li><strong>Magnetic tape heads:</strong> Much like your 8-tracks of lore, early dollar-eating vending machines <a href="http://www.nytimes.com/1999/04/08/technology/in-vending-machine-brains-that-tell-good-money-from-bad.html">relied on a tape-head-style mechanism</a> to detect whether a dollar had the correct amount of iron content that a dollar does. This eventually proved easy to defeat, because laser printers created output with similar amounts of iron-laced ink.</li>
+<li><strong>Optical sensors:</strong> Starting in the early 1990s, vending machines switched to using what could best be described as low-resolution digital cameras to verify a dollar bill&rsquo;s validity. The device would look for specific patterns in the dollar, and if they didn&rsquo;t work, they didn&rsquo;t accept your dollar. That&rsquo;s why your crumpled-up bill never works.</li>
+<li><strong>Size analysis:</strong> All U.S. dollar bills made in the last 85 years or so have roughly the same dimensions, and as a result, a dollar-scanning machine can figure out whether a bill is the right weight, thickness, and size to be accepted by the machine.</li>
+<li><strong>Infrared detection:</strong> Most modern dollar bills have a strip of infrared tape baked into the bill. <a href="http://www.fraudfighter.com/counterfeit-detection-id-verification/bid/54918/Counterfeit-Detection-Infrared-Scanners-UV-Lights-Multi-Testers">This strip is detected by the machine</a>, making it easy to figure out whether a bill is real or fake. Often, counterfeiters will take lower-denomination bills, turn them into $20s or $100s, and pass those off as the real deal. Unfortunately for them, the infrared strip doesn&rsquo;t lie.</li>
+<li><strong>Ultraviolet lights:</strong> That $20 in your pocket has a tiny little strip of mylar woven through. Not that you&rsquo;d ever see it by just looking at it—you need an ultraviolet light to detect its fluorescence. That just happens to be something a dollar-scanner has.</li>
+</ol>
+
+</div>
+<div class="md-whitebox">
+  <div class="md-quote">
+  <h3 id="let-s-not-kid-ourselves-here-we-re-not-trying-to-get-into-these-things-for-the-aesthetic-value-of-the-job-we-want-the-stuff-inside">&ldquo;Let&rsquo;s not kid ourselves here. We&rsquo;re not trying to get into these things for the aesthetic value of the job. We want the stuff inside.&rdquo;</h3>
+
+</div>
+
+<p><strong>— A 2001 document</strong> discussing the nature of breaking into a vending machine using methods such as saltwater, clay, and using laminated dollars. <a href="http://www.textfiles.com/uploads/vendingm.txt">The document</a>, which is probably grossly out of date and full of advice dating back to the BBS era, features this perfectly useless warning that would never hold up in a court of law: &ldquo;I do not in any way promote any illegal activity in this file all information provided here is purely for informational purposes. So if you get caught, don’t come whining to me.&rdquo;</p>
+
+</div>
+<div class="md-graybox">
+  <p><strong>When I was in college,</strong> there was a vending machine in my dorm that had a somewhat infamous reputation. The machine, which offered up beverages such as Starbucks Frappuccinos and various juices, was poorly designed. How poor? Well, people could easily put their arms into the bottom and reach through, allowing them to grab beverages on the bottom row with no problem.</p>
+
+<p>It was so effective that the bottom row was pretty much always empty.</p>
+
+<p>But the memory that stands out most about this specific vending machine involved the time that, in the middle of the night, a muscular dude who lived on my floor decided it would be a great idea to lift up the vending machine to see what would come out. Sound superhuman? It probably was. But the guy did it, and after the machine thudded back down three or four inches, it was a jackpot. Every single drink in the machine hit the bottom.</p>
+
+<p>It was a victory for poor college students everywhere.</p>
+
+</div>
+</p>
+
+                    </div>
+                    <div class="title is-4">
+                        <p>
+  Published
+  
+    
+      by <span itemprop="author">Ernie Smith</span>
+    
+  
+  <time datetime="2015-06-26T07:21:00&#43;00:00">
+    26 Jun, 2015
+  </time>
+  
+    in <span itemprop="articleSection"><a href="/categories/commerce/">commerce</a>, <a href="/categories/food/">food</a>, <a href="/categories/history/">history</a>, <a href="/categories/holy-water/">holy water</a>, <a href="/categories/retail/">retail</a> and <a href="/categories/vending-machines/">vending machines</a></span>
+  
+  
+    and tagged <a href="/tags/commerce/">commerce</a>, <a href="/tags/food/">food</a>, <a href="/tags/history/">history</a>, <a href="/tags/holy-water/">holy water</a>, <a href="/tags/retail/">retail</a> and <a href="/tags/vending-machines/">vending machines</a>
+  
+  using <span itemprop="wordCount">1311</span> words.
+</p>
+
+                        
+  
+
+
+
+  <aside>
+    <header><strong>Related Content</strong></header>
+    <hr>
+    <ul>
+      
+      
+        <li><a href="/2018/10/19/stapler-history-office-supplies/">Dual-Pronged</a> &ndash; 12 minutes
+      
+        <li><a href="/2018/10/17/halloween-stores-history/">The Halloween-Industrial Complex</a> &ndash; 9 minutes
+      
+        <li><a href="/2018/09/26/why-airport-stores-are-named-after-tv-networks/">Network Effects</a> &ndash; 9 minutes
+      
+        <li><a href="/2018/08/22/three-stooges-history/">Stooge Story</a> &ndash; 14 minutes
+      
+        <li><a href="/2018/06/06/velcro-history/">Hooked On Velcro</a> &ndash; 12 minutes
+      
+        <li><a href="/2018/04/18/frozen-pizza-history/">It’s Not Delivery, It’s …</a> &ndash; 11 minutes
+      
+        <li><a href="/2018/04/04/why-are-hotel-minibars-expensive/">Tales From The Minibar</a> &ndash; 11 minutes
+      
+    </ul>
+  </aside>
+
+
+                    </div>
+
+                    
+
+                </div>
+            </div>
+
+        </div>
+    </section>
+</div>
+
+</div>
+</div>
+</div>
+
+</main>
+    <footer> <footer class="footer" style="background-image: url(https://cdn.tedium.co/aerodromenew3.png); background-size: cover; background-position: center;">
+    <div class="container">
+        <div class="content has-text-centered">
+          <div class="copyright">
+            <p><a href="/"><img src="https://cdn.tedium.co/t-logo.gif"></a></p>
+            <p>Copyright © 2015-2018 <a href="https://tedium.co/">Tedium: The Dull Side of the Internet.</a> All rights reserved. <br> <a href="https://tedium.co/about">About Tedium</a> | <a href="https://www.patreon.com/tedium">Support us on Patreon</a> | <a href="https://tedium.co/contribute">Share your ideas!</a> | <a href="https://tedium.co/privacy-policy/">Privacy Policy</a> |  <a href="https://tedium.co/advertising/">Advertise With Us</a>
+              <br>
+              <em><strong>Disclosure:</strong> From time to time, we may use affiliate links in our content—but only when it makes sense. Promise.</em>
+              <br>
+              <em><strong>A note regarding emails:</strong> Tedium-related queries only please. PR requests unrelated to this project will be ignored.</em></p>
+          </div>
+            <p>
+                Based on <a href="https://gohugo.io/">Hugo</a> and <a href="https://themes.gohugo.io/bulma/">Bulma</a>.
+                
+                Additional power is provided by
+                  <strong>love</strong>.
+                
+            </p>
+        </div>
+    </div>
+</footer>
+ </footer>
+
+    <script async type="text/javascript" src="/js/bulma.js"></script>
+    <script async type="text/javascript"  src="/js/clipboard.min.js"></script>
+    <script async type="text/javascript"  src="/js/clip.js"></script>
+</body>
+
+</html>

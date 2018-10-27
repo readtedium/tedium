@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christmas Music on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/christmas-music/</link>
+    <description>Recent content in Christmas Music on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 23 Dec 2015 20:41:29 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/christmas-music/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Christmas on Repeat</title>
+      <link>/2015/12/23/christmas-nostalgia-psychology/</link>
+      <pubDate>Wed, 23 Dec 2015 20:41:29 +0000</pubDate>
+      
+      <guid>/2015/12/23/christmas-nostalgia-psychology/</guid>
+      <description>Editor&amp;rsquo;s note: This is a special Wednesday morning issue, in an effort to get ahead of your holiday travel. We&amp;rsquo;ll be back to our normal Tuesday/Thursday schedule next week.
+Today in Tedium: Every year, I have a tradition that I&amp;rsquo;ve followed pretty religiously for more than a decade. Whether in its original form or in its Mystery Science Theater 3000 send-up, I&amp;rsquo;ll watch the junk-culture film Santa Claus Conquers the Martians, despite knowing that the movie is perhaps one of the worst of all time.</description>
+    </item>
+    
+  </channel>
+</rss>

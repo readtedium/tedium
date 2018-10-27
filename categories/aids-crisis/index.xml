@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aids Crisis on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/aids-crisis/</link>
+    <description>Recent content in Aids Crisis on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 21 Sep 2018 07:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/aids-crisis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Giving Candy A Bad Name</title>
+      <link>/2018/09/21/ayds-candy-branding-problem/</link>
+      <pubDate>Fri, 21 Sep 2018 07:30:00 +0000</pubDate>
+      
+      <guid>/2018/09/21/ayds-candy-branding-problem/</guid>
+      <description>Today in Tedium: A few years ago, the wireless industry thought it could win a potentially lucrative game—that of the mobile wallet, which was just starting to get off the ground thanks to the smartphone. They had all the elements in place to pull it off, including support of most of the major wireless providers. But there was a problem—the name. Back in 2010, naming a technology product ISIS Wallet might have seemed like a novel idea, but by 2014, the name had become forever associated with a terrorist organization, and the idea had completely lost momentum as a result.</description>
+    </item>
+    
+  </channel>
+</rss>

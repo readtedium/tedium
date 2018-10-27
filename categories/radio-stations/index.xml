@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Radio Stations on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/radio-stations/</link>
+    <description>Recent content in Radio Stations on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 18 May 2017 06:59:04 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/radio-stations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Swearing In Code</title>
+      <link>/2017/05/18/pearls-before-swine-morse-code-swearing/</link>
+      <pubDate>Thu, 18 May 2017 06:59:04 +0000</pubDate>
+      
+      <guid>/2017/05/18/pearls-before-swine-morse-code-swearing/</guid>
+      <description>Unless you’re listening to a numbers station for work reasons, odds are that you aren’t going to need Morse Code for any good reason. Which means that, if you want to take advantage of the lack of general knowledge of Morse Code, you absolutely can.  The folk group Pearls Before Swine, a modest psychedelic phenomenon in 1967, thought they were pulling a fast one on their audience when they recorded the tune “Oh Dear (Miss Morse),” the most popular song from the band’s hit album One Nation Underground.</description>
+    </item>
+    
+    <item>
+      <title>Don’t Touch That Dial</title>
+      <link>/2017/01/18/radio-technology-upgrades-fmx-history/</link>
+      <pubDate>Wed, 18 Jan 2017 09:49:00 +0000</pubDate>
+      
+      <guid>/2017/01/18/radio-technology-upgrades-fmx-history/</guid>
+      <description>Today in Tedium: Recently, the Norwegian government—which has helped the country become first-movers on the electric car front—decided that it wanted to be ahead of another kind of curve. It was a curve that not everyone was ready for, however. Norway recently decided to drop FM radio, in favor of a modern equivalent, digital audio broadcasting (DAB). This early move comes with a lot of risks, as does every other attempt to mess with the technology that drives the airwaves.</description>
+    </item>
+    
+    <item>
+      <title>Waaaaay Left of the Dial</title>
+      <link>/2016/07/01/frankenfm-radio-fcc-analog-tv/</link>
+      <pubDate>Fri, 01 Jul 2016 07:50:00 +0000</pubDate>
+      
+      <guid>/2016/07/01/frankenfm-radio-fcc-analog-tv/</guid>
+      <description>Today in Tedium: TV on the Radio isn&amp;rsquo;t just the name of a really freaking good band. Instead, it&amp;rsquo;s a quirk of the design of analog television. But a funny thing happened on the way to obscurity: As analog TV gave way to digital, a handful of risk-taking broadcasters, sensing an opportunity, have started to run those analog TV stations as FM radio stations—big FCC plans be damned. The shift is surprisingly contentious in the world of broadcast.</description>
+    </item>
+    
+  </channel>
+</rss>

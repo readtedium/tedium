@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Car Stereo Design on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/car-stereo-design/</link>
+    <description>Recent content in Car Stereo Design on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 30 Nov 2016 09:49:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/car-stereo-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Security In Stereo</title>
+      <link>/2016/11/30/car-stereo-security-lessons/</link>
+      <pubDate>Wed, 30 Nov 2016 09:49:00 +0000</pubDate>
+      
+      <guid>/2016/11/30/car-stereo-security-lessons/</guid>
+      <description>Today in Tedium: Car stereos play an important role in making traveling in vehicles bearable. They give radio a reason for continued existence. They help to downplay the dull noises of wheels hitting asphalt, to blunt out engine trouble when it arises. But for decades, car stereos have had a problematic feature: They often were the most obvious thing that could be stolen out of a vehicle. Thieves could break a window, pull out the stereo with some basic tools, and sell the device on the black market for a pretty penny.</description>
+    </item>
+    
+  </channel>
+</rss>

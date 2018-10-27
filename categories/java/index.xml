@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/java/</link>
+    <description>Recent content in Java on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 13 Apr 2018 07:51:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/java/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Oracle That Spoke Too Soon</title>
+      <link>/2018/04/13/larry-ellison-network-computer-history/</link>
+      <pubDate>Fri, 13 Apr 2018 07:51:00 +0000</pubDate>
+      
+      <guid>/2018/04/13/larry-ellison-network-computer-history/</guid>
+      <description>Today in Tedium: Oracle has a few reasons to hate Google. The search company built a significant chunk of its empire, the Android operating system, based on Java, a programming language created by one of Oracle’s largest acquisitions, Sun Microsystems. As a result, the two companies have been going at it in court for years now. Google won a few rounds, but Oracle, more importantly, won the latest, likely ensuring a Supreme Court showdown.</description>
+    </item>
+    
+    <item>
+      <title>How To Checkmate Yourself</title>
+      <link>/2017/07/28/yahoo-games-failure-classicgames/</link>
+      <pubDate>Fri, 28 Jul 2017 07:41:00 +0000</pubDate>
+      
+      <guid>/2017/07/28/yahoo-games-failure-classicgames/</guid>
+      <description>Today in Tedium: This week, the world (for a brief moment) lost its collective mind after learning that Microsoft was planning to retire its legendary Paint software, which has a lineage that dates all the way back to Windows 1.0 in 1985. People calmed down some after learning that the company was creating an upgraded version of the app called Paint 3D, but make no mistake: As I hinted recently, big tech companies kill things people like all the time.</description>
+    </item>
+    
+  </channel>
+</rss>

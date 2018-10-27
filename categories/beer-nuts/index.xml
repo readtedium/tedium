@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beer Nuts on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/beer-nuts/</link>
+    <description>Recent content in Beer Nuts on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 18 Jan 2018 04:55:49 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/beer-nuts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Going Nuts for Beer Nuts</title>
+      <link>/2018/01/18/beer-nuts-history/</link>
+      <pubDate>Thu, 18 Jan 2018 04:55:49 +0000</pubDate>
+      
+      <guid>/2018/01/18/beer-nuts-history/</guid>
+      <description>If you’re a certain age or tend to watch TV shows from a certain time, you might remember the ubiquity of the humble beer nut. Almost any sitcom in the ’80s or early ’90s that involves a bar will mention beer nuts at some point. Here’s Norm Peterson using beer nuts in a clunky analogy about women:  https://www.youtube.com/watch?v=weBbZ11d5LM
+And of course, there are the mandatory Simpsons references, such as when Homer buys “Kwik-E-Mart No Name Brand Beer Nuts” or when a fake beer nuts can is spring loaded with snakes.</description>
+    </item>
+    
+  </channel>
+</rss>

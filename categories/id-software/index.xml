@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Id Software on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/id-software/</link>
+    <description>Recent content in Id Software on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 14 Feb 2018 16:10:01 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/id-software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fall Of Voodoo</title>
+      <link>/2018/02/14/3dfx-history-failure/</link>
+      <pubDate>Wed, 14 Feb 2018 16:10:01 +0000</pubDate>
+      
+      <guid>/2018/02/14/3dfx-history-failure/</guid>
+      <description>Today in Tedium: Today’s startup companies seem to have a certain arc to them—they get some seed funding, they launch, they draw some interest for their good idea, they keep growing, and maybe they become a part of the fabric of our lives … or a part of the fabric of a significantly larger company. Strangely, 3Dfx didn’t so much draw interest as blow the lid off of a trend that redefined how we think of video games.</description>
+    </item>
+    
+  </channel>
+</rss>

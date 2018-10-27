@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Future of Text Symposium on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/future-of-text-symposium/</link>
+    <description>Recent content in Future of Text Symposium on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 05 Oct 2016 07:28:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/future-of-text-symposium/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting The Next Word In</title>
+      <link>/2016/10/05/word-processors-future/</link>
+      <pubDate>Wed, 05 Oct 2016 07:28:00 +0000</pubDate>
+      
+      <guid>/2016/10/05/word-processors-future/</guid>
+      <description>Today in Tedium: Word processors are generally kind of boring—they do their job, and that&amp;rsquo;s about it. Most people don&amp;rsquo;t put a ton of second thought into their word processors. As you might have noticed from my rant from a couple of months ago, I&amp;rsquo;m not that kind of person. That rant drew up a lot of conversation, most of it good and interesting. (It did have its critics, but even their comments were interesting!</description>
+    </item>
+    
+  </channel>
+</rss>

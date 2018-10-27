@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robert Stack on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/robert-stack/</link>
+    <description>Recent content in Robert Stack on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 20 Jun 2018 03:26:11 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/robert-stack/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Solved</title>
+      <link>/2018/06/20/unsolved-mysteries-modern-updates/</link>
+      <pubDate>Wed, 20 Jun 2018 03:26:11 +0000</pubDate>
+      
+      <guid>/2018/06/20/unsolved-mysteries-modern-updates/</guid>
+      <description>More than 30 years ago, onetime Eliot Ness stand-in Robert Stack found a way to embellish his legacy in the modern era.  The solution was through a show named Unsolved Mysteries, one of the first reality-based shows of the modern era, mixing scripted plots with true stories. First appearing as a special in 1987, it became a full-fledged series not long after the success of a similar program, America’s Most Wanted on Fox.</description>
+    </item>
+    
+  </channel>
+</rss>

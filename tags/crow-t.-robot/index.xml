@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crow T. Robot on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/crow-t.-robot/</link>
+    <description>Recent content in Crow T. Robot on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 10 Aug 2018 07:18:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/crow-t.-robot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Podcasting Puppet Master</title>
+      <link>/2018/08/10/mst3k-puppeteer-interview/</link>
+      <pubDate>Fri, 10 Aug 2018 07:18:00 +0000</pubDate>
+      
+      <guid>/2018/08/10/mst3k-puppeteer-interview/</guid>
+      <description>Hey all, Ernie here with a fresh piece from David Buck, who last came to you with a piece on DOS nostalgia. This time, he highlights the story of a guy who helped bring you the most recent season of MST3K, among other things.
+Today in Tedium: From the early days of civilization to modern day pop culture, puppetry has always been used to tell stories. What happens when you mix music, comedy and puppets?</description>
+    </item>
+    
+  </channel>
+</rss>

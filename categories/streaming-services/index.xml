@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Streaming Services on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/streaming-services/</link>
+    <description>Recent content in Streaming Services on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 31 Jan 2018 09:13:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/streaming-services/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Primitive Streaming Gods</title>
+      <link>/2018/01/31/legal-music-streaming-history/</link>
+      <pubDate>Wed, 31 Jan 2018 09:13:00 +0000</pubDate>
+      
+      <guid>/2018/01/31/legal-music-streaming-history/</guid>
+      <description>Today in Tedium: This week, the music industry had a pretty good reason to cheer, and not just because of the Grammys. They won big in Washington, after the the United States Copyright Royalty Board ruled in favor of songwriters that felt like they had gotten the short end of the stick from Spotify, Apple Music, and the like. Over the next five years, the guy who wrote “All Star” and the dude who wrote “Fish Heads” will see their royalties go up by nearly 45 percent—a sign that, given time, the system works.</description>
+    </item>
+    
+    <item>
+      <title>Like A Rock</title>
+      <link>/2017/04/06/bob-seger-digital-holdout/</link>
+      <pubDate>Thu, 06 Apr 2017 07:29:00 +0000</pubDate>
+      
+      <guid>/2017/04/06/bob-seger-digital-holdout/</guid>
+      <description>Music executive Tim Quirk is best known for his band Too Much Joy, but his big problem these days is that there’s not enough joy—at least when it comes to the music of Bob Seger.  Last week, Quirk made a lengthy case in an NPR article as to why Seger, who is barely represented on any digital music platforms at all, should make his back catalog available on services like iTunes and Spotify.</description>
+    </item>
+    
+    <item>
+      <title>Streaming Before Netflix</title>
+      <link>/2017/01/06/first-streaming-service-itv-hong-kong/</link>
+      <pubDate>Fri, 06 Jan 2017 09:34:00 +0000</pubDate>
+      
+      <guid>/2017/01/06/first-streaming-service-itv-hong-kong/</guid>
+      <description>Today in Tedium: Earlier this week, I got a little grumpy over at Product Hunt, due to an undercurrent of snark around the fact that Netflix still has a DVD service. The reason for this was that too many people were skeptical about whether such a service was still necessary. It absolutely, totally is, and I’ll give you one reason why: Netflix’s DVD service has roughly 93,000 options, while its streaming service (between shows and movies) has fewer than 8,000 options—ensuring that DVDs will have a reason to exist for quite a while.</description>
+    </item>
+    
+  </channel>
+</rss>

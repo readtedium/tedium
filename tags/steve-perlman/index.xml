@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steve Perlman on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/steve-perlman/</link>
+    <description>Recent content in Steve Perlman on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 14 Sep 2016 07:53:04 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/steve-perlman/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Internet Will Be Televised</title>
+      <link>/2016/09/14/webtv-history-20th-anniversary/</link>
+      <pubDate>Wed, 14 Sep 2016 07:53:04 +0000</pubDate>
+      
+      <guid>/2016/09/14/webtv-history-20th-anniversary/</guid>
+      <description>Today in Tedium: Terrible product ideas are a dime a dozen, but what about ideas that are fascinating, and perhaps executionally sound, but conceptually flawed? How often do they come about? And how often is it that they stick around the market for 17 years, despite fairly limited public interest? Such is the case of WebTV, the set-top device that allowed you to surf a television-optimized version of the web. On September 18, 1996—20 years ago this week—a startup firm released a device that meant to bring the internet to the living room.</description>
+    </item>
+    
+  </channel>
+</rss>

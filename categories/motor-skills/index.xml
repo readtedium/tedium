@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Motor Skills on Tedium: The Dull Side of the Internet.</title>
+    <link>/categories/motor-skills/</link>
+    <description>Recent content in Motor Skills on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 22 Mar 2018 06:18:24 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/motor-skills/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Press Your Luck</title>
+      <link>/2018/03/22/button-pressing-study/</link>
+      <pubDate>Thu, 22 Mar 2018 06:18:24 +0000</pubDate>
+      
+      <guid>/2018/03/22/button-pressing-study/</guid>
+      <description>Nearly a year ago, I bought a mechanical keyboard in an attempt to understand a phenomenon that I had been hearing about for a long time—the fact that many people really freaking love the heft of these old-style keys, which don’t get nearly as much love as they probably should. What I found was that I never wanted to use my full-sized Apple keyboard ever again. Burn that thing with fire!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cats.com on Tedium: The Dull Side of the Internet.</title>
+    <link>/tags/cats.com/</link>
+    <description>Recent content in Cats.com on Tedium: The Dull Side of the Internet.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 25 Jan 2017 21:50:19 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/cats.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Impurrfect History</title>
+      <link>/2017/01/25/cats-dot-com-domain-history/</link>
+      <pubDate>Wed, 25 Jan 2017 21:50:19 +0000</pubDate>
+      
+      <guid>/2017/01/25/cats-dot-com-domain-history/</guid>
+      <description>Let’s face facts: Having an awesome domain name is no guarantee for success. This was proven just a couple of weeks ago in my piece about the failure of Pets.com. But it still highlights a whole lot of potential.  Which is why the recent domain sale of Cats.com—literally, an entire domain name for the internet’s favorite animal—is one that we should closely watch. The domain is currently sitting at $125,000 on the auction site Flippa, and will sell to the highest bidder in the next five days.</description>
+    </item>
+    
+  </channel>
+</rss>
