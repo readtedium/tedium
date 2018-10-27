@@ -4,7 +4,7 @@ categories = ["television industry", "obscure tv shows", "tv", "bad ideas", "gim
 date = 2015-12-04T09:30:00Z
 description = "The numerous ways, throughout television history, that networks have tried to convince us to keep watching. Often, they're big failures."
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1449210083/nfryyxxzfnxqdnojz581"
+image = "https://res.cloudinary.com/tedium/image/upload/v1449210083/nfryyxxzfnxqdnojz581"
 slug = "television-history-gimmicks"
 tags = ["television industry", "obscure tv shows", "tv", "bad ideas", "gimmicks", "television", "supertrain", "cop rock", "utopia", "casablanca"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "What's Your Gimmick?"
 
 {{% /redbox %}}{{% graybox %}}
 
-![Supertrain](http://res.cloudinary.com/tedium/image/upload/v1449210289/ht0sn390meqr88hdz0dc.jpg)
+![Supertrain](https://res.cloudinary.com/tedium/image/upload/v1449210289/ht0sn390meqr88hdz0dc.jpg)
 
 ### This Train Don't Stop Here Anymore
 
@@ -64,7 +64,7 @@ In the end, *Supertrain*'s failure is somewhat like the failure of Amtrak to mak
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Undateable](http://res.cloudinary.com/tedium/image/upload/v1449210427/c72uiohd4mbnvwyqdh8a.jpg)
+![Undateable](https://res.cloudinary.com/tedium/image/upload/v1449210427/c72uiohd4mbnvwyqdh8a.jpg)
 
 ### The live sitcom is making a comeback this season
 

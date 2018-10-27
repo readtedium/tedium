@@ -4,7 +4,7 @@ categories = ["business", "money", "fraud", "shell corporation", "sheldon adelso
 date = 2015-12-18T09:40:00Z
 description = "If you're looking to start a shell company and don't want anyone to know, it's really easy. Hey, Sheldon Adelson did it."
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1450418693/ozlmuxyitzgxpv2kdpyl"
+image = "https://res.cloudinary.com/tedium/image/upload/v1450418693/ozlmuxyitzgxpv2kdpyl"
 slug = "shell-companies-easy-to-launch"
 tags = ["business", "money", "fraud", "shell corporation", "sheldon adelson", "las vegas review-journal", "delaware"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "The Shell Game"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Sheldon Adelson](http://res.cloudinary.com/tedium/image/upload/v1450418990/ezpusubuxitg59piwwil.jpg)
+![Sheldon Adelson](https://res.cloudinary.com/tedium/image/upload/v1450418990/ezpusubuxitg59piwwil.jpg)
 
 ### How easy is it to set up a shell company, anyway?
 

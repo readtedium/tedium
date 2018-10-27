@@ -24,7 +24,7 @@ _**Editor's note:** Hey guys, Ernie here with the latest piece from Andrew Egan,
 
 {{% adbox bgcolor="#333333" color="#ffffff" accent="#e6461a" %}}
 
-[![Tedium on Patreon](http://res.cloudinary.com/tedium/image/upload/v1473127641/bde5tucjsc1ydroqyynd.png)](https://www.patreon.com/tedium)
+[![Tedium on Patreon](https://res.cloudinary.com/tedium/image/upload/v1473127641/bde5tucjsc1ydroqyynd.png)](https://www.patreon.com/tedium)
 
 **Keep Us Moving!** Tedium takes a lot of time to work on and snark wise about. [If you want to help us out](https://www.patreon.com/tedium), we have a Patreon page where you can donate. [Keep the issues coming](https://www.patreon.com/tedium)!
 

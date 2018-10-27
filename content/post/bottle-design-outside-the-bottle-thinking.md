@@ -4,7 +4,7 @@ categories = ["graphic design", "retail", "commerce", "food", "packaging", "desi
 date = 2015-07-15T06:00:00Z
 description = "Dr. Bronner's recently redesigned their famously dense label. Here's how it came to be, and where modern bottle design stands."
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1438051677/qertdd979j3aa9h9kky0"
+image = "https://res.cloudinary.com/tedium/image/upload/v1438051677/qertdd979j3aa9h9kky0"
 slug = "bottle-design-outside-the-bottle-thinking"
 tags = ["graphic design", "retail", "commerce", "food", "packaging", "design", "labeling", "dr. bronner's", "soap"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Outside-the-Bottle Thinking"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Dr. Bronner's label timeline](http://res.cloudinary.com/tedium/image/upload/v1437862274/myeeokiawng5bwvib4cz.jpg)
+![Dr. Bronner's label timeline](https://res.cloudinary.com/tedium/image/upload/v1437862274/myeeokiawng5bwvib4cz.jpg)
 
 ### Dr. Bronner's and the art of the retro-tinged redesign
 
@@ -52,7 +52,7 @@ This, friends, is a perfect example of great design. It changed something that d
 
 {{% /redbox %}}{{% graybox %}}
 
-![LiquiGlide bottle](http://res.cloudinary.com/tedium/image/upload/v1437862818/mpniil7uuh6u9lwiet0z.gif)
+![LiquiGlide bottle](https://res.cloudinary.com/tedium/image/upload/v1437862818/mpniil7uuh6u9lwiet0z.gif)
 
 ### The science behind getting a little bit more out of your jars of mayo
 

@@ -4,7 +4,7 @@ categories = ["the simpsons", "words", "cromulent", "embiggen", "language", "scr
 date = 2015-02-27T02:30:00Z
 description = "Popular culture and life experiences have a crazy way of influencing the way that we talk and use words. Perfectly cromulent, if you ask us."
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1437752057/dtiq8gw9rp7kdaduaetf"
+image = "https://res.cloudinary.com/tedium/image/upload/v1437752057/dtiq8gw9rp7kdaduaetf"
 slug = "a-cromulent-exercise"
 tags = ["the simpsons", "words", "cromulent", "embiggen", "language", "scrabble"]
 variant = "article"
@@ -17,7 +17,7 @@ title = "A cromulent exercise"
 {{% /whitebox %}}
 {{% graybox %}}
 
-![The Simpsons Get Cromulent](http://res.cloudinary.com/tedium/image/upload/v1437752427/dzai9t2twbvq7dqsri45.jpg)
+![The Simpsons Get Cromulent](https://res.cloudinary.com/tedium/image/upload/v1437752427/dzai9t2twbvq7dqsri45.jpg)
 
 ### _The Simpsons_, language, and evolution
 

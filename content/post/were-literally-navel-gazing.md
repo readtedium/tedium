@@ -4,7 +4,7 @@ categories = ["philosophy", "world records", "body parts", "navel", "navel gazin
 date = 2015-05-13T03:00:00Z
 description = "A good sign that you're a human is the existence of a belly button. Everyone has one, and everyone participates in acts of navel gazing sometimes."
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1437848205/bj9qq9lqpftzifaqrjt9"
+image = "https://res.cloudinary.com/tedium/image/upload/v1437848205/bj9qq9lqpftzifaqrjt9"
 slug = "were-literally-navel-gazing"
 tags = ["philosophy", "world records", "body parts", "navel", "navel gazing", "science"]
 variant = "article"
@@ -18,7 +18,7 @@ title = "We're Literally Navel-Gazing"
 
 {{% /whitebox %}}{{% graybox %}}
 
-![Greek navel-gazing](http://res.cloudinary.com/tedium/image/upload/v1437847927/sc2qh5jvg4qaoitg0pnt.jpg)
+![Greek navel-gazing](https://res.cloudinary.com/tedium/image/upload/v1437847927/sc2qh5jvg4qaoitg0pnt.jpg)
 
 ### Navel gazing is not just a saying, as it turns out
 
@@ -66,7 +66,7 @@ Following the logic all the way through, your belly button is the area where you
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Cosmic navel](http://res.cloudinary.com/tedium/image/upload/v1437847951/gwedl7qbsmjeqsdjlzb4.jpg)
+![Cosmic navel](https://res.cloudinary.com/tedium/image/upload/v1437847951/gwedl7qbsmjeqsdjlzb4.jpg)
 
 ### Could this be the Earth's belly button?
 

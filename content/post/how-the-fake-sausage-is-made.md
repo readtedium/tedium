@@ -4,7 +4,7 @@ categories = ["food", "fast food", "meat", "meat analogues", "fake meat", "veggi
 date = 2015-08-13T19:30:00Z
 description = "Veggie burgers and similar products are downright common these days, but it took a long time for meat analogues to earn respect at the table."
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1439527913/wemowmxr1xgbud94pvm8"
+image = "https://res.cloudinary.com/tedium/image/upload/v1439527913/wemowmxr1xgbud94pvm8"
 slug = "how-the-fake-sausage-is-made"
 tags = ["food", "fast food", "meat", "meat analogues", "fake meat", "veggies", "veggie burgers", "veggie dogs", "kellogg's"]
 variant = "article"
@@ -44,7 +44,7 @@ title = "How the fake sausage is made"
 
 {{% /redbox %}}{{% graybox %}}
 
-![John Harvey Kellogg](http://res.cloudinary.com/tedium/image/upload/v1439528382/ord41ryefq34pnsuir68.jpg)
+![John Harvey Kellogg](https://res.cloudinary.com/tedium/image/upload/v1439528382/ord41ryefq34pnsuir68.jpg)
 
 ### You can thank Seventh-day Adventists for the modern veggie burger
 
@@ -60,7 +60,7 @@ That product—a combination of wheat gluten, peanuts, and soy—was one of the 
 
 {{% /graybox %}}{{% whitebox %}}
 
-![Vega-Links](http://res.cloudinary.com/tedium/image/upload/v1439528209/lpn3dthwakpek0czifyz.jpg)
+![Vega-Links](https://res.cloudinary.com/tedium/image/upload/v1439528209/lpn3dthwakpek0czifyz.jpg)
 
 ### The birth of the veggie dog
 

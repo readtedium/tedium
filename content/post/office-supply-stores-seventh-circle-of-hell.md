@@ -18,7 +18,7 @@ title = "PC LOAD LETTER"
 {{% /whitebox %}}
 {{% graybox %}}
 
-![Mitt Romney](http://res.cloudinary.com/tedium/image/upload/v1437713878/0205_staples_n3w0cf.jpg)
+![Mitt Romney](https://res.cloudinary.com/tedium/image/upload/v1437713878/0205_staples_n3w0cf.jpg)
 
 ### Office superstores: really big, really fast
 
@@ -75,7 +75,7 @@ The number of days between Office Depot opening its first store in Fort Lauderda
 {{% /redbox %}}
 {{% whitebox %}}
 
-![Pens](http://res.cloudinary.com/tedium/image/upload/v1437713878/0205_pens_fnrd7n.jpg)
+![Pens](https://res.cloudinary.com/tedium/image/upload/v1437713878/0205_pens_fnrd7n.jpg)
 
 ### Crazy about mergers
 

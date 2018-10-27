@@ -18,7 +18,7 @@ title = "Don't mess with the Michelin Man"
 
 {{% /whitebox %}}{{% graybox %}}
 
-![Michelin stars](http://res.cloudinary.com/tedium/image/upload/v1437837095/dt7ovr8yxw6wb8evzwff.jpg)
+![Michelin stars](https://res.cloudinary.com/tedium/image/upload/v1437837095/dt7ovr8yxw6wb8evzwff.jpg)
 
 ### How a tire company became the world's most important corporate restaurant critic
 
@@ -64,7 +64,7 @@ Perhaps there's value to Yelp stars after all.
 
 {{% /graybox %}}{{% whitebox %}}
 
-![Nokia paper company](http://res.cloudinary.com/tedium/image/upload/v1437837045/ivqi47yrdxu0kfjyjd2n.jpg)
+![Nokia paper company](https://res.cloudinary.com/tedium/image/upload/v1437837045/ivqi47yrdxu0kfjyjd2n.jpg)
 
 ### Why Nokia is the perfect example of a corporate chameleon
 
@@ -78,7 +78,7 @@ The year was 1865, and [the guy who launched the company was Fredrik Idestam](h
 
 Over the years, the company evolved into a complex corporate conglomerate, taking on product lines as diverse as rubber production, electricity, forestry, radio communications, and chemicals. At one point, Nokia even produced [a line of desktop computers called the MikroMikko](http://www.old-computers.com/museum/computer.asp?st=1&c=630). Here's a photo of [Bill Gates using a Nokia computer](http://www.winbeta.org/news/take-look-old-picture-bill-gates-checking-out-nokias-mikromikko-personal-computer-1984), in a definite prelude to the Microsoft acquisition:
 
-![Nokia computer](http://res.cloudinary.com/tedium/image/upload/v1437837021/d4njq8hujxwfuxo1v87h.jpg)
+![Nokia computer](https://res.cloudinary.com/tedium/image/upload/v1437837021/d4njq8hujxwfuxo1v87h.jpg)
 
 But eventually, the company decided that telecommunications was where it's at. [From their website](http://company.nokia.com/en/about-us/our-company/our-story), they explain:
 

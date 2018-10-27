@@ -18,7 +18,7 @@ title = "The Invention Of News"
 
 {{% /whitebox %}}{{% graybox %}}
 
-![1906 Atlantic City train wreck](http://res.cloudinary.com/tedium/image/upload/v1437850139/eeixwa1k5hoggpcaqin6.jpg)
+![1906 Atlantic City train wreck](https://res.cloudinary.com/tedium/image/upload/v1437850139/eeixwa1k5hoggpcaqin6.jpg)
 
 ### _The New York Times_ published the first press release word-for-word
 
@@ -36,7 +36,7 @@ Those public comments, from the 1906 Atlantic City train wreck, came from the fi
 
 {{% /graybox %}}{{% whitebox %}}
 
-![Ivy Ledbetter Lee](http://res.cloudinary.com/tedium/image/upload/v1437850212/bllhf6caduwjzhie4irr.jpg)
+![Ivy Ledbetter Lee](https://res.cloudinary.com/tedium/image/upload/v1437850212/bllhf6caduwjzhie4irr.jpg)
 
 ### The first press release, borne from a guy with a tainted reputation
 
@@ -70,7 +70,7 @@ Maybe it's a great irony of history that such an important PR flack needs a publ
 
 {{% /redbox %}}{{% graybox %}}
 
-![Teletype machine](http://res.cloudinary.com/tedium/image/upload/v1437882721/tqf3ly5evj3j6k1rzubn.jpg)
+![Teletype machine](https://res.cloudinary.com/tedium/image/upload/v1437882721/tqf3ly5evj3j6k1rzubn.jpg)
 
 ### How PR flacks built their own versions of the Associated Press
 

@@ -30,7 +30,7 @@ title = "Evolution, Televised"
 
 {{% /redbox %}}
 {{% whitebox %}}
-![Grown Folks Dancing](http://res.cloudinary.com/tedium/image/upload/v1436752894/ndxzenbejhuupfscmiwc.jpg)
+![Grown Folks Dancing](https://res.cloudinary.com/tedium/image/upload/v1436752894/ndxzenbejhuupfscmiwc.jpg)
 
 ### So … anyway, about those *Grown Folks Dancing …*
 
@@ -84,7 +84,7 @@ https://www.youtube.com/watch?v=GAiJwwjhTps
 
 {{% /redbox %}}
 {{% whitebox %}}
-![Mr. Belding](http://res.cloudinary.com/tedium/image/upload/v1436752909/lpkreqzbmhb8u5l6iw7b.jpg)
+![Mr. Belding](https://res.cloudinary.com/tedium/image/upload/v1436752909/lpkreqzbmhb8u5l6iw7b.jpg)
 
 ### How the FCC ruined Saturday mornings
 

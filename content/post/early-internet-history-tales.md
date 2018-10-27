@@ -20,7 +20,7 @@ title = "Tales Of The Interwebs"
 
 {{% graybox %}}
 
-![Phil Katz](http://res.cloudinary.com/tedium/image/upload/v1436752756/ykk5rjb8rkeuumppzn7q.jpg)
+![Phil Katz](https://res.cloudinary.com/tedium/image/upload/v1436752756/ykk5rjb8rkeuumppzn7q.jpg)
 
 ### A life, compressed: The tragedy that haunts the .zip format
 
@@ -71,7 +71,7 @@ But that said, if anyone knows Paul Giamatti, please forward this email to him. 
 
 {{% /graybox %}}{{% whitebox %}}
 
-![Jon Postel](http://res.cloudinary.com/tedium/image/upload/v1436752736/giw8fijrkbme5uewdzsr.jpg)
+![Jon Postel](https://res.cloudinary.com/tedium/image/upload/v1436752736/giw8fijrkbme5uewdzsr.jpg)
 
 ### The man who ran the internet
 

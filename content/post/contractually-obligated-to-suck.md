@@ -4,7 +4,7 @@ categories = ["bad career choices", "contracts", "contractual obligations", "pat
 date = 2015-11-04T09:50:00Z
 description = "Actors, musicians, and companies sometimes make creative decisions for the worst possible reason: Because they legally have to. The result is usually awful."
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1446612892/i98vylwvuvkuvswt2cag"
+image = "https://res.cloudinary.com/tedium/image/upload/v1446612892/i98vylwvuvkuvswt2cag"
 slug = "contractually-obligated-to-suck"
 tags = ["bad career choices", "contracts", "contractual obligations", "pat robertson", "abc family", "keanu reeves", "r.e.m.", "whoopi goldberg", "bad ideas"]
 variant = "article"
@@ -28,7 +28,7 @@ title = "Contractually Obligated to Suck"
 
 {{% /redbox %}}{{% graybox %}}
 
-![Keanu Reeves](http://res.cloudinary.com/tedium/image/upload/v1446613334/ygcwzsguqs2ihdiejwhq.jpg)
+![Keanu Reeves](https://res.cloudinary.com/tedium/image/upload/v1446613334/ygcwzsguqs2ihdiejwhq.jpg)
 
 ### That time Keanu Reeves was tricked into making a terrible movie
 

@@ -4,7 +4,7 @@ categories = ["commerce", "money", "scams", "pyramid schemes", "financial indust
 date = 2015-06-19T07:55:00Z
 description = "Pyramid schemes, ponzi schemes, and other types of scams have taken in many suckers over the years. Are you one of those suckers?"
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1437857621/gd3bjyklgmvcbhguubw1"
+image = "https://res.cloudinary.com/tedium/image/upload/v1437857621/gd3bjyklgmvcbhguubw1"
 slug = "anatomy-scams-when-pyramids-collapse"
 tags = ["commerce", "money", "scams", "pyramid schemes", "financial industry", "finance"]
 variant = "article"
@@ -18,7 +18,7 @@ title = "When Pyramids Collapse"
 
 {{% /whitebox %}}{{% graybox %}}
 
-![Money which you will not be getting](http://res.cloudinary.com/tedium/image/upload/v1437857468/txe08c5go5o5mzf5wsao.jpg)
+![Money which you will not be getting](https://res.cloudinary.com/tedium/image/upload/v1437857468/txe08c5go5o5mzf5wsao.jpg)
 
 ### If I run into Dave Rhodes on the street, I'm gonna punch him in the face
 
@@ -64,7 +64,7 @@ Before there were Nigerian scammers, Dave Rhodes—a guy who probably isn't real
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Jon Huntsman](http://res.cloudinary.com/tedium/image/upload/v1437857504/eqlckkr6wwgpqtipfe7m.jpg)
+![Jon Huntsman](https://res.cloudinary.com/tedium/image/upload/v1437857504/eqlckkr6wwgpqtipfe7m.jpg)
 
 ### The 2012 presidential candidate that helped multi-level marketing run wild all over Utah
 

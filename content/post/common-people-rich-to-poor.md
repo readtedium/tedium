@@ -4,7 +4,7 @@ categories = ["music industry", "money", "class wars", "economy", "giving up stu
 date = 2015-07-29T05:23:00Z
 description = "Why rich people really love to pretend to be poor every once in a while, just like in Pulp's \"Common People.\""
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1438174962/ul3n33ghud3cwq3qreeg"
+image = "https://res.cloudinary.com/tedium/image/upload/v1438174962/ul3n33ghud3cwq3qreeg"
 slug = "common-people-rich-to-poor"
 tags = ["music industry", "money", "class wars", "economy", "giving up stuff", "rich people", "common people", "pulp", "jarvis cocker"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "I Want to Live Like Common People"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Vladimir Potanin](http://res.cloudinary.com/tedium/image/upload/f_auto/v1438131200/iv8dygcer7vih7p79cvu.jpg)
+![Vladimir Potanin](https://res.cloudinary.com/tedium/image/upload/f_auto/v1438131200/iv8dygcer7vih7p79cvu.jpg)
 
 ### Russia's richest man likes hanging out with the regular folk
 

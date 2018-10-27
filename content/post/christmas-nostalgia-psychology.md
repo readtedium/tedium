@@ -4,7 +4,7 @@ categories = ["christmas", "holidays", "nostalgia", "santa claus conquers the ma
 date = 2015-12-23T20:41:29Z
 description = "Despite often being terrible, we watch the same holiday movies every year. Why's that? Well, it's not often about the movies—it's about our memories."
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1450884896/sjzaxh5opnmkoxwiobep"
+image = "https://res.cloudinary.com/tedium/image/upload/v1450884896/sjzaxh5opnmkoxwiobep"
 slug = "christmas-nostalgia-psychology"
 tags = ["christmas", "holidays", "nostalgia", "santa claus conquers the martians", "repetition", "psychology", "paul mccartney", "retail", "christmas music"]
 variant = "article"
@@ -28,7 +28,7 @@ _**Editor's note:** This is a special Wednesday morning issue, in an effort to g
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Santa Claus Conquers the Martians](http://res.cloudinary.com/tedium/image/upload/v1450885162/l9h3ozxo4wsvxbdl1ejq.jpg)
+![Santa Claus Conquers the Martians](https://res.cloudinary.com/tedium/image/upload/v1450885162/l9h3ozxo4wsvxbdl1ejq.jpg)
 
 ### Why the holiday season is such an obvious nostalgia touchpoint
 
@@ -60,7 +60,7 @@ The thing is, we all have our ties to this content—whether it's *Love Actually
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Christmas at the mall](http://res.cloudinary.com/tedium/image/upload/v1450885240/fr74hcx5bnmvrw0xh6hf.jpg)
+![Christmas at the mall](https://res.cloudinary.com/tedium/image/upload/v1450885240/fr74hcx5bnmvrw0xh6hf.jpg)
 
 ### Retailers play Christmas music as an attempt to market to your nostalgia
 

@@ -4,7 +4,7 @@ categories = ["music industry", "movie industry", "leonard nimoy", "star trek", 
 date = 2015-03-04T04:30:00Z
 description = "The late Leonard Nimoy may have been shoehorned by fame a bit, but he never let that get in the way of his creativity. Nor should you."
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1437775313/ujovdyzsycmfewjs0cl2"
+image = "https://res.cloudinary.com/tedium/image/upload/v1437775313/ujovdyzsycmfewjs0cl2"
 slug = "leonard-nimoy-vulcan-creativity"
 tags = ["music industry", "movie industry", "leonard nimoy", "star trek", "creativity"]
 variant = "article"
@@ -17,7 +17,7 @@ title = "Vulcan creativity"
 {{% /whitebox %}}
 {{% graybox %}}
 
-![Leonard Nimoy Presents Mr Spock's Music From Outer Space](http://res.cloudinary.com/tedium/image/upload/v1437775395/my2kpw7miyvcn7mvmbbl.jpg)
+![Leonard Nimoy Presents Mr Spock's Music From Outer Space](https://res.cloudinary.com/tedium/image/upload/v1437775395/my2kpw7miyvcn7mvmbbl.jpg)
 
 ### Why Leonard Nimoy needed to make music
 

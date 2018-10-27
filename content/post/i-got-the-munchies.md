@@ -4,7 +4,7 @@ categories = ["retail", "obscure tv shows", "food", "college", "college food", "
 date = 2015-07-22T06:08:00Z
 description = "When the bar closes or the house party is broken up by the cops, college food suddenly seems like the best thing ever. Check out these dorm-room favorites."
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1437876535/cs7azxwxrhmnx56acgtv"
+image = "https://res.cloudinary.com/tedium/image/upload/v1437876535/cs7azxwxrhmnx56acgtv"
 slug = "i-got-the-munchies"
 tags = ["retail", "obscure tv shows", "food", "college", "college food", "gumby's pizza", "garbage plate", "taco bell", "fast food"]
 variant = "article"
@@ -18,7 +18,7 @@ title = "I got the munchies"
 
 {{% /whitebox %}}{{% graybox %}}
 
-![Gumby's Pizza](http://res.cloudinary.com/tedium/image/upload/v1437876193/dioh2y6rglsyof8wc4my.jpg)
+![Gumby's Pizza](https://res.cloudinary.com/tedium/image/upload/v1437876193/dioh2y6rglsyof8wc4my.jpg)
 
 ### The Pizza Place Where Gumby Still Lives
 
@@ -52,7 +52,7 @@ Bet you didn't expect this Gumby's Pizza blurb to take such a bizarre tonal shif
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Taco Dave](http://res.cloudinary.com/tedium/image/upload/v1437876308/ofhriwraral9gvbcatm6.jpg)
+![Taco Dave](https://res.cloudinary.com/tedium/image/upload/v1437876308/ofhriwraral9gvbcatm6.jpg)
 
 ### The Legend of Taco Dave, the Burrito Slave
 

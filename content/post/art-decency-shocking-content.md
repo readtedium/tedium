@@ -4,7 +4,7 @@ categories = ["psychology", "music industry", "creativity", "video games", "pop 
 date = 2015-05-29T07:00:00Z
 description = "People will always push the edges of creativity when they can—that's why we have Marilyn Manson. Today's issue analyzes art and decency."
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1437852084/bpf7i6kvr5wx19wyzgc4"
+image = "https://res.cloudinary.com/tedium/image/upload/v1437852084/bpf7i6kvr5wx19wyzgc4"
 slug = "art-decency-shocking-content"
 tags = ["psychology", "music industry", "creativity", "video games", "pop culture", "art", "shock culture", "marilyn manson", "David Wojnarowicz"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Livin' on the Edge"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Non-stop ninja action](http://res.cloudinary.com/tedium/image/upload/v1437851595/idizmqwdtntkemawol6m.jpg)
+![Non-stop ninja action](https://res.cloudinary.com/tedium/image/upload/v1437851595/idizmqwdtntkemawol6m.jpg)
 
 ### In defense of ratings systems
 
@@ -58,7 +58,7 @@ By creating parameters, we allow risk, one gremlin at a time.
 
 {{% /graybox %}}{{% whitebox %}}
 
-![David Wojnarowicz](http://res.cloudinary.com/tedium/image/upload/v1437851863/zeu2vqhtuwogpqtomxpt.jpg)
+![David Wojnarowicz](https://res.cloudinary.com/tedium/image/upload/v1437851863/zeu2vqhtuwogpqtomxpt.jpg)
 
 ### Offended? Maybe you're missing the point
 

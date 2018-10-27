@@ -4,7 +4,7 @@ categories = ["business", "newspapers", "journalism", "economy", "news", "newspr
 date = 2015-12-16T12:30:51Z
 description = "As the newspaper industry contracted, so too did the furniture and the newsprint. Let's check out the first victims of the digital revolution."
 draft = true
-image = "http://res.cloudinary.com/tedium/image/upload/v1450417956/ffxrqn5lbcwspfvalo3l"
+image = "https://res.cloudinary.com/tedium/image/upload/v1450417956/ffxrqn5lbcwspfvalo3l"
 slug = "newspaper-trimmed-for-space"
 tags = ["business", "newspapers", "journalism", "economy", "news", "newsprint", "the mini pages"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Trimmed for Space"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Shrinking newspaper](http://res.cloudinary.com/tedium/image/upload/v1450251570/ux1teweobrhppkemtshc.jpg)
+![Shrinking newspaper](https://res.cloudinary.com/tedium/image/upload/v1450251570/ux1teweobrhppkemtshc.jpg)
 
 ### The incredibly shrinking newshole
 
@@ -58,7 +58,7 @@ In the end, though, it stands out as a reminder that, with newspapers struggling
 
 {{% /redbox %}}{{% whitebox %}}
 
-![TV Guide's first issue](http://res.cloudinary.com/tedium/image/upload/v1450251379/s93uky77h88ogyonczq2.jpg)
+![TV Guide's first issue](https://res.cloudinary.com/tedium/image/upload/v1450251379/s93uky77h88ogyonczq2.jpg)
 
 ### The story of the TV Guide, the magazine that couldn't handle 57 channels very well
 

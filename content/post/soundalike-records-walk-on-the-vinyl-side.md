@@ -4,7 +4,7 @@ categories = ["music industry", "vinyl records", "lou reed", "music", "seo", "so
 date = 2015-04-17T07:37:00Z
 description = "Before Rock & Roll Hall of Famer Lou Reed became an rock icon, he cut his teeth on producing soundalike recordings. People are still making 'em today."
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1437842306/hmzvo9yysjxcwsolyldb"
+image = "https://res.cloudinary.com/tedium/image/upload/v1437842306/hmzvo9yysjxcwsolyldb"
 slug = "soundalike-records-walk-on-the-vinyl-side"
 tags = ["music industry", "vinyl records", "lou reed", "music", "seo", "soundalike recordings"]
 variant = "article"
@@ -18,7 +18,7 @@ title = "Walk on the Vinyl Side"
 
 {{% /whitebox %}}{{% graybox %}}
 
-![The Ostrich](http://res.cloudinary.com/tedium/image/upload/v1437842117/wq0ciulz1ljrd17faxig.jpg)
+![The Ostrich](https://res.cloudinary.com/tedium/image/upload/v1437842117/wq0ciulz1ljrd17faxig.jpg)
 
 ### I'm waiting for my break
 
@@ -54,7 +54,7 @@ That combination of odd influences is why Lou could write great pop songs about 
 
 {{% /graybox %}}{{% whitebox %}}
 
-![In the style of Payphone](http://res.cloudinary.com/tedium/image/upload/v1437842074/hx8zsp4mmiezvoaxybhe.jpg)
+![In the style of Payphone](https://res.cloudinary.com/tedium/image/upload/v1437842074/hx8zsp4mmiezvoaxybhe.jpg)
 
 ### They're still making cheap soundalike records today—here's where
 

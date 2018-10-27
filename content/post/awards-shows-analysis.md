@@ -4,7 +4,7 @@ categories = ["history", "movie industry", "awards", "razzies", "ig nobel prize"
 date = 2015-02-20T01:00:00Z
 description = "We don't know when the Oscars are, but we bet you might learn something from this post about award show trivia."
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1436733402/qj4nrha0gu4vvyorrlvm"
+image = "https://res.cloudinary.com/tedium/image/upload/v1436733402/qj4nrha0gu4vvyorrlvm"
 slug = "awards-shows-analysis"
 tags = ["history", "movie industry", "awards", "razzies", "ig nobel prize", "television industry"]
 variant = "article"
@@ -20,7 +20,7 @@ title = "You're a Winner"
 
 {{% graybox %}}
 
-![Razzies](http://res.cloudinary.com/tedium/image/upload/v1436752535/hlnolfdbtelsnwf1xnes.jpg)
+![Razzies](https://res.cloudinary.com/tedium/image/upload/v1436752535/hlnolfdbtelsnwf1xnes.jpg)
 
 ### The master of awards-show counterprogramming
 
@@ -75,7 +75,7 @@ And we can thank a master publicist for it all.
 
 {{% whitebox %}}
 
-![Kevin Spacey yo](http://res.cloudinary.com/tedium/image/upload/v1436752557/xida9vmduothsidobsle.gif)
+![Kevin Spacey yo](https://res.cloudinary.com/tedium/image/upload/v1436752557/xida9vmduothsidobsle.gif)
 
 ### They actually give out awards for this stuff
 

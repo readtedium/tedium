@@ -4,7 +4,7 @@ categories = ["politics", "movie industry", "television industry", "independence
 date = 2015-07-26T01:34:22Z
 description = "The film Independence Day is known for an epic scene in which the White House is turned into small chunks of America. How did they do that?"
 draft = true
-image = "http://res.cloudinary.com/tedium/image/upload/v1437860533/cah5jgwedslkcgttjrfc"
+image = "https://res.cloudinary.com/tedium/image/upload/v1437860533/cah5jgwedslkcgttjrfc"
 slug = "lets-destroy-the-white-house"
 tags = ["politics", "movie industry", "television industry", "independence day", "the west wing", "white house", "set design"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Let's Destroy the White House"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Independence Day White House](http://res.cloudinary.com/tedium/image/upload/v1437860578/wfjol9djukdqj5ajdky2.jpg)
+![Independence Day White House](https://res.cloudinary.com/tedium/image/upload/v1437860578/wfjol9djukdqj5ajdky2.jpg)
 
 ### How they pulled off the iconic _Independence Day_ White House explosion
 

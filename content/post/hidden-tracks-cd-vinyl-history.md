@@ -4,7 +4,7 @@ categories = ["music industry", "vinyl records", "music", "obscure music", "cd",
 date = 2015-11-18T09:42:56Z
 description = "For a while, hidden tracks were everywhere, especially during the CD era. But thanks to streaming music, there's nowhere to put them. Is that good or bad?"
 draft = true
-image = "http://res.cloudinary.com/tedium/image/upload/v1447822500/cfhfa5nmzo0zipixtkfu"
+image = "https://res.cloudinary.com/tedium/image/upload/v1447822500/cfhfa5nmzo0zipixtkfu"
 slug = "hidden-tracks-cd-vinyl-history"
 tags = ["music industry", "vinyl records", "music", "obscure music", "cd", "compact discs", "hidden music", "pregap", "nirvana", "arcade fire"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Nowhere Left To Hide"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Compact discs](http://res.cloudinary.com/tedium/image/upload/v1447822997/yvt0o8mxri3ytq5t2ttl.jpg)
+![Compact discs](https://res.cloudinary.com/tedium/image/upload/v1447822997/yvt0o8mxri3ytq5t2ttl.jpg)
 
 ### Why CDs had more interesting hidden tracks than vinyl records
 

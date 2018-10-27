@@ -4,7 +4,7 @@ categories = ["movie industry", "television industry", "commerce", "product plac
 date = 2015-03-06T05:00:00Z
 description = "We see product placement in TV shows and movies so often these days that we don't even think about it. That's partly because it's been around forever."
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1437776189/vhklw5amfdejwqxtegop"
+image = "https://res.cloudinary.com/tedium/image/upload/v1437776189/vhklw5amfdejwqxtegop"
 slug = "house-of-product-cards"
 tags = ["movie industry", "television industry", "commerce", "product placement", "products", "house of cards"]
 variant = "article"
@@ -56,7 +56,7 @@ When you can put Oreos in a scene of a popular TV show, it means that another pr
 {{% /redbox %}}
 {{% whitebox %}}
 
-![Vine Share a Coke](http://res.cloudinary.com/tedium/image/upload/v1437776027/wl8ija1loycy8cmktrdl.jpg)
+![Vine Share a Coke](https://res.cloudinary.com/tedium/image/upload/v1437776027/wl8ija1loycy8cmktrdl.jpg)
 
 ### The future of brand placement is six seconds long
 

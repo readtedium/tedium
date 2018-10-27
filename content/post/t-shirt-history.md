@@ -18,7 +18,7 @@ title = "Our Lives In Fabric"
 
 It’s small, a modest scene-setter, but one that has had a lot of cultural impact since, and while the fabric, once called the “crew-neck,” had some historic precedent [in the late 19th century](http://www.nytimes.com/2013/09/22/magazine/who-made-that-t-shirt.html), it didn’t really take off until the U.S. Navy started handing them out in 1913—a modest undershirt [that eventually defined the way we dress](https://www.thestar.com/life/fashion_style/2013/08/02/the_tshirt_turns_100.html).
 
-![Air Corps Gunnery School](http://res.cloudinary.com/tedium/image/upload/v1494297254/ge1pfv8s0a4vn3tofgr1.jpg)
+![Air Corps Gunnery School](https://res.cloudinary.com/tedium/image/upload/v1494297254/ge1pfv8s0a4vn3tofgr1.jpg)
 
 Soon enough, the military’s interest in these shirts led to stuff being printed on them, with a notable early example coming in 1942, when *Life* magazine [featured 23-year-old Corporal Alexander Le Gerda wearing a shirt](https://thecavenderdiary.com/2014/02/03/life-magazine-july-13-1942/) that said “Air Corps Gunnery School, Las Vegas, Nevada.” (Clearly there was a gun there, too, but we're focused on the shirt, [which is shockingly still for sale](http://amzn.to/2petgIU).)
 

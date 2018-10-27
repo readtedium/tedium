@@ -22,7 +22,7 @@ title = "Purple Copyright Eater"
 ### one
 {{% /number %}}
 
-**The number of patents** granted to Prince throughout his career. The patent, which he received in 1994, was for a keytar shaped like, well, something Prince would invent. [It was giant and ornamental in nature](http://www.google.com/patents/USD349127#v=onepage&q&f=false), with two pointed spikes at the top, closed loop carved into the upper body, and a lower body that looked kinda like the bottom of a Stratocaster. Much like his primary name during the latter half of the '90s, it's better viewed than explained, so [here's a picture of Prince playing the keytar he invented](http://res.cloudinary.com/tedium/image/upload/v1461285401/tytqvrdcjrjju00r15kn.jpg).
+**The number of patents** granted to Prince throughout his career. The patent, which he received in 1994, was for a keytar shaped like, well, something Prince would invent. [It was giant and ornamental in nature](http://www.google.com/patents/USD349127#v=onepage&q&f=false), with two pointed spikes at the top, closed loop carved into the upper body, and a lower body that looked kinda like the bottom of a Stratocaster. Much like his primary name during the latter half of the '90s, it's better viewed than explained, so [here's a picture of Prince playing the keytar he invented](https://res.cloudinary.com/tedium/image/upload/v1461285401/tytqvrdcjrjju00r15kn.jpg).
 
 {{% /redbox %}}{{% graybox %}}
 

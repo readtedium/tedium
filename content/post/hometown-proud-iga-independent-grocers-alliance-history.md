@@ -76,7 +76,7 @@ It's no shoutout in the *Harvard Business Review*, but certainly a nice consolat
 
 {{% /graybox %}}{{% whitebox %}}
 
-![IGA](http://res.cloudinary.com/tedium/image/upload/v1467960593/mbhr7zhhjkqamnbj2zdn.jpg)
+![IGA](https://res.cloudinary.com/tedium/image/upload/v1467960593/mbhr7zhhjkqamnbj2zdn.jpg)
 
 *([grocerymaniasam/Flickr](https://www.flickr.com/photos/grocerymaniasam/25726865890/))*
 

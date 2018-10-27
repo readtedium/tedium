@@ -4,7 +4,7 @@ categories = ["music industry", "music", "musical instruments", "harry partch", 
 date = 2015-04-29T04:30:00Z
 description = "Guitars, bass, piano, and drums aren't the only way to make a tune. Check out the story of these unusual musical instruments—and the folks who played them."
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1437844951/vk4u8b07u9j2z2cb51fh"
+image = "https://res.cloudinary.com/tedium/image/upload/v1437844951/vk4u8b07u9j2z2cb51fh"
 slug = "unusual-musical-instruments"
 tags = ["music industry", "music", "musical instruments", "harry partch", "stringstation", "nils frahm"]
 variant = "article"
@@ -18,7 +18,7 @@ title = "Searching for the perfect tones"
 
 {{% /whitebox %}}{{% graybox %}}
 
-![Harry Partch](http://res.cloudinary.com/tedium/image/upload/v1437844455/rdzhcclnzicwcgtyevle.jpg)
+![Harry Partch](https://res.cloudinary.com/tedium/image/upload/v1437844455/rdzhcclnzicwcgtyevle.jpg)
 
 ### The 43 tones of Harry Partch
 
@@ -54,7 +54,7 @@ By the way, this isn't just all a history lesson. In case you feel like playing 
 
 {{% /graybox %}}{{% whitebox %}}
 
-![Stringstation](http://res.cloudinary.com/tedium/image/upload/v1437844718/tsr8ay8boms0wynckdg7.jpg)
+![Stringstation](https://res.cloudinary.com/tedium/image/upload/v1437844718/tsr8ay8boms0wynckdg7.jpg)
 
 ### The guy I know who invented a 40-string instrument
 

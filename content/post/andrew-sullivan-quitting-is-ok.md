@@ -4,7 +4,7 @@ categories = ["andrew sullivan", "blogging", "internet history", "psychology", "
 date = 2015-01-30T01:30:00Z
 description = "Blogger Andrew Sullivan's decision to quit daily blogging is the kind of decision that everyone else eventually makes when they quit stuff."
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1436753083/omd32hp0p7xjzjaknyii"
+image = "https://res.cloudinary.com/tedium/image/upload/v1436753083/omd32hp0p7xjzjaknyii"
 slug = "andrew-sullivan-quitting-is-ok"
 tags = ["andrew sullivan", "blogging", "internet history", "psychology", "quitting"]
 variant = "article"
@@ -20,7 +20,7 @@ title = "Quitting is OK"
 {{% /whitebox %}}
 {{% graybox %}}
 
-![Andrew Sullivan](http://res.cloudinary.com/tedium/image/upload/v1436753065/cnyos1riyum8cd0zfz32.jpg)
+![Andrew Sullivan](https://res.cloudinary.com/tedium/image/upload/v1436753065/cnyos1riyum8cd0zfz32.jpg)
 
 ### It's not giving up, it's disengagement
 
@@ -66,7 +66,7 @@ Sully says he plans to get back into non-blog writing, and it'll probably be a g
 
 {{% /graybox %}}
 {{% whitebox %}}
-![Aphex Twin](http://res.cloudinary.com/tedium/image/upload/v1436753038/rlffa7vlj7blsjigek89.jpg)
+![Aphex Twin](https://res.cloudinary.com/tedium/image/upload/v1436753038/rlffa7vlj7blsjigek89.jpg)
 
 ### Let's talk about focus using Aphex Twin for no particular reason
 

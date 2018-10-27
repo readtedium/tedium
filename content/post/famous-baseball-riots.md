@@ -4,7 +4,7 @@ categories = ["history", "music industry", "baseball", "sports", "fights", "john
 date = 2015-04-03T05:00:00Z
 description = "From \"Disco Sucks\" to a jilted city turning on its own team, baseball riots are among the most entertaining you'll find."
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1437835432/kl9tettufzud5zzdt8vc"
+image = "https://res.cloudinary.com/tedium/image/upload/v1437835432/kl9tettufzud5zzdt8vc"
 slug = "famous-baseball-riots"
 tags = ["history", "music industry", "baseball", "sports", "fights", "johnnykilbaned", "disco"]
 variant = "article"
@@ -18,7 +18,7 @@ title = "Take me out to the riot"
 
 {{% /whitebox %}}{{% graybox %}}
 
-![Baseball fight](http://res.cloudinary.com/tedium/image/upload/v1437835170/fcint49geqkjkzp7xyaz.jpg)
+![Baseball fight](https://res.cloudinary.com/tedium/image/upload/v1437835170/fcint49geqkjkzp7xyaz.jpg)
 
 ### "It was just one of those unfortunate incidents that happen in baseball sometimes."
 
@@ -48,7 +48,7 @@ That's just the players. Just imagine what the fans can do.
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Disco Demolition Night](http://res.cloudinary.com/tedium/image/upload/v1437835144/san8ss97bvasfkp9g77u.jpg)
+![Disco Demolition Night](https://res.cloudinary.com/tedium/image/upload/v1437835144/san8ss97bvasfkp9g77u.jpg)
 
 ### The night Chicago beat disco to a bloody pulp
 
@@ -84,7 +84,7 @@ Modern electronic, pop, and hip-hop music have kept disco's bones alive ever sin
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Washington Senators](http://res.cloudinary.com/tedium/image/upload/v1437835093/l1zuo1tq4dm1zgcybqht.jpg)
+![Washington Senators](https://res.cloudinary.com/tedium/image/upload/v1437835093/l1zuo1tq4dm1zgcybqht.jpg)
 
 ### Team of jerks leave nation's capital
 

@@ -69,7 +69,7 @@ Now, they were called The KLF.
 
 {{% /graybox %}}{{% whitebox %}}
 
-![1992 Brit Awards](http://res.cloudinary.com/tedium/image/upload/v1438924206/i73w36x6giiyj6wnbcyy.jpg)
+![1992 Brit Awards](https://res.cloudinary.com/tedium/image/upload/v1438924206/i73w36x6giiyj6wnbcyy.jpg)
 
 ### The moment The KLF destroyed its own career
 

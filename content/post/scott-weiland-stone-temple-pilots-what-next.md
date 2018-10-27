@@ -4,7 +4,7 @@ categories = ["music industry", "music", "obscure music", "stone temple pilots",
 date = 2015-12-09T07:35:44Z
 description = "If Stone Temple Pilots were to continue on in the wake of Scott Weiland's death, it wouldn't be an unheard-of phenomenon. Just ask The Doors and Sublime."
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1449627464/pjkncdbw8bf0rrohbsxq"
+image = "https://res.cloudinary.com/tedium/image/upload/v1449627464/pjkncdbw8bf0rrohbsxq"
 slug = "scott-weiland-stone-temple-pilots-what-next"
 tags = ["music industry", "music", "obscure music", "stone temple pilots", "the doors", "scott weiland", "ac/dc", "the velvet underground"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Trippin' On A Hole In A Paper Heart"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![The Doors](http://res.cloudinary.com/tedium/image/upload/v1449628179/rjukyyv78nibqxc1enez.jpg)
+![The Doors](https://res.cloudinary.com/tedium/image/upload/v1449628179/rjukyyv78nibqxc1enez.jpg)
 
 ### The Doors made two studio albums after Jim Morrison died
 
@@ -66,7 +66,7 @@ It'll be interesting if the remaining members of Stone Temple Pilots find themse
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Bon Scott and Angus Young](http://res.cloudinary.com/tedium/image/upload/v1449628353/i0lz36laf9bevcanrnxv.jpg)
+![Bon Scott and Angus Young](https://res.cloudinary.com/tedium/image/upload/v1449628353/i0lz36laf9bevcanrnxv.jpg)
 
 ### The Only Time a Lead Singer Replacement Seamlessly Worked
 
@@ -76,7 +76,7 @@ It'll be interesting if the remaining members of Stone Temple Pilots find themse
 
 When Peter Gabriel left Genesis for a solo career in 1975, the band had a strong creative process in which every member played a role. Which meant that [when Phil Collins became the singer](http://tedium.co/2015/11/10/phil-collins-awesome-drummer/), it actually kind of worked.
 
-![Brian Johnson and Angus Young](http://res.cloudinary.com/tedium/image/upload/v1449628467/btaaggctwh1tqhzh7cyc.jpg)
+![Brian Johnson and Angus Young](https://res.cloudinary.com/tedium/image/upload/v1449628467/btaaggctwh1tqhzh7cyc.jpg)
 
 AC/DC, perhaps the most famous example of a popular band changing singers without losing a beat, was kind of the same way. Nearly all of their early hits were written by an effective trio of Angus Young, Malcolm Young, and Bon Scott. When Scott died, it certainly created a challenge for the band, but Brian Johnson was able to hop into the fray relatively easily, taking on a similar role as Scott's within the band's creative process. (It helped that Scott had directly pointed Johnson out to his bandmates before his death.) 
 

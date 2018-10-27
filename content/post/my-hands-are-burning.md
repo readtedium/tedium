@@ -4,7 +4,7 @@ categories = ["food", "sauce", "jalapenos", "hot peppers", "condiments", "true s
 date = 2015-07-31T07:20:00Z
 description = "If you're going to cut jalapenos, wear gloves. I didn't, and I had a pretty rough night. Here's my story."
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1438317798/z7ssiz9r4vixzmwbbnqm"
+image = "https://res.cloudinary.com/tedium/image/upload/v1438317798/z7ssiz9r4vixzmwbbnqm"
 slug = "my-hands-are-burning"
 tags = ["food", "sauce", "jalapenos", "hot peppers", "condiments", "true stories", "pain", "Capsaicin", "mustard"]
 variant = "article"
@@ -18,7 +18,7 @@ title = "My Hands Are Burning"
 
 {{% /whitebox %}}{{% graybox %}}
 
-![Jalapeno business](http://res.cloudinary.com/tedium/image/upload/q_60/v1438317519/aub3qbkgjmk07cvxal4v.jpg)
+![Jalapeno business](https://res.cloudinary.com/tedium/image/upload/q_60/v1438317519/aub3qbkgjmk07cvxal4v.jpg)
 
 ### So why did jalapeño peppers make me want to cut my fingers off, anyway?
 
@@ -58,7 +58,7 @@ To a degree, this can be desirable—the heat has some significant benefits for 
 
 {{% /redbox %}}{{% graybox %}}
 
-![Mustard seeds](http://res.cloudinary.com/tedium/image/upload/q_50/v1438317760/hwuus5l41yrbhxaud5ef.jpg)
+![Mustard seeds](https://res.cloudinary.com/tedium/image/upload/q_50/v1438317760/hwuus5l41yrbhxaud5ef.jpg)
 
 ### Even if you can handle a habanero, mustard might be too much for you. Here's why
 

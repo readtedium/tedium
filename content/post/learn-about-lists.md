@@ -4,7 +4,7 @@ categories = ["television industry", "lists", "david letterman", "publishing", "
 date = 2015-05-06T05:46:00Z
 description = "Lists are one of the most important writing tools we have, and we love using them frequently. Here's where they came from, and why they work so well."
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1437846530/m18iaipe65xa4ataxrxp"
+image = "https://res.cloudinary.com/tedium/image/upload/v1437846530/m18iaipe65xa4ataxrxp"
 slug = "learn-about-lists"
 tags = ["television industry", "lists", "david letterman", "publishing", "writing", "jonathan swift"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "1.) Learn About Lists 2.) See Item 1"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![A Modest Proposal](http://res.cloudinary.com/tedium/image/upload/v1437846593/obwvtvm6omnntea004xn.jpg)
+![A Modest Proposal](https://res.cloudinary.com/tedium/image/upload/v1437846593/obwvtvm6omnntea004xn.jpg)
 
 ### Listicles are actually incredibly old formats
 

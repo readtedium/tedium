@@ -4,7 +4,7 @@ categories = ["graphic design", "subcultures", "symmetry", "alignment", "imagery
 date = 2015-05-01T07:30:00Z
 description = "Why are we attracted to things that have perfect symmetry, that match up on either side? It might have something to do with the way our brains are wired."
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1437845684/goby2d4uc9g6l48qvnez"
+image = "https://res.cloudinary.com/tedium/image/upload/v1437845684/goby2d4uc9g6l48qvnez"
 slug = "i-believe-in-symmetry"
 tags = ["graphic design", "subcultures", "symmetry", "alignment", "imagery", "marcus du sautoy"]
 variant = "article"
@@ -18,7 +18,7 @@ title = "I believe in symmetry"
 
 {{% /whitebox %}}{{% graybox %}}
 
-![Marcus du Sautoy](http://res.cloudinary.com/tedium/image/upload/v1437845288/t1ybrltk8b94pcqqppiw.jpg)
+![Marcus du Sautoy](https://res.cloudinary.com/tedium/image/upload/v1437845288/t1ybrltk8b94pcqqppiw.jpg)
 
 ### According to this guy, the world runs on symmetry
 
@@ -52,7 +52,7 @@ If there wasn't a sense of order to the world, a sense of alignment, so many thi
 
 {{% /whitebox %}}{{% graybox %}}
 
-![Brad Pitt's perfect face](http://res.cloudinary.com/tedium/image/upload/v1437845450/p6bfs29bx9bmd2mfn6u1.jpg)
+![Brad Pitt's perfect face](https://res.cloudinary.com/tedium/image/upload/v1437845450/p6bfs29bx9bmd2mfn6u1.jpg)
 
 ### Are symmetric faces really more attractive?
 

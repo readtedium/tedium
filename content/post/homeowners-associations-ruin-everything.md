@@ -26,7 +26,7 @@ title = "The Neighbors You Love to Hate"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Homeowners associations](http://res.cloudinary.com/tedium/image/upload/v1446005819/l9kgtozy2zsrizfy3j4u.jpg)
+![Homeowners associations](https://res.cloudinary.com/tedium/image/upload/v1446005819/l9kgtozy2zsrizfy3j4u.jpg)
 
 ### Why are homeowners associations so heavy, anyway?
 

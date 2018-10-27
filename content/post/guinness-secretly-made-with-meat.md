@@ -4,7 +4,7 @@ categories = ["meat", "veggie dogs", "vegetarianism", "veganism", "guinness", "b
 date = 2015-11-06T09:40:30Z
 description = "It's not just Guinness. Products you probably use all the time, from fabric softeners to condoms, use unexpected animal byproducts."
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1446784571/mlcxy9uik78b6wboc93g"
+image = "https://res.cloudinary.com/tedium/image/upload/v1446784571/mlcxy9uik78b6wboc93g"
 slug = "guinness-secretly-made-with-meat"
 tags = ["meat", "veggie dogs", "vegetarianism", "veganism", "guinness", "beer", "vegan condoms", "cheese", "parmesan cheese"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Secretly Made With Meat"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Parmesan cheese](http://res.cloudinary.com/tedium/image/upload/v1446784780/iwwpvjlpzkdraq9m47qz.jpg)
+![Parmesan cheese](https://res.cloudinary.com/tedium/image/upload/v1446784780/iwwpvjlpzkdraq9m47qz.jpg)
 
 *(Brian Boucheron/Flickr)*
 

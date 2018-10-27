@@ -4,7 +4,7 @@ categories = ["quitting", "retail", "business", "shopping", "city sports", "liqu
 date = 2015-11-25T09:26:04Z
 description = "When a retailer fails—whether at a single location or company-wide—their first instinct is often to discount the crap nobody wanted to buy. Here's why."
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1448424866/m15ouw7xgs0kl3g6hj93"
+image = "https://res.cloudinary.com/tedium/image/upload/v1448424866/m15ouw7xgs0kl3g6hj93"
 slug = "liquidation-sales-everything-must-go"
 tags = ["quitting", "retail", "business", "shopping", "city sports", "liquidation", "failure", "bankruptcy", "liquidation sales", "supply chain mangement"]
 variant = "article"
@@ -28,7 +28,7 @@ _**Editor's note:** Tedium will take Thanksgiving off. You should, too._
 
 {{% /redbox %}}{{% graybox %}}
 
-![Going out of business](http://res.cloudinary.com/tedium/image/upload/v1448425157/pk9op4tre8zb3mxst9zx.jpg)
+![Going out of business](https://res.cloudinary.com/tedium/image/upload/v1448425157/pk9op4tre8zb3mxst9zx.jpg)
 
 *(Jeff Auth/Flickr)*
 
@@ -66,7 +66,7 @@ In some ways, they're simply cleaning up the mess for the next guy with the craz
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Ugly ties](http://res.cloudinary.com/tedium/image/upload/v1448425518/kinhmboanh5n0dkhdrpp.jpg)
+![Ugly ties](https://res.cloudinary.com/tedium/image/upload/v1448425518/kinhmboanh5n0dkhdrpp.jpg)
 
 *(Ugly ties via Liquidation.com)*
 

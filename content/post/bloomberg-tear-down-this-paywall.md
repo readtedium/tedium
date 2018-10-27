@@ -20,7 +20,7 @@ Old issues of magazines like *BusinessWeek*, *BYTE*, and *Infoworld* hold import
 
 It’s hard to tell these stories when you run into a screen like this, however:
 
-![Bloomberg paywall](http://res.cloudinary.com/tedium/image/upload/v1487176006/wlhl48izvv981hygrjea.png)
+![Bloomberg paywall](https://res.cloudinary.com/tedium/image/upload/v1487176006/wlhl48izvv981hygrjea.png)
 
 This screen makes my blood boil red. Because just a few weeks ago, [you would have gotten the full article](http://webcache.googleusercontent.com/search?q=cache:Ue32dZ2m1mEJ:www.bloomberg.com/news/articles/2011-01-27/the-unlikely-story-of-apples-ipad-one-year-in+&cd=1&hl=en&ct=clnk&gl=us&client=opera).
 

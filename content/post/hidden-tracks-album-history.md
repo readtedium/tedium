@@ -44,7 +44,7 @@ _**Editor’s note:** Tonight’s issue is a slightly expanded rerun of a classi
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Compact discs](http://res.cloudinary.com/tedium/image/upload/v1447822997/yvt0o8mxri3ytq5t2ttl.jpg)
+![Compact discs](https://res.cloudinary.com/tedium/image/upload/v1447822997/yvt0o8mxri3ytq5t2ttl.jpg)
 
 ### Why CDs had more interesting hidden tracks than vinyl records
 

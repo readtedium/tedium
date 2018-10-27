@@ -4,7 +4,7 @@ categories = ["not in my back yard", "home ownership", "rake", "rakes", "history
 date = 2015-11-13T09:36:00Z
 description = "The National Wildlife Federation says you should give the leaf blower a rest this fall. Your constantly-annoyed neighbors think you should, too."
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1447390731/hufdweedikrk8yq3mnsu"
+image = "https://res.cloudinary.com/tedium/image/upload/v1447390731/hufdweedikrk8yq3mnsu"
 slug = "throw-away-your-rake"
 tags = ["not in my back yard", "home ownership", "rake", "rakes", "history of rakes", "compost", "yardwork", "leaf blowers", "leaves"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Throw Away Your Rake"
 
 {{% /redbox %}}{{% graybox %}}
 
-![Zhu Bajie](http://res.cloudinary.com/tedium/image/upload/v1447391410/n1j5mml61nasl8gkak3y.jpg)
+![Zhu Bajie](https://res.cloudinary.com/tedium/image/upload/v1447391410/n1j5mml61nasl8gkak3y.jpg)
 
 ### The history of the garden rake features a fictional Chinese half-pig who uses a 5,000-kilogram rake as a weapon
 
@@ -48,23 +48,23 @@ If you ask me, they're also annoyances in real life.
 
 **Traditionally made of materials** such as bamboo and metal, the tale of the garden rake is one of slow evolution, one that can best be seen by spending a half an hour [walking through old patents on Google](https://patents.google.com/?q=garden,lawn&q=rake&sort=old). But you don't probably have half an hour, so let's go through some of the highlights:
 
-![](http://res.cloudinary.com/tedium/image/upload/v1447391452/tcnmauqbvmgoo8ye7ivd.png)
+![](https://res.cloudinary.com/tedium/image/upload/v1447391452/tcnmauqbvmgoo8ye7ivd.png)
 
 **Here's the earliest example** of a garden rake shown in the U.S. patent system, dating back to 1874. The device includes what its creator, Edmund Brown, describes as "an automatically clearing attachment for iron tooth door-yard rakes, which shall remove all matter that may be collected between the teeth by simply raising the rake from the ground" [in the patent document](http://www.google.com/patents/US148660).
 
-![Rake and shovel](http://res.cloudinary.com/tedium/image/upload/v1447391492/a2ot82kcnyxz2zbjosiq.png)
+![Rake and shovel](https://res.cloudinary.com/tedium/image/upload/v1447391492/a2ot82kcnyxz2zbjosiq.png)
 
 **Ideas were slowly but surely** evolving. This 1905 invention by Richard Franklin Lawson effectively [combines the best elements of the snow shovel and the rake into a single device](https://www.google.com/patents/US827542?dq=rake+scoop&hl=en&sa=X&ved=0CB4Q6wEwAGoVChMItcrKnK2MyQIVyeYmCh1pMAhC). To be totally unfair to him, it doesn't look like it's very good at either shoveling or raking, so it'd be time for him to go back to the drawing board if we weren't talking about something he did 110 years ago and were pretty sure that he's dead at this juncture.
 
-![Camille J Rocquin rake](http://res.cloudinary.com/tedium/image/upload/v1447391610/tbkxufoet6z0jvbvtv1c.png)
+![Camille J Rocquin rake](https://res.cloudinary.com/tedium/image/upload/v1447391610/tbkxufoet6z0jvbvtv1c.png)
 
 **The turning point in modern rake design** may be thanks to the unsung hero and serial patenter Camille J Rocquin. The New Orleans-based inventor held patents for at least [five](https://www.google.com/patents/US1611488?dq=Rocquin+rake&hl=en&sa=X&ved=0CB0Q6AEwAGoVChMIxrj9s7GMyQIVBkomCh2nIQFl) [different](https://www.google.com/patents/US1837677?dq=Rocquin+rake&hl=en&sa=X&ved=0CCQQ6AEwAWoVChMIxrj9s7GMyQIVBkomCh2nIQFl) [kinds](https://www.google.com/patents/US1892965?dq=Rocquin+rake&hl=en&sa=X&ved=0CDIQ6AEwA2oVChMIxrj9s7GMyQIVBkomCh2nIQFl) [of](https://www.google.com/patents/US1706547?dq=Rocquin+rake&hl=en&sa=X&ved=0CDkQ6AEwBGoVChMIxrj9s7GMyQIVBkomCh2nIQFl) [rakes](https://www.google.com/patents/US2472342?dq=Rocquin+rake&hl=en&sa=X&ved=0CEAQ6AEwBWoVChMIxrj9s7GMyQIVBkomCh2nIQFl). Rocquin's rake designs—particularly the 1929 variation shown above—are similar to what you'd find in stores today if you were shopping for a metal rake.
 
-![First plastic rake](http://res.cloudinary.com/tedium/image/upload/v1447391559/p5ik4ritk8f6gqhdu2za.png)
+![First plastic rake](https://res.cloudinary.com/tedium/image/upload/v1447391559/p5ik4ritk8f6gqhdu2za.png)
 
 **The type of rake you're probably most familiar with,** the molded plastic rake, [didn't come about until the 1970s](http://www.google.com/patents/US3724188) in its current shape. It was created by an inventor named Harold Eads, who worked for the Ames company—[pretty much the biggest name in rakes](http://amzn.to/1MrfXVC). "An object of the present invention is to provide a rake which has all of the advantages of both steel tine rakes and bamboo rakes, without the disadvantages thereof," the 1972 patent document states. Considering we generally use plastic rakes nowadays, it appears that that objective was reached.
 
-![Glove rake](http://res.cloudinary.com/tedium/image/upload/v1447391526/shbaokg8bw6zeipwcacu.png)
+![Glove rake](https://res.cloudinary.com/tedium/image/upload/v1447391526/shbaokg8bw6zeipwcacu.png)
 
 **Honestly, we just put this glove rake patent in,** [despite the fact it only dates back to 2011](https://www.google.com/patents/US20120317954), because we think it's hilarious. "It is the object of the present invention to provide a glove rake which truly acts as an extension of the wearer's hand, allowing the wearer to separately and independently rotate each of the fingers of the glove rake to perform a variety of different gardening, landscaping, and yard work tasks with maximum efficiency," the patent states. Like we said, hilarious.
 
@@ -80,7 +80,7 @@ If you ask me, they're also annoyances in real life.
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Leaf blower](http://res.cloudinary.com/tedium/image/upload/v1447391805/fnz2dyhsjgob7y4v1uuq.jpg)
+![Leaf blower](https://res.cloudinary.com/tedium/image/upload/v1447391805/fnz2dyhsjgob7y4v1uuq.jpg)
 
 ### Just like hand dryers, noisy leaf blowers drive some people mad
 

@@ -4,7 +4,7 @@ categories = ["music industry", "movie industry", "technology", "media", "format
 date = 2015-09-04T08:48:24Z
 description = "Laserdisc, anyone? How about HitClips? And what's the deal with slotMusic? All these media formats were made for some reason. We're not sure why."
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1441341671/rrqg0ckkiko71opybjde"
+image = "https://res.cloudinary.com/tedium/image/upload/v1441341671/rrqg0ckkiko71opybjde"
 slug = "format-wars-laserdisc-hitclips"
 tags = ["music industry", "movie industry", "technology", "media", "formats", "format war", "laserdisc", "selectadisc videodisc", "divx", "hitclips"]
 variant = "article"
@@ -44,7 +44,7 @@ title = "Format War Footnotes"
 
 {{% /redbox %}}{{% graybox %}}
 
-![Domesday Project](http://res.cloudinary.com/tedium/image/upload/v1441341929/fadevhclb0upufzpdwhg.jpg)
+![Domesday Project](https://res.cloudinary.com/tedium/image/upload/v1441341929/fadevhclb0upufzpdwhg.jpg)
 
 ### The BBC created a project to preserve history on a format that nobody uses
 
@@ -66,7 +66,7 @@ Considering how well it worked then, just imagine how well it works now.
 
 {{% /graybox %}}{{% whitebox %}}
 
-![Laserdisc close-up](http://res.cloudinary.com/tedium/image/upload/v1441342063/cxyyzxcmk1q73bffs9qw.jpg)
+![Laserdisc close-up](https://res.cloudinary.com/tedium/image/upload/v1441342063/cxyyzxcmk1q73bffs9qw.jpg)
 
 ### How the techies saved an early digital artifact
 

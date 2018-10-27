@@ -4,7 +4,7 @@ categories = ["internet history", "subcultures", "computers", "viruses", "comput
 date = 2015-07-24T06:27:00Z
 description = "The computer virus has been around for more than 40 years now, and it's caused lots of panic (and occasionally some damage) over the years. But don't freak."
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1437877298/ncrwcda0af6mqxkala6i"
+image = "https://res.cloudinary.com/tedium/image/upload/v1437877298/ncrwcda0af6mqxkala6i"
 slug = "early-computer-virus-history"
 tags = ["internet history", "subcultures", "computers", "viruses", "computer viruses", "malware", "morris worm", "computer virus"]
 variant = "article"
@@ -18,7 +18,7 @@ title = "We're going viral"
 
 {{% /whitebox %}}{{% graybox %}}
 
-![Michelangelo's The Creation of Adam](http://res.cloudinary.com/tedium/image/upload/f_auto/v1437876755/kczxqzgmejryzxjus6w1.jpg)
+![Michelangelo's The Creation of Adam](https://res.cloudinary.com/tedium/image/upload/f_auto/v1437876755/kczxqzgmejryzxjus6w1.jpg)
 
 ### The day the media learned what a computer virus was
 
@@ -64,7 +64,7 @@ It wasn't be the first time that reporters overhyped a story about computer secu
 
 {{% /graybox %}}{{% whitebox %}}
 
-![The Morris Worm](http://res.cloudinary.com/tedium/image/upload/f_auto/v1437876955/mewyi6uebbkzkxrelwet.jpg)
+![The Morris Worm](https://res.cloudinary.com/tedium/image/upload/f_auto/v1437876955/mewyi6uebbkzkxrelwet.jpg)
 
 ### The co-founder of Y Combinator created a worm that almost broke the internet in 1988
 

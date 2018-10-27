@@ -4,7 +4,7 @@ categories = ["psychology", "swearing", "profanity", "cursing", "linguistics"]
 date = 2015-09-16T07:13:00Z
 description = "Swearing is often seen as a societal taboo that defines class or social level. Let's be honest, though: Profanity has more bark than bite."
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1442376425/msrcwbnifjs9cuxewdal"
+image = "https://res.cloudinary.com/tedium/image/upload/v1442376425/msrcwbnifjs9cuxewdal"
 slug = "lets-get-profane-nature-of-swearing"
 tags = ["psychology", "swearing", "profanity", "cursing", "linguistics"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Let's Get Profane"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![No swearing](http://res.cloudinary.com/tedium/image/upload/v1442376811/g3uolvhr7hnlafqfyxjm.jpg)
+![No swearing](https://res.cloudinary.com/tedium/image/upload/v1442376811/g3uolvhr7hnlafqfyxjm.jpg)
 
 *(Bill Barber/Flickr)*
 

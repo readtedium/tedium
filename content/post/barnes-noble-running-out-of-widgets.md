@@ -26,7 +26,7 @@ title = "We're Running Out of Widgets"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Barnes & Noble store](http://res.cloudinary.com/tedium/image/upload/v1441933632/jjohga3l8dojeeymkmin.jpg)
+![Barnes & Noble store](https://res.cloudinary.com/tedium/image/upload/v1441933632/jjohga3l8dojeeymkmin.jpg)
 
 *(Pierre Metivier/Flickr)*
 
@@ -62,7 +62,7 @@ What if, instead of monetizing the books, they monetized the important community
 
 {{% /graybox %}}{{% whitebox %}}
 
-![Blockbuster failure](http://res.cloudinary.com/tedium/image/upload/v1441933490/f7rluqbzgo5fqzqoplii.jpg)
+![Blockbuster failure](https://res.cloudinary.com/tedium/image/upload/v1441933490/f7rluqbzgo5fqzqoplii.jpg)
 
 *(Dave Dugdale/Flickr)*
 

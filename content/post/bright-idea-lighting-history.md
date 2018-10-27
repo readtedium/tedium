@@ -4,7 +4,7 @@ categories = ["history", "commerce", "lighting", "light bulbs", "neon", "neon li
 date = 2015-03-25T07:30:00Z
 description = "The electric light bulb was one of the greatest inventions ever created, and lighting has only gotten better from there. Enlighten yourself."
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1437832459/mwpxrvczdyeltp8fmhty"
+image = "https://res.cloudinary.com/tedium/image/upload/v1437832459/mwpxrvczdyeltp8fmhty"
 slug = "bright-idea-lighting-history"
 tags = ["history", "commerce", "lighting", "light bulbs", "neon", "neon lighting", "led", "led lighting", "technology"]
 variant = "article"
@@ -19,7 +19,7 @@ title = "Here’s a bright idea"
 {{% /whitebox %}}
 {{% graybox %}}
 
-![Neon lighting](http://res.cloudinary.com/tedium/image/upload/v1437832513/pstmd9wulexx2my83ro9.gif)
+![Neon lighting](https://res.cloudinary.com/tedium/image/upload/v1437832513/pstmd9wulexx2my83ro9.gif)
 
 ### The guy who invented neon lighting opposed his own country during World War II
 
@@ -59,7 +59,7 @@ We all know what happened next: Germany fell, and world leaders were quick to pu
 {{% /redbox %}}
 {{% whitebox %}}
 
-![Studio Drift dandelion light](http://res.cloudinary.com/tedium/image/upload/v1437832584/ofbq3hkpdanbx5v3yuy9.jpg)
+![Studio Drift dandelion light](https://res.cloudinary.com/tedium/image/upload/v1437832584/ofbq3hkpdanbx5v3yuy9.jpg)
 
 ### In defense of the rise of LED lighting
 

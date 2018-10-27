@@ -30,7 +30,7 @@ title = "America The Branded"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![America Magazine](http://res.cloudinary.com/tedium/image/upload/v1462943606/h7phruuhky9ah3tacuay.jpg)
+![America Magazine](https://res.cloudinary.com/tedium/image/upload/v1462943606/h7phruuhky9ah3tacuay.jpg)
 
 ### Five things that had the nerve to call themselves "America"
 
@@ -58,7 +58,7 @@ But if you expand the search to basically include the word "America" as a single
 
 Mentioning such a broad topic like America makes people think of a lot of things, from politics, to art, to culture, and a million other things in-between. It is one of our most divisive words, in part because it means so much to so many—it brings together many, but for others, it's a symbol of unfulfilled promise.
 
-![Beer](http://res.cloudinary.com/tedium/image/upload/v1462943723/mjqm2c71cqnoe4xs34sn.jpg)
+![Beer](https://res.cloudinary.com/tedium/image/upload/v1462943723/mjqm2c71cqnoe4xs34sn.jpg)
 
 Imagining one of the largest companies in the world trying to sell its most famous product as "America" invites some obvious cognitive dissonance.
 

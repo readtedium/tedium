@@ -4,7 +4,7 @@ categories = ["diplomacy", "subcultures", "diaspora", "quebec", "north america",
 date = 2015-05-15T07:00:00Z
 description = "When a culture permanently shifts to a new home, a diaspora spreads—and sometimes it creates a fascinating cultural pocket of its own."
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1437849113/x4qrkonsgdua3zzfkrmx"
+image = "https://res.cloudinary.com/tedium/image/upload/v1437849113/x4qrkonsgdua3zzfkrmx"
 slug = "how-a-diaspora-forms"
 tags = ["diplomacy", "subcultures", "diaspora", "quebec", "north america", "sociology"]
 variant = "article"
@@ -18,7 +18,7 @@ title = "Diaspora: Not just a forgotten social network"
 
 {{% /whitebox %}}{{% graybox %}}
 
-![Globes](http://res.cloudinary.com/tedium/image/upload/v1437848508/hvngkunmkjcnkclmuony.jpg)
+![Globes](https://res.cloudinary.com/tedium/image/upload/v1437848508/hvngkunmkjcnkclmuony.jpg)
 
 ### So, what the heck is a diaspora, anyway?
 
@@ -64,7 +64,7 @@ There's a lot of difficulty that comes with diaspora. For the interests of this 
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Front de Libération du Québec](http://res.cloudinary.com/tedium/image/upload/v1437848748/qgnbfozudupfbiw1yqxf.jpg)
+![Front de Libération du Québec](https://res.cloudinary.com/tedium/image/upload/v1437848748/qgnbfozudupfbiw1yqxf.jpg)
 
 ### The paramilitary group that changed Quebec forever
 

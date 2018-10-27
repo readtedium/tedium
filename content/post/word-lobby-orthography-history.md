@@ -4,7 +4,7 @@ categories = ["words", "phonetics", "dictionary", "noah webster", "andrew carneg
 date = 2015-11-20T09:55:45Z
 description = "Words and grammar don't just show up in the dictionary or style guide by accident. Quite often, they're lobbied for—sometimes by super-rich people."
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1447995043/xhsv6k54oeqzxlqaeeei"
+image = "https://res.cloudinary.com/tedium/image/upload/v1447995043/xhsv6k54oeqzxlqaeeei"
 slug = "word-lobby-orthography-history"
 tags = ["words", "phonetics", "dictionary", "noah webster", "andrew carnegie", "mark twain", "spelling", "english language", "orthography"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Enuf is Enough"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Andrew Carnegie](http://res.cloudinary.com/tedium/image/upload/v1447995303/osieh2s55pmdennob9jl.jpg)
+![Andrew Carnegie](https://res.cloudinary.com/tedium/image/upload/v1447995303/osieh2s55pmdennob9jl.jpg)
 
 ### Andrew Carnegie once funded an organization that lobbied to simplify words
 

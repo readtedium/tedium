@@ -4,7 +4,7 @@ categories = ["history", "food", "science", "food industry", "color", "food dye"
 date = 2015-08-26T07:46:00Z
 description = "These days, artificial food coloring is seen as a major health risk—admittedly, for good reason in some cases. But, shockingly, things used to be way worse."
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1440561936/eihmltbehpottagzpruv"
+image = "https://res.cloudinary.com/tedium/image/upload/v1440561936/eihmltbehpottagzpruv"
 slug = "food-coloring-dye-safety"
 tags = ["history", "food", "science", "food industry", "color", "food dye"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Live and Let Dye"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Food adulteration](http://res.cloudinary.com/tedium/image/upload/v1440562702/flpq8bvuymrgepopu1cw.png)
+![Food adulteration](https://res.cloudinary.com/tedium/image/upload/v1440562702/flpq8bvuymrgepopu1cw.png)
 
 ### You think food coloring is bad now? Here's what it used to be like
 
@@ -64,7 +64,7 @@ Fortunately, Arthur Hassall was there to follow in his footsteps. Hassall, a che
 
 {{% /graybox %}}{{% whitebox %}}
 
-![Pink margarine](http://res.cloudinary.com/tedium/image/upload/v1440562510/zodsyx1ppskgkwghmzd9.jpg)
+![Pink margarine](https://res.cloudinary.com/tedium/image/upload/v1440562510/zodsyx1ppskgkwghmzd9.jpg)
 
 ### That time the butter industry lobbied for pink margarine
 

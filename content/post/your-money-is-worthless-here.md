@@ -4,7 +4,7 @@ categories = ["diplomacy", "money", "financial industry", "finance", "currency",
 date = 2015-06-24T07:18:00Z
 description = "From coupons to Zimbabwean dollars, sometimes currency turns out to be worth a lot less than it initially seems."
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1437858476/r6zmrsyoav4xgbmptvpc"
+image = "https://res.cloudinary.com/tedium/image/upload/v1437858476/r6zmrsyoav4xgbmptvpc"
 slug = "your-money-is-worthless-here"
 tags = ["diplomacy", "money", "financial industry", "finance", "currency", "worthless currency", "ron paul", "zimbabwe", "coupons", "hungary"]
 variant = "article"
@@ -18,7 +18,7 @@ title = "Your money is worthless here"
 
 {{% /whitebox %}}{{% graybox %}}
 
-![Coupons](http://res.cloudinary.com/tedium/image/upload/v1437858321/sx4prktunfhsjny4qsya.jpg)
+![Coupons](https://res.cloudinary.com/tedium/image/upload/v1437858321/sx4prktunfhsjny4qsya.jpg)
 
 ### Why coupons always tell you they have a nearly worthless cash value
 
@@ -44,7 +44,7 @@ The answer to that question: Not much.
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Subway Sub Club](http://res.cloudinary.com/tedium/image/upload/v1437858304/syb9cqdxv3vl7vupbwnd.jpg)
+![Subway Sub Club](https://res.cloudinary.com/tedium/image/upload/v1437858304/syb9cqdxv3vl7vupbwnd.jpg)
 
 ### The black market for Subway's Sub Club
 
@@ -76,7 +76,7 @@ And anyway, we all forgot about this debacle [by the time $5 Footlongs came alo
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Hungarian pengő](http://res.cloudinary.com/tedium/image/upload/v1437858283/avbivywa8mr74mzsmkoc.jpg)
+![Hungarian pengő](https://res.cloudinary.com/tedium/image/upload/v1437858283/avbivywa8mr74mzsmkoc.jpg)
 
 ### That time Hungary handed out currency by the sextillions
 

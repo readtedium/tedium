@@ -4,7 +4,7 @@ categories = ["music industry", "music", "obscure music", "magnetic tapes", "tap
 date = 2015-08-21T03:16:18Z
 description = "Vinyl records are getting all the buzz these days, but what about magnetic tapes? They're just as quirky—whether we're talking VCR or reel-to-reel."
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1440111968/onwi6jmffy1ij8un8qxf"
+image = "https://res.cloudinary.com/tedium/image/upload/v1440111968/onwi6jmffy1ij8un8qxf"
 slug = "magnetic-tape-revival"
 tags = ["music industry", "music", "obscure music", "magnetic tapes", "tapes", "reel-to-reel", "cassette tapes", "vinyl", "baking tapes"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Tape Deck Heart"
 
 {{% /redbox %}}{{% whitebox %}}
 
-[![The Tape Project](http://res.cloudinary.com/tedium/image/upload/v1440112238/ac9ilawxog8djat15kvs.jpg)](http://tapeproject.com/product/jerry-garcia-and-david-grisman/)
+[![The Tape Project](https://res.cloudinary.com/tedium/image/upload/v1440112238/ac9ilawxog8djat15kvs.jpg)](http://tapeproject.com/product/jerry-garcia-and-david-grisman/)
 
 ### Get out your wallet: You can still buy reel-to-reel tapes in 2015
 
@@ -60,7 +60,7 @@ If you can afford to spend $450 on [Creedence Clearwater Revival's fourth album]
 
 {{% /graybox %}}{{% whitebox %}}
 
-[![Baking the Tapes](http://res.cloudinary.com/tedium/image/upload/v1440112482/scsnjpd7h7u57mmczert.jpg)](http://www.npr.org/sections/npr-extra/2012/05/30/153917107/a-sticky-situation-baking-the-tapes)
+[![Baking the Tapes](https://res.cloudinary.com/tedium/image/upload/v1440112482/scsnjpd7h7u57mmczert.jpg)](http://www.npr.org/sections/npr-extra/2012/05/30/153917107/a-sticky-situation-baking-the-tapes)
 
 ### Why some reel-to-reel tapes need to be "baked"
 

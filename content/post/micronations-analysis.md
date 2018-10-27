@@ -4,7 +4,7 @@ categories = ["history", "politics", "diplomacy", "micronations", "sealand", "li
 date = 2015-04-24T06:00:00Z
 description = "Not everyone recognizes many micronations, but that hasn't stopped people from creating them and keeping them going. Just ask the fine folks of Sealand."
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1437844202/d6phn46agdxty0anccsh"
+image = "https://res.cloudinary.com/tedium/image/upload/v1437844202/d6phn46agdxty0anccsh"
 slug = "micronations-analysis"
 tags = ["history", "politics", "diplomacy", "micronations", "sealand", "liberland", "weird countries", "san marino"]
 variant = "article"
@@ -18,7 +18,7 @@ title = "This land is my land"
 
 {{% /whitebox %}}{{% graybox %}}
 
-![Sealand](http://res.cloudinary.com/tedium/image/upload/v1437843686/fvdz7bvqiettxdbxfled.jpg)
+![Sealand](https://res.cloudinary.com/tedium/image/upload/v1437843686/fvdz7bvqiettxdbxfled.jpg)
 
 ### Pirate radio's (arguably) sovereign legacy
 
@@ -34,7 +34,7 @@ That country, Sealand, has been active ever since.
 
 {{% /graybox %}}{{% whitebox %}}
 
-![Sealand flag](http://res.cloudinary.com/tedium/image/upload/v1437843714/pszw9qkih7sbqy2oaavo.jpg)
+![Sealand flag](https://res.cloudinary.com/tedium/image/upload/v1437843714/pszw9qkih7sbqy2oaavo.jpg)
 
 ### Sealand: A flag of its own
 
@@ -68,7 +68,7 @@ Nonetheless, the endeavor left its founder, Major Paddy Roy Bates, with a monarc
 
 {{% /graybox %}}{{% whitebox %}}
 
-![San Marino](http://res.cloudinary.com/tedium/image/upload/v1437843953/x9jybdbztdqgcvixmoze.jpg)
+![San Marino](https://res.cloudinary.com/tedium/image/upload/v1437843953/x9jybdbztdqgcvixmoze.jpg)
 
 ### An enclave to emulate
 

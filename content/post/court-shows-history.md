@@ -4,7 +4,7 @@ categories = ["television industry", "courtroom shows", "arrested development", 
 date = 2015-04-22T05:00:00Z
 description = "Since the dawn of television, court shows—whether actually based on real life or heavily dramatized—have become a cheap, sustainable viewing staple."
 draft = false
-image = "http://res.cloudinary.com/tedium/image/upload/v1437843277/vt82jbnqzhlqlvofrj6f"
+image = "https://res.cloudinary.com/tedium/image/upload/v1437843277/vt82jbnqzhlqlvofrj6f"
 slug = "court-shows-history"
 tags = ["television industry", "courtroom shows", "arrested development", "carville's court", "james carville", "law", "courtrooms", "the people's court"]
 variant = "article"
@@ -18,7 +18,7 @@ title = "Tell it to the judge"
 
 {{% /whitebox %}}{{% graybox %}}
 
-![O.J. Simpson putting on the gloves](http://res.cloudinary.com/tedium/image/upload/v1437842553/nwd3kezpnfepsrqswpp3.jpg)
+![O.J. Simpson putting on the gloves](https://res.cloudinary.com/tedium/image/upload/v1437842553/nwd3kezpnfepsrqswpp3.jpg)
 
 ### 1995: The year we reached peak courtroom
 
@@ -68,7 +68,7 @@ Oh, and one other thing: You're guaranteed conflict and resolution, which makes 
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Judge Reinhold on Arrested Development](http://res.cloudinary.com/tedium/image/upload/v1437842977/ilfa9kqdy0wowwdi0ecg.jpg)
+![Judge Reinhold on Arrested Development](https://res.cloudinary.com/tedium/image/upload/v1437842977/ilfa9kqdy0wowwdi0ecg.jpg)
 
 ### How close are dramatized courtroom scenes to the real thing?
 
