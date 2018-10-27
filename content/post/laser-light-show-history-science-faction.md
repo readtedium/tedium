@@ -4,7 +4,7 @@ categories = ["lasers", "laser light show", "science faction", "laser", "Laseriu
 date = 2017-03-17T07:23:00Z
 description = "The tale of Science Faction, a company that brought massive laser light shows to venues around the world. They blew a lot of minds along the way."
 draft = false
-image = "http://tedium.imgix.net/2017/03/tedium031617.gif"
+image = "https://tedium.imgix.net/2017/03/tedium031617.gif"
 slug = "laser-light-show-history-science-faction"
 tags = ["lasers", "laser light show", "science faction", "laser", "Laserium", "richard sandhaus", "dick sandhaus"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Frickin' Laser Beams"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Joe Cocker](http://tedium.imgix.net/2017/03/0316_cocker.jpg)
+![Joe Cocker](https://tedium.imgix.net/2017/03/0316_cocker.jpg)
 
 *Joe Cocker performing at Woodstock in 1969. Richard Sandhaus played an important role in making this performance happen. (Wikimedia Commons)*
 
@@ -68,7 +68,7 @@ By the time he turned 26, he decided to switch gears—devoting himself full-tim
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Laser One Science Faction Truck](http://tedium.imgix.net/2017/03/0316_laserone.jpg)
+![Laser One Science Faction Truck](https://tedium.imgix.net/2017/03/0316_laserone.jpg)
 
 *A mobile laser light show, produced by a Science Faction truck in 1988. The company spent upwards of $1 million on these laser-emitting vehicles. (Dick Sandhaus)*
 
@@ -94,13 +94,13 @@ Larry Alice, an engineer [and artist](http://larryalice.com/) who was hired to w
 
 “When I started they were still building computers from scratch, literally,” Alice explained.
 
-![Mondial du Laser](http://tedium.imgix.net/2017/03/0316_mondial.jpg)
+![Mondial du Laser](https://tedium.imgix.net/2017/03/0316_mondial.jpg)
 
 *A close-up of Science Faction's Mondial du Laser entry. (Dick Sandhaus)*
 
 Over the years, Science Faction worked on a wide array of projects, including multiple world expos and the 1998 Winter Olympics. At one point, the company represented the U.S. in Mondial du Laser, an international laser light competition that took place in Montreal in 1992. (They won gold, of course, with an elaborate conceptual piece about the pre-history of communication.)
 
-![Lasercast World Trade Center](http://tedium.imgix.net/2017/03/0316_lasercast.jpg)
+![Lasercast World Trade Center](https://tedium.imgix.net/2017/03/0316_lasercast.jpg)
 
 *A scene from Science Faction's Lasercast at the World Trade Center. (via Dick Sandhaus)*
 

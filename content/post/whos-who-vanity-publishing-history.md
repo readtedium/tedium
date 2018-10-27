@@ -4,7 +4,7 @@ categories = ["publishing", "who's who", "books", "vanity publishing", "Albert N
 date = 2017-07-19T07:39:00Z
 description = "How the “Who’s Who” concept of reference books devolved from a genuinely useful idea into a very costly form of vanity publishing."
 draft = false
-image = "http://tedium.imgix.net/2017/07/tedium071817.gif"
+image = "https://tedium.imgix.net/2017/07/tedium071817.gif"
 slug = "whos-who-vanity-publishing-history"
 tags = ["publishing", "who's who", "books", "vanity publishing", "Albert Nelson Marquis", "biographies", "disruption"]
 variant = "article"
@@ -20,7 +20,7 @@ title = "Who’s Who? Who Cares"
 
 {{% adbox bgcolor="#f3f3f3" color="#000000" accent="#e31d1a" %}}
 
-[![Six Disciplines](http://tedium.imgix.net/2017/07/sixdisciplines.jpg)](https://www.sixdisciplines.com/)
+[![Six Disciplines](https://tedium.imgix.net/2017/07/sixdisciplines.jpg)](https://www.sixdisciplines.com/)
 
 <span style="font-size: 14pt;">**Boost Your Execution:** Looking to take your organization's leadership to the next level? **[Six Disciplines](https://www.sixdisciplines.com/)**' coach-driven approach could help get your strategy over the hump.</span>
 
@@ -38,7 +38,7 @@ title = "Who’s Who? Who Cares"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Alber Nelson Marquis](http://tedium.imgix.net/2017/07/0718_marquis.jpg)
+![Alber Nelson Marquis](https://tedium.imgix.net/2017/07/0718_marquis.jpg)
 
 *Albert Nelson Marquis, shown in 1935. ([The Arizona Republic](https://www.newspapers.com/clip/12469419/arizona_republic/))*
 
@@ -50,7 +50,7 @@ In 1925, the biographer became the subject of biography, however brief. Albert N
 
 Orphaned as a young child, Marquis grew up in the stead of his maternal grandparents—who ensured he received both a proper education and job experience in the family’s general store. Marquis soon moved into publishing, launching his own publishing firm in the 1870s at the age of 21. The company started in Cincinnati, but eventually moved to Chicago, where Marquis formulated his grand idea—a reference book full of people who did notable enough things to get in the book. 
 
-![Who's Who in America inside cover](http://tedium.imgix.net/2017/07/0718_whoswho.jpg)
+![Who's Who in America inside cover](https://tedium.imgix.net/2017/07/0718_whoswho.jpg)
 
 *The inside cover of the first edition of Who's Who in America. ([Internet Archive](https://archive.org/details/whoswhoinameric00incgoog))*
 
@@ -74,7 +74,7 @@ That inconsistency, over time, came to define the term “Who’s Who.”
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Who's Who Among American High School Students](http://tedium.imgix.net/2017/07/0718_whoswhohs.jpg)
+![Who's Who Among American High School Students](https://tedium.imgix.net/2017/07/0718_whoswhohs.jpg)
 
 *Who's Who Among American High School Students, which was not published by the same folks as Who's Who in America. ([via Amazon](http://amzn.to/2uydTNa))*
 
@@ -126,7 +126,7 @@ Even the legitimate folks offering this service have probably taken things too f
 
 Want someone to notice you? Start a podcast. It’s cheaper.
 
-![Who's Who Registry](http://tedium.imgix.net/2017/07/0718_whoswhodomain.jpg)
+![Who's Who Registry](https://tedium.imgix.net/2017/07/0718_whoswhodomain.jpg)
 
 *Please, if you're thinking of spending money on a .WhosWho domain, buy literally anything else.*
 

@@ -4,7 +4,7 @@ categories = ["airplanes", "planes", "passenger planes", "twa", "northwest airli
 date = 2017-02-24T09:23:00Z
 description = "The in-flight entertainment system was once a novel idea that kept passengers enthralled. Now, the systems are expensive, outdated, and hard to upgrade."
 draft = false
-image = "http://tedium.imgix.net/2017/02/tedium022317.gif"
+image = "https://tedium.imgix.net/2017/02/tedium022317.gif"
 slug = "in-flight-entertainment-system-history"
 tags = ["airplanes", "planes", "passenger planes", "twa", "northwest airlines", "David Flexer", "Astrovision", "nintendo", "Nintendo Gateway System", "in-flight entertainment"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Are You Not Entertained?"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![In-flight entertainment](http://tedium.imgix.net/2017/02/0223_flight-1.jpg)
+![In-flight entertainment](https://tedium.imgix.net/2017/02/0223_flight-1.jpg)
 
 *([Thomas Hawk/Flickr](https://www.flickr.com/photos/thomashawk/4457322103/))*
 
@@ -50,7 +50,7 @@ In [an interview with the newspaper magazine *Parade*](https://www.newspapers.co
 
 It cost him a bunch of time and money (his team went through numerous projectors that failed for one reason or another), but eventually, he found the perfect balance—a 75-pound projector, laid on its side, that accepted 16mm film—the film gauge being important because it allowed a full movie to air during a flight. The projector was designed so that it was unobtrusive and would allow flight attendants to walk through the aisle without any trouble. Audio was handled by earphones in individual seats.
 
-![In-flight movies TWA](http://tedium.imgix.net/2017/02/0223_twa-1.jpg)
+![In-flight movies TWA](https://tedium.imgix.net/2017/02/0223_twa-1.jpg)
 
 *An ad for in-flight movies on TWA, from a 1961 issue of Aviation Week ([via the Internet Archive](https://archive.org/details/Aviation_Week_1961-07-24))*
 
@@ -80,7 +80,7 @@ Now, if a movie ends before the flight’s over, we just live with it.
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Northwest Airlines Nintendo Gateway System](http://tedium.imgix.net/2017/02/0223_nintendo.jpg)
+![Northwest Airlines Nintendo Gateway System](https://tedium.imgix.net/2017/02/0223_nintendo.jpg)
 
 *The Nintendo Gateway System. (via [SNES Central](http://snescentral.com/article.php?id=1019))*
 
@@ -94,7 +94,7 @@ The Nintendo Gateway System, first introduced in 1993, wasn’t only limited to 
 
 “The real problem in this business has been making the games available to kids over 18,” said Peter Main, Nintendo of America’s vice president at the time, [according to a 1993 Reuters article](https://www.newspapers.com/clip/9132589/nintendo_gateway_system_reuters_article/). He added: “Now, with a with the swipe of a credit card, a guy can try a game without a snotty clerk behind the counter telling him he's doing it wrong."
 
-![Krisworld](http://tedium.imgix.net/2017/02/0223_krisworld.jpg)
+![Krisworld](https://tedium.imgix.net/2017/02/0223_krisworld.jpg)
 
 *An early variation of the Singapore Airlines Krisworld system, shown above, was likely based on the Nintendo Gateway System. ([YouTube screenshot](https://www.youtube.com/watch?v=RUxYUcuLoso))*
 

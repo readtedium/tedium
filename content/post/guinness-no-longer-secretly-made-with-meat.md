@@ -4,7 +4,7 @@ categories = ["meat", "veggie dogs", "vegetarianism", "veganism", "guinness", "b
 date = 2017-05-03T07:30:38Z
 description = "Products you probably use all the time, from fabric softeners to condoms, use unexpected animal byproducts. But not Guinness anymore, fortunately."
 draft = false
-image = "http://tedium.imgix.net/2017/05/tedium050217.gif"
+image = "https://tedium.imgix.net/2017/05/tedium050217.gif"
 slug = "guinness-no-longer-secretly-made-with-meat"
 tags = ["meat", "veggie dogs", "vegetarianism", "veganism", "guinness", "beer", "vegan condoms", "cheese", "parmesan cheese"]
 variant = "article"
@@ -28,7 +28,7 @@ _**Editor’s note:** In honor of Guinness’ recent move to full veganism, I’
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Parmesan cheese](http://tedium.imgix.net/2017/05/1105_cheese.jpg)
+![Parmesan cheese](https://tedium.imgix.net/2017/05/1105_cheese.jpg)
 
 *(Brian Boucheron/Flickr)*
 
@@ -48,7 +48,7 @@ But if you're vegetarian and hankering for some of the hard stuff, make sure you
 
 {{% /whitebox %}}{{% graybox %}}
 
-![Fabric softener](http://tedium.imgix.net/2017/05/0502_downy.jpg)
+![Fabric softener](https://tedium.imgix.net/2017/05/0502_downy.jpg)
 
 *You'll never soften fabrics the same way again. (Daniel Oines/Flickr)*
 

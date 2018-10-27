@@ -4,7 +4,7 @@ categories = ["movie industry", "movies", "netflix", "streaming services", "vide
 date = 2017-01-06T09:34:00Z
 description = "In 1998, a Hong Kong telecom firm spent $1.5 billion trying to make video-on-demand happen. iTV was so ahead of its time that it beat Netflix's DVD service."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium010517.gif"
+image = "https://tedium.imgix.net/2017/06/tedium010517.gif"
 slug = "first-streaming-service-itv-hong-kong"
 tags = ["movie industry", "movies", "netflix", "streaming services", "video on demand", "film industry", "telecom", "hong kong", "television industry", "internet access"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Streaming Before Netflix"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![iTV prototype](http://tedium.imgix.net/2017/06/0105_itv.jpg)
+![iTV prototype](https://tedium.imgix.net/2017/06/0105_itv.jpg)
 
 *A prototype of iTV, as shown in [an Associated Press news clip](https://www.youtube.com/watch?v=0D11rbPTvUk). (YouTube)*
 
@@ -64,7 +64,7 @@ But the launch wasn’t perfect.
 
 {{% /redbox %}}{{% whitebox %}}
 
-![iTV commercial screenshot](http://tedium.imgix.net/2017/06/0105_movies.jpg)
+![iTV commercial screenshot](https://tedium.imgix.net/2017/06/0105_movies.jpg)
 
 *A service with 780 hours of movies seems so quaint nowadays. (YouTube screenshot)*
 

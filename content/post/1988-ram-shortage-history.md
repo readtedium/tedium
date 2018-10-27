@@ -4,7 +4,7 @@ categories = ["ram", "dram", "memory", "ram shortage", "memory shortages", "japa
 date = 2016-11-25T08:12:00Z
 description = "In the mid-1980s, the RAM industry and the oil industry had a lot in common: The price fluctuations could get severe. Things got really bad in 1988."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium112416.gif"
+image = "https://tedium.imgix.net/2017/06/tedium112416.gif"
 slug = "1988-ram-shortage-history"
 tags = ["ram", "dram", "memory", "ram shortage", "memory shortages", "japan", "trade war", "1988 ram shortage"]
 variant = "article"
@@ -18,7 +18,7 @@ title = "Out Of Memory Error"
 
 {{% /whitebox %}}{{% graybox %}}
 
-![DRAM](http://tedium.imgix.net/2017/06/1124_dram.jpg)
+![DRAM](https://tedium.imgix.net/2017/06/1124_dram.jpg)
 
 ### The course correction that made RAM really expensive in the summer of 1988
 
@@ -60,7 +60,7 @@ It turned out to be a huge miscalculation, and fixing that error was not going t
 
 {{% /redbox %}}{{% whitebox %}}
 
-![RAM prices](http://tedium.imgix.net/2017/06/1124_BYTE.jpg)
+![RAM prices](https://tedium.imgix.net/2017/06/1124_BYTE.jpg)
 
 *(BYTE Magazine ad)*
 

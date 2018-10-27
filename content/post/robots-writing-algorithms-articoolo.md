@@ -4,7 +4,7 @@ categories = ["robots", "articoolo", "writing", "journalism", "automated writing
 date = 2016-08-12T07:17:00Z
 description = "We're a long ways from a robot becoming the next great American novelist. But an Israeli startup hopes to get 'bots writing more than ever."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium081116.gif"
+image = "https://tedium.imgix.net/2017/06/tedium081116.gif"
 slug = "robots-writing-algorithms-articoolo"
 tags = ["robots", "articoolo", "writing", "journalism", "automated writing", "automation", "stealing our jobs", "doron tal"]
 variant = "article"
@@ -18,7 +18,7 @@ title = "When Robots Can Write"
 
 {{% /whitebox %}}{{% graybox %}}
 
-<img src="http://tedium.imgix.net/2017/06/headshot.jpg" style="float: left;width: 170px;display: inline-block;padding-right: 1em;margin-top: .75em;">
+<img src="https://tedium.imgix.net/2017/06/headshot.jpg" style="float: left;width: 170px;display: inline-block;padding-right: 1em;margin-top: .75em;">
 
 **The Story of Tedium:**  Curious about where we came from? Hear it in our words: Recently, Tedium creator Ernie Smith [sat down with Paul Riismandel of Radio Survior](http://www.radiosurvivor.com/2016/08/09/podcast-58-love-tedious-radio-facts/) to talk Tedium. [Listen here](http://www.radiosurvivor.com/2016/08/09/podcast-58-love-tedious-radio-facts/).
 
@@ -32,7 +32,7 @@ title = "When Robots Can Write"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Articoolo screenshot](http://tedium.imgix.net/2017/06/0811_articoolob.jpg)
+![Articoolo screenshot](https://tedium.imgix.net/2017/06/0811_articoolob.jpg)
 
 ### One company that's trying to use algorithms to write stories
 
@@ -46,7 +46,7 @@ It sounds futuristic to a degree, though the firm emphasizes that its use cases 
 
 (It makes sense, then, that [one of the biggest fans of Articoolo](http://articoolo.com/blog/what-you-created-is-freaking-fantastic/) is an SEO expert.) 
 
-![Articoolo team](http://tedium.imgix.net/2017/06/0811_articoolo.jpg)
+![Articoolo team](https://tedium.imgix.net/2017/06/0811_articoolo.jpg)
 
 *Articoolo core team, from left: Nir Haloani, Lilia Demidov, Doron Tal. (Handout photo)*
 
@@ -80,7 +80,7 @@ Instead, Tal argues for Articoolo as a potential timesaver for writers—one tha
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Monkey with typerwiter](http://tedium.imgix.net/2017/06/0811_typewriter.jpg)
+![Monkey with typerwiter](https://tedium.imgix.net/2017/06/0811_typewriter.jpg)
 
 ### Articoolo tries its hand at writing a Tedium topic
 

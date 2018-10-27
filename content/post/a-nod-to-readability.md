@@ -4,7 +4,7 @@ categories = ["blurb", "typography", "announcements", "state of tedium", "about 
 date = 2017-07-11T04:59:20Z
 description = "As it turns out, not everyone is a fan of slab-serif body copy. We're making some quick typography changes in an effort to not scare folks off."
 draft = false
-image = "http://tedium.imgix.net/2017/07/0710_font.jpg"
+image = "https://tedium.imgix.net/2017/07/0710_font.jpg"
 slug = "a-nod-to-readability"
 tags = ["blurb", "typography", "announcements", "state of tedium", "about tedium"]
 variant = "blurb"
@@ -30,11 +30,11 @@ So it's nice—it helps balance out the readability issues some might have had w
 
 I have to admit, when I made the decision, I was worried how my pal would take it. So I took two screenshots of the same block of text, one in the old font, and another in the new one:
 
-![Nexa Slab body copy sample](http://tedium.imgix.net/2017/07/Screenshot-2017-07-10-17.38.48.png)
+![Nexa Slab body copy sample](https://tedium.imgix.net/2017/07/Screenshot-2017-07-10-17.38.48.png)
 
 *Nexa Slab body copy sample*
 
-![Nexa body copy sample](http://tedium.imgix.net/2017/07/Screenshot-2017-07-10-17.34.33.png)
+![Nexa body copy sample](https://tedium.imgix.net/2017/07/Screenshot-2017-07-10-17.34.33.png)
 
 *Nexa body copy sample*
 

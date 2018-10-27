@@ -4,7 +4,7 @@ categories = ["pickles", "food", "food industry", "food manufacturing", "vlasic"
 date = 2017-01-04T09:36:00Z
 description = "Generally dill-flavored, always salty, and often found in iconic Jewish delis, the pickled cucumber is an icon of strong flavor. (As is pickle juice.)"
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium010417.gif"
+image = "https://tedium.imgix.net/2017/06/tedium010417.gif"
 slug = "interesting-facts-about-pickles"
 tags = ["pickles", "food", "food industry", "food manufacturing", "vlasic", "vlasic pickles", "heinz", "pickle history", "sandwiches"]
 variant = "article"
@@ -28,7 +28,7 @@ _**Editor's note:** Before we go any further, I wanted to give a major shoutout 
 
 {{% /redbox %}}{{% graybox %}}
 
-![Mexican sour gherkins](http://tedium.imgix.net/2017/06/0103_pickles.jpg)
+![Mexican sour gherkins](https://tedium.imgix.net/2017/06/0103_pickles.jpg)
 
 *Mexican sour gherkins, a variation of pickle that's become buzzworthy in recent years, mixed with pickled green beans. ([SoFuego/Pixabay](https://pixabay.com/en/lacto-fermentation-pickling-861551/))*
 
@@ -50,7 +50,7 @@ _**Editor's note:** Before we go any further, I wanted to give a major shoutout 
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Vlasic pickles](http://tedium.imgix.net/2017/06/0103_vlasic.jpg)
+![Vlasic pickles](https://tedium.imgix.net/2017/06/0103_vlasic.jpg)
 
 *Vlasic Pickles, aka the Best Tastin' Pickle I Ever 'Hoid. (handout)*
 

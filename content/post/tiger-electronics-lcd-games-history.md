@@ -4,7 +4,7 @@ categories = ["video games", "bad video games", "lcd games", "lcd", "r-zone", "g
 date = 2016-08-24T07:22:00Z
 description = "Tiger Electronics' LCD-based games shouldn't have been as successful as they were against the Game Boy. But the company was anything but a failure. Why?"
 draft = false
-image = "http://tedium.imgix.net/2017/06/wl30dubq7ztejbtuolnl.gif"
+image = "https://tedium.imgix.net/2017/06/wl30dubq7ztejbtuolnl.gif"
 slug = "tiger-electronics-lcd-games-history"
 tags = ["video games", "bad video games", "lcd games", "lcd", "r-zone", "game.com"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Eye Of The Tiger"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![King Kong](http://tedium.imgix.net/2017/06/0823_kingkong.jpg)
+![King Kong](https://tedium.imgix.net/2017/06/0823_kingkong.jpg)
 
 *One of Tiger Electronics' King Kong games. (via [the Handheld Museum](http://www.handheldmuseum.com/Tiger/KingKong.htm))*
 
@@ -58,15 +58,15 @@ Nintendo possibly could have fatally wounded Tiger Electronics at that point, bu
 
 ### Five incredibly strange products Tiger Electronics made in the '90s
 
-![R-Zone](http://tedium.imgix.net/2017/06/0823_games.jpg)
+![R-Zone](https://tedium.imgix.net/2017/06/0823_games.jpg)
 
 **1. The R-Zone:** Perhaps the most infamous product ever associated with Tiger, the company in 1995 [came up with the unusual idea of a head-mounted game console](http://www.racketboy.com/retro/lcd-games/tiger-electronics-r-zone-101-a-beginners-guide). The games each contained tiny LCD screens, which were reflected into the user's eye. (They later offered the R-Zone in a Game Gear-style console casing.) Ultimately, though, the games were glorified versions of Tiger's existing LCD games. In some ways, it was akin to Nintendo's Virtual Boy, but much, much worse—which is saying a lot, because the Virtual Boy is widely considered Nintendo's worst console.
 
-![Tiger Learning Computer](http://tedium.imgix.net/2017/06/0823_apple.jpg)
+![Tiger Learning Computer](https://tedium.imgix.net/2017/06/0823_apple.jpg)
 
 **2. Tiger Learning Computer:** Perhaps one of the latest versions of the Apple II ever released, [the company scored a deal with Apple to become a licensee in 1995](http://apple2history.org/history/ah12/#10), during a period in which Apple was open to working with clone manufacturers of the Mac. Tiger came up with a laptop-like variation of the Apple IIe [that looked like a Powerbook](https://juiced.gs/2012/01/tiger-learning-computer-gallery/), but featured six slots for cartridges in place of a screen. (You hooked it up to your TV to use, see.) Unfortunately for Tiger, Steve Jobs returned to Apple just before they ramped up production, and killed all clone projects—making sure the computer would remain rare.
 
-![Tiger Webstart](http://tedium.imgix.net/2017/06/0823_tiger.jpg)
+![Tiger Webstart](https://tedium.imgix.net/2017/06/0823_tiger.jpg)
 
 **3. Tiger.Webstart Computer:** Never one to give up on a good idea, [Tiger introduced a simulated computer in 1998](http://articles.orlandosentinel.com/1998-09-29/lifestyle/9809280690_1_mci-telecom-usa-phone-bill), but this time updated it for the web era. The device, which the box says includes "simulated e-mail & hyperlinking," was meant to be training wheels for actually getting on the internet. (On the plus side, the mouse was real.) Don't let the large-looking screen fool you—nearly all of it is just a printed graphic around the much-tinier screen.
 
@@ -74,7 +74,7 @@ https://www.youtube.com/watch?v=AyAx-P-vdx4
 
 **4. Super Data Blaster:** In 1995, Tiger released an early digital organizer that was focused on sports. They created these devices for a number of major sports, [including Major League Baseball](http://www.hasbro.com/common/instruct/Data_Blaster_Major_League_Baseball_(Super).pdf), for which [they apparently uploaded Tommy Lasorda's brain](https://www.youtube.com/watch?v=AyAx-P-vdx4). (One intriguing feature of the tool is that it featured a basic texting function that worked over infrared.)
 
-![Datapen](http://tedium.imgix.net/2017/06/0823_datapen.jpg)
+![Datapen](https://tedium.imgix.net/2017/06/0823_datapen.jpg)
 
 **5. DataPen:** Much in the spirit of the Super Data Blaster, Tiger also came up with a pen that [includes a built-in electronic organizer](http://articles.latimes.com/1996-07-16/news/ls-24490_1_safety-features), just in case you ever wanted to combine those things. [The keys were so small](http://www.hasbro.com/common/instruct/DataPen.pdf) you had to use the pen cap to type.
 
@@ -88,7 +88,7 @@ https://www.youtube.com/watch?v=AyAx-P-vdx4
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Gauntlet](http://tedium.imgix.net/2017/06/0823_gauntlet.jpg)
+![Gauntlet](https://tedium.imgix.net/2017/06/0823_gauntlet.jpg)
 
 ### But what about those LCD games?
 

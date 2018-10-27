@@ -4,7 +4,7 @@ categories = ["icarus trophy", "paramotoring", "extreme sports", "sports", "adve
 date = 2016-10-26T04:31:37Z
 description = "A few lessons on risk and reward from the Icarus Trophy, an annual paramotoring competition that redefines \"extreme.\""
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium102516.gif"
+image = "https://tedium.imgix.net/2017/06/tedium102516.gif"
 slug = "icarus-trophy-race-extreme-sports"
 tags = ["icarus trophy", "paramotoring", "extreme sports", "sports", "adventures", "the adventurists"]
 variant = "article"
@@ -28,7 +28,7 @@ _**Editor’s note:** Today’s issue is a piece from writer Andrew Egan, who ha
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Icarus](http://tedium.imgix.net/2017/06/1025_icarus1.jpg)
+![Icarus](https://tedium.imgix.net/2017/06/1025_icarus1.jpg)
 
 *Trey German being interviewed at the finish line in Mesquite, Nevada. (all photos by Andrew Egan)*
 
@@ -70,7 +70,7 @@ Which might explain why these pilots would choose to participate in the Icarus T
 
 {{% /redbox %}}{{% graybox %}}
 
-![I](http://tedium.imgix.net/2017/06/1025_icarus2.jpg)
+![I](https://tedium.imgix.net/2017/06/1025_icarus2.jpg)
 
 *A paramotor pilot flying at sunset over the Bonneville Salt Flats in Utah.*
 
@@ -90,27 +90,27 @@ Some back of the envelope math done by German found that paramotoring is about a
 
 ### A few places on the Icarus trail
 
-![Polson, Montana](http://tedium.imgix.net/2017/06/1025_polson.jpg)
+![Polson, Montana](https://tedium.imgix.net/2017/06/1025_polson.jpg)
 
 **Polson, Montana:** Start line of the Icarus Trophy, elevation 3,000 feet above sea level.
 
-![Idaho Falls, Idaho](http://tedium.imgix.net/2017/06/1025_idaho.jpg)
+![Idaho Falls, Idaho](https://tedium.imgix.net/2017/06/1025_idaho.jpg)
 
 **Idaho Falls, Idaho:** The Falls of Idaho Falls. One of the larger cities along the Icarus route, Idaho Falls is also home to Idaho National Labs, the country’s only nuclear reactor test site.
 
-![Bonneville Salt Flats](http://tedium.imgix.net/2017/06/1025_bonneville.jpg)
+![Bonneville Salt Flats](https://tedium.imgix.net/2017/06/1025_bonneville.jpg)
 
 **Bonneville Salt Flats, Utah:** Maintained by the Bureau of Land Management as a race track, the Bonneville Salt Flats weren’t technically on the Icarus route. A few of the competitors decided to make the drive for a day of spectacular flying. We arrived a day or two after rains left an inch of water across the salt plain. Several land speed records have been set at the Flats. 
 
-![Moab, Utah](http://tedium.imgix.net/2017/06/1025_moab.jpg)
+![Moab, Utah](https://tedium.imgix.net/2017/06/1025_moab.jpg)
 
 **Moab, Utah:** A beautiful resort town near Arches National Park, Moab is surrounded by beautiful red rock mountains and unique geological formations, like the Delicate Arch.
 
-![Monument Valley, Utah](http://tedium.imgix.net/2017/06/1025_monumentvalley.jpg)
+![Monument Valley, Utah](https://tedium.imgix.net/2017/06/1025_monumentvalley.jpg)
 
 **Monument Valley, Utah:** In southern Utah, near the Arizona border, much of the area belongs to the Navajo tribe. This iconic landscape has been featured in dozens of films and TVs shows, including Forrest Gump and Back to the Future Part III.
 
-![Downey, Idaho](http://tedium.imgix.net/2017/06/1025_downey.jpg)
+![Downey, Idaho](https://tedium.imgix.net/2017/06/1025_downey.jpg)
 
 **Downey, Idaho:** A small town in Southern Idaho with a grass strip airfield, Downey forced competitors to race against weather and make decisions that could have fatal consequences. Miroslav Svec is pictured here attempting to beat an incoming storm to the mountain.
 

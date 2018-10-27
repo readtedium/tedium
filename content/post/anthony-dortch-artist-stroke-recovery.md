@@ -4,7 +4,7 @@ categories = ["art", "visual arts", "comics", "comic books", "painting", "creati
 date = 2017-03-02T08:29:45Z
 description = "The story of a body painter and storyteller who’s bouncing back in a big way after a major health scare. This creative spirit can’t be stopped so easily."
 draft = false
-image = "http://tedium.imgix.net/2017/03/0301_art.jpg"
+image = "https://tedium.imgix.net/2017/03/0301_art.jpg"
 slug = "anthony-dortch-artist-stroke-recovery"
 tags = ["art", "visual arts", "comics", "comic books", "painting", "creativity", "health scares", "anthony dortch", "blurb"]
 variant = "blurb"
@@ -18,7 +18,7 @@ This health struggle threatened to stop Dortch, a Washington, D.C.-based artist,
 
 See, Dortch’s art literally involves painting people to and making them, effectively, into comic book characters—each in different colors to represent different walks of life, with elements of his storytelling highlighting issues of race, gender and sexuality.
 
-![Tony Dortch Pure](http://tedium.imgix.net/2017/03/0301_tony.jpg)
+![Tony Dortch Pure](https://tedium.imgix.net/2017/03/0301_tony.jpg)
 
 *Dortch, shown bottom left, with just some of his collaborators. ([via the artist's Facebook page](https://www.facebook.com/DortchDesigns/photos/a.100259565946.100443.98983285946/10154028949895947/?type=3&theater))*
 

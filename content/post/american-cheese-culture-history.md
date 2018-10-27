@@ -4,7 +4,7 @@ categories = ["processed cheese", "kraft foods", "kraft cheese", "cheese", "amer
 date = 2017-07-05T07:02:00Z
 description = "Despite cheese existing long before the U.S. did, it has come to define American food culture globally—and not just because of American cheese. Why is that?"
 draft = false
-image = "http://tedium.imgix.net/2017/07/tedium070417--1-.gif"
+image = "https://tedium.imgix.net/2017/07/tedium070417--1-.gif"
 slug = "american-cheese-culture-history"
 tags = ["processed cheese", "kraft foods", "kraft cheese", "cheese", "american cheese", "food", "baby swiss", "monterey jack", "colby"]
 variant = "article"
@@ -22,7 +22,7 @@ _**Editor’s note:** This piece is an update/reframing of [an older piece of mi
 
 <div class="md-redbox" style="background-color:#2dcc70; color: black; display:table;">
 
-<a href="https://munchpak.com"><img src="http://tedium.imgix.net/2017/07/mp1.jpg" style="float: left;max-width: 200px;padding-right: 1em;margin-top: .75em;"></a>
+<a href="https://munchpak.com"><img src="https://tedium.imgix.net/2017/07/mp1.jpg" style="float: left;max-width: 200px;padding-right: 1em;margin-top: .75em;"></a>
   
 <p style="font-size: 12pt; line-height: 2em;"><strong><a href="https://munchpak.com">Try something new!</a></strong>
 Get the newest and most popular snacks from around the world, delivered to your home or office. Don't like spicy snacks but gotta have something sour? <strong><a href="https://munchpak.com">Customize your MunchPak</a></strong> just the way you like it! Snack boxes start at only $9.95 + free shipping to the USA.</p>
@@ -41,7 +41,7 @@ Get the newest and most popular snacks from around the world, delivered to your 
 
 {{% /graybox %}}{{% whitebox %}}
 
-![Kraft American cheese](http://tedium.imgix.net/2017/07/0510_kraft.jpg)
+![Kraft American cheese](https://tedium.imgix.net/2017/07/0510_kraft.jpg)
 
 *([Mike Mozart/Flickr](https://www.flickr.com/photos/jeepersmedia/15101718385/))*
 
@@ -61,7 +61,7 @@ Five years later, Kraft was starting to patent some of his own strategies, which
 
 "The chief object of the invention is to convert cheese of the Cheddar genus into such condition that it may be kept indefinitely without spoiling, under conditions which would ordinarily cause it to spoil, and to accomplish this result without substantially impairing the taste of the cheese," Kraft stated in his initial patent claim.
 
-![Cheese patent](http://tedium.imgix.net/2017/07/0510_cheese.jpg)
+![Cheese patent](https://tedium.imgix.net/2017/07/0510_cheese.jpg)
 
 [A later patent filed by Kraft](https://patents.google.com/patent/US1400171A/en?q=cheese&assignee=kraft&before=19290101) gave the processed product a vessel: a box,lined with metal foil, in which the cheese product was placed into while still in liquid form, and set aside to solidify. (The result had a lot in common with the modern form of an early Kraft company acquisition, Velveeta, though unlike [that semi-liquid product](http://amzn.to/1T3s8yM), the final product was solid, like traditional cheese.)
 
@@ -75,7 +75,7 @@ Considering how much processed food we eat, American cheese may be the most Amer
 
 {{% /whitebox %}}{{% graybox %}}
 
-![String cheese](http://tedium.imgix.net/2017/07/0704_stringcheese.jpg)
+![String cheese](https://tedium.imgix.net/2017/07/0704_stringcheese.jpg)
 
 *I had to filter out "incident" to find this photo of string cheese on Flickr. ([k.steudel/Flickr](https://www.flickr.com/photos/snaks/4796793333/))*
 
@@ -89,7 +89,7 @@ Considering how much processed food we eat, American cheese may be the most Amer
 
 {{% /graybox %}}{{% whitebox %}}
 
-![Springfield Underground](http://tedium.imgix.net/2017/07/0704_warehouse.jpg)
+![Springfield Underground](https://tedium.imgix.net/2017/07/0704_warehouse.jpg)
 
 *An example of a refrigerated warehouse at Springfield Underground. ([Handout photo](http://springfieldunderground.com/underground-tour/#anchor))*
 

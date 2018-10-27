@@ -4,7 +4,7 @@ categories = ["straws", "plastic straws", "plastic", "environment", "waste", "pa
 date = 2017-06-07T10:40:07Z
 description = "The plastic straw, the ultimate commodity object, carries significant threats for the environment. Problem is, sustainable alternatives don't come cheap."
 draft = true
-image = "http://tedium.imgix.net/2017/06/tedium060617.gif"
+image = "https://tedium.imgix.net/2017/06/tedium060617.gif"
 slug = "plastic-straw-sustainability-problems"
 tags = ["straws", "plastic straws", "plastic", "environment", "waste", "paper straws", "rye straws", "ted turner", "ted's montana grill"]
 variant = "article"
@@ -22,7 +22,7 @@ title = "Grasping At Straws"
 
 <div class="md-redbox" style="background-color:#333333; color: white;">
 
-<a href="https://museumhack.com/team-building/?source_id=590472"><img src="http://tedium.imgix.net/2017/06/2.jpg" style="float: left;max-width: 200px;display: inline-block;padding-right: 1em;margin-top: .75em;" title=""></a>
+<a href="https://museumhack.com/team-building/?source_id=590472"><img src="https://tedium.imgix.net/2017/06/2.jpg" style="float: left;max-width: 200px;display: inline-block;padding-right: 1em;margin-top: .75em;" title=""></a>
   
 <p style="font-size: 13pt; line-height: 2.4rem;"><strong><a href="https://museumhack.com/team-building/?source_id=590472">Team Building in NYC, San Francisco, Chicago, Los Angeles & Washington DC.</a></strong> Museum Hack leads fun company activities at the best museums in these cities. Not sure what <strong><a href="https://museumhack.com/team-building/?source_id=590472">team building</a></strong> is? Forward this ad to your HR person at work; finding great activities is hard and they will appreciate the help!</p>
 
@@ -40,7 +40,7 @@ title = "Grasping At Straws"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Paper straw](http://tedium.imgix.net/2017/06/0606_straws.jpg)
+![Paper straw](https://tedium.imgix.net/2017/06/0606_straws.jpg)
 
 *([Steve Snodgrass/Flickr](https://www.flickr.com/photos/stevensnodgrass/11764705875/))*
 
@@ -70,7 +70,7 @@ Good for plastic. Bad for the environment.
 
 {{% /redbox %}}{{% graybox %}}
 
-![Bamboo straws](http://tedium.imgix.net/2017/06/0606_bamboo.jpg)
+![Bamboo straws](https://tedium.imgix.net/2017/06/0606_bamboo.jpg)
 
 *Bamboo straws, shown at a TEDx event in Indonesia. ([TEDx Ubud/Flickr](https://www.flickr.com/photos/tedxubud/8985996116/))*
 
@@ -84,7 +84,7 @@ Good for plastic. Bad for the environment.
 
 {{% /graybox %}}{{% whitebox %}}
 
-![Ted's Montana Grill](http://tedium.imgix.net/2017/06/0606_teds.jpg)
+![Ted's Montana Grill](https://tedium.imgix.net/2017/06/0606_teds.jpg)
 
 *A Ted's Montana Grill location in Bozeman, Montana. ([Keith Ewing/Flickr](https://www.flickr.com/photos/kewing/29783782991/))*
 
@@ -104,7 +104,7 @@ McKerrow looked online for info and soon found himself on the phone with the own
 
 “About two weeks later, he got back to me, and he said, ‘We found that machine,’ and I could hear it in his voice that he was really excited,” McKerrow continued. “He said, ’The engineers think that they can make it work.’”
 
-![Paper straws](http://tedium.imgix.net/2017/06/0606_ted.jpg)
+![Paper straws](https://tedium.imgix.net/2017/06/0606_ted.jpg)
 
 *Paper straws. ([Bob Simmons/Flickr](https://www.flickr.com/photos/tuaussi/3260886087/))*
 

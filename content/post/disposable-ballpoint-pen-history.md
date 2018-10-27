@@ -22,7 +22,7 @@ title = "Pens for Pennies"
 
 {{% adbox bgcolor="#2FACED" color="#333333" accent="#ffffff" %}}
 
-[![Knew Amsterdam](http://tedium.imgix.net/2017/09/knew_amsterdam-1.jpg)](http://knewamsterdam.com)
+[![Knew Amsterdam](https://tedium.imgix.net/2017/09/knew_amsterdam-1.jpg)](http://knewamsterdam.com)
 
 **Welcome Citizen.** **[Knew Amsterdam](http://knewamsterdam.com)** is a world where creatives always have a key to the City. **[Premium notebooks](http://knewamsterdam.com)** designed with writers in mind.
 

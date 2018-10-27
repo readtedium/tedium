@@ -4,7 +4,7 @@ categories = ["phone numbers", "telephone", "telephones", "phone history", "weir
 date = 2017-06-28T07:09:00Z
 description = "There are lots more weird phone numbers out there—and some of them have pretty fascinating stories. Read on to learn more about the vintage phone system."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium062717.gif"
+image = "https://tedium.imgix.net/2017/06/tedium062717.gif"
 slug = "weird-phone-number-history"
 tags = ["phone numbers", "telephone", "telephones", "phone history", "weird phone numbers", "pat fleet", "jane barbe", "Audichron", "time numbers"]
 variant = "article"
@@ -22,7 +22,7 @@ title = "More Dialing, More Weirdness"
 
 <div class="md-redbox" style="background-color:#333333; color: white;">
 
-<a href="https://museumhack.com/tickets/"><img src="http://tedium.imgix.net/2017/06/8.jpg" style="float: left;max-width: 200px;display: inline-block;padding-right: 1em;margin-top: .75em;"></a>
+<a href="https://museumhack.com/tickets/"><img src="https://tedium.imgix.net/2017/06/8.jpg" style="float: left;max-width: 200px;display: inline-block;padding-right: 1em;margin-top: .75em;"></a>
   
 <p style="font-size: 12pt; line-height: 1.8rem;"><strong><a href="https://museumhack.com/tickets/">Are you in NYC, San Francisco, Chicago, Los Angeles or Washington DC?</a></strong> We do unconventional tours at the best museums in your city. It’s kind of like the tedium for museums. We don’t talk about the most famous paintings or the newest collection, <strong><a href="https://museumhack.com/tickets/">we find the esoteric stories</a></strong> that make even the “boring art” amazing.</p>
 
@@ -62,7 +62,7 @@ And it was only a matter of time, of course, before the United States received a
 
 Franklin, however, had an entrepreneurial spirit to him—he was competing with Coca-Cola at the time. It just turned out that his drink was called "Tick Tock Ginger Ale," making it a good fit with anything time-related. Before the early '30s, this mostly meant advertising near large outdoor clocks. 
 
-![Coca-Cola](http://tedium.imgix.net/2017/06/0627_phone.jpg)
+![Coca-Cola](https://tedium.imgix.net/2017/06/0627_phone.jpg)
 
 *If you can't beat 'em, sell 'em ad space. ([Asheville Citizen-Times](https://www.newspapers.com/clip/11982546/audicrhon_clock_sponsored_by_cocacola/))*
 
@@ -78,7 +78,7 @@ By the 1970s, [the company had expanded its reach](http://www.nytimes.com/1976/0
 
 {{% /whitebox %}}{{% graybox %}}  
 
-![Rotary phone](http://tedium.imgix.net/2017/06/0627_phoneb.jpg)
+![Rotary phone](https://tedium.imgix.net/2017/06/0627_phoneb.jpg)
 
 *([PDPics/Pixabay](https://pixabay.com/en/telephone-phone-vintage-antique-167068/))*
 
@@ -94,7 +94,7 @@ _**Editor's note:** As I said in [the last article](http://tedium.co/2016/07/05/
 
 {{% /graybox %}}{{% whitebox %}}  
 
-![Fax Toy](http://tedium.imgix.net/2017/06/0627_fax.jpg)
+![Fax Toy](https://tedium.imgix.net/2017/06/0627_fax.jpg)
 
 *A recently shared test page on Fax Toy. As of press time, half the images are criticizing CNN.*
 
@@ -116,7 +116,7 @@ So he created it—registering the domain on December 12, 2005, and soon coding 
 
 So why keep it going? As it turns out, Savetz has a business reason for leaving FaxToy alive! His company, [Savetz Publishing](https://www.savetzpublishing.com/), makes printable forms and business resources, and he also runs [a service called FaxZero](https://faxzero.com/), which allows you to send faxes through the internet—for free with FaxZero branding, for pay without. So technically, you can send a FaxZero fax to FaxToy. (And plenty likely have! FaxZero has sent more than 15 million faxes since 2006.)
 
-![Fax drawing](http://tedium.imgix.net/2017/06/0627_fax2.jpg)
+![Fax drawing](https://tedium.imgix.net/2017/06/0627_fax2.jpg)
 
 *Savetz says he's a big fan of the hand-drawn faxes.*
 

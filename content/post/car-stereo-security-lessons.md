@@ -4,7 +4,7 @@ categories = ["car stereos", "security", "pioneer", "detachable faceplates", "th
 date = 2016-11-30T09:49:00Z
 description = "Car stereos have historically been both valuable and easy to spot in an idle vehicle, making them a key target for thieves. Why has that changed?"
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium112916.gif"
+image = "https://tedium.imgix.net/2017/06/tedium112916.gif"
 slug = "car-stereo-security-lessons"
 tags = ["car stereos", "security", "pioneer", "detachable faceplates", "theft", "crime", "car stereo design"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Security In Stereo"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Car stereo stolen](http://tedium.imgix.net/2017/06/1129_stereo.jpg)
+![Car stereo stolen](https://tedium.imgix.net/2017/06/1129_stereo.jpg)
 
 *([CJ Baker/Flickr](https://www.flickr.com/photos/slaunchways/545528536/))*
 
@@ -52,7 +52,7 @@ That’s why car stereos are so fascinating from a security standpoint. When it 
 
 {{% /whitebox %}}{{% graybox %}}
 
-![8-track car stereo](http://tedium.imgix.net/2017/06/1129_stereob.jpg)
+![8-track car stereo](https://tedium.imgix.net/2017/06/1129_stereob.jpg)
 
 *(via Popular Mechanics)*
 
@@ -66,7 +66,7 @@ That’s why car stereos are so fascinating from a security standpoint. When it 
 
 {{% /graybox %}}{{% whitebox %}}
 
-![Pioneer faceplate](http://tedium.imgix.net/2017/06/1129_pioneer.jpg)
+![Pioneer faceplate](https://tedium.imgix.net/2017/06/1129_pioneer.jpg)
 
 *(via [JustBuySpares](http://www.justbuyspares.com/single-232048035192.html))*
 

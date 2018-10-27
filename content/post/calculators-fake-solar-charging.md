@@ -4,7 +4,7 @@ categories = ["blurb", "calculators", "solar calculators", "solar energy", "sola
 date = 2017-08-10T06:25:59Z
 description = "Amid recent (depressing) revelations that some cheap calculators have fake solar cells on them, a short history of real solar cells on calculators."
 draft = false
-image = "http://tedium.imgix.net/2017/08/0809_calculator.jpg"
+image = "https://tedium.imgix.net/2017/08/0809_calculator.jpg"
 slug = "calculators-fake-solar-charging"
 tags = ["blurb", "calculators", "solar calculators", "solar energy", "solar cells", "fake", "lying"]
 variant = "blurb"
@@ -20,7 +20,7 @@ If you haven’t seen this video—strap in, it’s 18 minutes long—you will s
 
 But the fact that this video exists offers us an opportunity to at least talk about the innovators that actually did put solar cells onto their calculators, and reframed the potential of technology and power in the process.
 
-![Teal Photon](http://tedium.imgix.net/2017/08/0809_photon.jpg)
+![Teal Photon](https://tedium.imgix.net/2017/08/0809_photon.jpg)
 
 *(Google Books)*
 

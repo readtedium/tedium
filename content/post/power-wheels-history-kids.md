@@ -4,7 +4,7 @@ categories = ["toys", "power wheels", "cars", "toy cars", "mattel", "fischer pri
 date = 2016-12-02T09:51:00Z
 description = "It took a while for Power Wheels to get the right branding, but the tiny motorized cars eventually took the toy aisles by storm—despite recall-worthy flaws."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium120116.gif"
+image = "https://tedium.imgix.net/2017/06/tedium120116.gif"
 slug = "power-wheels-history-kids"
 tags = ["toys", "power wheels", "cars", "toy cars", "mattel", "fischer price", "toy vehicles", "modding", "Barbie Jeep Racing"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "12 Volts Of Horsepower"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Power Wheels commercial](http://tedium.imgix.net/2017/06/1201_powerwheels2.jpg)
+![Power Wheels commercial](https://tedium.imgix.net/2017/06/1201_powerwheels2.jpg)
 
 *(YouTube screenshot)*
 
@@ -46,7 +46,7 @@ In the early ‘80s, the Italian firm sold off Pines of America to a firm called
 
 By 1985, Pines of America [was selling three kinds of Power Wheels](https://www.youtube.com/watch?v=n751KlzBMFE) (a retro-looking “classic convertible,” an ATV-style vehicle, and a miniature monster truck) to the public.
 
-![Power Wheels patent drawing](http://tedium.imgix.net/2017/06/1201_pwpatent.jpg)
+![Power Wheels patent drawing](https://tedium.imgix.net/2017/06/1201_pwpatent.jpg)
 
 *(Google Patents)*
 
@@ -78,7 +78,7 @@ Considering that miniature motorized vehicles probably cost a lot more per unit 
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Power Wheels](http://tedium.imgix.net/2017/06/1201_powerwheels.jpg)
+![Power Wheels](https://tedium.imgix.net/2017/06/1201_powerwheels.jpg)
 
 *([opacity/Flickr](https://www.flickr.com/photos/opacity/6000714010/))*
 

@@ -4,7 +4,7 @@ categories = ["dresden", "world war ii", "slaughterhouse five", "tourists", "ger
 date = 2016-11-23T08:57:46Z
 description = "Historic sites are often huge draws for tourists, even when the history is tough to discuss. Just don’t expect to find the darkest topics in a travel guide."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium112216.gif"
+image = "https://tedium.imgix.net/2017/06/tedium112216.gif"
 slug = "dark-tourism-dresden-slaughterhouse-five"
 tags = ["dresden", "world war ii", "slaughterhouse five", "tourists", "germany", "dark tourism", "kurt vonnegut"]
 variant = "article"
@@ -28,7 +28,7 @@ _**Editor’s note:** After doing such a great job with [his last piece](http://
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Slaughterhouse-Five entrance](http://tedium.imgix.net/2017/06/1122_dresden3.jpg)
+![Slaughterhouse-Five entrance](https://tedium.imgix.net/2017/06/1122_dresden3.jpg)
 
 *Me standing at the entrance of Slaughterhouse-Five. I never know what to do with my hands in pictures. (Danilo Hommel)*
 
@@ -56,7 +56,7 @@ I arranged to take the tour the day before I arrived in Dresden. He wasn’t eve
 
 {{% /graybox %}}{{% whitebox %}}
 
-![cattle obelisk Dresden](http://tedium.imgix.net/2017/06/1122_dresden.jpg)
+![cattle obelisk Dresden](https://tedium.imgix.net/2017/06/1122_dresden.jpg)
 
 *The cattle obelisk outside of the Messe Dresden. (Andrew Egan)*
 
@@ -68,7 +68,7 @@ Danilo left me to stare at the details while he approached the still operational
 
 We arrived, at last. The actual Slaughterhouse-Five. A simple blue sign marks its entrance. The picture of me in front of it, helpfully taken by Danilo, is now in a place of prominence on my Facebook profile. A small tin medallion with the inscription "ORT 63", part of a collection placed around the city by a local historical society, is embedded in a curb in front. The medallion marks the survival of Vonnegut and his fellow POWs during the bombing.
 
-![image alt text](http://tedium.imgix.net/2017/06/1122_dresden2.jpg)
+![image alt text](https://tedium.imgix.net/2017/06/1122_dresden2.jpg)
 
 *My tour guide, Danilo Hommel, standing in front of an art installation by Ruairí O’Brien. (Andrew Egan)*
 
@@ -76,13 +76,13 @@ Like most buildings in Dresden, the inside of Slaughterhouse-Five has been heavi
 
 The area that housed Vonnegut and the others is below ground at the end of a couple of flights of stairs. Once inside, the room kind of underwhelms. It has the smell of a newly constructed school but no immediately identifiable purpose. When I asked Danilo what the room is currently being used for, he replied with a chuckle, "It’s a coatroom."
 
-![Kurt Vonnegut panel](http://tedium.imgix.net/2017/06/1122_vonnegut.jpg)
+![Kurt Vonnegut panel](https://tedium.imgix.net/2017/06/1122_vonnegut.jpg)
 
 *Close up of the Vonnegut panel. (Andrew Egan)*
 
 A few steps deeper inside this massive coatroom, on a section of wall opposite the check-in counter, is the only tribute to Vonnegut in the entire city. An art installation of hand painted glass and silk screened wood panels with scenes and quotes from the novel. Created by Irish artist Ruairí O’Brien, the work debuted in 2013 before a small crowd of local dignitaries and many more international supporters. Its illustrations are whimsical with vibrant colors that evoke a similar stylistic poignancy as the book.
 
-![Billy Pilgrim panel](http://tedium.imgix.net/2017/06/1122_pilgrim.jpg)
+![Billy Pilgrim panel](https://tedium.imgix.net/2017/06/1122_pilgrim.jpg)
 
 *A Billy Pilgrim panel. (Andrew Egan)*
 

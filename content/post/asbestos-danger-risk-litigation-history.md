@@ -4,7 +4,7 @@ categories = ["asbestos", "mesothelioma", "disease", "health", "unexpected rocks
 date = 2016-07-29T07:35:00Z
 description = "Asbestos is the rare example of a widely used mainstream product that was litigated out of existence. BTW, it was used for fake snow in The Wizard of Oz."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium072816--1-.gif"
+image = "https://tedium.imgix.net/2017/06/tedium072816--1-.gif"
 slug = "asbestos-danger-risk-litigation-history"
 tags = ["asbestos", "mesothelioma", "disease", "health", "unexpected rocks", "the wizard of oz", "fake snow"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Asbestos: It Isn't Snow"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Dorothy covered in asbestos](http://tedium.imgix.net/2017/06/0728_dorothy.jpg)
+![Dorothy covered in asbestos](https://tedium.imgix.net/2017/06/0728_dorothy.jpg)
 
 ### Asbestos was once used as fake snow in classic movies
 
@@ -64,7 +64,7 @@ But for a while, we were covering some of our greatest movie stars in one of the
 
 {{% /graybox %}}{{% whitebox %}}
 
-![Fake snow](http://tedium.imgix.net/2017/06/0728_fakesnow.jpg)
+![Fake snow](https://tedium.imgix.net/2017/06/0728_fakesnow.jpg)
 
 ### Asbestos has not been an easy material to quit, but its problems have changed the legal system forever.
 

@@ -4,7 +4,7 @@ categories = ["bose", "bose wave", "bose wave radio", "amar bose", "william shor
 date = 2016-12-23T09:51:00Z
 description = "Bose Wave stereo systems were legitimately innovative when they launched in the '90s—as was Bose itself. The marketing might make you forget that, though."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium122216.gif"
+image = "https://tedium.imgix.net/2017/06/tedium122216.gif"
 slug = "bose-wave-radio-history"
 tags = ["bose", "bose wave", "bose wave radio", "amar bose", "william short"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "The Sound Of Science"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Amar Bose](http://tedium.imgix.net/2017/06/1221_bose.jpg)
+![Amar Bose](https://tedium.imgix.net/2017/06/1221_bose.jpg)
 
 *[Bose founder and longtime MIT professor Dr. Amar Bose](https://www.flickr.com/photos/artvlive/15506956085/in/). (Automotive Rhythms/Flickr)*
 
@@ -72,7 +72,7 @@ There was. But Bose had to sell a bit of its marketing soul to find it.
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Bose Wave system](http://tedium.imgix.net/2017/06/1221_bosewave.jpg)
+![Bose Wave system](https://tedium.imgix.net/2017/06/1221_bosewave.jpg)
 
 *The Bose Wave Music System III, shown with a CD changer. More recent models support Bluetooth. (Handout)*
 

@@ -4,7 +4,7 @@ categories = ["blurb", "graphing calculators", "calculators", "ti-83", "ti-84", 
 date = 2017-05-23T07:09:21Z
 description = "The Texas Instruments graphing calculator, the long-neglected computing platform required by many high school math students, finally gets some competition."
 draft = false
-image = "http://tedium.imgix.net/2017/05/0522_calc.jpg"
+image = "https://tedium.imgix.net/2017/05/0522_calc.jpg"
 slug = "desmos-ti-graphing-calculator-competition"
 tags = ["blurb", "graphing calculators", "calculators", "ti-83", "ti-84", "math", "mathematics", "desmos"]
 variant = "blurb"
@@ -20,7 +20,7 @@ Smartphones, clearly, beat the snot out of the TI calculators technically, but T
 
 But things are changing … finally. Recently, [the Silicon Valley startup Desmos](https://www.desmos.com/) has been trying to take on the calculator industry through a smart mixture of modern technology and business strategy. The online tool, which is paid for by schools through partnerships, has already proven a budding success. And it’s even gotten the [Smarter Balanced Assessment Consortium](http://www.smarterbalanced.org/), one of the newer organizations offering standardized tests, to agree to use its online app instead of TI’s outdated, costly calculators.
 
-![Desmos](http://tedium.imgix.net/2017/05/Screenshot-2017-05-23-16.39.05.png)
+![Desmos](https://tedium.imgix.net/2017/05/Screenshot-2017-05-23-16.39.05.png)
 
 Desmos’ PR game is strong—in the past two weeks, the company has earned write-ups [in *Quartz*](https://qz.com/977987/thanks-to-the-startup-desmos-the-reign-of-the-texas-instruments-100-graphing-calculator-in-schools-is-finally-ending/), [CNN Money](http://money.cnn.com/2017/05/12/technology/ti-84-graphing-calculator/), and [*USA Today*](https://www.usatoday.com/story/news/2017/05/08/online-graphing-calculator/101412372/#)—and while the app still has a ways to go before it topples the king (there are a lot of standardized tests out there) it's off to a good start. 
 

@@ -4,7 +4,7 @@ categories = ["computers", "retail", "computer stores", "computer superstores", 
 date = 2017-08-04T07:54:00Z
 description = "Computers didn’t immediately lend themselves to retail, but ambitious early computer retailers sold 'em anyway. Eventually, they got trampled."
 draft = false
-image = "http://tedium.imgix.net/2017/08/tedium080317.gif"
+image = "https://tedium.imgix.net/2017/08/tedium080317.gif"
 slug = "early-computer-retailers-history"
 tags = ["computers", "retail", "computer stores", "computer superstores", "computerland", "franchisees", "william millard", "Paul Terrell"]
 variant = "article"
@@ -20,7 +20,7 @@ title = "Booting Up The Cash Register"
 
 {{% adbox bgcolor="#dce1e5" color="#484d55" accent="#ef4036" %}}
 
-[![Drizly](http://tedium.imgix.net/2017/08/0803_drizly.png)](http://www.gopjn.com/t/SUNHR0tHSklDR0xGS0dPQ0dJSUZPTw)
+[![Drizly](https://tedium.imgix.net/2017/08/0803_drizly.png)](http://www.gopjn.com/t/SUNHR0tHSklDR0xGS0dPQ0dJSUZPTw)
 
 <span style="font-size:110%; line-height: 130%;">**[Need a gift fast?](http://www.gopjn.com/t/SUNHR0tHSklDR0xGS0dPQ0dJSUZPTw)** Order Drizly now and have beer, wine, or liquor delivered within the hour. Shop now and **[save $5 using the code DRIZLYDEAL](http://www.gopjn.com/t/SUNHR0tHSklDR0xGS0dPQ0dJSUZPTw)**.</span>
 
@@ -39,7 +39,7 @@ title = "Booting Up The Cash Register"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Dick Heiser SCCS Interface](http://tedium.imgix.net/2017/08/0803_sccsinterface.jpg)
+![Dick Heiser SCCS Interface](https://tedium.imgix.net/2017/08/0803_sccsinterface.jpg)
 
 *Early computer store owner Dick Heiser, shown on the cover of Interface, the magazine of the Southern California Computer Society. (via eBay)* 
 
@@ -59,7 +59,7 @@ The Altair ultimately proved the main reason for the store’s early existence.
 
 “I had been thinking about putting in video games, workbenches, timesharing terminals, but because the Altair was so hot at the time, I decided to start the store to sell Altairs and help people get the kits together,” [he recalled in a 1981 *Infoworld* article](https://books.google.com/books?id=Dj4EAAAAMBAJ&pg=PA20).
 
-![World's First Computer Store](http://tedium.imgix.net/2017/08/0803_computer.jpg)
+![World's First Computer Store](https://tedium.imgix.net/2017/08/0803_computer.jpg)
 
 *Excellent design sensibility. (via [Medium](https://medium.com/@davbunnell/where-old-computers-refuse-to-die-885e34020b58))*
 
@@ -97,7 +97,7 @@ Eventually, the computer retail industry figured this all out. The problem was, 
 
 {{% /redbox %}}{{% whitebox %}}
 
-![ComputerLand ad](http://tedium.imgix.net/2017/08/0803_computerland.jpg)
+![ComputerLand ad](https://tedium.imgix.net/2017/08/0803_computerland.jpg)
 
 *This ComputerLand ad uses a larger headline typeface than the "World's First Computer Store" story does. Just wanted to point that out. ([Tom Simpson/Flickr](https://www.flickr.com/photos/randar/27283020215/))*
 
@@ -127,7 +127,7 @@ Even ComputerLand, a franchise-driven chain supposedly associated with one corpo
 
 And this problem ultimately put independent retailers at a loss. Soon, we were buying our computers at Circuit City and CompUSA, from manufacturers [like Packard Bell](http://tedium.co/2016/12/27/packard-bell-multiple-brand-history/), which were basically built less for quality and more for selling to first-time buyers.
 
-![Exidy Sorcerer](http://tedium.imgix.net/2017/08/0803_exidy.jpg)
+![Exidy Sorcerer](https://tedium.imgix.net/2017/08/0803_exidy.jpg)
 
 *An Exidy Sorcerer, masterminded with the help of Paul Terrell. ([Wolfgang Stief/Flickr](https://www.flickr.com/photos/stiefkind/15272183299))*
 

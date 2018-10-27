@@ -4,7 +4,7 @@ categories = ["retail", "department stores", "dollar stores", "restaurants", "mc
 date = 2017-07-21T07:17:00Z
 description = "Point-of-sale systems dramatically modernized supply chains and allowed consumers to go cashless, but they were not without their learning curves."
 draft = false
-image = "http://tedium.imgix.net/2017/07/tedium072017.gif"
+image = "https://tedium.imgix.net/2017/07/tedium072017.gif"
 slug = "point-of-sale-retail-history"
 tags = ["retail", "department stores", "dollar stores", "restaurants", "mcdonald's", "walmart", "shopping", "computers", "pos", "point-of-sale", "cashless society", "electronic funds transfer"]
 variant = "article"
@@ -20,7 +20,7 @@ title = "When Tech Hit Retail"
 
 {{% adbox bgcolor="#333399" color="#ffffff" accent="#ffffff" %}}
 
-[![Space On Earth III](http://tedium.imgix.net/2017/07/spaceonearthiii.jpg)](http://manbartlett.bandcamp.com/album/space-on-earth-iii?campaign=tedium2)
+[![Space On Earth III](https://tedium.imgix.net/2017/07/spaceonearthiii.jpg)](http://manbartlett.bandcamp.com/album/space-on-earth-iii?campaign=tedium2)
 
 **[SPACE ON EARTH III](http://manbartlett.bandcamp.com/album/space-on-earth-iii?campaign=tedium2)** makes for great listening while reading Tedium. It's like a hug for your brain. **[Enter “tedium” at checkout for a 15% discount.](http://manbartlett.bandcamp.com/album/space-on-earth-iii?campaign=tedium2)**
 
@@ -37,7 +37,7 @@ title = "When Tech Hit Retail"
 
 {{% /redbox %}}{{% whitebox %}}  
 
-![Cash register](http://tedium.imgix.net/2017/07/0720_register.jpg)
+![Cash register](https://tedium.imgix.net/2017/07/0720_register.jpg)
 
 _We haven't killed cash registers yet, but we're closer.
  ([nosheep/Pixabay](https://pixabay.com/en/cash-register-drawer-cash-register-1885558/))_
@@ -76,7 +76,7 @@ And soon enough, consumers embraced cashless.
 
 {{% /whitebox %}}{{% graybox %}}
 
-![Walmart checkout line](http://tedium.imgix.net/2017/07/5684720360_78550e1bc9_b.jpg)
+![Walmart checkout line](https://tedium.imgix.net/2017/07/5684720360_78550e1bc9_b.jpg)
 
 *A checkout line at a Missouri Walmart store. ([via Flickr](https://www.flickr.com/photos/walmartcorporate/5684720360/))*
 
@@ -98,7 +98,7 @@ And soon enough, consumers embraced cashless.
 
 {{% /redbox %}}{{% whitebox %}} 
 
-![Barcode](http://tedium.imgix.net/2017/07/0720_barcode.jpg)
+![Barcode](https://tedium.imgix.net/2017/07/0720_barcode.jpg)
 
 *Barcodes: Surprisingly controversial. ([PDPhotos/Pixabay](https://pixabay.com/en/barcode-bar-code-strip-code-code-3616/))*
 
@@ -144,7 +144,7 @@ But we can't finish talking about POS innovation without mentioning Japan—spec
 
 The U.S. version of 7-Eleven, of course, innovated by simply expanding its hours to the point that it could guarantee it was the only store open at many points of the day.
 
-![7-Eleven in Japan](http://tedium.imgix.net/2017/07/0720_7eleven.jpg)
+![7-Eleven in Japan](https://tedium.imgix.net/2017/07/0720_7eleven.jpg)
 
 *([Marcel van der Hoek](https://www.flickr.com/photos/mvanderhoek/30317231773/in/)/Flickr)*
 

@@ -4,7 +4,7 @@ categories = ["tv", "television", "steve wozniak", "remote controls", "universal
 date = 2017-05-26T07:49:00Z
 description = "The universal remote control, love it or hate it, made our lives just a little bit simpler starting in the ‘80s. It's not as good as it could be. That's OK."
 draft = false
-image = "http://tedium.imgix.net/2017/05/tedium052517.gif"
+image = "https://tedium.imgix.net/2017/05/tedium052517.gif"
 slug = "universal-remote-control-history"
 tags = ["tv", "television", "steve wozniak", "remote controls", "universal remote", "universal remote controls", "magnavox", "tv history"]
 variant = "article"
@@ -18,7 +18,7 @@ title = "Universal Themes"
 
 {{% /whitebox %}}{{% graybox %}}
 
-![Jerrold remote control](http://tedium.imgix.net/2017/05/0524_jerrold.jpg)
+![Jerrold remote control](https://tedium.imgix.net/2017/05/0524_jerrold.jpg)
 
 *The hottest new product since the calculator, apparently. (via [Modern Mechanix](http://blog.modernmechanix.com/jerrolds-new-universal-tv-remote-control/))*
 
@@ -32,7 +32,7 @@ title = "Universal Themes"
 
 {{% /graybox %}}{{% whitebox %}}
 
-![Blab-off](http://tedium.imgix.net/2017/05/0524_blaboff.jpg)
+![Blab-off](https://tedium.imgix.net/2017/05/0524_blaboff.jpg)
 
 ### The prototype of the universal remote was the TV muting device
 
@@ -48,7 +48,7 @@ He succeeded, and in 1952, he was looking to sell a set of easy-to-install wires
 
 Coming at a time when the television itself was still relatively novel, it wasn’t long before his device had generated a mixture of controversy and broad use. Newspapers, magazines, and TV networks would quickly reject ad buys involving the devices, only to have some big-name backer show themselves anyway. On his TV show, for example, news commentator Walter Winchell offered up a free ad for the device:
 
-![Blab-Off](http://tedium.imgix.net/2017/05/0524_blaboff2.jpg)
+![Blab-Off](https://tedium.imgix.net/2017/05/0524_blaboff2.jpg)
 
 *(via [Discuts](http://discuts.blogspot.com/2013/03/blab-off.html))*
 
@@ -68,7 +68,7 @@ It was effectively a single-function remote control (even if there was a wire in
 
 {{% /redbox %}}{{% whitebox %}}
 
-![CL9 Core](http://tedium.imgix.net/2017/05/0524_woz.jpg)
+![CL9 Core](https://tedium.imgix.net/2017/05/0524_woz.jpg)
 
 *The CL9 Core, designed by Steve Wozniak: Not as easy to use as the Apple II. (via [K-Tronics](http://www.ktronicslc.com/core.html))*
 
@@ -86,7 +86,7 @@ One thing it wasn’t, however, was first. In 1984, the audio company Acoustic R
 
 > To gain this degree of compatibility, Acoustic Research had to sacrifice certain functions, such as the ability to change radio stations by remote control or command a cassette deck to switch from playback to recording or vice versa. Even so, the Acoustic Research Model SRC-1 wireless control, priced at $160, performs a variety of useful tasks. It turns the system on and off from across the room, adjusts the volume at either a fast or slow rate of change, shifts the channel balance, and can instantly lower the volume by 20 decibels—a handy trick when the phone rings. The control also has what's known as a sleep-switch on dock radios; it can be set to shut off the system after 30 minutes. 
 
-![Magnavox controls Sony.](http://tedium.imgix.net/2017/05/0524_magnavox.jpg)
+![Magnavox controls Sony.](https://tedium.imgix.net/2017/05/0524_magnavox.jpg)
 
 *Magnavox controls Sony. (via [Popular Mechanics](https://books.google.com/books?id=F-MDAAAAMBAJ&pg=PA74))*
 

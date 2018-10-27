@@ -4,7 +4,7 @@ categories = ["napkins", "napkin", "napkin history", "paper towels", "paper", "s
 date = 2017-08-09T07:57:00Z
 description = "From soft dough to paper, the world’s definition of a napkin has evolved significantly over the past couple thousand years. (It’s currently evolving again.)"
 draft = false
-image = "http://tedium.imgix.net/2017/08/tedium080817.gif"
+image = "https://tedium.imgix.net/2017/08/tedium080817.gif"
 slug = "napkin-history"
 tags = ["napkins", "napkin", "napkin history", "paper towels", "paper", "sustainability", "cloth"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "The Back of the Napkin"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Triptych of the Last Supper](http://tedium.imgix.net/2017/08/0808_napkin.jpg)
+![Triptych of the Last Supper](https://tedium.imgix.net/2017/08/0808_napkin.jpg)
 
 *A panel from "Triptych of the Last Supper," a Dieric Bouts painting from the 15th century. Note the use of the tablecloth as a giant communal napkin. ([Wikimedia Commons](http://bit.ly/2uFovFV))*
 
@@ -54,7 +54,7 @@ Of course, the Middle Ages had a way of recalibrating things some. For a while i
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Vintage KFC napkin](http://tedium.imgix.net/2017/08/0808_kfc.jpg)
+![Vintage KFC napkin](https://tedium.imgix.net/2017/08/0808_kfc.jpg)
 
 A KFC napkin from 1959. ([Ross Griff/Flickr](https://www.flickr.com/photos/rossaroni/6799788369/))
 
@@ -74,7 +74,7 @@ Soon enough, we stopped caring about being cordial and started getting real.
 
 {{% /whitebox %}}{{% graybox %}}
 
-![Paper recycling facility](http://tedium.imgix.net/2017/08/0808_paper.jpg)
+![Paper recycling facility](https://tedium.imgix.net/2017/08/0808_paper.jpg)
 
 *A paper recycling facility. ([MCPA Photos/Flickr](https://www.flickr.com/photos/mpcaphotos/22758963849/))*
 
@@ -87,7 +87,7 @@ Soon enough, we stopped caring about being cordial and started getting real.
 
 {{% /graybox %}}{{% whitebox %}}
 
-![Pile of Napkins](http://tedium.imgix.net/2017/08/0808_napkins.jpg)
+![Pile of Napkins](https://tedium.imgix.net/2017/08/0808_napkins.jpg)
 
 *([Dean Hochman/Flickr](https://www.flickr.com/photos/deanhochman/35194876835/))*
 

@@ -4,7 +4,7 @@ categories = ["plastic", "environment", "ted turner", "straws", "plastic straws"
 date = 2018-07-11T07:31:52Z
 description = "Businesses and cities are ditching the plastic straw, the ultimate commodity object. But the shift is controversial, and alternatives don’t come cheap."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium060617.gif"
+image = "https://tedium.imgix.net/2017/06/tedium060617.gif"
 slug = "plastic-straw-replacement-controversy"
 tags = ["plastic", "environment", "ted turner", "straws", "plastic straws", "waste", "paper straws", "rye straws", "ted's montana grill", "starbucks"]
 variant = "article"
@@ -40,7 +40,7 @@ title = "Still Grasping At Straws"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Paper straw](http://tedium.imgix.net/2017/06/0606_straws.jpg)
+![Paper straw](https://tedium.imgix.net/2017/06/0606_straws.jpg)
 
 *([Steve Snodgrass/Flickr](https://www.flickr.com/photos/stevensnodgrass/11764705875/))*
 
@@ -70,7 +70,7 @@ Good for plastic. Bad for the environment.
 
 {{% /redbox %}}{{% graybox %}}
 
-![Bamboo straws](http://tedium.imgix.net/2017/06/0606_bamboo.jpg)
+![Bamboo straws](https://tedium.imgix.net/2017/06/0606_bamboo.jpg)
 
 *Bamboo straws, shown at a TEDx event in Indonesia. ([TEDx Ubud/Flickr](https://www.flickr.com/photos/tedxubud/8985996116/))*
 
@@ -84,7 +84,7 @@ Good for plastic. Bad for the environment.
 
 {{% /graybox %}}{{% whitebox %}}
 
-![Ted's Montana Grill](http://tedium.imgix.net/2017/06/0606_teds.jpg)
+![Ted's Montana Grill](https://tedium.imgix.net/2017/06/0606_teds.jpg)
 
 *A Ted's Montana Grill location in Bozeman, Montana. ([Keith Ewing/Flickr](https://www.flickr.com/photos/kewing/29783782991/))*
 
@@ -104,7 +104,7 @@ McKerrow looked online for info and soon found himself on the phone with the own
 
 “About two weeks later, he got back to me, and he said, ‘We found that machine,’ and I could hear it in his voice that he was really excited,” McKerrow continued. “He said, ’The engineers think that they can make it work.’”
 
-![Paper straws](http://tedium.imgix.net/2017/06/0606_ted.jpg)
+![Paper straws](https://tedium.imgix.net/2017/06/0606_ted.jpg)
 
 *Paper straws. ([Bob Simmons/Flickr](https://www.flickr.com/photos/tuaussi/3260886087/))*
 

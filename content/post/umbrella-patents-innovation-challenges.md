@@ -4,7 +4,7 @@ categories = ["patents", "umbrellas", "umbrella design", "design", "innovation",
 date = 2016-09-23T07:32:00Z
 description = "Umbrella design is an interesting conundrum. Sure, it could be better, but nobody's come up with a successful new design in hundreds of years. Why is that?"
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium092216.gif"
+image = "https://tedium.imgix.net/2017/06/tedium092216.gif"
 slug = "umbrella-patents-innovation-challenges"
 tags = ["patents", "umbrellas", "umbrella design", "design", "innovation", "product design", "dollar stores"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "When It Rains, It Pours"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Umbrellas](http://tedium.imgix.net/2017/06/0922_umbrellas.jpg)
+![Umbrellas](https://tedium.imgix.net/2017/06/0922_umbrellas.jpg)
 
 *([SSG Robert Stewart/U.S. Army/Flickr](https://www.flickr.com/photos/familymwr/4930276154/))*
 
@@ -54,7 +54,7 @@ That's a good idea. [A lot of other ideas are terrible, of course](http://tedium
 
 {{% /whitebox %}}{{% graybox %}}
 
-![Pillow with a retractable umbrella](http://tedium.imgix.net/2017/06/0922_pillow.png)
+![Pillow with a retractable umbrella](https://tedium.imgix.net/2017/06/0922_pillow.png)
 
 ### The five most insane umbrella-related patent filings we could find
 
@@ -66,7 +66,7 @@ That's a good idea. [A lot of other ideas are terrible, of course](http://tedium
 
 {{% /graybox %}}{{% whitebox %}}
 
-![Broken umbrella](http://tedium.imgix.net/2017/06/0922_umbrella.jpg)
+![Broken umbrella](https://tedium.imgix.net/2017/06/0922_umbrella.jpg)
 
 *([Jon Jordan/Flickr](https://www.flickr.com/photos/jontintinjordan/8029519079/))*
 

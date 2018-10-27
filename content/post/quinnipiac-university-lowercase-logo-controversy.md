@@ -4,7 +4,7 @@ categories = ["quinnipiac university", "typography", "fonts", "logo design", "sc
 date = 2017-02-28T07:53:20Z
 description = "how Quinnipiac university, a school known for its polling, got embroiled in a debate over a single letter’s case."
 draft = false
-image = "http://tedium.imgix.net/2017/02/0223_typography.jpg"
+image = "https://tedium.imgix.net/2017/02/0223_typography.jpg"
 slug = "quinnipiac-university-lowercase-logo-controversy"
 tags = ["quinnipiac university", "typography", "fonts", "logo design", "school", "university", "dumb debates", "blurb"]
 variant = "blurb"
@@ -18,7 +18,7 @@ the thing with uppercase letters is that if they aren’t there, you start to mi
 
 recently, this became an issue for the students of Quinnipiac university, because their school decided to change its logo without uppercasing the u.
 
-![Quinnipiac university logo](http://tedium.imgix.net/2017/02/0223_Quinnipiac_university-1.png)
+![Quinnipiac university logo](https://tedium.imgix.net/2017/02/0223_Quinnipiac_university-1.png)
 
 [angry petitions were filed](https://www.change.org/p/qu-administration-revise-the-new-quinnipiac-university-logo), and complaints on social media followed. students felt like the university wasn’t appreciating its role as a school of higher education quite enough.
 
@@ -28,7 +28,7 @@ it didn’t matter [that the design](http://www.underconsideration.com/brandnew/
 
 so considering this student outcry, Quinnipiac was left with no choice but to respond. last week, the school decided to replace the all-lowercase use of “university” with an ALL-UPPERCASE VERSION.
 
-![Quinnipiac UNIVERSITY](http://tedium.imgix.net/2017/02/0223_Quinnipiac_UNIVERSITY2.png)
+![Quinnipiac UNIVERSITY](https://tedium.imgix.net/2017/02/0223_Quinnipiac_UNIVERSITY2.png)
 
 “WE DETERMINED THAT OUR SECONDARY AND FULL WORDMARK ‘Quinnipiac UNIVERSITY’ APPEARS SUBSTANTIVELY DIFFERENT FROM OUR PRIMARY WORDMARK BY GIVING TOO MUCH WEIGHT TO THE WORD ‘university’ AT A TIME WHEN OUR GOAL IS TO SHIFT ATTENTION TO THE ‘Quinnipac’ BRANDMARK,” [THE UNIVERSITY WROTE IN A STATEMENT](https://www.qu.edu/life/now/university-unveils-new-full-wordmark.html). 
 

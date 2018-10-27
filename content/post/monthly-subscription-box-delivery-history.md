@@ -4,7 +4,7 @@ categories = ["commerce", "mail order", "mail", "u.s. postal service", "book of 
 date = 2017-02-17T09:45:00Z
 description = "The internet made monthly subscription boxes cool, but the roots of this business model can be found in decisions made in the 19th and early 20th centuries."
 draft = false
-image = "http://tedium.imgix.net/2017/02/tedium021617.gif"
+image = "https://tedium.imgix.net/2017/02/tedium021617.gif"
 slug = "monthly-subscription-box-delivery-history"
 tags = ["commerce", "mail order", "mail", "u.s. postal service", "book of the month club", "books", "business models", "ups"]
 variant = "article"
@@ -30,7 +30,7 @@ _**Editor’s note:** Thanks to a nice mention by NPR, it’s been a week for th
 
 {{% /redbox %}}{{% whitebox %}}
 
-![1890 Montgomery Ward catalog](http://tedium.imgix.net/2017/02/0216_montward.jpg)
+![1890 Montgomery Ward catalog](https://tedium.imgix.net/2017/02/0216_montward.jpg)
 
 *An 1890 Montgomery Ward Catalog.*
 
@@ -52,7 +52,7 @@ _**Editor’s note:** Thanks to a nice mention by NPR, it’s been a week for th
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Book of the Month Club](http://tedium.imgix.net/2017/02/0216_books.jpg)
+![Book of the Month Club](https://tedium.imgix.net/2017/02/0216_books.jpg)
 
 *([Pexels/Pixabay](https://pixabay.com/en/books-education-knowledge-1867168/))*
 
@@ -68,7 +68,7 @@ The firm, at first, tried giving away books in other pieces of merchandise as a 
 
 This experience proved informative for Scherman, who combined the Little Leather Library concept with two ideas: The fact that people outside of large cities didn’t have access to high-quality books, and that, to keep the business model strong, mail-order books needed a subscription model. That led him to the Book of the Month Club.
 
-![Book of the Month Club Newsletter](http://tedium.imgix.net/2017/02/0216_book.jpg)
+![Book of the Month Club Newsletter](https://tedium.imgix.net/2017/02/0216_book.jpg)
 
 *A Book of the Month Club newsletter, circa 1929. ([Joanna Bourne/Flickr](https://www.flickr.com/photos/66992990@N00/6773476655))*
 

@@ -4,7 +4,7 @@ categories = ["education", "blocks", "early education", "alphabet blocks", "lett
 date = 2017-05-17T07:12:00Z
 description = "Perhaps alphabet blocks seem like an obvious idea now, but it took a lot of foundation to build up that pretty good idea into something incredibly common."
 draft = false
-image = "http://tedium.imgix.net/2017/05/tedium051617.gif"
+image = "https://tedium.imgix.net/2017/05/tedium051617.gif"
 slug = "alphabet-blocks-history"
 tags = ["education", "blocks", "early education", "alphabet blocks", "letter blocks", "john locke", "hugh plat", "hill's spelling blocks", "Friedrich Fröbel", "kindergarten"]
 variant = "article"
@@ -18,7 +18,7 @@ title = "Building Blocks, Literally"
 
 {{% /whitebox %}}{{% graybox %}}
 
-![Alphabet blocks](http://tedium.imgix.net/2017/05/0516_blocks.jpg)
+![Alphabet blocks](https://tedium.imgix.net/2017/05/0516_blocks.jpg)
 
 *([Skitterphoto/Pixabay](https://pixabay.com/en/kids-words-toy-child-childhood-2293835/))*
 
@@ -40,7 +40,7 @@ The book is full of interesting inventions and discoveries by Plat, including a 
 
 It also, most interestingly, includes an illustrated example of what alphabet blocks should look like, along with a basic description of their use case and their point of inspiration. 
 
-![The Jewell House of Art and Nature](http://tedium.imgix.net/2017/05/0516_abc.jpg)
+![The Jewell House of Art and Nature](https://tedium.imgix.net/2017/05/0516_abc.jpg)
 
 *In case you don't want to struggle with reading this, I basically rewrote this directly below. ([Internet Archive](https://archive.org/details/jevvelhouseofart00plat))*
 
@@ -70,7 +70,7 @@ The blocks apparently did the trick.
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Friedrich Fröbel](http://tedium.imgix.net/2017/05/0516_frobel.jpg)
+![Friedrich Fröbel](https://tedium.imgix.net/2017/05/0516_frobel.jpg)
 
 *Friedrich Fröbel (Wikimedia Commons)*
 
@@ -84,7 +84,7 @@ But it was what Fröbel did in the final years of his life that truly left a mar
 
 By 1840, he had changed the name of the institute to Kindergarten (or "children's garden"), an institute in which he perfected his early-childhood education techniques, which focused on the concepts of activity-driven play to the learning process. He wasn’t the first person to think in this direction, but he was perhaps the most influential.
 
-![Fröbel's Gifts](http://tedium.imgix.net/2017/05/0516_gifts.jpg)
+![Fröbel's Gifts](https://tedium.imgix.net/2017/05/0516_gifts.jpg)
 
 *Fröbel's gifts, shoved in a box, which is not their natural habitat. (Wikimedia Commons)*
 
@@ -100,7 +100,7 @@ But while Fröbel set the groundwork and his Kindergarten idea started to catch 
 
 In 1870, Bradley’s namesake company came out with a set of building blocks based on Fröbel’s work called Bradley’s Original Kindergarten Alphabet and Building Blocks. The blocks were based [on Fröbel’s sixth gift](http://www.froebelweb.org/gifts/sixth.html), which included a variety of basic geometric shapes. Bradley, however, added the additional wrinkle of letters and numbers.
 
-![Bradley’s Original Kindergarten Alphabet and Building Blocks](http://tedium.imgix.net/2017/05/0516_miltonbradley.jpg)
+![Bradley’s Original Kindergarten Alphabet and Building Blocks](https://tedium.imgix.net/2017/05/0516_miltonbradley.jpg)
 
 *Bradley’s Original Kindergarten Alphabet and Building Blocks. This is the early education version of dogs and cats living together. ([Internet Archive](https://archive.org/details/catalogueofgames00milt))*
 

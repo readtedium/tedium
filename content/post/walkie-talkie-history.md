@@ -4,7 +4,7 @@ categories = ["walkie talkie", "two-way radio", "kiddie talkie", "wireless spect
 date = 2017-08-18T07:10:00Z
 description = "How the lineage of the walkie-talkie reaches from World War II to the modern cell phone. Walkie-talkies even inspired a major cell phone network."
 draft = false
-image = "http://tedium.imgix.net/2017/08/tedium081717.gif"
+image = "https://tedium.imgix.net/2017/08/tedium081717.gif"
 slug = "walkie-talkie-history"
 tags = ["walkie talkie", "two-way radio", "kiddie talkie", "wireless spectrum", "radio technology", "world war ii", "nextel", "cell phones", "push-to-talk"]
 variant = "article"
@@ -20,7 +20,7 @@ title = "Do You Copy?"
 
 {{% adbox bgcolor="#2b6c90" color="#ffffff" accent="#ffffff" %}}
 
-[![The Sizzle](http://tedium.imgix.net/2017/08/0816_sausages-1.jpg)](https://thesizzle.com.au/tedium)
+[![The Sizzle](https://tedium.imgix.net/2017/08/0816_sausages-1.jpg)](https://thesizzle.com.au/tedium)
 
 **Struggling to keep up** with the tsunami of tech news? Need to improve your signal to noise ratio? One email a day, five must read tech news stories, sent in time for your commute home. Stay in the loop without burning all your free time. **[Read the first two weeks for free](https://thesizzle.com.au/tedium)**.
 
@@ -38,7 +38,7 @@ title = "Do You Copy?"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Signaler with SCR-536](http://tedium.imgix.net/2017/08/0817_walkie.jpg)
+![Signaler with SCR-536](https://tedium.imgix.net/2017/08/0817_walkie.jpg)
 
 *A signaler with the SCR-536 walkie talkie, the first hand-held model. ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Signaller_with_SCR536.jpg))*
 
@@ -62,7 +62,7 @@ A website [dedicated to Donald Hings’ memory](http://dlhings.ca/walkietalkie.h
 
 Galvin Manufacturing, which had made its claim to fame a few years earlier with the invention of the car radio (known, of course, as the Motorola), [created two notable innovations in the legacy of the two-way radio](https://www.motorolasolutions.com/en_us/about/company-overview/history/timeline.html), first inventing the self-contained SCR-536 “handie-talkie” in 1940, and then creating an FM-band two-way radio technologies—first showing up in police cars in 1941 and on the battlefield in 1943. (It wasn’t self-contained, it should be noted, as its apparatus was 35 pounds and contained in a backpack.)
 
-![Signaler with SCR-536](http://tedium.imgix.net/2017/08/0817_walkie2.jpg)
+![Signaler with SCR-536](https://tedium.imgix.net/2017/08/0817_walkie2.jpg)
 
 *(Pixabay)*
 
@@ -86,7 +86,7 @@ The sheer existence of the walkie-talkie in the 1940s likely saved a whole lot o
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Motorola i570](http://tedium.imgix.net/2017/08/0817_nextel.jpg)
+![Motorola i570](https://tedium.imgix.net/2017/08/0817_nextel.jpg)
 
 *The Motorola i570, a notable Nextel phone. ([Varias Personas/Flickr](https://www.flickr.com/photos/detodounpoquito/2481886608/))*
 

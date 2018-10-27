@@ -4,7 +4,7 @@ categories = ["spontaneity", "pokemon go", "libertarianism", "f.a. hayek", "pok�
 date = 2016-07-22T05:38:58Z
 description = "Laugh all you want, but Pokémon Go offers a really good example of a key libertarian economic theory in action. Spontaneous order was never so much fun."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium072116.gif"
+image = "https://tedium.imgix.net/2017/06/tedium072116.gif"
 slug = "pokemon-go-spontaneity-charmeleon-chaos-theory"
 tags = ["spontaneity", "pokemon go", "libertarianism", "f.a. hayek", "pokémon", "Spontaneous order", "pokémon go", "philosophy", "economy", "revolutionary spontaneity"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Charmeleon Chaos Theory"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![F.A. Hayek with a Charmeleon](http://tedium.imgix.net/2017/06/0721_hayek.jpg)
+![F.A. Hayek with a Charmeleon](https://tedium.imgix.net/2017/06/0721_hayek.jpg)
 
 *F.A. Hayek with a Charmeleon. (me screwing around with Photoshop)*
 

@@ -4,7 +4,7 @@ categories = ["shareware", "software", "paint shop pro", "windows", "microsoft w
 date = 2017-02-10T09:42:00Z
 description = "Adobe was already a big company when it first made Photoshop, but its biggest competitor, Paint Shop Pro, was built by an airline pilot in his free time."
 draft = false
-image = "http://tedium.imgix.net/2017/02/tedium020917.gif"
+image = "https://tedium.imgix.net/2017/02/tedium020917.gif"
 slug = "paint-shop-pro-shareware-history"
 tags = ["shareware", "software", "paint shop pro", "windows", "microsoft windows", "robert voit", "software industry", "corel", "graphic design", "prosumer"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Painting Outside The Lines"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Paint Shop Pro](http://tedium.imgix.net/2017/02/0209_psp2.jpg)
+![Paint Shop Pro](https://tedium.imgix.net/2017/02/0209_psp2.jpg)
 
 *Paint Shop Pro version 3 (via the JASC website, circa 1997)*
 
@@ -52,7 +52,7 @@ He didn’t need a lot of employees, either. His first hire, who manned the phon
 
 “It lacks some of the bells and whistles of other graphics-conversion utilities, but it covers all the basics, does them fast and well, and provides most of the services you’ll find in programs costing three to five times as much,” Barry Simon wrote.
 
-![Paint Shop Pro Version 4](http://tedium.imgix.net/2017/02/0209_psp-1.jpg)
+![Paint Shop Pro Version 4](https://tedium.imgix.net/2017/02/0209_psp-1.jpg)
 
 *Paint Shop Pro version 4.0 for Windows 95.*
 
@@ -70,7 +70,7 @@ And despite that tiny scale, PSP had millions of users.
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Paint Shop Pro box](http://tedium.imgix.net/2017/02/0209_pspbox.jpg)
+![Paint Shop Pro box](https://tedium.imgix.net/2017/02/0209_pspbox.jpg)
 
 *Paint Shop Pro, in shrink-wrap form.*
 
@@ -90,7 +90,7 @@ But what Robert Voit did was most impressive, because once he quit his job and r
 
 That’s right: JASC put a time limit on Paint Shop Pro and started competing with Adobe and other companies using the kind of shrink-wrapped packaging techniques  were using. The reason? Per *Inc.*, Voit felt the app had plateaued from a sales standpoint.
 
-![Skymap](http://tedium.imgix.net/2017/02/0209_skymap.jpg)
+![Skymap](https://tedium.imgix.net/2017/02/0209_skymap.jpg)
 
 *A screenshot of SkyMap, another program JASC sold in the '90s.*
 
@@ -118,7 +118,7 @@ The story of the software’s creation is quietly legendary, but it’s in the p
 
 “Corel PaintShop Pro is a high-bang-for-the-buck Photoshop substitute,” the magazine Michael Muchmore [wrote in his review](http://www.pcmag.com/article2/0,2817,2358638,00.asp) of Corel Paint Shop Pro X9. “The app gets points for the sheer number of tools it throws at you, many of which acceptably mimic their Photoshop counterparts—that even goes for advanced tools like content-aware move, gradients, and effect filters.”
 
-![Corel Paint Shop Pro X9 Ultimate](http://tedium.imgix.net/2017/02/0209_pspnew.jpg)
+![Corel Paint Shop Pro X9 Ultimate](https://tedium.imgix.net/2017/02/0209_pspnew.jpg)
 
 Oddly, though, the model has flipped in a way. While still charging high prices, [Adobe has taken its software to the cloud](http://amzn.to/2kOCBle), with distribution driven by downloads. Paint Shop Pro, on the other hand, is the one [that sells in the shrink-wrapped box](http://www.paintshoppro.com/en/products/paintshop-pro/?hptrack=en2bb4).
 

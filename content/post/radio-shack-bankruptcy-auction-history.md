@@ -4,7 +4,7 @@ categories = ["radio shack", "technology", "vintage technology", "radio technolo
 date = 2017-06-09T04:40:00Z
 description = "RadioShack’s recent troubles might best be reflected by the recent auction of its corporate history—an auction that is actually full of interesting gadgets."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium060817.gif"
+image = "https://tedium.imgix.net/2017/06/tedium060817.gif"
 slug = "radio-shack-bankruptcy-auction-history"
 tags = ["radio shack", "technology", "vintage technology", "radio technology", "tandy", "Flavoradio", "TRS-80", "cb radio", "gridpad", "geoworks", "palmpilot", "tandy zoomer"]
 variant = "article"
@@ -22,7 +22,7 @@ _**Quick shoutout:** Thanks to everyone helping us out [via Patreon](https://www
 
 <div class="md-redbox" style="background-color:#333333; color: white;">
 
-<a href="https://museumhack.com/team-building/?source_id=590472"><img src="http://tedium.imgix.net/2017/06/3-1.jpg" style="float: left;max-width: 200px;display: inline-block;padding-right: 1em;margin-top: .75em;"></a>
+<a href="https://museumhack.com/team-building/?source_id=590472"><img src="https://tedium.imgix.net/2017/06/3-1.jpg" style="float: left;max-width: 200px;display: inline-block;padding-right: 1em;margin-top: .75em;"></a>
   
 <p style="font-size: 12pt; line-height: 2.1rem;"><strong><a href="https://museumhack.com/team-building/?source_id=590472">Maximize Employee Retention, Productivity & Happiness</a></strong> We host company team building events at the world’s best museums. NYC, San Francisco, Chicago, Washington DC & Los Angeles. Includes fun activities, group photos <strong><a href="https://museumhack.com/team-building/?source_id=590472">and more</a></strong>. Rated top 10 on TripAdvisor by companies like Google, Facebook, Etsy, Adobe & Oracle.</p>
 
@@ -32,7 +32,7 @@ _**Quick shoutout:** Thanks to everyone helping us out [via Patreon](https://www
 
 {{% graybox %}}
 
-![Flavoradio](http://tedium.imgix.net/2017/06/0608_flavoradio.jpg)
+![Flavoradio](https://tedium.imgix.net/2017/06/0608_flavoradio.jpg)
 
 *([James Case/Flickr](https://www.flickr.com/photos/capcase/17861287502/))*
 
@@ -64,7 +64,7 @@ It may have been intended as a cheap radio for mass consumption, but it was secr
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Tandy 102](http://tedium.imgix.net/2017/06/0608_tandy102.jpg)
+![Tandy 102](https://tedium.imgix.net/2017/06/0608_tandy102.jpg)
 
 *The RadioShack Tandy 102. ([mk97007/Flickr](https://www.flickr.com/photos/mk94577/))*
 
@@ -88,7 +88,7 @@ But that said, a later machine that was slightly less functional, the AlphaSmart
 
 {{% /whitebox %}}{{% graybox %}}
 
-![Radio Shack Catalog](http://tedium.imgix.net/2017/06/0608_radioshack.jpg)
+![Radio Shack Catalog](https://tedium.imgix.net/2017/06/0608_radioshack.jpg)
 
 *([Mike Mozart/Flickr](https://www.flickr.com/photos/jeepersmedia/))*
 
@@ -102,7 +102,7 @@ But that said, a later machine that was slightly less functional, the AlphaSmart
 
 {{% /graybox %}}{{% whitebox %}}
 
-![GRiDPad](http://tedium.imgix.net/2017/06/0608_gridpad.jpg)
+![GRiDPad](https://tedium.imgix.net/2017/06/0608_gridpad.jpg)
 
 *The GRiDPad, an early tablet computer. ([OldComputers.net](http://oldcomputers.net/gridpad.html))*
 
@@ -120,7 +120,7 @@ According to Hawkins, [the device was actually a sizable success](http://shura.s
 
 “They saw it as just too big of a risk,” noted Geoff Walker, GRiD’s director of OEM Products, [in comments to *Pen Computing*](http://www.pencomputing.com/palm/Pen33/hawkins2.html). “GRiD was focused on vertical applications of laptops and the GRiDPAD, and to start an entirely new product area aimed at consumers was seen as too divergent from the company’s mission and focus.”
 
-![Tandy Zoomer](http://tedium.imgix.net/2017/06/0608_tandy.jpg)
+![Tandy Zoomer](https://tedium.imgix.net/2017/06/0608_tandy.jpg)
 
 *(via [Pen Computing Magazine](http://pencomputing.com/TabletPC/pen_history_dom.html))*
 

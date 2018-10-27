@@ -4,7 +4,7 @@ categories = ["blurb", "the three stooges", "moe howard", "larry fine", "curly h
 date = 2017-06-06T07:55:00Z
 description = "How The Three Stooges, icons of early film and late-night TV, inspired one late super-fan to carve his interest in the comedy troupe into his headstone."
 draft = false
-image = "http://tedium.imgix.net/2017/06/0605_stooges.jpg"
+image = "https://tedium.imgix.net/2017/06/0605_stooges.jpg"
 slug = "three-stooges-gravestone"
 tags = ["blurb", "the three stooges", "moe howard", "larry fine", "curly howard", "curly joe derita"]
 variant = "blurb"
@@ -22,7 +22,7 @@ But they were trailblazers whose shorts crucially were perfect for the televisio
 
 When he died in February 2007 at the premature age of 50, he specifically asked for a gravestone design in his will that honored that appreciation of the Stooges, along with a simple message about what the Stooges meant to him: “Laugh, don’t weep, it feels better!” The result is that Bechtold is the only deceased person in the world [with a gravestone featuring The Three Stooges](http://www.app.com/story/news/local/new-jersey/weird-nj/2017/06/04/weird-nj-three-stooges-tombstone-metuchen/367401001/).
 
-![Three Stooges gravestone](http://tedium.imgix.net/2017/06/0605_stooges2.jpg)
+![Three Stooges gravestone](https://tedium.imgix.net/2017/06/0605_stooges2.jpg)
 
 *(via [Find a Grave](https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=28569593))*
 

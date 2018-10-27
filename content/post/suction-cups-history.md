@@ -4,7 +4,7 @@ categories = ["air", "science", "suction", "atmospheric pressure", "vacuums", "s
 date = 2017-03-22T07:41:00Z
 description = "Suction cups are the tiniest little vacuums around, and there’s one U.S. company that sells millions of them every single year. Here’s how they caught on."
 draft = false
-image = "http://tedium.imgix.net/2017/03/tedium032117.gif"
+image = "https://tedium.imgix.net/2017/03/tedium032117.gif"
 slug = "suction-cups-history"
 tags = ["air", "science", "suction", "atmospheric pressure", "vacuums", "suction cups", "toilet plungers", "adams manufacturing", "baby on board"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Stuck On You"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Bill Nye explains suction cups](http://tedium.imgix.net/2017/03/0321_nye.jpg)
+![Bill Nye explains suction cups](https://tedium.imgix.net/2017/03/0321_nye.jpg)
 
 *Bill Nye explains suction cups. (YouTube screenshot)*
 
@@ -58,7 +58,7 @@ The smaller version is just more useful, of course, thanks to its flexibility. (
 
 {{% /redbox %}}{{% graybox %}}
 
-![Baby on Board sign](http://tedium.imgix.net/2017/03/0321_babyonboard.jpg)
+![Baby on Board sign](https://tedium.imgix.net/2017/03/0321_babyonboard.jpg)
 
 *A Baby on Board sign. ([Rusty Clark/Flickr](https://www.flickr.com/photos/rusty_clark/6173402571/))*
 
@@ -72,7 +72,7 @@ The smaller version is just more useful, of course, thanks to its flexibility. (
 
 {{% /graybox %}}{{% whitebox %}}
 
-![Suction cup](http://tedium.imgix.net/2017/03/0321_suction.jpg)
+![Suction cup](https://tedium.imgix.net/2017/03/0321_suction.jpg)
 
 *([Quinn Dombrowski/Flickr](https://www.flickr.com/photos/quinnanya/2132340252))*
 

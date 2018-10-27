@@ -4,7 +4,7 @@ categories = ["halloween", "holidays", "halloween store", "spirit halloween", "r
 date = 2016-10-14T10:59:19Z
 description = "After the 2008 recession, commercial real estate firms had a ton of empty buildings. Fortunately, Halloween stores were ready to fill the gap—for a month."
 draft = true
-image = "http://tedium.imgix.net/2017/06/tedium101316.gif"
+image = "https://tedium.imgix.net/2017/06/tedium101316.gif"
 slug = "halloween-stores-economic-theory"
 tags = ["halloween", "holidays", "halloween store", "spirit halloween", "retail", "retail quirks", "party city", "halloween city"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "The Halloween-Industrial Complex"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Spirit Halloween Store](http://tedium.imgix.net/2017/06/1013_spiritstore.jpg)
+![Spirit Halloween Store](https://tedium.imgix.net/2017/06/1013_spiritstore.jpg)
 
 *([Kimco Realty/Flickr](https://www.flickr.com/photos/kimcorealty/8116690460/))*
 
@@ -50,7 +50,7 @@ From there, the chain—and the basic concept—exploded.
 
 {{% /whitebox %}}{{% graybox %}}
 
-![Spirit Halloween Home Furnishings](http://tedium.imgix.net/2017/06/1013_sprithomefurnishings.jpg)
+![Spirit Halloween Home Furnishings](https://tedium.imgix.net/2017/06/1013_sprithomefurnishings.jpg)
 
 *([Elmer Boutin/Flickr](https://www.flickr.com/photos/kb5nju/6178991438/))*
 
@@ -64,7 +64,7 @@ From there, the chain—and the basic concept—exploded.
 
 {{% /graybox %}}{{% whitebox %}}
 
-![Halloween City](http://tedium.imgix.net/2017/06/1013_halloweencity.jpg)
+![Halloween City](https://tedium.imgix.net/2017/06/1013_halloweencity.jpg)
 
 *([cjbird88/Flickr](https://www.flickr.com/photos/50389840@N05/6256054442/))*
 
@@ -80,7 +80,7 @@ The reasons that these Halloween chains grew so quickly around the recession is 
 
 Vacant big-box retail spaces are simply harder to rent out than smaller ones.
 
-![Spirit Halloween Circuit City](http://tedium.imgix.net/2017/06/1013_spirit.jpg)
+![Spirit Halloween Circuit City](https://tedium.imgix.net/2017/06/1013_spirit.jpg)
 
 *([Daniel Oines/Flickr](https://www.flickr.com/photos/dno1967b/8124939105/))*
 

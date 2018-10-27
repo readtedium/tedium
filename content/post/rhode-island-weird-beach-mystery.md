@@ -4,7 +4,7 @@ categories = ["mysteries", "rhode island", "wtf", "beach", "beaches", "blurb", "
 date = 2017-09-05T07:47:00Z
 description = "A mysterious object pulled from the sand of a Rhode Island beach was even weirder than officials expected. Anyone know what this is?"
 draft = false
-image = "http://tedium.imgix.net/2017/09/0904_beach.jpg"
+image = "https://tedium.imgix.net/2017/09/0904_beach.jpg"
 slug = "rhode-island-weird-beach-mystery"
 tags = ["mysteries", "rhode island", "wtf", "beach", "beaches", "blurb", "westerly", "unsolved mysteries"]
 variant = "blurb"
@@ -18,7 +18,7 @@ Here’s the deal: Beachgoers in Westerly, Rhode Island have been confused as he
 
 “It looks like a metal starfish because it has these eight legs that go down from the center,” noted Peter Brockman, the head of the local East Beach Association, [in comments to WPRI last month](http://wpri.com/2017/08/11/mystery-surrounds-strange-object-found-in-waters-off-westerly/).
 
-![Mystery object](http://tedium.imgix.net/2017/09/0904_beach2.jpg)
+![Mystery object](https://tedium.imgix.net/2017/09/0904_beach2.jpg)
 
 *The object, pre-excavation. (via WPRI)*
 

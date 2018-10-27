@@ -4,7 +4,7 @@ categories = ["word processors", "writing", "markdown", "journalism", "bare-meta
 date = 2016-08-19T07:53:00Z
 description = "Over the decades, word processors have continually gained new features that get in the way of the ultimate goal: writing. How do we get back to that goal?"
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium081816.gif"
+image = "https://tedium.imgix.net/2017/06/tedium081816.gif"
 slug = "bare-metal-writing-word-processor-history"
 tags = ["word processors", "writing", "markdown", "journalism", "bare-metal writing", "microsoft word", "copy editing", "editing", "wordperfect", "jim henson", "raymond scott", "ibm pc"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Bare-Metal Writing"
 
 {{% /redbox %}}{{% whitebox %}}
  
-![IBM](http://tedium.imgix.net/2017/06/0818_ibm.jpg)
+![IBM](https://tedium.imgix.net/2017/06/0818_ibm.jpg)
 
 ### The first device called a "word processor" inspired a bizarre Jim Henson/Raymond Scott collaboration
 
@@ -62,7 +62,7 @@ Sounds like we're in need of another paper explosion.
 
 {{% /redbox %}}{{% graybox %}}
 
-![Electric Pencil](http://tedium.imgix.net/2017/06/0816_pencil.png)
+![Electric Pencil](https://tedium.imgix.net/2017/06/0816_pencil.png)
 
 ### Five key moments in word-processor history
 
@@ -74,7 +74,7 @@ Sounds like we're in need of another paper explosion.
 
 {{% /graybox %}}{{% whitebox %}}
 
-![Microsoft Word 2016](http://tedium.imgix.net/2017/06/0816_word.jpg)
+![Microsoft Word 2016](https://tedium.imgix.net/2017/06/0816_word.jpg)
 
 ### For all they've gained, what have modern word processors lost?
 
@@ -96,7 +96,7 @@ I want to feel bare metal when I write. That's why I dislike Microsoft Word.
 
 **Last year, a blogger named David Kadavy** wrote a love letter to [a piece of hardware called the Alphasmart 3000](http://amzn.to/2bhvYVA)—essentially like the typewriter-style word processors that were popular in the '90s, without the typewriter.
 
-[![Alphasmart 3000](http://tedium.imgix.net/2017/06/0816_alphasmart.jpg)](http://amzn.to/2bhvYVA)
+[![Alphasmart 3000](https://tedium.imgix.net/2017/06/0816_alphasmart.jpg)](http://amzn.to/2bhvYVA)
 
 The product, which was produced well after Microsoft Word became the de facto standard, is considered by Kadavy the perfect writing tool because of what it *doesn't* do: It doesn't support the internet, it has a tiny screen, it can barely be connected to a computer, it sucks at editing, and it only produces a text file.
 

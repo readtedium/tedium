@@ -4,7 +4,7 @@ categories = ["blurb", "nintendo", "easter eggs", "secret rooms", "super nes", "
 date = 2017-03-14T06:59:35Z
 description = "If your name is Chris Houlihan, you’re immortalized, somewhat obscurely, in The Legend of Zelda lore. Here’s why the series features some random guy."
 draft = false
-image = "http://tedium.imgix.net/2017/03/0313_houlihan-1.jpg"
+image = "https://tedium.imgix.net/2017/03/0313_houlihan-1.jpg"
 slug = "zelda-chris-houlihan-secret-room"
 tags = ["blurb", "nintendo", "easter eggs", "secret rooms", "super nes", "chris houlihan", "the legend of zelda", "a link to the past", "final fantasy"]
 variant = "blurb"
@@ -18,7 +18,7 @@ title = "This Is My Top Secret Room"
 
 But as interesting as *Breath of the Wild* is, I wanted to spend a minute talking about one of the weirdest things ever to appear on a Nintendo cartridge, ever, let alone a *Legend of Zelda* game. That’s something called the Chris Houlihan Room.
 
-![Nintendo Power](http://tedium.imgix.net/2017/03/0313_ninpower.jpg)
+![Nintendo Power](https://tedium.imgix.net/2017/03/0313_ninpower.jpg)
 
 The room, featured in the Super NES version of *The Legend of Zelda: A Link to the Past* (which, if you want to feel old, celebrates its 25th anniversary in April) came about in an interesting way: Through an issue of *Nintendo Power*, the greatest example of content marketing ever created. In Volume 16 of the magazine (September/October 1990), the magazine held a contest asking readers to share photos of themselves with Warmech, a notable enemy in *Final Fantasy*. The winner was promised their name in a game. 
 

@@ -4,7 +4,7 @@ categories = ["screws", "screwdrivers", "phillips head screwdrivers", "apple", "
 date = 2016-09-16T07:26:00Z
 description = "Standardization has long ruled the world of screws. Despite that, screw standards differ between North America and the rest of the world. Here's why."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium091516_new.gif"
+image = "https://tedium.imgix.net/2017/06/tedium091516_new.gif"
 slug = "screw-history-standards"
 tags = ["screws", "screwdrivers", "phillips head screwdrivers", "apple", "pentalobe screwdriver", "screw threads", "screw thread", "screwdriver history"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "We Screwed Up"
 
 {{% /redbox %}}{{% graybox %}}
 
-![Robertson Screw](http://tedium.imgix.net/2017/06/0914_robertson.png)
+![Robertson Screw](https://tedium.imgix.net/2017/06/0914_robertson.png)
 
 ### Five different varieties of screws that weren't popularized by a guy named Phillips
 
@@ -46,7 +46,7 @@ title = "We Screwed Up"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Screw Thread](http://tedium.imgix.net/2017/06/0914_screwthread.jpg)
+![Screw Thread](https://tedium.imgix.net/2017/06/0914_screwthread.jpg)
 
 *([Clint Budd/Flickr](https://www.flickr.com/photos/58827557@N06/18085524322))*
 
@@ -74,7 +74,7 @@ The article noted that the government was working close with the U.K. on the iss
 
 >  There is, however, a fundamental difference in the angle of the thread of the two systems. This is 60 degrees for the American and 55 degrees for the British thread. Still another difference is that the American thread has flattened crests and roots, whereas those of the British thread are rounded.
 
-![Nuts](http://tedium.imgix.net/2017/06/0914_nuts.jpg)
+![Nuts](https://tedium.imgix.net/2017/06/0914_nuts.jpg)
 
 *(via [Pixabay](https://pixabay.com/en/nut-bolt-metallic-metal-white-165083/))*
 

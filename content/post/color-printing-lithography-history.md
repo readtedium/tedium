@@ -4,7 +4,7 @@ categories = ["printing", "color", "newspapers", "print shop", "lithography", "c
 date = 2017-04-19T07:43:00Z
 description = "How mass-production printing technology, starting with the lithograph, was pushed forward thanks to a growing interest in color."
 draft = false
-image = "http://tedium.imgix.net/2017/04/tedium041817.gif"
+image = "https://tedium.imgix.net/2017/04/tedium041817.gif"
 slug = "color-printing-lithography-history"
 tags = ["printing", "color", "newspapers", "print shop", "lithography", "chromolithography", "graphic design", "design"]
 variant = "article"
@@ -28,7 +28,7 @@ _**Editor's note:** Tonight's GIF is a bit of deconstruction [of a nice piece](h
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Lithography stone](http://tedium.imgix.net/2017/04/0417_lithography.jpg)
+![Lithography stone](https://tedium.imgix.net/2017/04/0417_lithography.jpg)
 
 *An example of lithography in process, featuring the all-important stone. ([jrsquee/Flickr](https://www.flickr.com/photos/jrsquee/5595137163/))*
 
@@ -38,7 +38,7 @@ When German playwright Alois Senefelder, frustrated by the high costs associated
 
 He created lithography—a technology that ultimately helped push forth the Gutenberg press into the modern era by using the chemical properties of oil and water to create the first flat-surface printing press.
 
-![Alois Senefelder](http://tedium.imgix.net/2017/04/0417_lithographyc.jpg)
+![Alois Senefelder](https://tedium.imgix.net/2017/04/0417_lithographyc.jpg)
 
 *A lithographic print of Alois Senefelder, because why not? ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Alois_Senefelder2.jpg))*
 
@@ -46,7 +46,7 @@ The process wasn’t good for printing a newspaper at the time—it was slightly
 
 Of course, it was a process begging to be improved with the addition of color. Senefelder (and many other tinkerers) started thinking in this direction, but it was ultimately France’s Godefroy Engelmann [who received a patent](http://www.britishmuseum.org/research/search_the_collection_database/term_details.aspx?bioId=125886) for the technique, called chromolithography. In 1816, Engelmann and a colleague, Charles-Philibert de Lasteyrie, came up with a two-color lithography process that relied on multiple stones. Engelmann and others kept improving it, and at the time [he received a patent for it in 1837](https://books.google.com/books?id=eYHsAwAAQBAJ&pg=PA200), the process was effective, even if it was complicated. The results of Engelmann’s three-color and four-color prints were just too realistic-looking to ignore. (Engelmann, alas, died just two years after his patent was locked into place.)
 
-![A Hoen & Co. Lithography](http://tedium.imgix.net/2017/04/0417_lithographyb.jpg)
+![A Hoen & Co. Lithography](https://tedium.imgix.net/2017/04/0417_lithographyb.jpg)
 
 *An example of a lithographic work from A. Hoen & Co. ([Library of Congress](https://www.loc.gov/item/96507586/))*
 
@@ -70,7 +70,7 @@ When it comes down to it, there are a lot of advantages that lithography has for
 
 {{% /whitebox %}}{{% graybox %}}
 
-![The New York World Sunday Comic Weekly](http://tedium.imgix.net/2017/04/0417_nyworld.jpg)
+![The New York World Sunday Comic Weekly](https://tedium.imgix.net/2017/04/0417_nyworld.jpg)
 
 *The New York World's Sunday Comic Weekly, circa 1898. (via Duke University's [early comic strips collection](http://library.duke.edu/exhibits/earlycomicstrips/02/index.html))*
 

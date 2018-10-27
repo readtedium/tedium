@@ -4,7 +4,7 @@ categories = ["lint", "lint filter", "helmac", "nicholas mckay", "dryers", "clot
 date = 2017-07-12T07:33:00Z
 description = "Like lint? This article is for you. Learn why dryers produce lint, and how the lint roller came into existence. It's the lintiest article you'll ever read."
 draft = false
-image = "http://tedium.imgix.net/2017/07/tedium071117--1-.gif"
+image = "https://tedium.imgix.net/2017/07/tedium071117--1-.gif"
 slug = "lint-roller-history-dryer-lint"
 tags = ["lint", "lint filter", "helmac", "nicholas mckay", "dryers", "clothes", "clothing", "laundry"]
 variant = "article"
@@ -20,7 +20,7 @@ title = "Lint, Filtered"
 
 {{% adbox bgcolor="#333399" color="#ffffff" accent="#ffffff" %}}
 
-[![Space On Earth III](http://tedium.imgix.net/2017/07/spaceonearthiii.jpg)](http://manbartlett.bandcamp.com/album/space-on-earth-iii?campaign=tedium)
+[![Space On Earth III](https://tedium.imgix.net/2017/07/spaceonearthiii.jpg)](http://manbartlett.bandcamp.com/album/space-on-earth-iii?campaign=tedium)
 
 **[SPACE ON EARTH III](http://manbartlett.bandcamp.com/album/space-on-earth-iii?campaign=tedium)** makes for great listening while reading Tedium. It's like a hug for your brain. **[Enter “tedium” at checkout for a 15% discount.](http://manbartlett.bandcamp.com/album/space-on-earth-iii?campaign=tedium)**
 
@@ -38,7 +38,7 @@ title = "Lint, Filtered"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Lint filter](http://tedium.imgix.net/2017/07/0711_lint.jpg)
+![Lint filter](https://tedium.imgix.net/2017/07/0711_lint.jpg)
 
 *This is what happens when you don't empty a lint filter for a really long time. ([Gregor Smith/Flickr](https://www.flickr.com/photos/flc/3788878/))*
 
@@ -68,7 +68,7 @@ Turn-of-the-century firms were experimenting with large rotary dryers at scale.
 
 And that means they were among the first to take on the lint problem, with the tumbling, rotary devices creating lots of lint as a byproduct of all the rolling around.
 
-![Rotary clothes drier](http://tedium.imgix.net/2017/07/0711_dryer.jpg)
+![Rotary clothes drier](https://tedium.imgix.net/2017/07/0711_dryer.jpg)
 
 *Elmer E. Wingate's take on a rotary clothes drier. ([Google Patents](https://patents.google.com/patent/US942692A/en))*
 
@@ -96,7 +96,7 @@ And that's how these massive lint-collecting machines were introduced to our hom
 
 {{% /redbox %}}{{% whitebox %}}  
 
-![Lint roller](http://tedium.imgix.net/2017/07/0712_lintroller.jpg)
+![Lint roller](https://tedium.imgix.net/2017/07/0712_lintroller.jpg)
 
 *Lint rollers at an Ikea in Beijing. ([Gordon Lew/Flickr](https://www.flickr.com/photos/rabidunicorn/7472178244/))*
 

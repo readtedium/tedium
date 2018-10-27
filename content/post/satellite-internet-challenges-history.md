@@ -4,7 +4,7 @@ categories = ["internet", "internet access", "internet history", "satellite dish
 date = 2017-03-31T07:31:00Z
 description = "Satellite internet was once seen as a holy grail of connect-anywhere online access. But for various reasons, it hasn’t worked out that way—yet."
 draft = false
-image = "http://tedium.imgix.net/2017/03/tedium033017.gif"
+image = "https://tedium.imgix.net/2017/03/tedium033017.gif"
 slug = "satellite-internet-challenges-history"
 tags = ["internet", "internet access", "internet history", "satellite dish", "satellite dishes", "hughes", "hughesnet", "exede", "teledesic"]
 variant = "article"
@@ -68,7 +68,7 @@ We did get satellite internet, but it didn’t look anything like the big idea T
 
 {{% /redbox %}}{{% whitebox %}}
 
-![HughesNet Satellite](http://tedium.imgix.net/2017/03/0330_hughesnet.jpg)
+![HughesNet Satellite](https://tedium.imgix.net/2017/03/0330_hughesnet.jpg)
 
 *A HughesNet satellite dish. (Alan Levine/Flickr)*
 
@@ -80,7 +80,7 @@ Yes, the Hughes in HughesNet, the internet service, refers to Howard Hughes. No,
 
 Now owned by EchoStar, HughesNet carries its current name because it was at one point owned by the Hughes Aircraft Company, but the firm wasn’t acquired until about a decade after Howard Hughes had died. But the reclusive tycoon’s firm did have a legacy in satellites before that point.
 
-![DirecPC](http://tedium.imgix.net/2017/03/0330_direcpc.gif)
+![DirecPC](https://tedium.imgix.net/2017/03/0330_direcpc.gif)
 
 *A graphic explaining how DirecPC initially worked. (via [SatelliteDish.com](http://www.satellitedish.com/dpc1.htm))*
 

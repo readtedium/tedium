@@ -4,7 +4,7 @@ categories = ["computer history", "computers", "shareware", "software", "phil ka
 date = 2016-10-28T07:29:00Z
 description = "It wasn't just about games. In the '80s and '90s, shareware democratized the way computer software was sold. Unfortunately, adware sort of dimmed its charm."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium102716.gif"
+image = "https://tedium.imgix.net/2017/06/tedium102716.gif"
 slug = "shareware-history-legacy"
 tags = ["computer history", "computers", "shareware", "software", "phil katz", "pkzip", "wolfenstein 3d", "zzt", "Andrew Fluegelman", "Jim Knopf", "Bob Wallace"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "The Original In-App Purchase"
 
 {{% /redbox %}}{{% graybox %}}
 
-![ZZT](http://tedium.imgix.net/2017/06/1027_zzt.gif)
+![ZZT](https://tedium.imgix.net/2017/06/1027_zzt.gif)
 
 *(ZZT screenshot)*
 
@@ -40,7 +40,7 @@ title = "The Original In-App Purchase"
 
 {{% /graybox %}}{{% whitebox %}}
 
-![Floppy disks](http://tedium.imgix.net/2017/06/1027_floppy.jpg)
+![Floppy disks](https://tedium.imgix.net/2017/06/1027_floppy.jpg)
 
 *([Photo.Ski/Flickr](https://www.flickr.com/photos/54828065@N05/5407362615/))*
 
@@ -76,7 +76,7 @@ Shareware, clearly, was an idea with legs—and those legs, ultimately, outran t
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Gator App](http://tedium.imgix.net/2017/06/1027_gator.png)
+![Gator App](https://tedium.imgix.net/2017/06/1027_gator.png)
 
 ### How adware bastardized shareware's good name
 

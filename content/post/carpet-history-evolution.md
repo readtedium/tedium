@@ -4,7 +4,7 @@ categories = ["carpet", "history", "carpet history", "588-2300-EMPIRE today", "e
 date = 2017-01-11T09:38:00Z
 description = "Carpets used to be important cultural artifacts. Now they extend from wall to wall, got shaggy, and are sold via earworm jingles. What a weird evolution."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium011017--1-.gif"
+image = "https://tedium.imgix.net/2017/06/tedium011017--1-.gif"
 slug = "carpet-history-evolution"
 tags = ["carpet", "history", "carpet history", "588-2300-EMPIRE today", "empire today", "lynn haludren", "commercials", "jingles", "wall-to-wall carpets", "tufts"]
 variant = "article"
@@ -28,7 +28,7 @@ _**Editor’s note:** Lots of new subscribers this week! (Hi guys, hope you’re
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Pazyryk Carpet](http://tedium.imgix.net/2017/06/0110_carpet2.jpg)
+![Pazyryk Carpet](https://tedium.imgix.net/2017/06/0110_carpet2.jpg)
 
 *The Pazyryk Carpet. (via the Hermitage Museum)*
 
@@ -54,7 +54,7 @@ Eventually, Dalton’s primary industry, helped along by the eventual uptake of 
 
 {{% /whitebox %}}{{% graybox %}}
 
-![Druggets](http://tedium.imgix.net/2017/06/0110_druggets.jpg)
+![Druggets](https://tedium.imgix.net/2017/06/0110_druggets.jpg)
 
 *Playing at Doctors, a Frederick Daniel Hardy painting featuring a druggert. (via J.R. Burrows & Company)*
 
@@ -68,7 +68,7 @@ Eventually, Dalton’s primary industry, helped along by the eventual uptake of 
 
 {{% /graybox %}}{{% whitebox %}}
 
-![George Washington carpet](http://tedium.imgix.net/2017/06/0110_carpet.jpg)
+![George Washington carpet](https://tedium.imgix.net/2017/06/0110_carpet.jpg)
 
 ### One of the earliest gifts George Washington received as president was a wall-to-wall carpet from Louis XVI
 
@@ -108,7 +108,7 @@ In the 1970s, the company crossed paths with an ad copywriter named Lynn Hauldre
 
 “If I'm not mistaken I think we auditioned several dozen actors for the part before Seymour said to me, ‘You do the commercial, Lynn,’” [Hauldren told the *Chicago Tribune* in 1997](http://articles.chicagotribune.com/1997-12-01/features/9712010184_1_installers-dudley-moore-groucho-marx). “So I did, and I still insist the first … 50 or so we filmed are unwatchable today.”
 
-![Lynn Hauldren](http://tedium.imgix.net/2017/06/0110_empire.jpg)
+![Lynn Hauldren](https://tedium.imgix.net/2017/06/0110_empire.jpg)
 
 The commercials are interesting, because it’s a rare example of a TV ad concept expanding from a local audience, at a cost of $30 per commercial in the 1970s, to a national one. Not that it was a perfect transition. There were slight creative challenges when Empire had to change its branding to account for the national audience (it was originally just “588-2300 Empire,” now it’s “1-800-588-2300 Empire … Today,” reflecting the company’s [now-awkward name](http://www.empiretoday.com/)). But it worked. [He became a mascot](http://amzn.to/2jtE7r3).
 

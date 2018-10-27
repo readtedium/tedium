@@ -4,7 +4,7 @@ categories = ["retail", "grocery stores", "iga", "hometown proud", "independent 
 date = 2016-07-08T07:15:00Z
 description = "The Independent Grocers Alliance (IGA), a loosely franchised grocery chain, is basically designed to allow locals to own their own stores. It's genius."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium070716.gif"
+image = "https://tedium.imgix.net/2017/06/tedium070716.gif"
 slug = "hometown-proud-iga-independent-grocers-alliance-history"
 tags = ["retail", "grocery stores", "iga", "hometown proud", "independent grocers alliance", "j. frank grimes"]
 variant = "article"
@@ -18,7 +18,7 @@ title = "Hometown Proud"
 
 {{% /whitebox %}}{{% graybox %}}
 
-![IGA in Madison Wisconsin](http://tedium.imgix.net/2017/06/0707_iga.jpg)
+![IGA in Madison Wisconsin](https://tedium.imgix.net/2017/06/0707_iga.jpg)
 
 *([roadsidepictures/Flickr](https://www.flickr.com/photos/roadsidepictures/442792807/))*
 
@@ -62,7 +62,7 @@ It's no shoutout in the *Harvard Business Review*, but certainly a nice consolat
 
 {{% /redbox %}}{{% graybox %}}
 
-![Crow, not in a can](http://tedium.imgix.net/2017/06/0707_crow.jpg)
+![Crow, not in a can](https://tedium.imgix.net/2017/06/0707_crow.jpg)
 
 *([Lucina/Flickr](https://www.flickr.com/photos/lucina/52537862/))*
 

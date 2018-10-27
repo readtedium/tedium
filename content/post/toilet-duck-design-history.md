@@ -4,7 +4,7 @@ categories = ["blurb", "toilets", "toilet", "toilet duck", "cleaning supplies", 
 date = 2017-07-06T07:34:00Z
 description = "How the Toilet Duck rode its unique bottle design to mainstream success—and brought clever design to the bathroom, too."
 draft = false
-image = "http://tedium.imgix.net/2017/07/0705_toiletduck2.jpg"
+image = "https://tedium.imgix.net/2017/07/0705_toiletduck2.jpg"
 slug = "toilet-duck-design-history"
 tags = ["blurb", "toilets", "toilet", "toilet duck", "cleaning supplies", "packaging", "design", "industrial design"]
 variant = "blurb"
@@ -22,7 +22,7 @@ That tool, known as [Toilet Duck](http://amzn.to/2tOplUa), or WC-Ente, was basic
 
 “The appropriately named Toilet Duck broke ranks with the conventionally bottled toilet-cleaning products by proclaiming, through the pack shape alone, its ease of use for the intended purpose,” author Bill Stewart [wrote](https://books.google.com/books?id=1Rro1lZaGxIC&pg=PA65) in [his 1995 book *Packaging as an Effective Marketing Tool*](http://amzn.to/2tTG6hN). “There was little doubt in the minds of shoppers that the pack would perform better than conventional containers.“ 
 
-![Toilet Duck patent](http://tedium.imgix.net/2017/07/0705_toiletduck.jpg)
+![Toilet Duck patent](https://tedium.imgix.net/2017/07/0705_toiletduck.jpg)
 
 *A Toilet Duck patent drawing.*
 

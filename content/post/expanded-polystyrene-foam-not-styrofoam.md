@@ -4,7 +4,7 @@ categories = ["plastic", "plastic history", "extrusion", "foam", "polystyrene", 
 date = 2017-03-15T07:38:00Z
 description = "Once seen as an incredibly innovative, lightweight material, expanded polystyrene foam is now just a big problem—in part because it’s so hard to recycle."
 draft = false
-image = "http://tedium.imgix.net/2017/03/tedium031417.gif"
+image = "https://tedium.imgix.net/2017/03/tedium031417.gif"
 slug = "expanded-polystyrene-foam-not-styrofoam"
 tags = ["plastic", "plastic history", "extrusion", "foam", "polystyrene", "expanded polystyrene", "extruded polystyrene", "dow chemical"]
 variant = "article"
@@ -27,7 +27,7 @@ title = "It’s Not Styrofoam"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Not Styrofoam](http://tedium.imgix.net/2017/03/0314_notstyrofoam.jpg)
+![Not Styrofoam](https://tedium.imgix.net/2017/03/0314_notstyrofoam.jpg)
 
 *This material is not Styrofoam. Don't let anyone tell you differently. ([Björn Láczay/Flickr](https://www.flickr.com/photos/dustpuppy/19352539/))*
 
@@ -69,7 +69,7 @@ The problem is, of course, it lasts a lot longer than that.
 
 {{% /redbox %}}{{% whitebox %}}
 
-![McDLT](http://tedium.imgix.net/2017/03/0314_McDLT.jpg)
+![McDLT](https://tedium.imgix.net/2017/03/0314_McDLT.jpg)
 
 *The McDLT, once Jason Alexander's meal ticket.*
 

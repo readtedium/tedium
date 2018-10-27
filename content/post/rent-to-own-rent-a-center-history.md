@@ -40,7 +40,7 @@ title = "Buy, Don’t Rent"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Radio Rentals location](http://tedium.imgix.net/2017/11/1128_radiorentals.jpg)
+![Radio Rentals location](https://tedium.imgix.net/2017/11/1128_radiorentals.jpg)
 
 *A decommissioned Radio Rentals location. ([Hazel Nicholson/Flickr](https://www.flickr.com/photos/10515323@N08/10365861895/))*
 
@@ -60,7 +60,7 @@ Lots of people would eventually want one, and after World War II ended and telev
 
 Radio Rentals became a big hit TV renter, despite its name. (The UK, of course, has a long tradition of [successful companies with outdated names](https://www.carphonewarehouse.com/).)
 
-![Radio Rentals](http://tedium.imgix.net/2017/11/1128_rentals.jpg)
+![Radio Rentals](https://tedium.imgix.net/2017/11/1128_rentals.jpg)
 
 *([Bradford Timeline/Flickr](https://www.flickr.com/photos/bradford_timeline/12613801304/))*
 
@@ -82,7 +82,7 @@ The company eventually faded from view at the turn of the 21st century, just as 
 
 {{% /whitebox %}}{{% graybox %}}
 
-![Rent-a-Center](http://tedium.imgix.net/2017/11/1128_rac.jpg)
+![Rent-a-Center](https://tedium.imgix.net/2017/11/1128_rac.jpg)
 
 *([Indiana Stan/Flickr](https://www.flickr.com/photos/photosbystan/6955833003/))*
 
@@ -104,7 +104,7 @@ The company eventually faded from view at the turn of the 21st century, just as 
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Rent-a-Center truck](http://tedium.imgix.net/2017/11/1128_rac2.jpg)
+![Rent-a-Center truck](https://tedium.imgix.net/2017/11/1128_rac2.jpg)
 
 *([Mike Mozart/Flickr](https://www.flickr.com/photos/jeepersmedia/14528525994/))*
 

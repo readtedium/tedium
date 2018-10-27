@@ -4,7 +4,7 @@ categories = ["singular they", "grammar", "copy editing", "english language", "l
 date = 2016-08-05T07:44:00Z
 description = "The singular \"they\" is the Rodney Dangerfield of grammar, despite being around far longer than \"he or she.\" But is they close to mainstream acceptance?"
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium_they--1--1.gif"
+image = "https://tedium.imgix.net/2017/06/tedium_they--1--1.gif"
 slug = "singular-they-grammar-copy-editing"
 tags = ["singular they", "grammar", "copy editing", "english language", "language", "they", "generic he"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "They Should Stop"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Webster dictionary](http://tedium.imgix.net/2017/06/0804_webster.jpg)
+![Webster dictionary](https://tedium.imgix.net/2017/06/0804_webster.jpg)
 
 ### Is the singular "they" a problem that linguists created for themselves?
 
@@ -74,7 +74,7 @@ It's an empty space for a broken term, but who broke it?
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Red editing pen](http://tedium.imgix.net/2017/06/0804_editors.jpg)
+![Red editing pen](https://tedium.imgix.net/2017/06/0804_editors.jpg)
 
 *(Rodger Evans/Flickr)*
 

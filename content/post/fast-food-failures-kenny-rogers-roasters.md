@@ -4,7 +4,7 @@ categories = ["fast food", "food", "kenny rogers", "kenny rogers roasters", "sho
 date = 2017-03-29T07:42:00Z
 description = "Not every fast food chain is going to be a success. And often, the best you can hope for is the kind of revival Kenny Rogers Roasters is having in Asia."
 draft = false
-image = "http://tedium.imgix.net/2017/03/tedium032817.gif"
+image = "https://tedium.imgix.net/2017/03/tedium032817.gif"
 slug = "fast-food-failures-kenny-rogers-roasters"
 tags = ["fast food", "food", "kenny rogers", "kenny rogers roasters", "shophouse", "rax", "wimpy", "chi-chi's", "red barn", "crumbs", "gino's"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Boom, Roasted"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Kenny Rogers Roasters](http://tedium.imgix.net/2017/03/0327_roasters.jpg)
+![Kenny Rogers Roasters](https://tedium.imgix.net/2017/03/0327_roasters.jpg)
 
 *Kenny Rogers Roasters. ([Investment Total/Flickr](https://www.flickr.com/photos/investmenttotal/27316555855/))*
 
@@ -40,7 +40,7 @@ The idea came from former Kentucky Gov. John Y. Brown, who had turned KFC into a
 
 The chain did not always have a strong level of appreciation, however. In 1996, a New York City lawyer located directly above a Kenny Rogers Roasters location [put a sign directly above the store](http://www.nytimes.com/1996/04/26/nyregion/1st-amendment-protection-for-a-restaurant-s-critic.html), claiming the food was bad. Aaron Chess Lichtman’s sign was placed effectively because he was annoyed by the bright lights of the restaurant’s signage, but a court sided with the man anyway.
 
-![Kenny Rogers Roasters Seinfeld](http://tedium.imgix.net/2017/03/0327_kenny.jpg)
+![Kenny Rogers Roasters Seinfeld](https://tedium.imgix.net/2017/03/0327_kenny.jpg)
 
 *The Kenny Rogers Roasters signage, as shown on Seinfeld. ([YouTube screenshot](https://www.youtube.com/watch?v=TKVMo0K9u_s))*
 
@@ -70,7 +70,7 @@ Kenny Rogers must be psyched.
 
 {{% /whitebox %}}{{% graybox %}}
 
-![Chi-Chi's restaurant in Luxembourg](http://tedium.imgix.net/2017/03/0327_chichis.jpg)
+![Chi-Chi's restaurant in Luxembourg](https://tedium.imgix.net/2017/03/0327_chichis.jpg)
 
 *A Chi-Chi's restaurant in Luxembourg. Really. ([Jeff Boyd/Flickr](https://www.flickr.com/photos/the2belo/5760685889/))*
 
@@ -84,7 +84,7 @@ Kenny Rogers must be psyched.
 
 {{% /graybox %}}{{% whitebox %}}
 
-![Rax Roast Beef](http://tedium.imgix.net/2017/03/0327_rax.jpg)
+![Rax Roast Beef](https://tedium.imgix.net/2017/03/0327_rax.jpg)
 
 *Fast food, with style. ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:RaxLancaster2006.jpg))*
 
@@ -102,7 +102,7 @@ Roschman, who created Jax from whole cloth, quickly sold the brand to General Fo
 
 General Foods proved to be a poor corporate parent, and in 1978, the chain—which had hit an early peak of 195 stores in 1977—fell into disarray, with all but 10 stores closing. A franchisee, Restaurant Administration Corporation, classed up the joint a little bit and changed the name of the chain to Rax Roast Beef. Then, changing their name, they went national.
 
-![Rax Roast Beef ad](http://tedium.imgix.net/2017/03/0327_raxad.jpg)
+![Rax Roast Beef ad](https://tedium.imgix.net/2017/03/0327_raxad.jpg)
 
 *A Rax newspaper ad, circa 1989. (via [the Decatur, Illinois Herald and Review](https://www.newspapers.com/clip/9889761/rax_newspaper_ad/))*
 

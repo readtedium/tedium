@@ -4,7 +4,7 @@ categories = ["television", "airports", "retail", "airport retail", "hudson news
 date = 2016-08-17T11:13:08Z
 description = "For more than a decade, it's been a common sight in U.S. airports to see newsstand-style shops named for cable news networks. Why, of all things, this idea?"
 draft = true
-image = "http://tedium.imgix.net/2017/06/tedium081616--1-.gif"
+image = "https://tedium.imgix.net/2017/06/tedium081616--1-.gif"
 slug = "airport-stores-named-after-tv-networks"
 tags = ["television", "airports", "retail", "airport retail", "hudson news", "cnbc news", "cnn newsstand", "fox sports sports bar", "retail quirks"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Network Effects"
 
 {{% /redbox %}}{{% graybox %}}
 
-![Fox Sports Sports Bar in Charlotte](http://tedium.imgix.net/2017/06/0816_foxsports.jpg)
+![Fox Sports Sports Bar in Charlotte](https://tedium.imgix.net/2017/06/0816_foxsports.jpg)
 
 *(via [TripAdvisor](https://www.tripadvisor.com/Restaurant_Review-g49022-d5502796-Reviews-Fox_Sports_Bar_and_Grill-Charlotte_North_Carolina.html#photos;geo=49022&detail=5502796))*
 
@@ -52,7 +52,7 @@ But what might be surprising to cable viewers is that the TV network that the st
 
 {{% /graybox %}}{{% whitebox %}}
 
-![CNBC Store](http://tedium.imgix.net/2017/06/0816_cnbc.jpg)
+![CNBC Store](https://tedium.imgix.net/2017/06/0816_cnbc.jpg)
 
 *(Dane County Regional Airport/Flickr)*
 
@@ -80,7 +80,7 @@ You can't convince people to buy your magazines or watch your TV shows? Consider
 
 {{% /whitebox %}}{{% graybox %}}
 
-![The Newarker restaurant](http://tedium.imgix.net/2017/06/0816_newarker.jpg)
+![The Newarker restaurant](https://tedium.imgix.net/2017/06/0816_newarker.jpg)
 
 *([William Bird/Flickr](https://www.flickr.com/photos/edge_and_corner_wear/8197923864/))*
 

@@ -4,7 +4,7 @@ categories = ["apple", "apple ii", "computer history", "clones", "franklin compu
 date = 2017-05-05T07:07:00Z
 description = "The Apple II computer didn't attract as many clones as the IBM PC, but the clone-makers the machine did attract often had pretty interesting second acts."
 draft = false
-image = "http://tedium.imgix.net/2017/05/tedium050417.gif"
+image = "https://tedium.imgix.net/2017/05/tedium050417.gif"
 slug = "apple-ii-clones-franklin-vtech"
 tags = ["apple", "apple ii", "computer history", "clones", "franklin computer company", "vtech"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Clone Wars"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Franklin Ace 100](http://tedium.imgix.net/2017/05/0504_franklin.jpg)
+![Franklin Ace 100](https://tedium.imgix.net/2017/05/0504_franklin.jpg)
 
 *The Franklin Ace 100, which made Steve Wozniak mad. ([Computer History Museum](http://www.computerhistory.org/revolution/personal-computers/17/302/1193))*
 
@@ -56,7 +56,7 @@ A January 1984 analysis of the case in the *Golden Gate University Law Review* p
 
 > The Third Circuit's decision in *Apple Computer, Inc. v. Franklin Computer Corporation* is significant because it held that all computer programs, whether expressed in object code embedded in ROM or expressed as an operating program, are copyrightable subject matter. Thus, by granting copyright protection to all programs, the Franklin opinion has helped stabilize copyright law in relation to computer software and has allowed copyright to become the most effective, most easily obtainable, and most preferred form of legal protection· for computer programs.
 
-![Franklin Ad](http://tedium.imgix.net/2017/05/0504_franklin2.jpg)
+![Franklin Ad](https://tedium.imgix.net/2017/05/0504_franklin2.jpg)
 
 *"I know, let's get a Ben Franklin lookalike to hold six loaves of bread while standing behind a computer and call it a baker's dozen. Makes total sense."*
 
@@ -76,7 +76,7 @@ Unfortunately for Apple, another competitor had figured out how to clone its App
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Socrates](http://tedium.imgix.net/2017/05/0504_socrates.jpg)
+![Socrates](https://tedium.imgix.net/2017/05/0504_socrates.jpg)
 
 *There is a direct lineage between Apple II clones and this device. (Wikimedia Commons)*
 
@@ -96,7 +96,7 @@ Meanwhile, Franklin, which was forced to diversify due to legal pressure from Ap
 
 The idea, per the Associated Press, went like this: Rather than accepting the idea that households would rely on one large computer, they instead pushed toward the market of numerous smaller ones. There were other companies that were hitting this niche, [like Tiger Electronics](http://tedium.co/2016/08/23/tiger-electronics-lcd-games-history/), but they were focused on games. 
 
-![Spelling Ace](http://tedium.imgix.net/2017/05/0504_spellingace.jpg)
+![Spelling Ace](https://tedium.imgix.net/2017/05/0504_spellingace.jpg)
 
 *Actual Flickr cutline for this: "My grandpa uses a Franklin Spelling Ace from 1986 because he doesn't like spellcheck on the computer." ([Nate Bolt/Flickr](https://www.flickr.com/photos/boltron/3991030352/))*
 

@@ -4,7 +4,7 @@ categories = ["karaoke", "music history", "music industry", "laserdisc", "cd+g",
 date = 2017-08-11T07:35:00Z
 description = "From 8-Track to Laserdisc to CD+G to ISDN lines to YouTube, the different technologies that made karaoke possible. (Alcohol helps, too.)"
 draft = false
-image = "http://tedium.imgix.net/2017/08/tedium081017--2-.gif"
+image = "https://tedium.imgix.net/2017/08/tedium081017--2-.gif"
 slug = "karaoke-technology-evolution-history"
 tags = ["karaoke", "music history", "music industry", "laserdisc", "cd+g", "8-track", "eight-track", "pioneer", "video cd", "isdn", "Daisuke Inoue"]
 variant = "article"
@@ -39,7 +39,7 @@ title = "Sing Your Heart Out"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Eight-track karaoke machine](http://tedium.imgix.net/2017/08/0810_karaoke2.jpg)
+![Eight-track karaoke machine](https://tedium.imgix.net/2017/08/0810_karaoke2.jpg)
 
 *An eight-track karaoke player from Japan. (via [Yahoo! Japan Blogs](https://blogs.yahoo.co.jp/noriyasu8732/62595541.html))*
 
@@ -53,7 +53,7 @@ And while the technology has long been associated with bars and restaurants, it 
 
 It’s understandable why this was the case. It had a lot of real advantages as both a form of entertainment and a way of making money. Not only did it benefit restaurants and bars, but it also created a cottage industry for vendors who would serve and service the machines, manufacturers who could design innovations around karaoke technology, and the music industry suddenly had a new way to generate a whole bunch of performance royalties.
 
-![Home cassette karaoke machine](http://tedium.imgix.net/2017/08/0810_karaoke.jpg)
+![Home cassette karaoke machine](https://tedium.imgix.net/2017/08/0810_karaoke.jpg)
 
 *A vintage home cassette karaoke machine from Japan. ([Yahoo! Japan Auctions](https://page.auctions.yahoo.co.jp/jp/auction/o181084335))*
 
@@ -73,7 +73,7 @@ Our perception of music would never be the same.
 
 {{% /redbox %}}{{% whitebox %}}
 
-![LaserKaraoke](http://tedium.imgix.net/2017/08/0810_laserkaraoke.jpg)
+![LaserKaraoke](https://tedium.imgix.net/2017/08/0810_laserkaraoke.jpg)
 
 *A LaserKaraoke machine. ([leighklotz/Flickr](https://www.flickr.com/photos/leighklotz/16772901808/))*
 
@@ -85,7 +85,7 @@ With its LaserDisc format and Japanese roots, Pioneer was in a stronger position
 
 Eventually, Pioneer brought LaserKaraoke to the U.S. in 1988. While the medium had shown signs of potential success, the company had to convince bars and restaurants to make a fairly expensive investment in technology that they might not necessarily use every night. In some ways, the approach was truly innovative—thanks in no small part to the jukebox-style format of the karaoke discs.
 
-![Dreams Fleetwood Mac](http://tedium.imgix.net/2017/08/0810_karaoke3.jpg)
+![Dreams Fleetwood Mac](https://tedium.imgix.net/2017/08/0810_karaoke3.jpg)
 
 *Dreams by Fleetwood Mac, in karaoke form.*
 
@@ -105,7 +105,7 @@ Laserdisc, as a format, had a reputation for being a cinephile’s dream, [its a
 
 In a lot of ways, the format’s weaknesses (particularly its cumbersome size) left open opportunities for competitors to appear over time.
 
-![90s Hot Chart Hits for Men](http://tedium.imgix.net/2017/08/61DHdqQT-3L.jpg)
+![90s Hot Chart Hits for Men](https://tedium.imgix.net/2017/08/61DHdqQT-3L.jpg)
 
 *[A karaoke disc, for men](http://amzn.to/2vL8QcK). In the words of the immortal Jon Secada: I … I don't want to say it.*
 

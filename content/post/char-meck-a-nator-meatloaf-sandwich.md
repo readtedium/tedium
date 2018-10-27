@@ -4,7 +4,7 @@ categories = ["blurb", "school", "school lunches", "north carolina", "meat", "me
 date = 2017-09-14T07:12:34Z
 description = "A North Carolina school district invented a new sandwich in an attempt to convince kids that it wasn’t serving them meatloaf. It didn’t really work out."
 draft = false
-image = "http://tedium.imgix.net/2017/09/0913_charmeckanator.jpg"
+image = "https://tedium.imgix.net/2017/09/0913_charmeckanator.jpg"
 slug = "char-meck-a-nator-meatloaf-sandwich"
 tags = ["blurb", "school", "school lunches", "north carolina", "meat", "meatloaf", "char-meck-a-nator"]
 variant = "blurb"
@@ -22,7 +22,7 @@ If that sounds like meatloaf on a bun, that’s because it’s freakin' meatloaf
 
 “‘Meatloaf’ was not the word we wanted to use,” Cameron said. “It’s a little antiquated.”
 
-![Char-Meck-A-Nator](http://tedium.imgix.net/2017/09/0913_charmeckanator_ad.jpg)
+![Char-Meck-A-Nator](https://tedium.imgix.net/2017/09/0913_charmeckanator_ad.jpg)
 
 *The soon-to-be-legendary Char-Meck-A-Nator sandwich.*
 

@@ -4,7 +4,7 @@ categories = ["ibm", "ibm pc", "cga", "color graphics adapter", "computer histor
 date = 2017-06-16T07:12:00Z
 description = "Somehow CGA graphics, the IBM PC’s first take on color, haven’t completely faded into history. But those four colors inspire a whole lot of nostalgia."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium061517.gif"
+image = "https://tedium.imgix.net/2017/06/tedium061517.gif"
 slug = "igm-pc-cga-graphics-cards-legacy"
 tags = ["ibm", "ibm pc", "cga", "color graphics adapter", "computer history", "cga graphics", "cga jam", "cmyk"]
 variant = "article"
@@ -20,7 +20,7 @@ title = "Life In Four Colors"
 
 {{% adbox bgcolor="#333333" color="#ffffff" accent="#ffffff" %}}
 
-[![Museum Hack](http://tedium.imgix.net/2017/06/5.jpg)](https://lull.com/mattress)
+[![Museum Hack](https://tedium.imgix.net/2017/06/5.jpg)](https://lull.com/mattress)
 
 **[Proposing soon? We can help you make it one of a kind.](https://museumhack.com/surprise-proposal-met/)** You don’t have to do a “viral” marriage proposal video, but it doesn’t have to be boring either. Your partner will LOVE **[a customized proposal at the museum](https://museumhack.com/surprise-proposal-met/)**. We’ve helped about a dozen men pop the question and every one of their partners said yes! Let us do the work, and you take all the credit.
 
@@ -38,7 +38,7 @@ title = "Life In Four Colors"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![CGA Graphics](http://tedium.imgix.net/2017/06/9171559230_f7a7515602_k.jpg)
+![CGA Graphics](https://tedium.imgix.net/2017/06/9171559230_f7a7515602_k.jpg)
 
 *Nothing like cyan and magenta graphics, I tell you what. ([Matthew Ratzloff/Flickr](https://www.flickr.com/photos/mratzloff/9171559230/))*
 
@@ -50,7 +50,7 @@ Case in point: Arcades were full of video games that were clearly more capable a
 
 Those games didn’t have garish cyan and magenta tones as their defining characteristic. Why did the IBM PC?
 
-![Commander Keen](http://tedium.imgix.net/2017/06/0615_keen.png)
+![Commander Keen](https://tedium.imgix.net/2017/06/0615_keen.png)
 
 *Commander Keen is a perfect example of a CGA-supporting game.*
 
@@ -86,7 +86,7 @@ Considering the depressing, compromise-filled history around the technology, you
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Guns and Stallions](http://tedium.imgix.net/2017/06/0615_guns.gif)
+![Guns and Stallions](https://tedium.imgix.net/2017/06/0615_guns.gif)
 
 *A screenshot of "[Guns and Stallions](https://npjarcade.itch.io/guns-n-stallions)," a CGA Jam entrant.*
 

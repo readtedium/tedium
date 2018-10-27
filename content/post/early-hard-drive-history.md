@@ -4,7 +4,7 @@ categories = ["computer history", "computers", "ibm", "punch cards", "magnetic t
 date = 2017-05-31T07:12:00Z
 description = "Before hard drives became the main way for us to back up our stuff, they were a key evolution for the business world. They were also huge and costly."
 draft = false
-image = "http://tedium.imgix.net/2017/05/tedium053017.gif"
+image = "https://tedium.imgix.net/2017/05/tedium053017.gif"
 slug = "early-hard-drive-history"
 tags = ["computer history", "computers", "ibm", "punch cards", "magnetic tapes", "backups", "hard drives"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "You Spin Me Right Round, Baby"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![IBM RAMAC](http://tedium.imgix.net/2017/05/0530_ramac.jpg)
+![IBM RAMAC](https://tedium.imgix.net/2017/05/0530_ramac.jpg)
 
 *Those platters are friggin' huge, aren't they? (California Digital Library)*
 
@@ -62,7 +62,7 @@ https://www.youtube.com/watch?v=6coKh7vtpsY
 
 “But scanning tape to find a single fact takes time, unlike finding a place on a record,” the film explained.
 
-![RAMAC disk platter](http://tedium.imgix.net/2017/05/0530_platter2.jpg)
+![RAMAC disk platter](https://tedium.imgix.net/2017/05/0530_platter2.jpg)
 
 *A RAMAC disc platter gets coated. (YouTube screenshot)*
 
@@ -78,7 +78,7 @@ And that’s what they did with a five-megabyte hard disk in 1960.
 
 {{% /whitebox %}}{{% graybox %}}
 
-![IBM 3380 Hard Disk](http://tedium.imgix.net/2017/05/0530_3380.jpg)
+![IBM 3380 Hard Disk](https://tedium.imgix.net/2017/05/0530_3380.jpg)
 
 *No, that's not a motor: That's a key component of a IBM 3380 hard disk. ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:IBM3380DiskDriveModule.agr.jpg))*
 

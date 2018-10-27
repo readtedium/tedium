@@ -29,7 +29,7 @@ _**Editor's note:** Hey guys, Ernie here. Our good pal Andrew Egan is back with 
 
 {{% /redbox %}}{{% graybox %}}
 
-![Scatman John Music Video](http://tedium.imgix.net/2017/06/0124_scatman2.jpg)
+![Scatman John Music Video](https://tedium.imgix.net/2017/06/0124_scatman2.jpg)
 
 ### How a struggle with stuttering defined the life and career of Scatman John
 
@@ -53,7 +53,7 @@ And once he found that confidence, things changed quickly for Scatman John.
 
 {{% /graybox %}}{{% whitebox %}}
 
-![Scatman John](http://tedium.imgix.net/2017/06/0124_scatman.jpg)
+![Scatman John](https://tedium.imgix.net/2017/06/0124_scatman.jpg)
 
 ### What it’s like to have a career breakout at the age of 53
 
@@ -87,7 +87,7 @@ And in Japan, he became something of a pop phenomenon, [appearing in commercials
 
 All of this begs an interesting question: Is an artist still a one-hit wonder if you just don't know about the follow-up success?
 
-[![Scatman John Coke cans](http://tedium.imgix.net/2017/06/0124_scatman3.jpg)](https://www.cokecollection.com/index.php?lang=en&pageid=50&canID=7212)
+[![Scatman John Coke cans](https://tedium.imgix.net/2017/06/0124_scatman3.jpg)](https://www.cokecollection.com/index.php?lang=en&pageid=50&canID=7212)
 
 *Scatman John Coke cans, released in some European countries at the height of his success. (via [Coke Collection](https://www.cokecollection.com/index.php?lang=en&pageid=50&canID=7212))*
 

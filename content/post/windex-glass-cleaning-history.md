@@ -4,7 +4,7 @@ categories = ["windows", "windex", "cleaning", "cleaning supplies", "glass", "gl
 date = 2017-06-14T07:26:00Z
 description = "From cleaning solutions to spray nozzles, the technology that made cleaning windows possible. And where did the word squeegee come from, anyway?"
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium061317.gif"
+image = "https://tedium.imgix.net/2017/06/tedium061317.gif"
 slug = "windex-glass-cleaning-history"
 tags = ["windows", "windex", "cleaning", "cleaning supplies", "glass", "glass cleaning", "spray nozzles", "squeegees"]
 variant = "article"
@@ -20,7 +20,7 @@ title = "A Window Into Windex"
 
 <div class="md-redbox" style="background-color:#333333; color: white;">
 
-<a href="https://museumhack.com/team-building/?source_id=590472"><img src="http://tedium.imgix.net/2017/06/4.jpg" style="float: left;max-width: 200px;display: inline-block;padding-right: 1em;margin-top: .75em;"></a>
+<a href="https://museumhack.com/team-building/?source_id=590472"><img src="https://tedium.imgix.net/2017/06/4.jpg" style="float: left;max-width: 200px;display: inline-block;padding-right: 1em;margin-top: .75em;"></a>
   
 <p style="font-size: 12pt; line-height: 2.1rem;"><strong><a href="https://museumhack.com/team-building/?source_id=590472">What do Google, Facebook, LEGO & KPMG have in common?</a></strong> They all did company team building <strong><a href="https://museumhack.com/team-building/?source_id=590472">with Museum Hack</a></strong>! Join an elite group of companies that know investing in your team is the best way to improve retention, morale and communication. Top 10 on Trip Advisor.</p>
 
@@ -38,7 +38,7 @@ title = "A Window Into Windex"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Windex](http://tedium.imgix.net/2017/06/0612_windex.jpg)
+![Windex](https://tedium.imgix.net/2017/06/0612_windex.jpg)
 
 *(Handout photo)*
 
@@ -54,7 +54,7 @@ But it was not necessarily a good moment for a new window cleaner—at least on 
 
 “[T]he timing seemingly could not have been worse,” [*Cincinnati Post* reporter Barry M. Horseman wrote in 1999](http://archive.li/PbhbH). “It was the depth of the Depression, when clean windows were the least of many American families' concerns. This was a marketing nightmare compounded by having to compete not just with other similar products but with ‘free’ water.”
 
-![Windex](http://tedium.imgix.net/2017/06/0612_windexad.jpg)
+![Windex](https://tedium.imgix.net/2017/06/0612_windexad.jpg)
 
 *A 1935 Windex ad. The product, after its 1933 invention, took a couple of years to get to market. ([The Courier-Journal](https://www.newspapers.com/clip/11669447/early_windex_ad/))*
 
@@ -76,7 +76,7 @@ But there’s something else that Drackett deserves credit for that the Windex b
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Windex](http://tedium.imgix.net/2017/06/0612_windexb.jpg)
+![Windex](https://tedium.imgix.net/2017/06/0612_windexb.jpg)
 
 *([Your Best Digs/Flickr](https://www.flickr.com/photos/yourbestdigs/))*
 
@@ -86,7 +86,7 @@ The weird thing about Drackett was that Windex and Drano were not the only thing
 
 Ford [worked closely with George Washington Carver](http://www.history.com/this-day-in-history/george-washington-carver-begins-experimental-project-with-henry-ford) on this endeavor, with the duo hoping to use their smarts in agriculture and manufacturing (along with Ford’s massive soy fields) to help create items that would eventually forge new industries by killing two birds with one soybean.
 
-![Soybean Car](http://tedium.imgix.net/2017/06/0612_soybean.jpg)
+![Soybean Car](https://tedium.imgix.net/2017/06/0612_soybean.jpg)
 
 *The Soybean Car. ([John Lloyd/Flickr](https://www.flickr.com/photos/hugo90/4383628868))*
 
@@ -96,7 +96,7 @@ The car turned out to be a bit of a bust, but their experimenting did help Drack
 
 And that diversification turned back to the spray bottle the company sold with bottles of Windex. (Well, usually. There’s [at least one example of Windex being advertised](https://www.newspapers.com/clip/11669447/early_windex_ad/) without any spray functionality at all.)
 
-![Windex sprayer](http://tedium.imgix.net/2017/06/0612_windexsprayer.jpg)
+![Windex sprayer](https://tedium.imgix.net/2017/06/0612_windexsprayer.jpg)
 
 *A standalone Windex sprayer. ([Kooky Kitsch](https://kookykitsch.com/index.php/advertising/vintage-1930s-windex-sprayer-metal-with-box-drackett-company-kitschy-cleaning-gadget-detail))*
 
@@ -108,7 +108,7 @@ Eventually, Drackett moved away from soybeans entirely, in part because the sect
 
 Drackett was eventually bought out by larger companies, and its brands are now a part of S. C. Johnson & Son. But the efforts the company put into spray bottles helped drive the cleaning industry forward.
 
-![Trigger-type sprayer](http://tedium.imgix.net/2017/06/0612_trigger.jpg)
+![Trigger-type sprayer](https://tedium.imgix.net/2017/06/0612_trigger.jpg)
 
 *[One of Tetsuya Tada's many patents](https://www.google.com/patents/US3701478) on trigger spayers. (Google Patents)*
 
@@ -138,7 +138,7 @@ A fairly dramatic example of this is the squeegee that helped a group of six men
 
 They had no proper tool to help with this, as a blade fell out of Demczur’s hands, down an elevator shaft. Demczur had his squeegee, but the rubber part of the squeegee also fell down the shaft. For an hour and a half, the men used the only tool at their disposal, the brass handle of a squeegee, to cut through the wall and out to safety, making it out of the elevator with only minutes to spare.
 
-![Squeegee](http://tedium.imgix.net/2017/06/0612_squeegee.jpg)
+![Squeegee](https://tedium.imgix.net/2017/06/0612_squeegee.jpg)
 
 *This squeegee handle saved six lives. (National Museum of American History)*
 

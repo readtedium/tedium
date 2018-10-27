@@ -4,7 +4,7 @@ categories = ["movies", "movie industry", "movie theaters", "advertising", "mark
 date = 2017-08-16T07:32:00Z
 description = "How movie theaters nudged film-goers out of their seats with short clips designed around the hard sell."
 draft = false
-image = "http://tedium.imgix.net/2017/08/tedium081517.gif"
+image = "https://tedium.imgix.net/2017/08/tedium081517.gif"
 slug = "lets-all-go-lobby-movie-snipe-advertising"
 tags = ["movies", "movie industry", "movie theaters", "advertising", "marketing", "let's all go to the lobby", "text messaging", "snipe"]
 variant = "article"
@@ -22,7 +22,7 @@ _**Editor’s note:** Hey all, Ernie here—just wanted to let you guys know I�
 
 {{% adbox bgcolor="#2b6c90" color="#ffffff" accent="#ffffff" %}}
 
-[![The Sizzle](http://tedium.imgix.net/2017/08/0816_sausages-1.jpg)](https://thesizzle.com.au/tedium)
+[![The Sizzle](https://tedium.imgix.net/2017/08/0816_sausages-1.jpg)](https://thesizzle.com.au/tedium)
 
 **Struggling to keep up** with the tsunami of tech news? Need to improve your signal to noise ratio? One email a day, five must read tech news stories, sent in time for your commute home. Stay in the loop without burning all your free time. **[Read the first two weeks for free](https://thesizzle.com.au/tedium)**.
 
@@ -40,7 +40,7 @@ _**Editor’s note:** Hey all, Ernie here—just wanted to let you guys know I�
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Early Filmack ad](http://tedium.imgix.net/2017/08/0816_filmak.jpg)
+![Early Filmack ad](https://tedium.imgix.net/2017/08/0816_filmak.jpg)
 
 *An early Filmack ad. (via [Cartoon Research](http://cartoonresearch.com/index.php/what-dave-fleischer-did-after-mr-bug-2/#prettyphoto[775]/2/))*
 
@@ -64,7 +64,7 @@ By the time the Fleischer started working for the studio, Irving Mack, the compa
 
 {{% /redbox %}}{{% whitebox %}}
 
-[![Let's All Go to the Lobby](http://tedium.imgix.net/2017/08/0816_lobby.jpg)](https://www.youtube.com/watch?v=hjB5gjTEEj8)
+[![Let's All Go to the Lobby](https://tedium.imgix.net/2017/08/0816_lobby.jpg)](https://www.youtube.com/watch?v=hjB5gjTEEj8)
 
 ### "Let’s All Go to the Lobby," the funnest hard sell ever created
 
@@ -82,7 +82,7 @@ One 1969 *Los Angeles Times* article, meanwhile, puts the credit for the trailer
 
 {{% /whitebox %}}{{% graybox %}}
 
-![Travolta](http://tedium.imgix.net/2017/08/0816_travolta.jpg)
+![Travolta](https://tedium.imgix.net/2017/08/0816_travolta.jpg)
 
 *John Travolta in Grease [singing "Sandy"](https://www.youtube.com/watch?v=_ZfmXzIbHI8) with basically just a snipe as a background.*
 

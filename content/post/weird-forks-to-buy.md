@@ -4,7 +4,7 @@ categories = ["stuff", "utensils", "forks", "weird utensils", "weird forks"]
 date = 2017-01-06T22:00:00Z
 description = "From giant spoons to twisty forks, here are a few weird utensils that will probably make it harder for you to eat than it already is."
 draft = false
-image = "http://tedium.imgix.net/2017/06/fork.jpg"
+image = "https://tedium.imgix.net/2017/06/fork.jpg"
 slug = "weird-forks-to-buy"
 tags = ["stuff", "utensils", "forks", "weird utensils", "weird forks"]
 variant = "article"
@@ -24,10 +24,10 @@ Perhaps you would think about your utensils more if they were incredibly weird. 
 
 ### Three Unusual Utensils
 
-* [![electronic twisting fork](http://tedium.imgix.net/2017/06/0106_fork1.jpg)](http://amzn.to/2iO6ksk) **Let's Twist Again:** If you find the work of twisting your fork around a bunch of noodles tiring, [this electronic fork](http://amzn.to/2iO6ksk) does the dirty work for you. It's the fork for the fork user who has everything.
-* [![Pulled Pork Shredder Solid Bear Claws](http://tedium.imgix.net/2017/06/0106_fork2.jpg)](http://amzn.to/2iz9JvV)
+* [![electronic twisting fork](https://tedium.imgix.net/2017/06/0106_fork1.jpg)](http://amzn.to/2iO6ksk) **Let's Twist Again:** If you find the work of twisting your fork around a bunch of noodles tiring, [this electronic fork](http://amzn.to/2iO6ksk) does the dirty work for you. It's the fork for the fork user who has everything.
+* [![Pulled Pork Shredder Solid Bear Claws](https://tedium.imgix.net/2017/06/0106_fork2.jpg)](http://amzn.to/2iz9JvV)
  **For messy people:** Are those [pulled-pork-shredding bear claws](http://amzn.to/2iz9JvV) on your firsts, or are you just not happy to see me? [As Alton Brown said](https://www.youtube.com/watch?v=FgFeVlw2Ywg) in a *Daily Dot* video, "These things are not meat-shredders; these things are a lifestyle."
-* [![Utensil Wall Décor](http://tedium.imgix.net/2017/06/0106_fork3.jpg)](http://amzn.to/2iz93Xo) **Size counts:** These may look like perfectly normal utensils, [but if you tried to buy them](http://amzn.to/2iz93Xo), you would feel sticker shock by the price ($63 for a single set) and more importantly, the size. These things, designed as wall decor, are nearly 3 feet tall.
+* [![Utensil Wall Décor](https://tedium.imgix.net/2017/06/0106_fork3.jpg)](http://amzn.to/2iz93Xo) **Size counts:** These may look like perfectly normal utensils, [but if you tried to buy them](http://amzn.to/2iz93Xo), you would feel sticker shock by the price ($63 for a single set) and more importantly, the size. These things, designed as wall decor, are nearly 3 feet tall.
 
 [/gridlist]
 

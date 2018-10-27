@@ -4,7 +4,7 @@ categories = ["wireless", "fcc", "federal communications commission", "televisio
 date = 2017-05-12T07:18:00Z
 description = "Wireless spectrum is scarce, and while mobile providers have made a sport of grabbing as much as they can, the fact is, allocating it has always been hard."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium051117.gif"
+image = "https://tedium.imgix.net/2017/06/tedium051117.gif"
 slug = "wireless-spectrum-allocation-challenges"
 tags = ["wireless", "fcc", "federal communications commission", "television", "television industry", "radio", "radio technology", "fm radio", "am radio", "wireless spectrum"]
 variant = "article"
@@ -28,7 +28,7 @@ _**Editor's note:** Thanks to everyone who was nice enough to buy a T-shirt or t
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Radio listening 1920s](http://tedium.imgix.net/2017/05/0511_radio1.jpg)
+![Radio listening 1920s](https://tedium.imgix.net/2017/05/0511_radio1.jpg)
 
 *Ernest Hare an early Vaudeville star, listens to the radio in the 1920s. ([infrogmation/Flickr](https://www.flickr.com/photos/infrogmation/5387956826/))*
 
@@ -56,7 +56,7 @@ And of course, the fact that the United States isn’t the only country with spe
 
 The burgeoning satellite industry complicated things further still. [In a 1959 syndicated column on the issue](https://www.newspapers.com/clip/10907591/), Dr. I.M. Levitt, the director of Philadelphia’s Franklin Planetarium Institute (and an early innovator [on the subject of Martian time](http://ops-alaska.com/time/levitt/levitt_memoriam.htm)), raised concerns from Andrew G. Haley, the president of the International Astronautical Federation, that an array of “baby” satellites would threaten the radio spectrum in the years to come, due to said satellites being put into the air without a way to turn them off.
 
-![Sputnik 1 satellite](http://tedium.imgix.net/2017/05/0511_sputnik.jpg)
+![Sputnik 1 satellite](https://tedium.imgix.net/2017/05/0511_sputnik.jpg)
 
 *A Sputnik satellite, which some scientists found annoying due to its impact on the radio spectrum. ([National Museum of the U.S. Air Force](http://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/197681/sputnik-i/))*
 
@@ -76,7 +76,7 @@ Now take this already complicated state of affairs and add a whole bunch of smar
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Lego blocks](http://tedium.imgix.net/2017/05/0511_lego.jpg)
+![Lego blocks](https://tedium.imgix.net/2017/05/0511_lego.jpg)
 
 *The wireless spectrum is like the worst Lego puzzle you've ever seen. ([markusspiske/Pixabay](https://pixabay.com/en/lego-play-build-module-colorful-1629073/))*
 
@@ -90,7 +90,7 @@ But the problem is, there are some new blocks that are suddenly incredibly valua
 
 That’s [the game of Jenga](http://amzn.to/2r0mwOK) the FCC has long been playing with the wireless spectrum. Just check out this chart of frequency allocations, if you don’t believe me:
 
-[![U.S. Frequency Allocations](http://tedium.imgix.net/2017/05/0511_frequencyallocations.jpg)](https://www.ntia.doc.gov/files/ntia/publications/2003-allochrt.pdf)
+[![U.S. Frequency Allocations](https://tedium.imgix.net/2017/05/0511_frequencyallocations.jpg)](https://www.ntia.doc.gov/files/ntia/publications/2003-allochrt.pdf)
 
 *The [full, zoomable version is over here](https://www.ntia.doc.gov/files/ntia/publications/2003-allochrt.pdf), and a detailed breakdown of what’s in all those blocks, roughly, [is over here](https://transition.fcc.gov/oet/spectrum/table/fcctable.pdf). Go ahead, read it. We’ll be here next week when you’re done.*
 

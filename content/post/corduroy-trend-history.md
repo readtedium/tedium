@@ -4,7 +4,7 @@ categories = ["corduroy", "clothing", "fustian", "clothes", "fabric", "cotton", 
 date = 2017-09-08T07:01:00Z
 description = "How corduroy, a piece of fabric with ancient ties that was built for the working-class, became really friggin' trendy all over again."
 draft = false
-image = "http://tedium.imgix.net/2017/09/tedium090717.gif"
+image = "https://tedium.imgix.net/2017/09/tedium090717.gif"
 slug = "corduroy-trend-history"
 tags = ["corduroy", "clothing", "fustian", "clothes", "fabric", "cotton", "linen"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Why Aren't You Wearing Corduroy?"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Corduroy](http://tedium.imgix.net/2017/09/0907_cords.jpg)
+![Corduroy](https://tedium.imgix.net/2017/09/0907_cords.jpg)
 
 *Those are some tight wales on those corduroy pants. ([Ben and Rachel Apps/Flickr](https://www.flickr.com/photos/brapps/663658479/))*
 
@@ -50,7 +50,7 @@ The fabric at one point was closely associated with the Catholic Church, after a
 
 [In the book *The Condition of the Working-Class in England in 1844*](http://amzn.to/2gMGR39), German philosopher Freidrich Engels noted how common fustian fabric was among the people he was writing about.
 
-![Corduroy couch](http://tedium.imgix.net/2017/09/0907_cords2.jpg)
+![Corduroy couch](https://tedium.imgix.net/2017/09/0907_cords2.jpg)
 
 *Corduroy, in couch form. Note the wide wales. (Brad Smith/Flickr)*
 
@@ -68,7 +68,7 @@ The book doesn’t mention of corduroy, alas, but its modern-day form came from 
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Corduroy ad](http://tedium.imgix.net/2017/09/Screenshot-2017-09-07-22.01.58.png)
+![Corduroy ad](https://tedium.imgix.net/2017/09/Screenshot-2017-09-07-22.01.58.png)
 
 *A full-page ad that was clearly paid for by the corduroy lobby. ([Cincinnati Enquirer/Newspapers.com](https://www.newspapers.com/clip/13637737/the_cincinnati_enquirer/))*
 

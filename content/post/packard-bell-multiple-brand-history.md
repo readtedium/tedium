@@ -4,7 +4,7 @@ categories = ["branding", "marketing", "packard bell", "computers", "radio", "te
 date = 2016-12-28T09:31:00Z
 description = "When it was a radio-maker, Packard Bell had a reputation for quality products. When a PC clone startup bought the name, that reputation fell apart—fast."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium122716.gif"
+image = "https://tedium.imgix.net/2017/06/tedium122716.gif"
 slug = "packard-bell-multiple-brand-history"
 tags = ["branding", "marketing", "packard bell", "computers", "radio", "television industry", "retro", "computer history"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "The Many Lives of Packard Bell"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Packard Bell on Gilligan's Island](http://tedium.imgix.net/2017/06/1227_gilligan.jpg)
+![Packard Bell on Gilligan's Island](https://tedium.imgix.net/2017/06/1227_gilligan.jpg)
 
 *A Packard Bell radio, shown in a* Gilligan's Island *episode. (Warner Bros. Television Distribution)*
 
@@ -56,7 +56,7 @@ It was a perfect name for a company that was trying to sell itself as reliable.
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Packard Bell ad](http://tedium.imgix.net/2017/06/1227_packardbell.jpg)
+![Packard Bell ad](https://tedium.imgix.net/2017/06/1227_packardbell.jpg)
 
 *A Best Buy ad featuring two Packard Bell computers. (via the Packard Bell Planet wiki)*
 

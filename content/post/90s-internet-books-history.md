@@ -4,7 +4,7 @@ categories = ["internet", "internet history", "for dummies", "free stuff from th
 date = 2017-06-30T07:53:00Z
 description = "Books and periodicals about the internet were a curious phenomenon—in no small part because they frequently pandered to the largest possible audience."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium062917.gif"
+image = "https://tedium.imgix.net/2017/06/tedium062917.gif"
 slug = "90s-internet-books-history"
 tags = ["internet", "internet history", "for dummies", "free stuff from the internet", "free $tuff from the internet", "publishing", "ncsa mosaic", "gopher", "ftp", "telnet", "matthew lesko"]
 variant = "article"
@@ -20,7 +20,7 @@ title = "The Internet On Dead Trees"
 
 <div class="md-redbox" style="background-color:#333333; color: white; display:table;">
 
-<a href="https://museumhack.com/tickets/"><img src="http://tedium.imgix.net/2017/06/7.jpg" style="float: left;max-width: 200px;padding-right: 1em;margin-top: .75em;"></a>
+<a href="https://museumhack.com/tickets/"><img src="https://tedium.imgix.net/2017/06/7.jpg" style="float: left;max-width: 200px;padding-right: 1em;margin-top: .75em;"></a>
   
 <p style="font-size: 12pt; line-height: 2em;"><strong><a href="https://museumhack.com/tickets/">Are you in NYC, San Francisco, Chicago, Los Angeles or Washington DC?</a></strong> We do unconventional tours at the best museums in your city. It’s kind of like the tedium for museums. We don’t talk about the most famous paintings or the newest collection, <strong><a href="https://museumhack.com/tickets/">we find the esoteric stories</a></strong> that make even the “boring art” amazing.</p>
 
@@ -38,7 +38,7 @@ title = "The Internet On Dead Trees"
 
 {{% /redbox %}}{{% whitebox %}}  
 
-![Free $tuff From the Internet](http://tedium.imgix.net/2017/06/0629_freestuff.jpg)
+![Free $tuff From the Internet](https://tedium.imgix.net/2017/06/0629_freestuff.jpg)
 
 *As I recently learned, you can actually buy [Free $tuff From the Internet](http://amzn.to/2tvxQnL) on Amazon. (yeah, that's my thumb)*
 
@@ -74,7 +74,7 @@ It's like we built a new city on top of an old one.
 
 {{% /whitebox %}}{{% graybox %}}  
 
-![Free $tuff From the Internet Cello](http://tedium.imgix.net/2017/06/0629_book.jpg)
+![Free $tuff From the Internet Cello](https://tedium.imgix.net/2017/06/0629_book.jpg)
 
 *This book gives a shout-out to the [Cello web browser](http://www.internet-guide.co.uk/Cello.html), which is pretty cool.*
 
@@ -108,7 +108,7 @@ Computer and internet reference books of the '90s were very much that guide. The
 
 This book, essentially, is the equivalent of one guy's bookmark list in the days before Netscape popularized bookmarks on the internet.
 
-![Internet Underground](http://tedium.imgix.net/2017/06/0629_internetunderground.jpg)
+![Internet Underground](https://tedium.imgix.net/2017/06/0629_internetunderground.jpg)
 
 *Internet Underground: The coolest internet magazine on planet Earth. ([via the Internet Archive](https://archive.org/details/InternetUnderground01Dec1995))*
 

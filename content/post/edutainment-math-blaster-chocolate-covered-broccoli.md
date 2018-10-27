@@ -4,7 +4,7 @@ categories = ["education", "video games", "gaming", "edutainment", "math blaster
 date = 2017-04-14T07:48:00Z
 description = "The problem with edutainment in the 1990s was that, while it covered the education, it didn't do enough to entertain the kids. Sorry, Math Blaster."
 draft = false
-image = "http://tedium.imgix.net/2017/04/tedium0413_email.gif"
+image = "https://tedium.imgix.net/2017/04/tedium0413_email.gif"
 slug = "edutainment-math-blaster-chocolate-covered-broccoli"
 tags = ["education", "video games", "gaming", "edutainment", "math blaster", "the learning company", "jan davidson", "chocolate-covered broccoli"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Total Edutainment Forever"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Math Blaster](http://tedium.imgix.net/2017/04/0413_mathblaster.jpg)
+![Math Blaster](https://tedium.imgix.net/2017/04/0413_mathblaster.jpg)
 
 *Math Blaster game box. ([via GameFAQs](https://www.gamefaqs.com/appleii/699778-math-blaster/images/1300056))*
 
@@ -42,7 +42,7 @@ Professional tutor and fellow Californian Jan Davidson had a similar discovery. 
 
 "They were dull and if a kid missed something they would make this horrible 'beep,'" Davidson [recalled of her competition to the *Los Angeles Times*](http://articles.latimes.com/1994-07-03/news/ls-11453_1_bob-davidson) at the time. “Here you had this powerful tool for teaching and all you were giving a kid was negative feedback every time they hit the wrong key. And it was loud enough that everyone in the room knew that Johnny had made a boo-boo."
 
-![Math Blaster](http://tedium.imgix.net/2017/04/0413_mathblaster2.jpg)
+![Math Blaster](https://tedium.imgix.net/2017/04/0413_mathblaster2.jpg)
 
 *This is a bad problem to get wrong.*
 
@@ -74,7 +74,7 @@ In fact, there’s a surprising nickname for games of its ilk: “chocolate cove
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Broccoli](http://tedium.imgix.net/2017/04/0413_broccoli.jpg)
+![Broccoli](https://tedium.imgix.net/2017/04/0413_broccoli.jpg)
 
 *Just add chocolate.*
 
@@ -90,7 +90,7 @@ Now, making the assumption that the surge of interest in the term “edutainment
 
 “You could probably get kids to play this for a while and think they were having fun, but after a while they’ll figure out that you’ve handed them what we in educational games like to call chocolate-covered broccoli,” noted Anastasia Salter, PhD, a digital media academic at the University of South Florida, in comments [at the 2014 American Psychological Association’s Education Leadership Conference](http://www.apa.org/monitor/2014/12/elc-learning.aspx).
 
-![Chocolate](http://tedium.imgix.net/2017/04/0413_chocolate.jpg)
+![Chocolate](https://tedium.imgix.net/2017/04/0413_chocolate.jpg)
 
 *Just add broccoli.*
 

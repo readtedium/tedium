@@ -4,7 +4,7 @@ categories = ["fingernails", "history", "fingernail clippers", "fingernail histo
 date = 2017-02-08T09:10:00Z
 description = "Fingernail clippers are apparently a relatively recent invention. Did we go through life without an easy way to trim fingernails for thousands of years?"
 draft = false
-image = "http://tedium.imgix.net/2017/02/tedium020717.gif"
+image = "https://tedium.imgix.net/2017/02/tedium020717.gif"
 slug = "fingernail-trimming-history"
 tags = ["fingernails", "history", "fingernail clippers", "fingernail history", "toenails", "fingernail trimming"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "We Nailed It"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Fingernail clippers patent](http://tedium.imgix.net/2017/02/0207_patent.png)
+![Fingernail clippers patent](https://tedium.imgix.net/2017/02/0207_patent.png)
 
 *Fingernail clipper patent, Eugene Heim and Oelestin Matz, circa 1881. (U.S. Patent & Trademark Office)*
 
@@ -56,7 +56,7 @@ Going back further, we know a few other things about fingernails—for example, 
 
 But where did our interest in well-cared-for fingernails come from in the first place? The ancient Romans, to be specific.
 
-![Horace](http://tedium.imgix.net/2017/02/0207_horace.jpg)
+![Horace](https://tedium.imgix.net/2017/02/0207_horace.jpg)
 
 *Roman satirist Horace.*
 
@@ -98,7 +98,7 @@ Or maybe, just maybe, our ancestors bit them down to size.
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Antioch Clipper](http://tedium.imgix.net/2017/02/0207_toenails.jpg)
+![Antioch Clipper](https://tedium.imgix.net/2017/02/0207_toenails.jpg)
 
 *The fairly imposing Antioch Clipper.*
 

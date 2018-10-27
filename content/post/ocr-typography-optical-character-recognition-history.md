@@ -4,7 +4,7 @@ categories = ["computer history", "typography", "fonts", "ocr", "optical charact
 date = 2017-03-23T07:24:00Z
 description = "Teaching computers to read was one of the 20th century's great challenges. At first, the secret to optical character recognition was purpose-built type."
 draft = false
-image = "http://tedium.imgix.net/2017/03/tedium032317.gif"
+image = "https://tedium.imgix.net/2017/03/tedium032317.gif"
 slug = "ocr-typography-optical-character-recognition-history"
 tags = ["computer history", "typography", "fonts", "ocr", "optical character recognition", "ocr-a", "ray kurzweil", "David H. Shepard", "Jacob Rabinow"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Seek And Spell"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![OCR-A at the Museum of Modern Art](http://tedium.imgix.net/2017/03/0323_ocra.jpg)
+![OCR-A at the Museum of Modern Art](https://tedium.imgix.net/2017/03/0323_ocra.jpg)
 
 *The OCR-A typeface, shown at the Museum of Modern Art. ([Eric Fischer/Flickr](https://www.flickr.com/photos/walkingsf/6867057058/))*
 
@@ -36,7 +36,7 @@ American Type Founders, trust of 23 different type foundries that defined typogr
 
 But just one of its fonts has a spot in the Museum of Modern Art’s collection, [and that font is OCR-A](https://www.moma.org/collection/works/139567), a typeface created in 1966 to be read for a very specific audience: machines.
 
-![OCR-A font specimen](http://tedium.imgix.net/2017/03/0323_ocra2.jpg)
+![OCR-A font specimen](https://tedium.imgix.net/2017/03/0323_ocra2.jpg)
 
 And the machines of the time did not have the ability to differentiate between fonts, making such a font necessary. As the 1999 document [*Optical Character Recognition: An illustrated guide to the frontier*](https://pdfs.semanticscholar.org/bea5/75337bdd78f80af9ed687df8ce1d7d77cb0e.pdf) explains:  
 
@@ -44,13 +44,13 @@ And the machines of the time did not have the ability to differentiate between f
 
 OCR-A wasn’t the first font to tackle these machine-scanning issues, but it was a major step forward in that it was a complete alphabet that was readable by both machines and humans. Previously, the most well-known use for such technology involved something you’re probably familiar with if you’ve cashed a check sometime in the last 60 years: Magnetic Ink Character Recognition, or MICR.
 
-![E-13B](http://tedium.imgix.net/2017/03/0323_MICR.jpg)
+![E-13B](https://tedium.imgix.net/2017/03/0323_MICR.jpg)
 
 *An E-13B font specimen, as shown in a 1995 patent filing. ([Google Patents](https://www.google.com/patents/EP0651345A2?cl=en))*
 
 Developed in the 1950s by the banking industry, the fonts—there are two, used exclusively of one another in different countries—are made up of the numbers 0-9 and a few specific codes that are designed to communicate specifically to computers. If you’re in North America or the U.K., you’ve likely seen E-13B, which relies on unique shapes for each individual character. If you’re in France, Spain, or South America, you might be more familiar with CMC-7 font, which integrates white dashes into the numbers. The ink is also magnetically charged to ensure scanners look for the numbers.
 
-![](http://tedium.imgix.net/2017/03/0323_credit.jpg)
+![](https://tedium.imgix.net/2017/03/0323_credit.jpg)
 
 *A credit card, with its number displayed in the Farrington B typeface. You mean yours is, too? ([Ed Ivanushkin/Flickr](https://www.flickr.com/photos/barsen/3714941137/))*
 
@@ -64,7 +64,7 @@ OCR-A, which you might have seen on a piece of junk mail or two over the years, 
 
 That led to a second attempt to take on the problem by Swiss typographer Adrian Frutiger, released in 1968.
 
-![OCR-B type specimen](http://tedium.imgix.net/2017/03/0323_ocrb.jpg)
+![OCR-B type specimen](https://tedium.imgix.net/2017/03/0323_ocrb.jpg)
 
 *An OCR-B type specimen. ([Identifont](http://www.identifont.com/similar?SS))*
 
@@ -86,7 +86,7 @@ These fonts aren’t technically necessary anymore—starting in the 1970s, omni
 
 {{% /redbox %}}{{% graybox %}}
 
-![Reading Edge](http://tedium.imgix.net/2017/03/0323_readingedge.jpg)
+![Reading Edge](https://tedium.imgix.net/2017/03/0323_readingedge.jpg)
 
 *The Kurzweil Reading Edge. (via the [American Federation for the Blind](http://www.afb.org/aw/aw040205.asp))*
 
@@ -112,7 +112,7 @@ These fonts aren’t technically necessary anymore—starting in the 1970s, omni
 
 Last year, a company called [Anyline](https://www.anyline.io/), which sells a software development kit for OCR on mobile devices, decided to [take a fresh stab at the OCR font](https://www.anyline.io/free-ocr-font/) in an attempt to update it for the modern day.
 
-![AnyOCR](http://tedium.imgix.net/2017/03/0323_anyocr.jpg)
+![AnyOCR](https://tedium.imgix.net/2017/03/0323_anyocr.jpg)
 
 *The AnyOCR font.*
 

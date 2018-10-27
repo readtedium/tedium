@@ -4,7 +4,7 @@ categories = ["casio", "musical instruments", "casiotone", "da da da", "music hi
 date = 2016-11-18T09:42:00Z
 description = "Casio claimed it could fit the sounds of dozens of musical instruments into its keyboards. Maybe it wasn't totally true, but the Casiotone gave us a lot."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium111716.gif"
+image = "https://tedium.imgix.net/2017/06/tedium111716.gif"
 slug = "casio-keyboards-casiotone-cultural-impact"
 tags = ["casio", "musical instruments", "casiotone", "da da da", "music history", "dan deacon"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "A Big Idea, Synthesized"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Casio keyboard](http://tedium.imgix.net/2017/06/1117_keyboard.jpg)
+![Casio keyboard](https://tedium.imgix.net/2017/06/1117_keyboard.jpg)
 
 *([Daniel Oines/Flickr](https://www.flickr.com/photos/dno1967b/29426682786/))*
 
@@ -66,7 +66,7 @@ But that proved incredibly valuable for actual professional musicians, who saw t
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Casio Rapman](http://tedium.imgix.net/2017/06/1117_rapman.jpg)
+![Casio Rapman](https://tedium.imgix.net/2017/06/1117_rapman.jpg)
 
 *A Casio Rapman. (YouTube screenshot)*
 

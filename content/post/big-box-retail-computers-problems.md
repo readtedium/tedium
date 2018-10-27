@@ -4,7 +4,7 @@ categories = ["computers", "retail", "retail quirks", "compusa", "circuit city",
 date = 2016-10-12T07:13:00Z
 description = "Big-box stores have never really been a great fit for selling computers, and a big reason for that is that retailers didn't initially know how to sell them."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium101116.gif"
+image = "https://tedium.imgix.net/2017/06/tedium101116.gif"
 slug = "big-box-retail-computers-problems"
 tags = ["computers", "retail", "retail quirks", "compusa", "circuit city", "best buy", "computer superstores", "big box"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "We Were Selling Computers All Wrong"
 
 {{% /redbox %}}{{% graybox %}}
 
-![DIVX Player](http://tedium.imgix.net/2017/06/1011_divx.jpg)
+![DIVX Player](https://tedium.imgix.net/2017/06/1011_divx.jpg)
 
 *(via [YouTube](https://www.youtube.com/watch?v=4wHm2pFAhXc))*
 
@@ -62,7 +62,7 @@ It's just one example of the problems that arise when you treat electronics like
 
 {{% /graybox %}}{{% whitebox %}}
 
-![CompUSA](http://tedium.imgix.net/2017/06/1011_compusa.jpg)
+![CompUSA](https://tedium.imgix.net/2017/06/1011_compusa.jpg)
 
 ([Kalebdf/Flickr](https://www.flickr.com/photos/kalebdf/320611863/))
 
@@ -74,7 +74,7 @@ But ultimately, the lessons it learned from the experience led the computer make
 
 In 1997, the tech superstore CompUSA agreed to create a store-within-a-store concept for Apple, allowing the company to put a sales rep on the floor who could properly help Apple's own customers make decisions.
 
-![Apple Store CompUSA](http://tedium.imgix.net/2017/06/1011_compusa_b.jpg)
+![Apple Store CompUSA](https://tedium.imgix.net/2017/06/1011_compusa_b.jpg)
 
 *(via [YouTube](https://www.youtube.com/watch?v=CtcbHWZSxnk))*
 

@@ -4,7 +4,7 @@ categories = ["profanity", "swearing", "scunthorpe", "scunthorpe problem", "engl
 date = 2016-07-27T07:44:00Z
 description = "It certainly wasn't the view. The British city of Scunthorpe has had a problem dogging it for decades, and lazy online programmers are to blame."
 draft = false
-image = "http://tedium.imgix.net/2017/07/tedium072616--1-.gif"
+image = "https://tedium.imgix.net/2017/07/tedium072616--1-.gif"
 slug = "scunthorpe-problem-profanity-filter-history"
 tags = ["profanity", "swearing", "scunthorpe", "scunthorpe problem", "english language", "l33tspeak"]
 variant = "article"
@@ -18,7 +18,7 @@ title = "What Made Scunthorpe Famous"
 
 {{% /whitebox %}}{{% graybox %}}
 
-![Scunthorpe problem](http://tedium.imgix.net/2017/06/0724_scunthorpe.jpg)
+![Scunthorpe problem](https://tedium.imgix.net/2017/06/0724_scunthorpe.jpg)
 
 *([simon835](https://www.flickr.com/photos/44891124@N08/7183437882/)/Flickr)*
 
@@ -72,7 +72,7 @@ AOL wasn't alone. Nor was Scunthorpe the only entity that caused profanity filte
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Scunthorpe Problem](http://tedium.imgix.net/2017/06/0724_profanity.jpg)
+![Scunthorpe Problem](https://tedium.imgix.net/2017/06/0724_profanity.jpg)
 
 *([Bill Barber](https://www.flickr.com/photos/wdwbarber/2516333685/)/Flickr)*
 

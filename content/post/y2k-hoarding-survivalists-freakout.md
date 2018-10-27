@@ -4,7 +4,7 @@ categories = ["millennium", "y2k", "computers", "supply chain mangement", "y2k b
 date = 2016-07-20T07:31:00Z
 description = "The Y2K bug got the public more familiar with the survivalist lifestyle than ever. However, despite all the soothsayers, the public didn't take the bait."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium071916.gif"
+image = "https://tedium.imgix.net/2017/06/tedium071916.gif"
 slug = "y2k-hoarding-survivalists-freakout"
 tags = ["millennium", "y2k", "computers", "supply chain mangement", "y2k bug", "survivalists", "preppers", "john koskinen", "year 2000", "y2k hoarding"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Time Is Running Out"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Empty shelves](http://tedium.imgix.net/2017/06/0719_survivalist.jpg)
+![Empty shelves](https://tedium.imgix.net/2017/06/0719_survivalist.jpg)
 
 *(Quinn Dombrowski/Flickr)*
 
@@ -74,7 +74,7 @@ I think they did, which is impressive, because people tend to hate listening to 
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Canned foods](http://tedium.imgix.net/2017/06/0719_cans.jpg)
+![Canned foods](https://tedium.imgix.net/2017/06/0719_cans.jpg)
 
 ### The Philosophy of Hoarding for Survival Extends far Beyond Y2K
 
@@ -106,7 +106,7 @@ Sounds scary. So why didn't the public buy into this let's-horde-everything theo
 
 **Earlier this month, [*CNN Money* revealed a hilarious fact](http://money.cnn.com/2016/07/07/news/rick-santorum-doomsday-preppers/)** about failed presidential candidate Rick Santorum: As a way to raise money to pay bills for his belly flop of a 2016 campaign, the campaign sold his email list to the highest bidder, earning $36,968 from the endeavor.
 
-![Food4Patriots](http://tedium.imgix.net/2017/06/0719_food4patriots.jpg)
+![Food4Patriots](https://tedium.imgix.net/2017/06/0719_food4patriots.jpg)
 
 One of the companies that bought Santorum's list is designed for the survivalists of the world. [Food4Patriots](http://food4patriotsreview.com/), a company that sells food kits to preppers, says that its food is meant to last for a quarter-century. The firm says that FEMA, the same organization that told people to plan for Y2K like it was a snowstorm, tried to buy up their supply of meals before they could sell them to the public.
 

@@ -4,7 +4,7 @@ categories = ["video games", "nintendo", "nes", "atari", "sega", "sega genesis",
 date = 2017-03-10T09:14:00Z
 description = "Third-party developers weren't always quite so revered in the video game industry, but a pair of legal decisions helped them earn their place at the table."
 draft = false
-image = "http://tedium.imgix.net/2017/03/tedium030917.gif"
+image = "https://tedium.imgix.net/2017/03/tedium030917.gif"
 slug = "video-games-reverse-engineering-tengen-accolade"
 tags = ["video games", "nintendo", "nes", "atari", "sega", "sega genesis", "reverse engineering", "atari games", "tengen", "accolade"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Reverse-Engineering The Industry"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Tengen cartridges](http://tedium.imgix.net/2017/03/0308_gauntlet.jpg)
+![Tengen cartridges](https://tedium.imgix.net/2017/03/0308_gauntlet.jpg)
 
 *An officially licensed version of Tengen's Gauntlet, side-by-side with an unlicensed version. (via [True Viral News](http://trueviralnews.com/7-things-you-didnt-know-about-the-original-nes/))*
 
@@ -48,7 +48,7 @@ In many ways, Atari Games had the upper-hand in this case, because if Nintendo w
 
 There was a problem, however. Atari Games made what could charitably be described as an unforced error and less charitably described as fraud. See, the secret to Nintendo’s control of the game market was the addition of a lockout chip called 10NES, which was intended to prevent unlicensed game-makers from accessing the console. 
 
-![Tengen 10NES chip](http://tedium.imgix.net/2017/03/0308_tengen.jpg)
+![Tengen 10NES chip](https://tedium.imgix.net/2017/03/0308_tengen.jpg)
 
 *Tengen's 10NES chip, which it produced by acquiring the blueprints from the U.S. Copyright Office.*
 
@@ -72,7 +72,7 @@ Fortunately, another case decided around the same time answered many of the same
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Ishido: the Way of Stones](http://tedium.imgix.net/2017/03/0308_ishido.jpg)
+![Ishido: the Way of Stones](https://tedium.imgix.net/2017/03/0308_ishido.jpg)
 
 *Ishido: the Way of Stones, an early unlicensed Accolade game for the Sega Genesis. ([Museum of Play](http://www.museumofplay.org/online-collections/22/46/111.5765))*
 
@@ -88,7 +88,7 @@ Accolade was largely able to figure out how to reverse engineer the console usin
 
 What it found through reverse engineering was extremely bare-bones on the copy protection front. Sega had grown concerned about piracy from the Taiwanese market and had added its own security measures to prevent the use of pirated carts. The console relied on a patented system Sega called TMSS, or the trademark security system. This was installed on the Genesis III, which was then the most-recent version of the console.
 
-![Bubsy Sega license](http://tedium.imgix.net/2017/03/0308_bubsy_notsega.jpg)
+![Bubsy Sega license](https://tedium.imgix.net/2017/03/0308_bubsy_notsega.jpg)
 
 *Bubsy in Claws Encounters of the Furred Kind, one of Accolade's best-known games for the Genesis. This version is unlicensed.*
 
@@ -108,7 +108,7 @@ The ruling pushed the law into a significant new realm for computing, by finding
 
 And as for the trademark and false labeling issues highlighted by Sega? The court found that Sega, not Accolade, was responsible for the confusion created, as the code, in the end, only served a functional purpose.
 
-![Bubsy Sega license](http://tedium.imgix.net/2017/03/0308_bubsy_sega.jpg)
+![Bubsy Sega license](https://tedium.imgix.net/2017/03/0308_bubsy_sega.jpg)
 
 *A version of Bubsy for the Genesis that has been licensed by Sega.*
 

@@ -4,7 +4,7 @@ categories = ["photos", "photography", "photo booths", "pictures", "Fotomat", "B
 date = 2017-06-02T07:14:00Z
 description = "The reason we’re so crazy about photos in the smartphone era is in no small part because of early innovations that brought photo processing to the masses."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium060217.gif"
+image = "https://tedium.imgix.net/2017/06/tedium060217.gif"
 slug = "photo-processing-history-mainstream-phenomenon"
 tags = ["photos", "photography", "photo booths", "pictures", "Fotomat", "Bosco Automat", "one hour photo", "photo processing"]
 variant = "article"
@@ -22,7 +22,7 @@ _**Editor’s Note:** Hey all! My pal Andrew Egan, last seen writing on Tedium a
 
 <div class="md-redbox" style="background-color:#333333; color: white;">
 
-<a href="https://museumhack.com/team-building/?source_id=590472"><img src="http://tedium.imgix.net/2017/05/1.jpg" style="float: left;max-width: 200px;display: inline-block;padding-right: 1em;margin-top: .75em;" title=""></a>
+<a href="https://museumhack.com/team-building/?source_id=590472"><img src="https://tedium.imgix.net/2017/05/1.jpg" style="float: left;max-width: 200px;display: inline-block;padding-right: 1em;margin-top: .75em;" title=""></a>
   
 <p style="font-size: 13pt; line-height: 2.4rem;"><strong style="color:#ff3c00 !important;">Hey! Team Building Company Here…</strong> <a href="https://museumhack.com/team-building/?source_id=590472" style="color:#ff3c00 !important;">Museum Hack leads fun activities</a> for corporate groups in NYC, San Francisco, Chicago, Washington DC &amp; Los Angeles. Not sure what <a href="https://museumhack.com/team-building/?source_id=590472" style="color:#ff3c00 !important;">team building</a> is? Forward this ad to your HR person at work; finding great activities is hard and they will appreciate the help!</p>
 
@@ -40,7 +40,7 @@ _**Editor’s Note:** Hey all! My pal Andrew Egan, last seen writing on Tedium a
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Bosco Automat](http://tedium.imgix.net/2017/06/0601_bosco.jpg)
+![Bosco Automat](https://tedium.imgix.net/2017/06/0601_bosco.jpg)
 
 *A sample of the backside of a Bosco Automat print. (Wikimedia Commons)*
 
@@ -80,7 +80,7 @@ Anatol Josepho died in 1980 in a La Jolla, California nursing home.
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Fotomat](http://tedium.imgix.net/2017/06/0601_fotomat.jpg)
+![Fotomat](https://tedium.imgix.net/2017/06/0601_fotomat.jpg)
 
 *A typical Fotomat booth. ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:This_is_a_typical_drive-up_Fotomat_booth..jpg))*
 
@@ -106,7 +106,7 @@ Technology that slowly inched forward for decades suddenly began making great st
 
 {{% /redbox %}}{{% whitebox %}}
 
-![One-hour photo](http://tedium.imgix.net/2017/06/0601_onehour.jpg)
+![One-hour photo](https://tedium.imgix.net/2017/06/0601_onehour.jpg)
 
 *A one-hour photo location at a Rite Aid. ([Thomas Hawk/Flickr](https://www.flickr.com/photos/thomashawk/4933041255/))*
 

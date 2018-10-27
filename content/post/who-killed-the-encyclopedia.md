@@ -4,7 +4,7 @@ categories = ["books", "textbooks", "encyclopaedia britannica", "encyclopedia", 
 date = 2017-07-14T07:34:00Z
 description = "The fast demise of the physical encyclopedia came about thanks to an upstart publisher, an indecisive giant, and the world’s biggest software company."
 draft = false
-image = "http://tedium.imgix.net/2017/07/tedium071317.gif"
+image = "https://tedium.imgix.net/2017/07/tedium071317.gif"
 slug = "who-killed-the-encyclopedia"
 tags = ["books", "textbooks", "encyclopaedia britannica", "encyclopedia", "microsoft", "microsoft encarta", "disruption", "cd-rom", "laserdisc"]
 variant = "article"
@@ -22,7 +22,7 @@ _**Editor's note:** This story has been edited from its original form, with comm
 
 {{% adbox bgcolor="#2dcc70" color="#ffffff" accent="#ffffff" %}}
 
-[![MunchPak](http://tedium.imgix.net/2017/07/mp1.jpg)](https://munchpak.com)
+[![MunchPak](https://tedium.imgix.net/2017/07/mp1.jpg)](https://munchpak.com)
 
 <span style="font-size: 12pt; line-height: 0.5rem !important;">**[Try something new!](https://munchpak.com)** Get the newest and most popular snacks from around the world, delivered to your home or office. Don't like spicy snacks but gotta have something sour? **[Customize your MunchPak](https://munchpak.com)** just the way you like it! Snack boxes start at only $9.95 + free shipping to the USA.
 </span>
@@ -41,7 +41,7 @@ _**Editor's note:** This story has been edited from its original form, with comm
 
 {{% /redbox %}}{{% whitebox %}}  
 
-![Groliers KnowledgeDisc](http://tedium.imgix.net/2017/07/0713_groliers.jpg)
+![Groliers KnowledgeDisc](https://tedium.imgix.net/2017/07/0713_groliers.jpg)
 
 *The first disc-based encyclopedia was LaserDisc-based. Really. ([via eBay](http://www.ebay.com/itm/Knowledge-Disc-1984-GEP85-010-Laserdisc-/142347149500))*
 
@@ -69,7 +69,7 @@ Even by late 1985 standards, the cost savings compared to a shelf of physical bo
 
 And remember, Laserdisc was not a cheap medium in the 1980s. But it still beat out the cost of the physical encyclopedia. Even though the navigation was being done on remote-driven device rather than something where you could copy-paste data and quote from it in a report, it was still better than the alternative in so many ways. Compared to better-known volumes, the price difference was even more stark. And Grolier Electronic Publishing knew the direction that things were going years before any of its competitors did.
 
-![The 1995 Grolier Multimedia Encyclopedia](http://tedium.imgix.net/2017/07/0713_grolier.jpg)
+![The 1995 Grolier Multimedia Encyclopedia](https://tedium.imgix.net/2017/07/0713_grolier.jpg)
 
 *A screenshot of a ‘90s-era Grolier encyclopedia, which is available for download [at the Internet Archive](https://archive.org/details/Grolier_1995_Multimedia_Encyclopedia_Ven_7.04_Grolier_Incorporated_1995).*
 
@@ -87,7 +87,7 @@ It didn't win the battle, but it had an impressive head start.
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Encyclopaedia Britannica crate](http://tedium.imgix.net/2017/07/0713_brittanica.jpg)
+![Encyclopaedia Britannica crate](https://tedium.imgix.net/2017/07/0713_brittanica.jpg)
 
 *They once needed crates to ship the Encyclopaedia Britannica. ([Wikimedia Commons](https://en.wikipedia.org/wiki/File:Shipping_box_for_the_encyclopedia_Britannica_2013-04-13_12-24.jpg))*
 
@@ -107,7 +107,7 @@ Also a factor was the fact that, Britannica did have a footprint in the multimed
 
 (Encyclopaedia Britannica eventually [sold Compton to Tribune Corp. in 1993](https://www.newspapers.com/clip/12353141/south_florida_sun_sentinel/), a move driven by the company's financial challenges at the time.)
 
-![Encarta](http://tedium.imgix.net/2017/07/0713_encarta.jpg)
+![Encarta](https://tedium.imgix.net/2017/07/0713_encarta.jpg)
 
 *A screenshot of an early version of Encarta, which was not based on the Encyclopaedia Britannica text.*
 

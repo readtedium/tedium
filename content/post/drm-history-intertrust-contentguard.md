@@ -4,7 +4,7 @@ categories = ["drm", "digital rights management", "intertrust", "technology", "x
 date = 2017-08-25T07:10:00Z
 description = "DRM, one of the internet’s dark arts, was already in the works—complete with epic patents—years before the existence of Napster gave it a business case."
 draft = false
-image = "http://tedium.imgix.net/2017/08/tedium082417.gif"
+image = "https://tedium.imgix.net/2017/08/tedium082417.gif"
 slug = "drm-history-intertrust-contentguard"
 tags = ["drm", "digital rights management", "intertrust", "technology", "xerox", "xerox parc", "victor shear", "john perry barlow", "patents", "music industry", "cd-rom"]
 variant = "article"
@@ -40,7 +40,7 @@ _**Editor's note:** The GIF at the top of the piece, which you've probably seen 
 
 {{% /redbox %}}{{% whitebox %}}
 
-![CD-ROM](http://tedium.imgix.net/2017/08/0825_cdrom.jpg)
+![CD-ROM](https://tedium.imgix.net/2017/08/0825_cdrom.jpg)
 
 *The earliest uses of DRM came from CD-ROM databases intended for use in libraries. ([Paulina101/Pixabay](https://pixabay.com/en/cd-cd-rom-cd-spindle-mirroring-517700/))*
 
@@ -60,7 +60,7 @@ A 1986 patent, credited to Shear, [explained the issue as one of “return on in
 
 This model clearly wasn’t long for this world—as I noted recently, [encyclopedias were very much a race to the bottom](http://tedium.co/2017/07/13/who-killed-the-encyclopedia/) once CD-ROMs came along—but it did inspire Shear’s follow-up company, Electronic Publishing Resources, later renamed InterTrust. By the mid-1990s, InterTrust had strongly advanced the ideas around the monetization and security. And they did so with some of the most complex patents you’ve ever seen. [This one, for example](https://patents.google.com/patent/US6658568B1/en), is 178 pages long (in tiny type), and includes 100 separate patent illustrations.
 
-![Patent drawing](http://tedium.imgix.net/2017/08/0825_patent.jpg)
+![Patent drawing](https://tedium.imgix.net/2017/08/0825_patent.jpg)
 
 *One of the 100 patent drawings in InterTrust's "Trusted infrastructure support system, methods and techniques for secure electronic commerce transaction and rights management." It wears me out just looking at it. (Google Patents)*
 
@@ -80,7 +80,7 @@ The technology, called DigiBox, was perhaps the first, and most important, piece
 
 {{% /redbox %}}{{% whitebox %}}
 
-![PARC](http://tedium.imgix.net/2017/08/0825_parc.jpg)
+![PARC](https://tedium.imgix.net/2017/08/0825_parc.jpg)
 
 *The Xerox-forged PARC, the birthplace of a major piece of DRM technology. ([Ross Mayfield/Flickr](https://www.flickr.com/photos/ross/3165151/))*
 
@@ -109,7 +109,7 @@ Not long after Xerox PARC formulated the idea, IBM licensed its own version of i
 
 {{% /redbox %}}{{% whitebox %}}
 
-![InterTrust patent drawing](http://tedium.imgix.net/2017/08/0825_patent2.jpg)
+![InterTrust patent drawing](https://tedium.imgix.net/2017/08/0825_patent2.jpg)
 
 *I could fill this post with dozens of patent drawings created by InterTrust,  but I choose not to. (Google Patents)*
 

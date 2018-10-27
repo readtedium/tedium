@@ -4,7 +4,7 @@ categories = ["food industry", "chemicals", "flavor", "chemical industry", "bitr
 date = 2016-10-07T07:31:00Z
 description = "The world's worst flavor was developed in a lab by accident. You've probably never tasted Bitrex, but it's all over your home."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium100616.gif"
+image = "https://tedium.imgix.net/2017/06/tedium100616.gif"
 slug = "bitrex-terrible-flavors"
 tags = ["food industry", "chemicals", "flavor", "chemical industry", "bitrex", "hákarl", "bitterness", "bitter flavors"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "No Acquiring This Taste"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Bitrex](http://tedium.imgix.net/2017/06/1006_bitrex.jpg)
+![Bitrex](https://tedium.imgix.net/2017/06/1006_bitrex.jpg)
 
 *([Anathea Utley/Flickr](https://www.flickr.com/photos/anathea/1975001478))*
 
@@ -56,7 +56,7 @@ But as we learned in the case of Aqua Dots, this material has some important use
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Laundry detergent](http://tedium.imgix.net/2017/06/1006_soap.jpg)
+![Laundry detergent](https://tedium.imgix.net/2017/06/1006_soap.jpg)
 
 *([Mike Mozart/Flickr](https://www.flickr.com/photos/jeepersmedia/15102524495/))*
 

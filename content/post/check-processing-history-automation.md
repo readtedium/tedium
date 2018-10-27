@@ -4,7 +4,7 @@ categories = ["banking", "banks", "checks", "commerce", "ocr", "optical characte
 date = 2017-09-01T07:31:00Z
 description = "How the banking industry, with an assist from tech, turned an incredibly frustrating, manual process—sorting checks—into an excellent example of automation."
 draft = false
-image = "http://tedium.imgix.net/2017/09/tedium083117.gif"
+image = "https://tedium.imgix.net/2017/09/tedium083117.gif"
 slug = "check-processing-history-automation"
 tags = ["banking", "banks", "checks", "commerce", "ocr", "optical character recognition", "micr", "magnetic-ink character recognition", "magnetic ink", "automation"]
 variant = "article"
@@ -22,7 +22,7 @@ _**Editor’s note:** Thanks to Kristen Gallerneaux, a curator of communication 
 
 {{% adbox bgcolor="#2FACED" color="#333333" accent="#ffffff" %}}
 
-[![Knew Amsterdam](http://tedium.imgix.net/2017/09/knew_amsterdam-1.jpg)](http://knewamsterdam.com)
+[![Knew Amsterdam](https://tedium.imgix.net/2017/09/knew_amsterdam-1.jpg)](http://knewamsterdam.com)
 
 **Welcome Citizen.** **[Knew Amsterdam](http://knewamsterdam.com)** is a world where creatives always have a key to the City. **[Premium notebooks](http://knewamsterdam.com)** designed with writers in mind.
 
@@ -41,7 +41,7 @@ _**Editor’s note:** Thanks to Kristen Gallerneaux, a curator of communication 
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Ken Eldridge](http://tedium.imgix.net/2017/09/0831_eldridge.jpg)
+![Ken Eldridge](https://tedium.imgix.net/2017/09/0831_eldridge.jpg)
 
 *Ken Eldridge, who worked on the ERMA check-scanning project. He was given a patent for the invention of MICR, a key technology used for scanning checks even today. (via Internet Archive)*
 
@@ -72,7 +72,7 @@ concern about whether the bank would ever get what was really needed from IBM, B
 
 And with that conversation, it was soon off to the races. SRI researchers, led by computer scientist Jerre Noe and engineer Tom Morrin, worked on the project for a number of years afterwards, having a version for testing available by 1956 and the device showing up in Bank of America locations by 1959. This was not a small project, and the team met with numerous other companies to build the peripherals this machine would ultimately need.
 
-![ERMA Computer](http://tedium.imgix.net/2017/09/0831_wires.jpg)
+![ERMA Computer](https://tedium.imgix.net/2017/09/0831_wires.jpg)
 
 *Not many wires at all. ([Wikimedia Commons](https://en.wikipedia.org/wiki/File:ERMA_wiring.jpg))*
 
@@ -94,7 +94,7 @@ This primitive amalgamation of machine with task became a key turning point for 
 
 {{% /redbox %}}{{% whitebox %}}
 
-![IBM 3890](http://tedium.imgix.net/2017/09/0831_ibm.jpg)
+![IBM 3890](https://tedium.imgix.net/2017/09/0831_ibm.jpg)
 
 *An IBM 3890 document processing machine, a common type of large check scanner. ([Wikimedia Commons](https://en.wikipedia.org/wiki/File:IBM_3890_Document_processor.jpg))*
 
@@ -118,7 +118,7 @@ A 1977 *Cincinnati Enquirer* article [on that city’s regional Federal Reserve 
 
 People were still involved in the process—37, to be exact—but clearly there’s no way this process could have been done overnight just two decades prior. This would have been the job of thousands of people.
 
-![Burroughs SmartSource](http://tedium.imgix.net/2017/09/0831_burroughs.jpg)
+![Burroughs SmartSource](https://tedium.imgix.net/2017/09/0831_burroughs.jpg)
 
 *A Burroughs SmartSource check-scanning machine, along the lines of what a teller or small business might use today. (via The Henry Ford)*
 

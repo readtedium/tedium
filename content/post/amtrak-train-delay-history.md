@@ -4,7 +4,7 @@ categories = ["trains", "amtrak", "amtrak trains", "train delay", "passenger tra
 date = 2017-04-26T07:01:00Z
 description = "Despite its best efforts, Amtrak always seems like it has hugely delayed arrivals. One possible reason for that? It doesn't own most of the tracks."
 draft = false
-image = "http://tedium.imgix.net/2017/04/tedium042517.gif"
+image = "https://tedium.imgix.net/2017/04/tedium042517.gif"
 slug = "amtrak-train-delay-history"
 tags = ["trains", "amtrak", "amtrak trains", "train delay", "passenger trains", "freight trains"]
 variant = "article"
@@ -28,7 +28,7 @@ _**Editor’s note:** Thanks to Adam Fordham, who wrote me a note a few weeks ba
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Amtrak train](http://tedium.imgix.net/2017/04/0425_amtrakb.jpg)
+![Amtrak train](https://tedium.imgix.net/2017/04/0425_amtrakb.jpg)
 
 *Amtrak owns the trains, but it doesn't own the most of the tracks. ([simon1234567/Pixabay](https://pixabay.com/en/train-amtrak-america-1977197/))*
 
@@ -40,7 +40,7 @@ Instead, the company really makes its money off the real estate [which it then l
 
 Amtrak, [love it](http://amzn.to/2ouXLtL) or [hate it](http://articles.latimes.com/1986-01-09/local/me-14221_1_san-diego-los-angeles), isn’t like that. In fact, it’s literally the opposite of that model: It’s what would happen if the American public went on a diet and McDonald’s suddenly was struggling to the point where the federal government felt compelled to step in. But instead of acquiring the real estate, the government only acquired the restaurants, and let McDonald’s keep the real estate.
 
-![Rock Island Line](http://tedium.imgix.net/2017/04/0425_rockisland.jpg)
+![Rock Island Line](https://tedium.imgix.net/2017/04/0425_rockisland.jpg)
 
 *A postcard for the Rock Island, a private passenger train provider that predates Amtrak. ([Loco Steve/Flickr](https://www.flickr.com/photos/locosteve/5388052942/))*
 
@@ -70,7 +70,7 @@ The U.S. government has a bigger stake in the rail system than it did in 1970, b
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Amtrak Empire Builder](http://tedium.imgix.net/2017/04/0425_amtrak-1.jpg)
+![Amtrak Empire Builder](https://tedium.imgix.net/2017/04/0425_amtrak-1.jpg)
 
 *This Empire Builder train sure looks awesome, doesn't it? Well, it's gonna be late. Sorry in advance. ([Locosteve/Flickr](https://www.flickr.com/photos/locosteve/10623479475/))*
 

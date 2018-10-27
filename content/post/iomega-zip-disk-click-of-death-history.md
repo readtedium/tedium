@@ -4,7 +4,7 @@ categories = ["computer history", "computers", "disks", "formats", "format war",
 date = 2016-12-07T09:54:00Z
 description = "The hardware company Iomega pulled off a neat trick with its Zip disk: It was proprietary, but popular. But it was a bad thing when things started clicking."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium120616.gif"
+image = "https://tedium.imgix.net/2017/06/tedium120616.gif"
 slug = "iomega-zip-disk-click-of-death-history"
 tags = ["computer history", "computers", "disks", "formats", "format war", "iomega", "zip drive", "zip disks", "syquest", "lawsuits"]
 variant = "article"
@@ -20,7 +20,7 @@ title = "An Annoying Clicking Sound"
 
 <div class="md-graybox" style="background-color:#eeb569;">
 
-<a href="http://adbl.co/2g6uDjw" style="color:#000000;"><img src="http://tedium.imgix.net/2017/06/1206_audible.jpg" style="float: left;max-width: 200px;display: inline-block;padding-right: 1em;margin-top: .25em;" title=""></a>
+<a href="http://adbl.co/2g6uDjw" style="color:#000000;"><img src="https://tedium.imgix.net/2017/06/1206_audible.jpg" style="float: left;max-width: 200px;display: inline-block;padding-right: 1em;margin-top: .25em;" title=""></a>
   
 <p style="font-size: 14pt; line-height: 2.4rem; color: #000000 !important;"><strong style="color: #000000 !important;">Tedium in your ear:</strong> Over at Audible, someone had the foresight to turn <a href="http://tedium.co/2016/11/10/cheese-curls-creation-story/" style="color:#000000;">our recent cheese-curl story</a> into a mini-audiobook. Wanna listen? <a href="http://adbl.co/2g6uDjw" style="color:#000000;">Here's a link to the full episode</a>. (And by the way, if you want more Audible, <a href="http://amzn.to/2h5g2sY" style="color:#000000;">you can get a free trial over this way</a>.) </p>
 
@@ -36,7 +36,7 @@ title = "An Annoying Clicking Sound"
 
 {{% /redbox %}}{{% graybox %}}
 
-![SyQuest disk](http://tedium.imgix.net/2017/06/1206_syquest.jpg)
+![SyQuest disk](https://tedium.imgix.net/2017/06/1206_syquest.jpg)
 
 *([Alessandra Cimatti/Flickr](https://www.flickr.com/photos/cimatti/6743081437/in/))*
 
@@ -58,7 +58,7 @@ title = "An Annoying Clicking Sound"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Iomega Zip disks](http://tedium.imgix.net/2017/06/1206_iomega.jpg)
+![Iomega Zip disks](https://tedium.imgix.net/2017/06/1206_iomega.jpg)
 
 *([Sunny Ripert/Flickr](https://www.flickr.com/photos/sunfox/8891316321/))*
 

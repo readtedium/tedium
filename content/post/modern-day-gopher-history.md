@@ -4,7 +4,7 @@ categories = ["internet", "internet history", "gopher", "gopher servers", "Camer
 date = 2017-06-23T07:54:00Z
 description = "The Gopher protocol isn't supported by the modern web basically at all, but despite this, it lingers on, a quarter century from its peak. Here's how."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium062217.gif"
+image = "https://tedium.imgix.net/2017/06/tedium062217.gif"
 slug = "modern-day-gopher-history"
 tags = ["internet", "internet history", "gopher", "gopher servers", "Cameron Kaiser", "altavista", "wikipedia"]
 variant = "article"
@@ -20,7 +20,7 @@ title = "Burrowing A Gopher Hole"
 
 <div class="md-redbox" style="background-color:#333333; color: white; display:table;">
 
-<a href="https://museumhack.com/tickets/"><img src="http://tedium.imgix.net/2017/06/7.jpg" style="float: left;max-width: 200px;padding-right: 1em;margin-top: .75em;"></a>
+<a href="https://museumhack.com/tickets/"><img src="https://tedium.imgix.net/2017/06/7.jpg" style="float: left;max-width: 200px;padding-right: 1em;margin-top: .75em;"></a>
   
 <p style="font-size: 12pt; line-height: 1.8em;"><strong><a href="https://museumhack.com/tickets/">Are you in NYC, San Francisco, Chicago, Los Angeles or Washington DC?</a></strong> We do unconventional tours at the best museums in your city. It’s kind of like the tedium for museums. We don’t talk about the most famous paintings or the newest collection, <strong><a href="https://museumhack.com/tickets/">we find the esoteric stories</a></strong> that make even the “boring art” amazing.</p>
 
@@ -38,7 +38,7 @@ title = "Burrowing A Gopher Hole"
 
 {{% /redbox %}} {{% graybox %}}  
 
-![Adam Curry](http://tedium.imgix.net/2017/06/0622_curry.jpg)
+![Adam Curry](https://tedium.imgix.net/2017/06/0622_curry.jpg)
 
 *Adam Curry once wore a Gopher shirt on TV as a way to cover the licensing fees for the server he ran at MTV.com. ([YouTube](https://www.youtube.com/watch?v=67nuO5UGsIw))*
 
@@ -52,7 +52,7 @@ title = "Burrowing A Gopher Hole"
 
 {{% /graybox %}}{{% whitebox %}}
 
-![Kaiser](http://tedium.imgix.net/2017/06/Screenshot-2017-06-23-06.02.20.png)
+![Kaiser](https://tedium.imgix.net/2017/06/Screenshot-2017-06-23-06.02.20.png)
 
 An ascii-art photo of Floodgap founder Cameron Kaiser. (per [Kaiser's homepage on Gopher](https://gopherproxy.meulie.net/gopher.floodgap.com/1/users/ckaiser))
 
@@ -85,7 +85,7 @@ Why put in all this work? In large part, it's because he sees Gopher as an extre
 
 {{% /redbox %}}{{% whitebox %}}  
 
-![GopherVista](http://tedium.imgix.net/2017/06/0622_gophervista.gif)
+![GopherVista](https://tedium.imgix.net/2017/06/0622_gophervista.gif)
 
 *GopherVista.*
 
@@ -103,7 +103,7 @@ Cox, who is 22 and was as a result a toddler when AltaVista's server software wa
 
 (In case you're in the mood to try to build your own Gopher Altavista server, [he helpfully put the code up on GitHub](https://github.com/benjojo/gophervista).)
 
-![Gopherpedia](http://tedium.imgix.net/2017/06/0622_gopher.gif)
+![Gopherpedia](https://tedium.imgix.net/2017/06/0622_gopher.gif)
 
 *Gopherpedia*
 

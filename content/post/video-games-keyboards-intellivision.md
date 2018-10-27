@@ -4,7 +4,7 @@ categories = ["video games", "retro", "keyboards", "vintage gaming", "intellivis
 date = 2017-04-28T07:39:00Z
 description = "A lot of early video game consoles secretly wanted to be home computers, too: Their makers either sold keyboard add-ons or failed miserably in the process."
 draft = false
-image = "http://tedium.imgix.net/2017/04/tedium042717.gif"
+image = "https://tedium.imgix.net/2017/04/tedium042717.gif"
 slug = "video-games-keyboards-intellivision"
 tags = ["video games", "retro", "keyboards", "vintage gaming", "intellivision", "colecovision", "family basic", "coleco adam", "video game keyboards"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "The Keys To Success"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Intellivision with Keyboard Component](http://tedium.imgix.net/2017/04/0428_intellivision.jpg)
+![Intellivision with Keyboard Component](https://tedium.imgix.net/2017/04/0428_intellivision.jpg)
 
 *An Intellivision, shown with the infamous keyboard component. ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Intellivision_-_trojandan_14871699.jpg))*
 
@@ -46,7 +46,7 @@ The computer component had the effect of putting Mattel’s device on a higher p
 
 The approach did wonders for the company’s sales, but it also put Mattel in a position where they had a promise that they were now forced to keep. And fulfilling that promise proved much harder than it seemed.
 
-![George Plimpton](http://tedium.imgix.net/2017/04/0428_plimpton.jpg)
+![George Plimpton](https://tedium.imgix.net/2017/04/0428_plimpton.jpg)
 
 *At least they had George Plimpton as a spokesman.*
 
@@ -70,7 +70,7 @@ If there isn’t a name for the this in the annals of computer history, there re
 
 {{% /whitebox %}}{{% graybox %}}
 
-![Family Basic](http://tedium.imgix.net/2017/04/0428_familybasic.jpg)
+![Family Basic](https://tedium.imgix.net/2017/04/0428_familybasic.jpg)
 
 ### Five ways video game consoles pretended to be like real computers
 

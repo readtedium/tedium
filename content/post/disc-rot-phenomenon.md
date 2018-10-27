@@ -4,7 +4,7 @@ categories = ["compact discs", "dvds", "library of congress", "disc rot", "physi
 date = 2017-02-03T09:49:00Z
 description = "CDs were sold to consumers as these virtually indestructible platters, but the truth, as exemplified by the disc rot phenomenon, is more complicated."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium020217--1-.gif"
+image = "https://tedium.imgix.net/2017/06/tedium020217--1-.gif"
 slug = "disc-rot-phenomenon"
 tags = ["compact discs", "dvds", "library of congress", "disc rot", "physical discs", "laserdisc", "laser rot", "decay", "bronzing"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "When Discs Die"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Disc rot](http://tedium.imgix.net/2017/02/0201_rot2.jpg)
+![Disc rot](https://tedium.imgix.net/2017/02/0201_rot2.jpg)
 
 ### Why “disc rot” is a massive challenge for both archivists and collectors
 
@@ -64,7 +64,7 @@ Whether you’re trying to protect your country’s cultural heritage or your ow
 
 {{% /redbox %}}{{% graybox %}}
 
-![Michele Youket](http://tedium.imgix.net/2017/02/0201_youket.jpg)
+![Michele Youket](https://tedium.imgix.net/2017/02/0201_youket.jpg)
 
 *Library of Congress preservation specialist Michele Youket, shown assessing a CD for damage. ([Amanda Reynolds/Library of Congress](https://blogs.loc.gov/loc/2015/01/the-science-of-preservation/))*
 
@@ -78,7 +78,7 @@ Whether you’re trying to protect your country’s cultural heritage or your ow
 
 {{% /graybox %}}{{% whitebox %}}
 
-![Laser rot](http://tedium.imgix.net/2017/02/0201_rot.jpg)
+![Laser rot](https://tedium.imgix.net/2017/02/0201_rot.jpg)
 
 *(via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Laserdisc-rot01.JPG))*
 

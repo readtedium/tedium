@@ -4,7 +4,7 @@ categories = ["computers", "computer history", "intel", "amd", "advanced micro d
 date = 2017-05-19T07:00:00Z
 description = "Intel's processor business was massive, but a lengthy legal battle with a former business partner exposed a major flaw in its CPU designs—a trademark flaw."
 draft = false
-image = "http://tedium.imgix.net/2017/05/tedium051817.gif"
+image = "https://tedium.imgix.net/2017/05/tedium051817.gif"
 slug = "intel-386-486-trademark-battles"
 tags = ["computers", "computer history", "intel", "amd", "advanced micro devices", "processors", "microprocessors", "intel inside"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "86’ed"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Intel 286](http://tedium.imgix.net/2017/05/0518_286.jpg)
+![Intel 286](https://tedium.imgix.net/2017/05/0518_286.jpg)
 
 *The Intel 286, which featured less-aggressive branding than later models. ([Rostislav Lisovy/Flickr](https://www.flickr.com/photos/lisovy/4954314660/))*
 
@@ -66,7 +66,7 @@ There was just one problem with that.
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Intel and AMD processors](http://tedium.imgix.net/2017/05/0518_intel.jpg)
+![Intel and AMD processors](https://tedium.imgix.net/2017/05/0518_intel.jpg)
 
 *An array of Intel and AMD processors from the '90s.
 ([Labete/Flickr](https://www.flickr.com/photos/labete/18494801358/))*

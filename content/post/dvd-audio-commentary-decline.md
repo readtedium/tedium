@@ -4,7 +4,7 @@ categories = ["commentaries", "audio commentary", "movies", "movie industry", "b
 date = 2017-02-22T09:46:00Z
 description = "The audio commentary track, a staple of films on optical media, may not last into the age of streaming. Is it a victim of indifference by Netflix?"
 draft = false
-image = "http://tedium.imgix.net/2017/02/tedium022117.gif"
+image = "https://tedium.imgix.net/2017/02/tedium022117.gif"
 slug = "dvd-audio-commentary-decline"
 tags = ["commentaries", "audio commentary", "movies", "movie industry", "ben affleck", "dvds", "film", "film industry"]
 variant = "article"
@@ -28,7 +28,7 @@ _**Editor's note:** Back again for another round is Andrew Egan, who most recent
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Ben Affleck](http://tedium.imgix.net/2017/02/0221_affleck.jpg)
+![Ben Affleck](https://tedium.imgix.net/2017/02/0221_affleck.jpg)
 
 *"I mean, this is a little bit of a logic stretch, let's face it." (Touchstone Pictures)*
 
@@ -46,7 +46,7 @@ https://www.youtube.com/watch?v=-ahtp0sjA5U
 
 DVD commentary tracks offer unique insight into a film while giving fans a reason to buy multiple copies of the same movie. Behind-the-scenes featurettes were nothing new. Board cinematographers and actors had long filmed "making of" segments for their projects. Much of this was limited to film festivals and fan conventions. 
 
-![King Kong Laserdisc](http://tedium.imgix.net/2017/02/0221_criterion.jpg)
+![King Kong Laserdisc](https://tedium.imgix.net/2017/02/0221_criterion.jpg)
 
 The release of the 1984 Criterion Collection Laserdisc edition of *King Kong*, however, offered a new take on a well-worn classic.
 
@@ -56,7 +56,7 @@ This was the first documented use of commentary as a special feature on a movie,
 
 {{% /whitebox %}}{{% graybox %}}
 
-![Tropic Thunder Robert Downey Jr.](http://tedium.imgix.net/2017/02/0221_tropic.jpg)
+![Tropic Thunder Robert Downey Jr.](https://tedium.imgix.net/2017/02/0221_tropic.jpg)
 
 *A tour-de-force in method acting, one not broken even during the audio commentary. (Paramount Pictures)*
 
@@ -70,7 +70,7 @@ This was the first documented use of commentary as a special feature on a movie,
 
 {{% /graybox %}}{{% whitebox %}}
 
-![Audio Commentary](http://tedium.imgix.net/2017/02/0221_mic.jpg)
+![Audio Commentary](https://tedium.imgix.net/2017/02/0221_mic.jpg)
 
 ### Where does the art of audio commentary go next? Streaming services haven’t found a way to make it work
 
@@ -86,7 +86,7 @@ Consumer spending on physical media such as DVDs and Blu-Rays has been falling s
 
 Netflix briefly introduced audio commentary for the first season of *House of Cards*. However, this is no longer available. 
 
-![House of Cards audio commentary](http://tedium.imgix.net/2017/02/0221_house.jpg)
+![House of Cards audio commentary](https://tedium.imgix.net/2017/02/0221_house.jpg)
 
 *A still showing commentary from House of Cards director and executive producer David Fincher.*
 

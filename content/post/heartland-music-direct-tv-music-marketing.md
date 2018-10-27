@@ -4,7 +4,7 @@ categories = ["music", "music industry", "heartland music", "tv", "tv history", 
 date = 2017-07-26T07:04:00Z
 description = "How the music industry’s TV-driven direct marketing strategies revived vintage hits, salvaged floundering careers, and brought us Zamfir’s epic pan flute."
 draft = false
-image = "http://tedium.imgix.net/2017/07/tedium072517.gif"
+image = "https://tedium.imgix.net/2017/07/tedium072517.gif"
 slug = "heartland-music-direct-tv-music-marketing"
 tags = ["music", "music industry", "heartland music", "tv", "tv history", "commercials", "john denver", "zamfir", "pan flute", "conway twitty", "anne murray"]
 variant = "article"
@@ -39,7 +39,7 @@ title = "Art, Commerce, and Zamfir"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Anne Murray](http://tedium.imgix.net/2017/07/0725_annemurray.jpg)
+![Anne Murray](https://tedium.imgix.net/2017/07/0725_annemurray.jpg)
 
 *Not sold in stores. Duhhhhhh.*
 
@@ -81,7 +81,7 @@ And some albums, through direct marketing alone, sold over a million copies. Not
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Gheorghe Zamfir](http://tedium.imgix.net/2017/07/0725_panflute.jpg)
+![Gheorghe Zamfir](https://tedium.imgix.net/2017/07/0725_panflute.jpg)
 
 *Admit it, this is at least 50 percent more impressive than playing the harmonica.*
 

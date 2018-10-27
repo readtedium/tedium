@@ -4,7 +4,7 @@ categories = ["air mattresses", "mattresses", "hipster mattresses", "airweave", 
 date = 2016-09-07T07:30:00Z
 description = "The air mattress provided the spark for Airbnb, and other weird air mattress facts. By the way, why the heck do they always deflate so easily?"
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium090616.gif"
+image = "https://tedium.imgix.net/2017/06/tedium090616.gif"
 slug = "air-mattresses-bizarre-facts"
 tags = ["air mattresses", "mattresses", "hipster mattresses", "airweave", "aerobed", "pvc", "inflation", "deflation", "airbnb"]
 variant = "article"
@@ -31,7 +31,7 @@ _**P.S., just wanna give a quick shout-out:** As you guys may or may not know, r
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Pneumatic mattress](http://tedium.imgix.net/2017/06/0907_pneumatic.jpg)
+![Pneumatic mattress](https://tedium.imgix.net/2017/06/0907_pneumatic.jpg)
 
 ### So, where did the air mattress come from, anyway?
 
@@ -67,7 +67,7 @@ These days, we have better material, but the sinking feeling has never gone away
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Air Mattress](http://tedium.imgix.net/2017/06/0907_mattress.jpg)
+![Air Mattress](https://tedium.imgix.net/2017/06/0907_mattress.jpg)
 
 # Five interesting facts about air mattresses, the sixth man of a good night's sleep
 

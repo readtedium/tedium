@@ -4,7 +4,7 @@ categories = ["meat", "beef", "cows", "steak", "flat iron steak", "meat science"
 date = 2016-09-30T07:40:00Z
 description = "For years, the beef industry has leaned on universities to discover new cuts of steak. Don't laugh: Meat science is behind at least one breakout hit."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium092916.gif"
+image = "https://tedium.imgix.net/2017/06/tedium092916.gif"
 slug = "meat-science-flat-iron-steak-innovation"
 tags = ["meat", "beef", "cows", "steak", "flat iron steak", "meat science", "bonanza steak", "meat industry", "food manufacturing", "food industry"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Make Every Piece Count"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Flat iron steak](http://tedium.imgix.net/2017/06/0929_steak.jpg)
+![Flat iron steak](https://tedium.imgix.net/2017/06/0929_steak.jpg)
 
 *([jeffreyww/Flickr](https://www.flickr.com/photos/jeffreyww/7104077479/))*
 
@@ -76,7 +76,7 @@ Clearly, there's something to be said for meat science—or at least for clever 
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Bonanza cut inventor](http://tedium.imgix.net/2017/06/0929_bonanza.jpg)
+![Bonanza cut inventor](https://tedium.imgix.net/2017/06/0929_bonanza.jpg)
 
 *Amilton de Mello, the inventor of the bonanza cut. (University of Nevada-Reno)*
 

@@ -4,7 +4,7 @@ categories = ["blurb", "nebraska", "weird wally", "used cars", "used car salesma
 date = 2017-05-25T06:43:03Z
 description = "How Lincoln, Nebraska’s very own Weird Wally rewrote the book for used car salesmen everywhere—because he was way more honest than your average car hawker."
 draft = false
-image = "http://tedium.imgix.net/2017/05/0524_wally.jpg"
+image = "https://tedium.imgix.net/2017/05/0524_wally.jpg"
 slug = "weird-wally-smith-nebraska-obit"
 tags = ["blurb", "nebraska", "weird wally", "used cars", "used car salesman", "obituary"]
 variant = "blurb"
@@ -16,7 +16,7 @@ title = "Weirdly Honest"
 
 But while Crazy Eddie Antar’s entire electronics business [was built around getting one over](http://mentalfloss.com/article/77976/crazy-eddie-rise-and-fall-electronics-stores-insanely-successful-criminal-enterprise) on the IRS and the public, Smith’s Lincoln, Nebraska used car lot was built on bluntness. He was honest—almost to a fault. And that's why his story matters.
 
-![Weird Wally](http://tedium.imgix.net/2017/05/0524_wally3.jpg)
+![Weird Wally](https://tedium.imgix.net/2017/05/0524_wally3.jpg)
 
 *Weird Wally was charged for "more than 2,000 counts of OPC, or "overpaying for cars," according to [this weird ad](https://www.youtube.com/watch?v=I1LBJWaLBTc).*
 
@@ -30,7 +30,7 @@ And there were TV and radio ads—which weren’t as loud as Crazy Eddie’s, bu
 
 Weird Wally mostly stuck to his used car lot, but he occasionally found himself associated with the halls of power. In 1985, after actress Debra Winger, who was dating Nebraska’s then-governor Bob Kerrey, was stopped for speeding in the governor’s car, [a newspaper columnist launched a pre-internet crowdfunding campaign](https://www.washingtonpost.com/archive/politics/1985/10/11/nebraskas-first-lady-friend/ac298bb8-80f2-4442-85d4-8fdc4b29ca6c/) to buy the *Terms of Endearment* actress a used car of her own. Winger donated $300. Weird Wally matched the amount. He was good at stunts.
 
-![Wally's Used Cars](http://tedium.imgix.net/2017/05/0524_wally2.jpg)
+![Wally's Used Cars](https://tedium.imgix.net/2017/05/0524_wally2.jpg)
 
 But for all his local notoriety, he was simply an honest guy. He sold junkers, but he cared about the junkers he was selling—and the people he was selling those junkers to. He saw all walks of life, and [often worried about the single mothers](http://journalstar.com/special-section/news/what-i-believe-weird-wally-smith/article_8829945f-1e5c-5cd3-a013-807c54daf43e.html) who walked onto his used-car lots—along with the guys who knew nothing about how the cars worked.
 

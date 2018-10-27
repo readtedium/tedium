@@ -4,7 +4,7 @@ categories = ["food", "cookies", "hydrox", "oreo", "creme-filled cookies", "suns
 date = 2017-05-10T07:51:00Z
 description = "Why did Hydrox cookies lose out to Oreo despite being the first cookie to market? Long story short: The name seemed like a better idea 100 years ago."
 draft = false
-image = "http://tedium.imgix.net/2017/05/tedium050917.gif"
+image = "https://tedium.imgix.net/2017/05/tedium050917.gif"
 slug = "hydrox-oreo-competition-history"
 tags = ["food", "cookies", "hydrox", "oreo", "creme-filled cookies", "sunshine biscuits", "nabisco"]
 variant = "article"
@@ -18,7 +18,7 @@ title = "How The Cookie Crumbles"
 
 {{% /whitebox %}}{{% graybox %}}
 
-![Sunshine Biscuits ad](http://tedium.imgix.net/2017/05/0509_sunshine.jpg)
+![Sunshine Biscuits ad](https://tedium.imgix.net/2017/05/0509_sunshine.jpg)
 
 *An early Sunshine Biscuits ad for Hydrox, published in the Saturday Evening Post circa 1922. (via [Google Books](https://books.google.com/books?id=WSckAQAAMAAJ&pg=RA9-PA53))*
 
@@ -30,7 +30,7 @@ After quitting dry goods, [he bought a biscuit and candy company in 1882](https:
 
 Jacob Loose was prominent enough that he had a seat on the board of a budding conglomerate called the National Biscuit Company, which started in 1898 as an early attempt to consolidate resources. But by 1902, as Loose-Wiles was getting its footing, he had divested from the company entirely—that company, later known as Nabisco, would become Loose’s largest competitor.
 
-![Sunshine Biscuits building](http://tedium.imgix.net/2017/06/0509_sunshine2.jpg)
+![Sunshine Biscuits building](https://tedium.imgix.net/2017/06/0509_sunshine2.jpg)
 
 *One of Sunshine Biscuits' many factories. ([Thomas Hawk/Flickr](https://www.flickr.com/photos/thomashawk/5100440351/))*
 
@@ -42,7 +42,7 @@ The truth was a bit more complicated, however. Intended to imply hydrogen and ox
 
 And it didn’t help that that there was an existing Hydrox Chemical Company on the market, one that sold hydrogen peroxide *and* [was caught up in a trademark lawsuit](https://books.google.com/books?id=cVWQAAAAMAAJ&pg=PA722) at the time over the use of the word “hydrox”—a lawsuit that noted the term was used for coolers, for soda, even for brands of ice cream.
 
-![Hydrox cookie](http://tedium.imgix.net/2017/05/0509_hydrox.jpg)
+![Hydrox cookie](https://tedium.imgix.net/2017/05/0509_hydrox.jpg)
 
 *An early Hydrox cookie design. ([via the Akron Evening Times](https://www.newspapers.com/clip/10887393/hydrox_ad/))*
 
@@ -62,7 +62,7 @@ But where did that leave Hydrox?
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Hydrox](http://tedium.imgix.net/2017/05/0509_hydrox3.jpg)
+![Hydrox](https://tedium.imgix.net/2017/05/0509_hydrox3.jpg)
 
 *A Hydrox ad, circa 1957. ([Classic Film/Flickr](https://www.flickr.com/photos/29069717@N02/10352172253/))*
 
@@ -78,7 +78,7 @@ The problem, when it comes down to it, may have been the name. When Keebler took
 
 Keebler realized this was a problem and quickly attempted to rename the cookies Droxies, a sort of softening of the name to discourage people from thinking of chemicals.
 
-![Droxies](http://tedium.imgix.net/2017/05/0509_droxies.jpg)
+![Droxies](https://tedium.imgix.net/2017/05/0509_droxies.jpg)
 
 *A rare example of the "Hydrox Droxies" transitional packaging, used when Keebler was switching between the two brands. (via [the Press and Sun-Bulletin](https://www.newspapers.com/clip/10891910/hydrox_droxies/))*
 
@@ -108,7 +108,7 @@ And that’s why Hydrox cookies were able to make a comeback in 2015, whether Ke
 
 He figured out that, since Kellogg’s admitted it wasn’t interested in doing anything with the cookie brand, he legally had the right to cancel the trademark and re-use it. He had to do all the hard work of reformulating the snack, but once he had figured that out, it was off to the races.
 
-![Hydrox cookies](http://tedium.imgix.net/2017/05/0509_hydrox2.jpg)
+![Hydrox cookies](https://tedium.imgix.net/2017/05/0509_hydrox2.jpg)
 
 *Some modern-day Hydrox cookies. (via the brand's Facebook page)*
 

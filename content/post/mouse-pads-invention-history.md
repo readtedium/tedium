@@ -4,7 +4,7 @@ categories = ["mouse pads", "mouse", "moustrak", "mouspad", "bob mcdermand", "ap
 date = 2016-07-13T07:50:00Z
 description = "Bob McDermand had a hit on his hands when he started the first mouse pad manufacturer. So what was the problem? MousTrak's mouse pads were simply too good."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium071216.gif"
+image = "https://tedium.imgix.net/2017/06/tedium071216.gif"
 slug = "mouse-pads-invention-history"
 tags = ["mouse pads", "mouse", "moustrak", "mouspad", "bob mcdermand", "apple", "macintosh", "steve jobs", "steve wozniak"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "The Best Mouse Pads Money Could Buy"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Mouse pad](http://tedium.imgix.net/2017/06/0712_mickey.jpg)
+![Mouse pad](https://tedium.imgix.net/2017/06/0712_mickey.jpg)
 
 *(via [an eBay listing](http://fave.co/2a7BCHj))*
 
@@ -56,7 +56,7 @@ After trying out books, sheets of paper, and other alternative surfaces, he made
 
 McDermand's first efforts at building a mouse pad used formica, a hard, laminate surface that did the job, but eventually he and his collaborators stumbled on polyester—a surface that made the mouse pad flexible and, crucial to its future success, made it possible to transfer designs onto the surface. Soon enough, he was working with a rubber manufacturer and he had a side project on his hands—one that quickly required him to quit his job to focus on making mouse pads full time.
 
-![Mouse ad](http://tedium.imgix.net/2017/06/mousetrak.jpg)
+![Mouse ad](https://tedium.imgix.net/2017/06/mousetrak.jpg)
 
 McDermand and his company Moustrak got off to a low-key start, but two things happened that quickly turned his company into a winner: First, his early ads in magazines like MacWorld (one of which is shown above), and two, a decision by Apple to distribute some of Moustrak's early mouse pads, emblazoned with the Apple logo, to computer sellers around the country.
 
@@ -76,7 +76,7 @@ But there were some bumps along the way, particularly when the company started t
 
 {{% /graybox %}}{{% whitebox %}}
 
-![Moustrak](http://tedium.imgix.net/2017/06/0712_empire.jpg)
+![Moustrak](https://tedium.imgix.net/2017/06/0712_empire.jpg)
 
 ### The demise of Moustrak, or when mouse pads became a commodity
 
@@ -100,7 +100,7 @@ The attention to detail worked to Moustrak's advantage as it forged relationship
 
 ----
 
-![Mouse pad sample sheet](http://tedium.imgix.net/2017/06/0712_mousepad.jpg)
+![Mouse pad sample sheet](https://tedium.imgix.net/2017/06/0712_mousepad.jpg)
 
 *A rare mouse pad sample sheet that hasn't been transferred over to any actual pads. Notice the Yoda mouse pad in the corner, which is a particularly awesome option and a favorite of McDermand's. (via [eBay](http://fave.co/29OnPJN))*
 
@@ -128,7 +128,7 @@ His firm sold off its interest in Moustrak in 1997. There's [a website at Mouset
 
 **McDermand's follow-up business,** [Pyramid.net](http://pyramid.net/), has had no such challenges with quality losing out over mass-market production. An ISP based in the Carson City, Nevada area, the firm essentially sells a variety of options to consumers—including business-class internet access that the firm is distributing via Charter, that otherwise wouldn't be made directly available to consumers.
 
-![Bob McDermand](http://tedium.imgix.net/2017/06/0712_bob.jpg)
+![Bob McDermand](https://tedium.imgix.net/2017/06/0712_bob.jpg)
 
 *Bob and his longtime girlfriend Tiffany. (Handout photos)*
 

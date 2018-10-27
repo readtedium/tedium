@@ -4,7 +4,7 @@ categories = ["computer history", "laptops", "computers", "pcmcia", "pc card", "
 date = 2017-01-27T09:35:00Z
 description = "With PCMCIA (also known as PC Card), it was easy to upgrade our old laptops. Now, though, the tech has been relegated to a depressing bureaucratic fate."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium012617.gif"
+image = "https://tedium.imgix.net/2017/06/tedium012617.gif"
 slug = "pcmcia-pc-card-laptop-expansion-history"
 tags = ["computer history", "laptops", "computers", "pcmcia", "pc card", "federal communications commission", "fcc", "cablecard", "expresscard"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "It’s All In The Cards"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Poqet PC](http://tedium.imgix.net/2017/02/0125_poquet.jpg)
+![Poqet PC](https://tedium.imgix.net/2017/02/0125_poquet.jpg)
 
 *The Poqet PC, which actually predates the PCMCIA standard. (via [Old-Computers.net](http://oldcomputers.net/poqet-pc.html))*
 
@@ -44,7 +44,7 @@ Fortunately, they found a kindred spirit on the issue in Fujitsu, which felt tha
 
 There was already some work on this front from the Japanese Electronics Industry Development Association, which had begun working on a memory card standardization scheme in 1985. PCMCIA initially borrowed JEIDA’s 68-pin connector setup, and over time the two groups worked together [and their standards became functionally compatible](https://lsda.jsc.nasa.gov/scripts/hardware/hardw.aspx?hardware_id=986).
 
-![Poqet PC with disk drive](http://tedium.imgix.net/2017/02/0124_poquet2.jpg)
+![Poqet PC with disk drive](https://tedium.imgix.net/2017/02/0124_poquet2.jpg)
 
 *The massive external disk drive for the Poqet PC needed twice as many AA batteries as the main device. (via [Old-Computers.net](http://oldcomputers.net/poqet-pc.html))*
 
@@ -66,7 +66,7 @@ That said, it turned out that Rosch was only half-right. Technology eventually d
 
 {{% /whitebox %}}{{% graybox %}}
 
-[![PCMCIA bluetooth mouse](http://tedium.imgix.net/2017/02/0125_pcmcia.jpg)](http://amzn.to/2kzsLCy)
+[![PCMCIA bluetooth mouse](https://tedium.imgix.net/2017/02/0125_pcmcia.jpg)](http://amzn.to/2kzsLCy)
 
 *Look at this freaking thing! It's a mouse that fits in a PCMCIA slot! Isn't this insane?!*
 
@@ -80,7 +80,7 @@ That said, it turned out that Rosch was only half-right. Technology eventually d
 
 {{% /graybox %}}{{% whitebox %}}
 
-![CableCard slots](http://tedium.imgix.net/2017/02/0126_cablecard.jpg)
+![CableCard slots](https://tedium.imgix.net/2017/02/0126_cablecard.jpg)
 
 *Devices like TiVo often require multiple CableCard slots to record shows. CableCard is based on PCMCIA. ([spine/Flickr](https://www.flickr.com/photos/spine/733357060/))*
 

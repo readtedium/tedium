@@ -4,7 +4,7 @@ categories = ["911", "emergency", "emergency numbers", "health", "medicine", "ro
 date = 2017-06-21T07:54:00Z
 description = "The nationwide roll-out of the 911 system was a difficult endeavor, and one that only made it past the finish line thanks to a charitable foundation."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium062017.gif"
+image = "https://tedium.imgix.net/2017/06/tedium062017.gif"
 slug = "911-emergency-system-history"
 tags = ["911", "emergency", "emergency numbers", "health", "medicine", "robert wood johnson ii", "robert wood johnson foundation"]
 variant = "article"
@@ -20,7 +20,7 @@ title = "In Case Of Emergency"
 
 <div class="md-redbox" style="background-color:#333333; color: white;">
 
-<a href="https://museumhack.com/surprise-proposal-met/"><img src="http://tedium.imgix.net/2017/06/6.jpg" style="float: left;max-width: 200px;display: inline-block;padding-right: 1em;margin-top: .75em;"></a>
+<a href="https://museumhack.com/surprise-proposal-met/"><img src="https://tedium.imgix.net/2017/06/6.jpg" style="float: left;max-width: 200px;display: inline-block;padding-right: 1em;margin-top: .75em;"></a>
   
 <p style="font-size: 12pt; line-height: 1.8rem;"><strong><a href="https://museumhack.com/surprise-proposal-met/">Are you going to ask your GF to marry you?</a></strong> You don’t have to do a “viral” marriage proposal video, but it doesn’t have to be boring either. Your partner will LOVE <strong><a href="https://museumhack.com/surprise-proposal-met/">a customized proposal at the museum</a></strong>. We’ve helped about a dozen men pop the question and every one of their partners said yes! Let us do the work, and you take all the credit.</p>
 
@@ -38,7 +38,7 @@ title = "In Case Of Emergency"
 
 {{% /redbox %}}{{% whitebox %}}  
 
-![Operator](http://tedium.imgix.net/2017/06/0620_operator.jpg)
+![Operator](https://tedium.imgix.net/2017/06/0620_operator.jpg)
 
 *Operator, can you help me place this call? ([Dean Terry/Flickr](https://www.flickr.com/photos/therefore/4016129716/))*
 
@@ -76,7 +76,7 @@ But by the mid-1950s, officials from the International Association of Fire Chief
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Robert Wood Johnson II](http://tedium.imgix.net/2017/06/0620_johnson.jpg)
+![Robert Wood Johnson II](https://tedium.imgix.net/2017/06/0620_johnson.jpg)
 
 *Robert Wood Johnson II, the namesake of the Robert Wood Johnson Foundation. ([Kilmer House](https://www.kilmerhouse.com/2012/04/leadership-transitions-a-johnson-johnson-tradition))*
 
@@ -86,7 +86,7 @@ To tell the story of the start of the 911 system—[a phone call made by Alabama
 
 Because if a system for emergency treatment is to exist, it needs to work immediately. And in many parts of the country, it did not. To offer frame of reference you're familiar with: You know how the vehicle from *Ghostbusters* is a white hearse? That's because [vintage ambulances were hearses](https://books.google.com/books?id=nvz_mItQyM4C&pg=PT392). And in some rural towns, the hearses from the funeral homes pulled-double duty—and the funeral home employees didn't have much in the way of instruction beyond "drive fast." The EMT, as a concept, was still a few years off.
 
-![Ambulance hearse](http://tedium.imgix.net/2017/06/0620_ambulance.jpg)
+![Ambulance hearse](https://tedium.imgix.net/2017/06/0620_ambulance.jpg)
 
 *An ambulance hearse. ([Greg Gjerdingen/Flickr](https://www.flickr.com/photos/greggjerdingen/14754936498/))*
 

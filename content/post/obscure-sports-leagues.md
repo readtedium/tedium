@@ -4,7 +4,7 @@ categories = ["sports", "world team tennis", "roller hockey", "senior baseball",
 date = 2017-05-24T07:25:00Z
 description = "Is there room for another mainstream sports league? Despite lots of attempts over the years to introduce new pro sports, the answer appears to be no."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium052317.gif"
+image = "https://tedium.imgix.net/2017/06/tedium052317.gif"
 slug = "obscure-sports-leagues"
 tags = ["sports", "world team tennis", "roller hockey", "senior baseball", "pro volleyball", "major league volleyball", "billie jean king", "elton john"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Out Of Our League"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Philadelphia Freedom](http://tedium.imgix.net/2017/05/0523_elton.jpg)
+![Philadelphia Freedom](https://tedium.imgix.net/2017/05/0523_elton.jpg)
 
 *The "Philadelphia Freedom" single. ([Vinyl Mine records](http://vinylminerecords.com/shop/the-elton-john-band-philadelphia-freedom-i-saw-her-standing-there-7-45-vg/))*
 
@@ -54,7 +54,7 @@ But before a playoff game in Denver, Elton came back with the goods.
 
 The song, which was released as a standalone single, [included the note that the tune was made](http://www.eltonjohn.com/billie-jean-king-talks-about-philadelphia-freedom/) “with Love to B.J.K. and the music of Philadelphia.” 
 
-![Billie Jean King](http://tedium.imgix.net/2017/05/0523_king.jpg)
+![Billie Jean King](https://tedium.imgix.net/2017/05/0523_king.jpg)
 
 *Billie Jean King, circa 1978. ([Lynn Gilbert/Wikimedia Commons](https://en.wikipedia.org/wiki/File:Billie_Jean_King_©Lynn_Gilbert_1978.jpg))*
 
@@ -78,7 +78,7 @@ But one thing she does still own? The Philadelphia Freedoms, a club she revived 
 
 {{% /redbox %}}{{% whitebox %}}
 
-![](http://tedium.imgix.net/2017/05/0523_volleyball.jpg)
+![](https://tedium.imgix.net/2017/05/0523_volleyball.jpg)
 
 *A Major League Volleyball championship game in action. ([via YouTube](https://www.youtube.com/watch?v=aMDqfYezPDg))*
 

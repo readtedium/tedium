@@ -4,7 +4,7 @@ categories = ["steak", "steak knives", "food", "utensils", "knives", "blades", "
 date = 2017-08-23T07:51:00Z
 description = "How sharp knives disappeared from the dining room table, only to return, centuries later, in steak knife form. Kings, cardinals, and factories are involved."
 draft = false
-image = "http://tedium.imgix.net/2017/08/tedium082217.gif"
+image = "https://tedium.imgix.net/2017/08/tedium082217.gif"
 slug = "steak-knife-history"
 tags = ["steak", "steak knives", "food", "utensils", "knives", "blades", "King Louis XIV", "Cardinal Richelieu", "butter knife", "steak knife"]
 variant = "article"
@@ -18,7 +18,7 @@ title = "Never A Dull Moment"
 
 {{% /whitebox %}}{{% graybox %}}	
 
-![Cardinal Richelieu](http://tedium.imgix.net/2017/08/0822_cardinal.jpg)
+![Cardinal Richelieu](https://tedium.imgix.net/2017/08/0822_cardinal.jpg)
 
 *How we imagined Cardinal Richelieu broached the subject: "How many times do I have to tell you hosers, don't pick your teeth with a knife!" (Wikimedia Commons)*
 
@@ -34,7 +34,7 @@ This broke tradition around knife use. See, knife blades were long the primary w
 
 Cardinal Richelieu was a powerful, influential man, and his knife-dulling approach gained enough currency that in 1669, 27 years after he died, [King Louis XIV](http://www.telegraph.co.uk/tv/2016/06/01/who-was-louis-xiv-of-france-everything-you-need-to-know-about-th/) issued a decree making pointed knives illegal in France, whether inside the home or out in public. Suddenly, a lot of sharp knives got pretty dull.
 
-![Random utensils](http://tedium.imgix.net/2017/08/0822_utensils.jpg)
+![Random utensils](https://tedium.imgix.net/2017/08/0822_utensils.jpg)
 
 *Sorry, couldn't find a knife in my junk drawer. (MarkMartins/Pixabay)*
 
@@ -56,7 +56,7 @@ But it would take until the middle of the 20th century for the proper tool to tr
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Carvel Hall](http://tedium.imgix.net/2017/08/0822_carvel.jpg)
+![Carvel Hall](https://tedium.imgix.net/2017/08/0822_carvel.jpg)
 
 *Carvel Hall's famous steak knives—with the blades covered and the handles cracked. They're old! ([Vintage Sailor/Flickr](https://www.flickr.com/photos/thevintagesailor/3587226671/))*
 
@@ -80,7 +80,7 @@ The company was also involved in manufacturing cutlery at the time, which is per
 
 By the time of the 1953 article, Culver’s handmade letter opener had become a $3 million business.
 
-[![Carvel Hall crab knives](http://tedium.imgix.net/2017/08/0822_crab.jpg)](http://amzn.to/2w20Jqh)
+[![Carvel Hall crab knives](https://tedium.imgix.net/2017/08/0822_crab.jpg)](http://amzn.to/2w20Jqh)
 
 *Carvel Hall crab knives. ([Dave Woodward/Flickr](https://www.flickr.com/photos/joerookhead/2073054834/))*
 

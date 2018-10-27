@@ -4,7 +4,7 @@ categories = ["college textbooks", "textbooks", "college", "university", "Gregor
 date = 2016-08-26T07:39:00Z
 description = "The prices of college textbooks are absurd—to the point where authors have to defend their $300 books. But we could, thankfully, be turning a corner."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium082516--1-.gif"
+image = "https://tedium.imgix.net/2017/06/tedium082516--1-.gif"
 slug = "college-textbooks-high-prices-theories"
 tags = ["college textbooks", "textbooks", "college", "university", "Gregory Mankiw", "captive audiences", "economy"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Let's Teach Textbooks A Lesson"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Textbooks](http://tedium.imgix.net/2017/06/0825_textbooks1.jpg)
+![Textbooks](https://tedium.imgix.net/2017/06/0825_textbooks1.jpg)
 
 *([m01229/Flickr](https://www.flickr.com/photos/39908901@N06/8279563428/))*
 
@@ -62,7 +62,7 @@ But that assessment didn't consider a fact we know is true at this juncture. Col
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Bookstore](http://tedium.imgix.net/2017/06/0825_bookstore.jpg)
+![Bookstore](https://tedium.imgix.net/2017/06/0825_bookstore.jpg)
 
 *([Steve Schupe/Flickr](https://www.flickr.com/photos/ssshupe/6094922861/in/))*
 
@@ -92,7 +92,7 @@ If you were a textbook publisher, you couldn't get away with two colors anymore.
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Used book](http://tedium.imgix.net/2017/06/0825_used.jpg)
+![Used book](https://tedium.imgix.net/2017/06/0825_used.jpg)
 
 *([Hanna Pritchett/Flickr](https://www.flickr.com/photos/28725326@N07/4903225320/))*
 

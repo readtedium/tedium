@@ -4,7 +4,7 @@ categories = ["television", "television industry", "unaired pilots", "tv", "tv p
 date = 2017-01-20T09:58:00Z
 description = "For decades, TV networks have spent millions of dollars on unsold pilots that will never become series. Here's how they've tried to recoup their investment."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium011917.gif"
+image = "https://tedium.imgix.net/2017/06/tedium011917.gif"
 slug = "weird-unsold-television-pilots"
 tags = ["television", "television industry", "unaired pilots", "tv", "tv pilots", "bbc", "unsold pilots", "jim henson", "mainly for men"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Too Terrible For Television"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![CBS Summer Playhouse](http://tedium.imgix.net/2017/06/0119_playhouse.jpg)
+![CBS Summer Playhouse](https://tedium.imgix.net/2017/06/0119_playhouse.jpg)
 
 ### Television networks used to dump unsold pilots onto the airwaves in the middle of the summer
 
@@ -66,7 +66,7 @@ And they never did it again. *CBS Summer Playhouse* was the last time that a maj
 
 {{% /redbox %}}{{% whitebox %}}
 
-![TV Hell](http://tedium.imgix.net/2017/06/0119_tvhell.jpg)
+![TV Hell](https://tedium.imgix.net/2017/06/0119_tvhell.jpg)
 
 *Paul Merton, stuck inside a TV. ([YouTube screenshot](https://www.youtube.com/watch?v=z2JzLl_5bQE))*
 

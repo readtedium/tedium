@@ -4,7 +4,7 @@ categories = ["internet history", "internet", "webtv", "television industry", "t
 date = 2016-09-14T07:53:04Z
 description = "Two decades ago, WebTV launched a bold idea into the mainstream … and caught the fringes. What can we learn about the internet from this noble failure?"
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium091316.gif"
+image = "https://tedium.imgix.net/2017/06/tedium091316.gif"
 slug = "webtv-history-20th-anniversary"
 tags = ["internet history", "internet", "webtv", "television industry", "television", "cable television", "microsoft", "microsoft windows", "steve perlman"]
 variant = "article"
@@ -28,7 +28,7 @@ title = "The Internet Will Be Televised"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![WebTV Plus](http://tedium.imgix.net/2017/06/0913_webtv.jpg)
+![WebTV Plus](https://tedium.imgix.net/2017/06/0913_webtv.jpg)
 
 ### How hard was it to sell television-optimized internet to the public?
 
@@ -46,7 +46,7 @@ https://www.youtube.com/watch?v=CIlIS6BVDH4
 
 Perhaps one telling sign of the challenges of selling the public on WebTV comes from the roadshow clip. Cofounder Bruce Leak, as he showed off the capabilities of the system while searching for the television show Friends, had to stall a bit when [the 1996-era website for NBC's *Friends*](http://bit.ly/2cv9rFB), a fairly primitive site by today's standards, struggled to load. The issue was two-fold: Modems are slow, but the page, additionally, was not optimized to work effectively on WebTV. There were a lot of pages like that at the time.
 
-![WebTV Tedium](http://tedium.imgix.net/2017/06/0913_webtvdev.jpg)
+![WebTV Tedium](https://tedium.imgix.net/2017/06/0913_webtvdev.jpg)
 
 (Because I was curious, I tried out the WebTV developer tools to see how this horribly primitive system could handle Tedium's front page. As you can see above, the results are sexy.)
 
@@ -58,7 +58,7 @@ But those obvious weaknesses didn't stop Microsoft from [spending $425 million t
 
 {{% /whitebox %}}{{% graybox %}}
 
-![Dreamcast WebTV](http://tedium.imgix.net/2017/06/0913_dreamcast.jpg)
+![Dreamcast WebTV](https://tedium.imgix.net/2017/06/0913_dreamcast.jpg)
 
 ### Five interesting facts about WebTV
 
@@ -80,7 +80,7 @@ But those obvious weaknesses didn't stop Microsoft from [spending $425 million t
 
 {{% /redbox %}}{{% whitebox %}}
 
-![MSN TV 2](http://tedium.imgix.net/2017/06/0913_msntv2.jpg)
+![MSN TV 2](https://tedium.imgix.net/2017/06/0913_msntv2.jpg)
 
 ### Why Microsoft mostly left WebTV (also known as MSN TV) alone for 16 years
 

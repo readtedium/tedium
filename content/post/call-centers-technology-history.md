@@ -4,7 +4,7 @@ categories = ["call centers", "telephones", "telephone", "customer support", "Co
 date = 2016-08-03T06:57:38Z
 description = "It seems like we've been dealing with frustrating call centers forever. But, as it turns out, customer service via phone is a relatively recent phenomenon."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium080216--1-.gif"
+image = "https://tedium.imgix.net/2017/06/tedium080216--1-.gif"
 slug = "call-centers-technology-history"
 tags = ["call centers", "telephones", "telephone", "customer support", "Continental Airlines", "automation", "Interactive Voice Responses", "Private Branch Exchanges", "Automatic Call Distributor"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Recorded For Quality Assurance"
 
 {{% /redbox %}}{{% graybox %}}
 
-![Western Electric Model 1500](http://tedium.imgix.net/2017/06/0802_telephone.jpg)
+![Western Electric Model 1500](https://tedium.imgix.net/2017/06/0802_telephone.jpg)
 
 *The 10-button Western Electric Model 1500. (via [electronixandmore.com](http://www.electronixandmore.com/adam/phone1.html))*
 
@@ -40,7 +40,7 @@ title = "Recorded For Quality Assurance"
 
 {{% /graybox %}}{{% whitebox %}}
 
-![Bell system switchboard](http://tedium.imgix.net/2017/06/0802_switchboard.jpg)
+![Bell system switchboard](https://tedium.imgix.net/2017/06/0802_switchboard.jpg)
 
 *(Thinkstock)*
 
@@ -88,7 +88,7 @@ While Pearce emphasizes that Rockwell's ACD wasn't first, he does say that they 
 
 As far back as 2005, researchers at the University of Pennsylvania's Wharton School of Business [wrote a paper about the scientific processes](http://www-stat.wharton.upenn.edu/~lzhao/papers/MyPublication/CallCenter_JASA_2005.pdf) around queueing calls, with the goal of serving customers and lowering headcount. 
 
-![AT&T Customer Service](http://tedium.imgix.net/2017/06/0802_att.jpg)
+![AT&T Customer Service](https://tedium.imgix.net/2017/06/0802_att.jpg)
 
 *([Katy Warner/Flickr](https://www.flickr.com/photos/sundazed/1527852224/))*
 

@@ -4,7 +4,7 @@ categories = ["video games", "video game history", "mega duck", "clones", "copyc
 date = 2017-09-15T07:37:00Z
 description = "How the success of the Game Boy inspired a variety of rip-off consoles sold under a variety of bizarre corporate structures. This goes deeper than the Lynx."
 draft = false
-image = "http://tedium.imgix.net/2017/09/tedium091417.gif"
+image = "https://tedium.imgix.net/2017/09/tedium091417.gif"
 slug = "game-boy-knockoff-consoles"
 tags = ["video games", "video game history", "mega duck", "clones", "copycats", "ripoffs", "cougar boy", "watara supervision", "game child"]
 variant = "article"
@@ -30,7 +30,7 @@ title = "The Knockoff Game"
 
 {{% graybox %}}
 
-![Marlboro Atari Lynx](http://tedium.imgix.net/2017/09/Cb6nofCUEAAKptr.jpg)
+![Marlboro Atari Lynx](https://tedium.imgix.net/2017/09/Cb6nofCUEAAKptr.jpg)
 
 *This is not a knockoff, but there must be one heckuva story here.*
 
@@ -58,7 +58,7 @@ Wait, what the heck is the Watara Supervision?
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Watara SuperVision](http://tedium.imgix.net/2017/09/0914_supervision.jpg)
+![Watara SuperVision](https://tedium.imgix.net/2017/09/0914_supervision.jpg)
 
 *It's like a Game Boy with a neck. ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Watara-Supervision-Tilted.jpg))*
 
@@ -100,7 +100,7 @@ Unlike other competitors, it actually showed up in some occasional mainstream pl
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Mega Duck](http://tedium.imgix.net/2017/09/0914_megaduck.jpg)
+![Mega Duck](https://tedium.imgix.net/2017/09/0914_megaduck.jpg)
 
 *Could you imagine the marketing meetings that led to these two names? ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mega_duck_cougar_boy_and_games_Lighter_Sharper.jpg))*
 

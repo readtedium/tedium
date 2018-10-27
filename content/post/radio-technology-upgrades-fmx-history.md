@@ -4,7 +4,7 @@ categories = ["radio", "fm radio", "am radio", "radio stations", "radio technolo
 date = 2017-01-18T09:49:00Z
 description = "Why attempts to improve AM and FM radio technologies tend to land with a thud—a thud no harder felt than with the FMX standard, circa 1989."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium011717.gif"
+image = "https://tedium.imgix.net/2017/06/tedium011717.gif"
 slug = "radio-technology-upgrades-fmx-history"
 tags = ["radio", "fm radio", "am radio", "radio stations", "radio technology", "am stereo", "fmx", "digital audio broadcasting", "bose", "amar bose", "bose wave radio"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Don’t Touch That Dial"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Vintage clock radio](http://tedium.imgix.net/2017/06/0118_radio.jpg)
+![Vintage clock radio](https://tedium.imgix.net/2017/06/0118_radio.jpg)
 
 *(Adbecoral/Pixabay)*
 
@@ -76,7 +76,7 @@ It was actually something else that did FMX in.
 
 {{% /redbox %}}{{% whitebox %}}
 
-[![FMX article](http://tedium.imgix.net/2017/06/0118_fmx.jpg)](https://archive.org/details/radio_electronics_1989-10)
+[![FMX article](https://tedium.imgix.net/2017/06/0118_fmx.jpg)](https://archive.org/details/radio_electronics_1989-10)
 
 *An October 1989 Radio-Electronics article that discussed the FMX controversy. ([Internet Archive](https://archive.org/details/radio_electronics_1989-10))*
 
@@ -126,7 +126,7 @@ It’s not every day that a single two-hour lecture kills a major industry initi
 
 There are a lot of stories like that of FMX, though not nearly as dramatic or played out on such a public stage. The politics of the matter usually limit uptake—or, in some cases, encourage it. In recent years, HD Radio gained prominence and uptake in the U.S. after the Federal Communications Commission picked it as the prevailing standard over a number of other technologies, including the DAB standard that Norway is using. 
 
-![HD Radio](http://tedium.imgix.net/2017/06/0118_hdradio.jpg)
+![HD Radio](https://tedium.imgix.net/2017/06/0118_hdradio.jpg)
 
 *HD Radio, as seen in a vehicle. ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:KOST_103.5_HD_Signal.jpg))*
 

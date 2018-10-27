@@ -4,7 +4,7 @@ categories = ["internet", "internet history", "bbses", "bbs", "internet access",
 date = 2016-09-02T06:57:00Z
 description = "It took a while for the internet to turn into a major global force, but it wasn't for lack of trying. (Peter Gabriel deserves at least some of the credit.)"
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium090116.gif"
+image = "https://tedium.imgix.net/2017/06/tedium090116.gif"
 slug = "internet-bbs-global-expansion"
 tags = ["internet", "internet history", "bbses", "bbs", "internet access", "serbia", "yugoslavia", "south africa", "Association for Progressive Communications", "modems"]
 variant = "article"
@@ -28,7 +28,7 @@ title = "The Wires Barely Reach"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Belgrade building damaged](http://tedium.imgix.net/2017/06/0901_belgrade.jpg)
+![Belgrade building damaged](https://tedium.imgix.net/2017/06/0901_belgrade.jpg)
 
 *A damaged building in Belgrade, Serbia. ([David Holt/Flickr](https://www.flickr.com/photos/zongo/5537902696/))*
 
@@ -70,7 +70,7 @@ Yeah, it's primitive. But it was primitive in 1999. Those messages, hiding behin
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Peter Gabriel](http://tedium.imgix.net/2017/06/0901_gabriel.jpg)
+![Peter Gabriel](https://tedium.imgix.net/2017/06/0901_gabriel.jpg)
 
 ### How Peter Gabriel helped the internet gain its global reputation
 

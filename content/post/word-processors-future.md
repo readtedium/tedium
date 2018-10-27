@@ -4,7 +4,7 @@ categories = ["word processors", "words", "future of text symposium", "internet 
 date = 2016-10-05T07:28:00Z
 description = "The word processor doesn't just deserve scolding. Here's an honest look at some budding word-processor innovation efforts. They're worth writing home about."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium100416.gif"
+image = "https://tedium.imgix.net/2017/06/tedium100416.gif"
 slug = "word-processors-future"
 tags = ["word processors", "words", "future of text symposium", "internet history"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Getting The Next Word In"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Keyboard](http://tedium.imgix.net/2017/06/1004_keyboard.jpg)
+![Keyboard](https://tedium.imgix.net/2017/06/1004_keyboard.jpg)
 
 *([James F. Clay/Flickr](https://www.flickr.com/photos/jamesclay/6654681049/))*
 
@@ -66,7 +66,7 @@ It certainly won't be a hugely commercial project—something Hegland is quick t
 
 {{% /redbox %}}{{% whitebox %}}
 
-[![Quill](http://tedium.imgix.net/2017/06/1004_quill.jpg)](http://quilljs.com/)
+[![Quill](https://tedium.imgix.net/2017/06/1004_quill.jpg)](http://quilljs.com/)
 
 ### A modern take on the word processor that isn't really a word processor at all
 

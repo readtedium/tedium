@@ -4,7 +4,7 @@ categories = ["retail", "money", "books", "shopping", "community", "widgets", "r
 date = 2017-09-13T05:20:06Z
 description = "What do Barnes & Noble, Radio Shack, and Blockbuster have in common? Simple: Their flawed business models relied on selling physical objects in stores."
 draft = false
-image = "http://tedium.imgix.net/2017/09/widgets--1--1.gif"
+image = "https://tedium.imgix.net/2017/09/widgets--1--1.gif"
 slug = "barnes-noble-third-place-widgets"
 tags = ["retail", "money", "books", "shopping", "community", "widgets", "real life", "experiences"]
 variant = "article"
@@ -42,7 +42,7 @@ _**Editor’s note:** Apple’s revelation on Tuesday that it was [rethinking it
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Barnes & Noble store](http://tedium.imgix.net/2017/09/0910_barnesnoble.jpg)
+![Barnes & Noble store](https://tedium.imgix.net/2017/09/0910_barnesnoble.jpg)
 
 *(Pierre Metivier/Flickr)*
 
@@ -78,7 +78,7 @@ What if, instead of monetizing the books, they monetized the important community
 
 {{% /graybox %}}{{% whitebox %}}
 
-![Blockbuster failure](http://tedium.imgix.net/2017/09/0910_blockbuster.jpg)
+![Blockbuster failure](https://tedium.imgix.net/2017/09/0910_blockbuster.jpg)
 
 *(Dave Dugdale/Flickr)*
 

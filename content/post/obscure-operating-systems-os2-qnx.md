@@ -4,7 +4,7 @@ categories = ["operating systems", "computer history", "computers", "qnx", "os/2
 date = 2017-04-21T07:32:00Z
 description = "It ain’t just about Windows, macOS, or Linux. Also-ran or fairly obscure operating systems, like OS/2, are everywhere—in some cases, hiding under your nose."
 draft = false
-image = "http://tedium.imgix.net/2017/04/tedium042017.gif"
+image = "https://tedium.imgix.net/2017/04/tedium042017.gif"
 slug = "obscure-operating-systems-os2-qnx"
 tags = ["operating systems", "computer history", "computers", "qnx", "os/2", "haiku os", "reactos", "freedos", "amiga os", "webos"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Operating In Obscurity"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![LG TV](http://tedium.imgix.net/2017/04/0420_lg.jpg)
+![LG TV](https://tedium.imgix.net/2017/04/0420_lg.jpg)
 
 *"Hi, I'm running an operating system you don't recognize in this context."*
 
@@ -40,7 +40,7 @@ title = "Operating In Obscurity"
 
 {{% /whitebox %}}{{% graybox %}}
 
-![QNX](http://tedium.imgix.net/2017/04/0420_qnx.jpg)
+![QNX](https://tedium.imgix.net/2017/04/0420_qnx.jpg)
 
 *QNX is where it's at. ([PC Magazine/Google Books](https://books.google.com/books?id=7wCiNAUEuAMC&pg=RA2-PA269))*
 
@@ -58,7 +58,7 @@ Whatever the case, QNX was a head-turner upon its release. In *PC Magazine*, com
 
 The operating system has remained active ever since, though never went mainstream among home computer users, mostly sticking to embedded and industrial needs. That is, minus a short period in which the Ontario government had a really good idea.
 
-![Unisys Icon](http://tedium.imgix.net/2017/04/0420_ICON.jpg)
+![Unisys Icon](https://tedium.imgix.net/2017/04/0420_ICON.jpg)
 
 *This young girl knows what QNX is. (via Pop Rewind)*
 
@@ -70,7 +70,7 @@ It was really another mainstream device—one outside the home—where it quietl
 
 {{% /graybox %}}{{% whitebox %}}
 
-![BlackBerry PlayBook](http://tedium.imgix.net/2017/04/0420_blackberry.jpg)
+![BlackBerry PlayBook](https://tedium.imgix.net/2017/04/0420_blackberry.jpg)
 
 *Some functionality only works when tethered to a BlackBerry phone? What were you thinking, RIM? (Handout photo)*
 
@@ -94,7 +94,7 @@ And it makes sense. In a lot of ways, it was not the same QNX as was first shown
 
 As we all know, QNX did not save the BlackBerry phone. But it might help save BlackBerry the company—a firm that has been the recipient of more free business advice than perhaps any other in the world. The turning point came in 2014, when Ford [decided to drop its contract with Microsoft](http://crackberry.com/blackberry-playbook-review-official) in favor of QNX, which (combined with other deals) had the effect of making the operating system something of a de facto standard for cars with onboard infotainment systems.
 
-![CarPlay](http://tedium.imgix.net/2017/04/0420_carplay.jpg)
+![CarPlay](https://tedium.imgix.net/2017/04/0420_carplay.jpg)
 
 *"Hi, this is QNX. I'm wearing an Apple-shaped mask." (Apple press photo)*
 

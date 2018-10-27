@@ -4,7 +4,7 @@ categories = ["failed companies", "failure", "pets", "sock puppets", "pets.com",
 date = 2017-01-13T09:52:00Z
 description = "If someone were to create an online store like Pets.com today, it probably would've worked. So why did it fail miserably back in 2000? A few reasons."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium011217.gif"
+image = "https://tedium.imgix.net/2017/06/tedium011217.gif"
 slug = "pets-dot-com-failure-history"
 tags = ["failed companies", "failure", "pets", "sock puppets", "pets.com", "startups"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "All Sock Puppets Go To Heaven"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Pets.com](http://tedium.imgix.net/2017/06/0110_petscom.jpg)
+![Pets.com](https://tedium.imgix.net/2017/06/0110_petscom.jpg)
 
 *Conan O'Brien revealing to the world that Triumph the Insult Comic Dog had been sued by Pets.com. ([YouTube screenshot](https://www.youtube.com/watch?v=qgtn7iAXSgc))*
 
@@ -62,7 +62,7 @@ And soon, Pets.com was off to the races.
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Pets.com sock puppet parade](http://tedium.imgix.net/2017/06/0110_petscom2.jpg)
+![Pets.com sock puppet parade](https://tedium.imgix.net/2017/06/0110_petscom2.jpg)
 
 *The Pets.com sock puppet at the Macy's Thanksgiving Day Parade. Yes, this happened. ([YouTube screenshot](https://www.youtube.com/watch?v=sICSyC9u5iI))*
 

@@ -4,7 +4,7 @@ categories = ["john scherer", "video professor", "windows", "computer history", 
 date = 2016-11-16T08:51:00Z
 description = "For more than 20 years, John Scherer’s Video Professor offered instructional videos and discs to make computers accessible to novices. Where did it go?"
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium111516.gif"
+image = "https://tedium.imgix.net/2017/06/tedium111516.gif"
 slug = "video-professor-infomercial-history"
 tags = ["john scherer", "video professor", "windows", "computer history", "infomercials", "computers"]
 variant = "article"
@@ -28,7 +28,7 @@ _**Editor's note:** This piece originally published on Vice's [Motherboard](http
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Video Professor](http://tedium.imgix.net/2017/06/1115_videoprof.jpg)
+![Video Professor](https://tedium.imgix.net/2017/06/1115_videoprof.jpg)
 
 *John Scherer's well-known catchphrase: "Try my product." (YouTube screenshot)*
 
@@ -61,7 +61,7 @@ It cut both ways.
 
 {{% /whitebox %}}{{% graybox %}}
 
-![Video Professor disc set](http://tedium.imgix.net/2017/06/1115_videoprofessor.jpg)
+![Video Professor disc set](https://tedium.imgix.net/2017/06/1115_videoprofessor.jpg)
 
 *Video Professor disc set ([via Amazon](http://amzn.to/2fT6IW6))*
 
@@ -75,7 +75,7 @@ It cut both ways.
 
 {{% /graybox %}}{{% whitebox %}}
 
-![Video Professor](http://tedium.imgix.net/2017/06/1115_vidprof_win31.jpg)
+![Video Professor](https://tedium.imgix.net/2017/06/1115_vidprof_win31.jpg)
 
 *An illustration of the Video Professor, as shown in a Windows 3.1 instructional tape. Somewhat ironically, this particular video was created with an Amiga. (YouTube)*
 

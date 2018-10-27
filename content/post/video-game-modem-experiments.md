@@ -4,7 +4,7 @@ categories = ["video games", "modems", "sega", "sega mega anser", "nintendo", "m
 date = 2017-09-19T07:59:00Z
 description = "Who said they just had to make games? From answering machines to lottery prototypes, Sega and Nintendo tried weird things with modems in the early ’90s."
 draft = false
-image = "http://tedium.imgix.net/2017/09/0918_anser.jpg"
+image = "https://tedium.imgix.net/2017/09/0918_anser.jpg"
 slug = "video-game-modem-experiments"
 tags = ["video games", "modems", "sega", "sega mega anser", "nintendo", "minnesota", "lottery", "minnesota lottery", "blurb", "wtf"]
 variant = "blurb"
@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=soTD3Xaa5fo
 
 If you wanted, you could even buy a printer with this God-forsaken thing, which actually, shockingly, [still has a live page on the Sega Japan website](https://sega.jp/fb/segahard/md/answer.html) (in Japanese, of course), though incredibly little is known about it.
 
-![Nintendo Minnesota Lottery](http://tedium.imgix.net/2017/09/0918_lottery.jpg)
+![Nintendo Minnesota Lottery](https://tedium.imgix.net/2017/09/0918_lottery.jpg)
 
 *Nintendo's long-forgotten Minnesota Lottery experiment. (via [Destructoid](https://www.destructoid.com/untapped-potential-a-true-family-computer-137392.phtml))*
 

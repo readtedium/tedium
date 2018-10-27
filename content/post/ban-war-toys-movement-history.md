@@ -4,7 +4,7 @@ categories = ["war toys", "toy industry", "toys", "g.i. joe", "cartoons", "regul
 date = 2016-11-02T07:09:00Z
 description = "G.I. Joe was a massive hit toy in the '80s, but activists and parents alike didn't like the message it fostered. Enter the \"Ban War Toys\" movement."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium110116.gif"
+image = "https://tedium.imgix.net/2017/06/tedium110116.gif"
 slug = "ban-war-toys-movement-history"
 tags = ["war toys", "toy industry", "toys", "g.i. joe", "cartoons", "regulations", "ban war toys"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "War, Peace, And Action Figures"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![GI Joe](http://tedium.imgix.net/2017/06/1101_gijoe.jpg)
+![GI Joe](https://tedium.imgix.net/2017/06/1101_gijoe.jpg)
 
 ### Why such a dramatic increase in war toy sales? Credit G.I. Joe.
 
@@ -60,7 +60,7 @@ G.I. Joe, with its military themes and tightly integrated marketing strategy, wo
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Army men](http://tedium.imgix.net/2017/06/1101_army.jpg)
+![Army men](https://tedium.imgix.net/2017/06/1101_army.jpg)
 
 *([JWPhotowerks/Flickr](https://www.flickr.com/photos/john_whitworth_photography/3868407193/))*
 

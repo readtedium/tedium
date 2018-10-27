@@ -4,7 +4,7 @@ categories = ["allmusic", "all music guide", "michael erlewine", "zac johnson", 
 date = 2016-09-21T07:50:00Z
 description = "When AllMusic launched 25 years ago, it wasn't an obvious big data play. But it became one. Hidden in its millions of entries is music's collective history."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium092016.gif"
+image = "https://tedium.imgix.net/2017/06/tedium092016.gif"
 slug = "allmusic-database-historic-importance"
 tags = ["allmusic", "all music guide", "michael erlewine", "zac johnson", "stephen thomas erlewine", "databases", "musical databases", "wikipedia", "pop culture", "music industry"]
 variant = "article"
@@ -28,7 +28,7 @@ title = "The Big Data Jukebox"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![AllMusic swag](http://tedium.imgix.net/2017/06/0920_allmusic.jpg)
+![AllMusic swag](https://tedium.imgix.net/2017/06/0920_allmusic.jpg)
 
 ### How AllMusic highlights the value of the "long tail"
 
@@ -39,7 +39,7 @@ The site, which actually started in dead-tree form as a series of books, was act
 But being a for-profit business, unlike the Wikimedia Foundation, adds some wrinkles to the mix. The All Music Guide, as it was originally called, has gone through a variety of iterations over the years, along with a number of owners.
 
 
-![AllMusic Circa 1996](http://tedium.imgix.net/2017/06/0920_allmusicearly.jpg)
+![AllMusic Circa 1996](https://tedium.imgix.net/2017/06/0920_allmusicearly.jpg)
 
 *One of the earliest online iterations of All Music Guide. (via AllMusic's Facebook page)* 
 
@@ -75,7 +75,7 @@ Not that everything can get in—there's just too much stuff, and the editors ha
 
 {{% /redbox %}}{{% graybox %}}
 
-![AllMusic](http://tedium.imgix.net/2017/06/0920_allmusic_books.jpg)
+![AllMusic](https://tedium.imgix.net/2017/06/0920_allmusic_books.jpg)
 
 ### The guts of AllMusic's massive machine
 
@@ -93,7 +93,7 @@ The sheer scale of the platform makes backend changes not a small endeavor—and
 
 {{% /graybox %}}{{% whitebox %}}
 
-![Cub Koda](http://tedium.imgix.net/2017/06/0920_cub.jpg)
+![Cub Koda](https://tedium.imgix.net/2017/06/0920_cub.jpg)
 
 *Cub Koda, as presented in AllMusic's database. (Guenther Studios)*
 

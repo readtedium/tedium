@@ -4,7 +4,7 @@ categories = ["cheese curls", "cheese", "extrusion", "food manufacturing", "manu
 date = 2016-11-11T09:54:00Z
 description = "For more than 50 years, cheese curls have been a staple of the modern junk food diet. You won't believe how we first discovered them."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium111016.gif"
+image = "https://tedium.imgix.net/2017/06/tedium111016.gif"
 slug = "cheese-curls-creation-story"
 tags = ["cheese curls", "cheese", "extrusion", "food manufacturing", "manufacturing", "happy accidents", "wisconsin", "frito lay", "chester cheetah"]
 variant = "article"
@@ -18,7 +18,7 @@ title = "Junk Food’s Happiest Accident"
 
 {{% /whitebox %}}{{% graybox %}}
 
-![Korn Kurls](http://tedium.imgix.net/2017/06/1110_adams.jpg)
+![Korn Kurls](https://tedium.imgix.net/2017/06/1110_adams.jpg)
 
 *(via [Etsy](https://www.etsy.com/nz/listing/265419433/1950-adams-korn-kurls-the-precursor-of))*
 
@@ -30,7 +30,7 @@ But some of those innovations, like the process that gave us the modern cheese c
 
 But the accident proved fruitful for Flakall Corporation, a Beloit, Wisconsin animal feed manufacturer whose owners later switched gears to producing snack foods, all thanks to the way the company cleaned its machines. The company’s approach to producing animal feed was to put the material through a grinder, effectively flaking out the corn so more of it could be used to get as much usable material as possible from the grain, as well as to ensure cows weren’t chewing any sharp kernels.
 
-![Patent illustration](http://tedium.imgix.net/2017/06/1110_patent2.png)
+![Patent illustration](https://tedium.imgix.net/2017/06/1110_patent2.png)
 
 *A feed grinder. (patent filing)*
 
@@ -44,7 +44,7 @@ Edward Wilson, an observant Flakall employee, saw these puffs come out of the ma
 
 Another way to put this is that when you’re eating a cheese curl, you’re noshing on repurposed animal feed.
 
-![How a cheese curl is made](http://tedium.imgix.net/2017/06/1110_patent.png)
+![How a cheese curl is made](https://tedium.imgix.net/2017/06/1110_patent.png)
 
 *How a cheese curl is made. (patent filing)*
 
@@ -62,7 +62,7 @@ Clearly, Flakall had something big. The firm eventually changed its name to Adam
 
 {{% /graybox %}}{{% whitebox %}}
 
-![Chee Wees](http://tedium.imgix.net/2017/06/1110_cheewees.jpg)
+![Chee Wees](https://tedium.imgix.net/2017/06/1110_cheewees.jpg)
 
 ### The other claimant to the cheese curl’s invention bounced back from natural disaster
 
@@ -80,7 +80,7 @@ A challenge like that might have been enough to kill a lot of companies. But Elm
 
 {{% /whitebox %}}{{% graybox %}}
 
-![Cheetos](http://tedium.imgix.net/2017/06/1110_cheetos.jpg)
+![Cheetos](https://tedium.imgix.net/2017/06/1110_cheetos.jpg)
 
 *([Mike Mozart/Flickr](https://www.flickr.com/photos/jeepersmedia/14061801588/))*
 
@@ -94,7 +94,7 @@ A challenge like that might have been enough to kill a lot of companies. But Elm
 
 {{% /graybox %}}{{% whitebox %}}
 
-![Chester Cheetah](http://tedium.imgix.net/2017/06/1110_cheetos2.jpg)
+![Chester Cheetah](https://tedium.imgix.net/2017/06/1110_cheetos2.jpg)
 
 *([Mike Mozart/Flickr](https://www.flickr.com/photos/jeepersmedia/14061810929/))*
 

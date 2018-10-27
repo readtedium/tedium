@@ -4,7 +4,7 @@ categories = ["tedium", "no politics", "literally anything else", "relax", "no e
 date = 2016-11-09T04:09:47Z
 description = "Don't worry guys. We found something else to write about tonight besides the 2016 election. Relax. There are many interesting links here."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium110816.gif"
+image = "https://tedium.imgix.net/2017/06/tedium110816.gif"
 slug = "mental-health-break"
 tags = ["tedium", "no politics", "literally anything else", "relax", "no elections allowed", "mental health break"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Anything But Politics"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Doug Funnie](http://tedium.imgix.net/2017/06/1103_funnie.jpg)
+![Doug Funnie](https://tedium.imgix.net/2017/06/1103_funnie.jpg)
 
 *Doug Funnie, looking relaxed, writing in his journal. This is how Tedium is produced twice a week. (Nickelodeon)*
 

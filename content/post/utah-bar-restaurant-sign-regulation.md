@@ -4,7 +4,7 @@ categories = ["blurb", "restaurants", "utah", "liquor laws", "alcohol", "alcohol
 date = 2017-04-27T07:07:00Z
 description = "As part of a new revamp of its liquor laws, Utah facilities now must feature a sign that tells customers whether a facility is a bar or restaurant."
 draft = false
-image = "http://tedium.imgix.net/2017/04/0426_utah.jpg"
+image = "https://tedium.imgix.net/2017/04/0426_utah.jpg"
 slug = "utah-bar-restaurant-sign-regulation"
 tags = ["blurb", "restaurants", "utah", "liquor laws", "alcohol", "alcoholic beverage", "weird laws", "zion curtain"]
 variant = "blurb"
@@ -22,9 +22,9 @@ Those rules are unusually strict, but nothing compared to the “Zion Curtain,�
 
 The plus side is that these laws [recently got a rethink](https://www.ksl.com/?sid=43665263&nid=148)—soon, instead of a Zion Curtain, bartenders can put a 10-foot buffer around the bar instead. (A saga involving the hoops [a popular restaurant had to go through](http://www.latimes.com/nation/la-na-utah-zion-curtain-20161111-story.html) may have helped.) But it’s also creating another weird, only-in-Utah requirement that’s basically necessary only because of the convoluted laws.
 
-![Bar](http://tedium.imgix.net/2017/04/0426_bar.jpg)
+![Bar](https://tedium.imgix.net/2017/04/0426_bar.jpg)
 
-![Restaurant](http://tedium.imgix.net/2017/04/0426_restaurant.jpg)
+![Restaurant](https://tedium.imgix.net/2017/04/0426_restaurant.jpg)
 
 Thanks to a bout of rulemaking at the Utah Department of Alcoholic Beverage Control, facilities [have to put up a sign](http://www.sltrib.com/news/5216893-155/mixed-up-about-whether-youre-in) at their entrance, about the size of a sheet of paper, that says whether their facility is a bar or restaurant. 
 

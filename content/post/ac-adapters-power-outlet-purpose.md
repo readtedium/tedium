@@ -4,7 +4,7 @@ categories = ["ac adapters", "ac adapter", "power outlets", "power bricks", "seg
 date = 2016-09-28T07:28:00Z
 description = "They're big, clunky, and annoying, but AC adapters are a fact of life in consumer electronics. Why? Let's just say Thomas Edison's getting his comeuppance."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium092716--1-.gif"
+image = "https://tedium.imgix.net/2017/06/tedium092716--1-.gif"
 slug = "ac-adapters-power-outlet-purpose"
 tags = ["ac adapters", "ac adapter", "power outlets", "power bricks", "sega", "sega genesis", "power strips", "energy", "alternating current", "direct current"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Adapters, Unplugged"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Wall Wart](http://tedium.imgix.net/2017/06/0927_adapter1.jpg)
+![Wall Wart](https://tedium.imgix.net/2017/06/0927_adapter1.jpg)
 
 *([Toshiyuki IMAI/Flickr](https://www.flickr.com/photos/matsuyuki/6943498519/))*
 
@@ -68,7 +68,7 @@ And that solution lets electronics manufacturers focus on the parts of the produ
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Sega Genesis with Sega CD and 32X](http://tedium.imgix.net/2017/06/0927_sega.jpg)
+![Sega Genesis with Sega CD and 32X](https://tedium.imgix.net/2017/06/0927_sega.jpg)
 
 ### How Sega created an outlet conundrum for its biggest fans
 
@@ -80,7 +80,7 @@ But these three devices together created a conundrum for gamers. See, each one o
 
 This was a problem for the average power strip. Power strips at the time were designed to be very narrow and with their adapters each aligned vertically. If you have a single device with an AC adapter on a power strip, this isn't a problem, because it can be attached to the end of the strip. But if you have three, you suddenly have a traffic problem. Simply put, you can't plug in a TV and three AC adapters on a single power strip. You'll be lucky to even fit the three power adapters.
 
-![Sega Power Strip](http://tedium.imgix.net/2017/06/0927_sega2.jpg)
+![Sega Power Strip](https://tedium.imgix.net/2017/06/0927_sega2.jpg)
 
 *(via [Sega Retro](http://segaretro.org/Sega_Power_Strip))*
 

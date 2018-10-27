@@ -4,7 +4,7 @@ categories = ["yahoo", "yahoo!", "web portals", "technology", "vintage gaming", 
 date = 2017-07-28T07:41:00Z
 description = "The parlor games hosted by Yahoo! once represented some of the internet’s best efforts at interactivity. But that didn’t last. Here’s how Yahoo! Games lost."
 draft = false
-image = "http://tedium.imgix.net/2017/07/tedium072717.gif"
+image = "https://tedium.imgix.net/2017/07/tedium072717.gif"
 slug = "yahoo-games-failure-classicgames"
 tags = ["yahoo", "yahoo!", "web portals", "technology", "vintage gaming", "classic games", "joel comm", "video games", "java", "sun microsystems"]
 variant = "article"
@@ -20,7 +20,7 @@ title = "How To Checkmate Yourself"
 
 {{% adbox bgcolor="#666666" color="#ffffff" accent="#31caca" %}}
 
-[![Lull Mattress](http://tedium.imgix.net/2017/07/0727_lull.jpg)](https://lull.com/mattress)
+[![Lull Mattress](https://tedium.imgix.net/2017/07/0727_lull.jpg)](https://lull.com/mattress)
 
 **Advanced Sleep Tech:** What makes a **[Lull mattress](https://lull.com/mattress)** perfect for a good night's sleep? Easy. A whole lot of innovation and some premium memory foam.
 
@@ -31,7 +31,7 @@ title = "How To Checkmate Yourself"
 
 {{% graybox %}}
 
-![Java Mascot](http://tedium.imgix.net/2017/07/0725_java.jpg)
+![Java Mascot](https://tedium.imgix.net/2017/07/0725_java.jpg)
 
 *Duke, the mascot for Java. [Oracle acquired Sun Microsystems](http://abcnews.go.com/Technology/story?id=7395780) in 2010. ([Oracle PR/Flickr](https://www.flickr.com/photos/oracle_images/6236966575))*
 
@@ -41,7 +41,7 @@ In recent years, the word “Java” has become something of an annoyance for we
 
 Starting in 1991, Sun Microsystems began experimenting with a new kind of programming language designed specifically for interactive televisions, though when interactive TVs inevitably failed to generate heat, Sun and the language’s primary developer, James Gosling, moved the idea to the broader Web, which was just starting to grow.
 
-![HotJava](http://tedium.imgix.net/2017/07/0725_hotjava.jpg)
+![HotJava](https://tedium.imgix.net/2017/07/0725_hotjava.jpg)
 
 *A screenshot from HotJava. The graphics team at Sun was apparently a HotMess.*
 
@@ -71,7 +71,7 @@ But back in the ’90s it took a couple of years for a killer app to emerge. And
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Deck of cards](http://tedium.imgix.net/2017/07/0725_cards.jpg)
+![Deck of cards](https://tedium.imgix.net/2017/07/0725_cards.jpg)
 
 *([Gepharts3d/Pixabay](https://pixabay.com/en/poker-playing-king-ace-game-686981/))*
 
@@ -97,7 +97,7 @@ It helped that ClassicGames.com, beyond being fun, was a very effective model fo
 
 The growth of ClassicGames.com, [which only gained that name in July of 1997](https://web.archive.org/web/19971210235457/http://www.classicgames.com:80/news.html), was hard to ignore, even without a centralized portal to help it scale. 
 
-![Yahoo Chess](http://tedium.imgix.net/2017/07/0725_chess.jpg)
+![Yahoo Chess](https://tedium.imgix.net/2017/07/0725_chess.jpg)
 
 And there was an obvious portal on a purchasing tear at the time: Yahoo!, which bought the site in 1998.
 
@@ -117,7 +117,7 @@ Unfortunately for Yahoo!, Facebook was simply better at building walled gardens.
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Yahoo! Games Spades](http://tedium.imgix.net/2017/07/0725_yahoo.jpg)
+![Yahoo! Games Spades](https://tedium.imgix.net/2017/07/0725_yahoo.jpg)
 
 *Yahoo Spades. The bearded male icon is based on Joel Comm's appearance at the time. (via Joel Comm's website)*
 

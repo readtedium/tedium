@@ -4,7 +4,7 @@ categories = ["teddy ruxpin", "worlds of wonder", "lazer tag", "toys", "toy indu
 date = 2016-09-09T07:00:00Z
 description = "Staffed by former Atari employees and  with a big hit on its hands, Worlds of Wonder tried to ride Teddy Ruxpin to the promised land. They failed, fast."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium090916.gif"
+image = "https://tedium.imgix.net/2017/06/tedium090916.gif"
 slug = "worlds-of-wonder-teddy-ruxpin-history"
 tags = ["teddy ruxpin", "worlds of wonder", "lazer tag", "toys", "toy industry", "tiger electronics", "failed companies", "nintendo", "atari"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "What a Wonderful World"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Teddy Ruxpin](http://tedium.imgix.net/2017/06/0908_ruxpin.jpg)
+![Teddy Ruxpin](https://tedium.imgix.net/2017/06/0908_ruxpin.jpg)
 
 ### Teddy Ruxpin may have been the first toy ever designed to be a  megahit
 
@@ -64,7 +64,7 @@ Worlds of Wonder certainly knew the Apple-like moves. When Teddy Ruxpin became a
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Lazer Tag](http://tedium.imgix.net/2017/06/0908_lazer.jpg)
+![Lazer Tag](https://tedium.imgix.net/2017/06/0908_lazer.jpg)
 
 ### Worlds of Wonder's demise came about partly due to a police shooting
 

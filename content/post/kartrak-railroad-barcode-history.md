@@ -4,7 +4,7 @@ categories = ["barcodes", "bar codes", "railroads", "trains", "kartrak", "automa
 date = 2017-09-06T07:28:00Z
 description = "KarTrak, an innovation originally built for the rail system, was quickly discarded by train operators. But without it, we wouldn’t have modern barcodes."
 draft = false
-image = "http://tedium.imgix.net/2017/09/tedium090517.gif"
+image = "https://tedium.imgix.net/2017/09/tedium090517.gif"
 slug = "kartrak-railroad-barcode-history"
 tags = ["barcodes", "bar codes", "railroads", "trains", "kartrak", "automation", "vintage technology"]
 variant = "article"
@@ -19,7 +19,7 @@ title = "Right Track, Wrong Station"
 
 {{% adbox bgcolor="#f8ca68" color="#333333" accent="#e6461a" %}}
 
-[![Tedium on Patreon](http://tedium.imgix.net/2017/09/0905_karaoke.jpg)](https://www.patreon.com/tedium)
+[![Tedium on Patreon](https://tedium.imgix.net/2017/09/0905_karaoke.jpg)](https://www.patreon.com/tedium)
 
 **[Weird Amazon discoveries](https://www.patreon.com/tedium):** We recently bought this **[karaoke selfie mic](http://amzn.to/2j0Qu2k)** for someone as part of **[Tedium's "curated shopping" Patreon tier](https://www.patreon.com/tedium)** where we buy people **[weird things](http://amzn.to/2w5zObl)**. It's like Tedium in your mailbox.
 
@@ -36,7 +36,7 @@ title = "Right Track, Wrong Station"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![KarTrak boxcar](http://tedium.imgix.net/2017/09/0905_kartrakb.jpg)
+![KarTrak boxcar](https://tedium.imgix.net/2017/09/0905_kartrakb.jpg)
 
 *A boxcar with KarTrak card on front of it. ([Michael Hicks/Flickr](https://www.flickr.com/photos/mulad/165282838))*
 
@@ -80,7 +80,7 @@ A bold claim, sure. But it eventually caught on when, in 1967, the Association o
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Kartrak code](http://tedium.imgix.net/2017/09/0905_kartrak.jpg)
+![Kartrak code](https://tedium.imgix.net/2017/09/0905_kartrak.jpg)
 
 *A sample KarTrak or ACI code. ([Rob Swatski/Flickr](https://www.flickr.com/photos/rswatski/6934446670/))*
 

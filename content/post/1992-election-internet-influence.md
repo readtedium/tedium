@@ -4,7 +4,7 @@ categories = ["politics", "1992", "1992 campaign", "bill clinton", "george h.w. 
 date = 2016-10-19T07:38:20Z
 description = "The web wasn't common in 1992, but presidential candidates notably took baby steps toward the internet that year—Ross Perot in a bigger way than most."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium101816.gif"
+image = "https://tedium.imgix.net/2017/06/tedium101816.gif"
 slug = "1992-election-internet-influence"
 tags = ["politics", "1992", "1992 campaign", "bill clinton", "george h.w. bush", "ross perot", "internet archive", "brewster kahle", "history", "internet history", "WAIS"]
 variant = "article"
@@ -18,7 +18,7 @@ title = "The Internet's First Election"
 
 {{% /whitebox %}}{{% graybox %}}
 
-![1992 Presidential Debate](http://tedium.imgix.net/2017/06/1018_debate.jpg)
+![1992 Presidential Debate](https://tedium.imgix.net/2017/06/1018_debate.jpg)
 
 *(via the [National Communication Association](https://www.natcom.org/RichmondEvent/))*
 
@@ -40,7 +40,7 @@ title = "The Internet's First Election"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Ross Perot](http://tedium.imgix.net/2017/06/1018_perot.jpg)
+![Ross Perot](https://tedium.imgix.net/2017/06/1018_perot.jpg)
 
 *Ross Perot (Wikimedia Commons)*
 
@@ -54,7 +54,7 @@ The technology, at the time, was seen as particularly valuable—especially in t
 
 And, as a company, it got its start thanks to a presidential campaign—Ross Perot's, to be specific. As Kahle states nearly an hour into [the video](https://archive.org/details/brewster_kahle_interview_1992), the campaign basically was the reason why the company was created when it was. In fact, Kahle described it as a "fortuitous event": He knew Perot Systems head Mort Meyerson, who had a sudden need for an information-organization platform for the campaign of the company's namesake.
 
-[![Brewster Kahle, circa 1992](http://tedium.imgix.net/2017/06/1018_kahle.jpg)](https://archive.org/details/brewster_kahle_interview_1992)
+[![Brewster Kahle, circa 1992](https://tedium.imgix.net/2017/06/1018_kahle.jpg)](https://archive.org/details/brewster_kahle_interview_1992)
 
 *Brewster Kahle, circa 1992. (via the Internet Archive)*
 

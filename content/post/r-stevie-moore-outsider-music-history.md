@@ -4,7 +4,7 @@ categories = ["outsider music", "r stevie moore", "r. stevie moore", "diy", "cas
 date = 2017-08-30T06:18:00Z
 description = "The tale of R. Stevie Moore, perhaps the most prolific musician that the world has ever seen. So why haven't you heard of him?"
 draft = false
-image = "http://tedium.imgix.net/2017/08/tedium082917-4.gif"
+image = "https://tedium.imgix.net/2017/08/tedium082917-4.gif"
 slug = "r-stevie-moore-outsider-music-history"
 tags = ["outsider music", "r stevie moore", "r. stevie moore", "diy", "cassette tapes", "cassettes", "music history", "obscure music"]
 variant = "article"
@@ -24,7 +24,7 @@ _**Editor's note:** Hey all, Ernie from Tedium here! So I'm happy to introduce [
 
 {{% adbox bgcolor="#dce1e5" color="#484d55" accent="#ef4036" %}}
 
-[![Drizly](http://tedium.imgix.net/2017/08/0803_drizly.png)](http://www.gopjn.com/t/SUNHR0tHSklDR0xGS0dPQ0dJSUZPTw)
+[![Drizly](https://tedium.imgix.net/2017/08/0803_drizly.png)](http://www.gopjn.com/t/SUNHR0tHSklDR0xGS0dPQ0dJSUZPTw)
 
 <span style="font-size:110%; line-height: 130%;">**[Need a gift fast?](http://www.gopjn.com/t/SUNHR0tHSklDR0xGS0dPQ0dJSUZPTw)** Order Drizly now and have beer, wine, or liquor delivered within the hour. Shop now and **[save $5 using the code DRIZLYDEAL](http://www.gopjn.com/t/SUNHR0tHSklDR0xGS0dPQ0dJSUZPTw)**.</span>
 
@@ -42,7 +42,7 @@ _**Editor's note:** Hey all, Ernie from Tedium here! So I'm happy to introduce [
 
 {{% /redbox %}}{{% whitebox %}}
 
-![R. Stevie Moore in concert](http://tedium.imgix.net/2017/08/0830_stevie2-1.jpg)
+![R. Stevie Moore in concert](https://tedium.imgix.net/2017/08/0830_stevie2-1.jpg)
 
 *R. Stevie Moore, shown at a 2012 concert with Xiu Xiu. ([UT Connewitz Photo Crew/Flickr](https://www.flickr.com/photos/utconnewitz/7420396234/))*
 
@@ -74,7 +74,7 @@ Through his "underground" career and do-it-yourself aesthetic, Moore would go on
 
 {{% /redbox %}}{{% whitebox %}}
 
-![R. Stevie Moore](http://tedium.imgix.net/2017/08/0830_stevie.jpg)
+![R. Stevie Moore](https://tedium.imgix.net/2017/08/0830_stevie.jpg)
 
 *A collection of the author's R. Stevie Moore memorabilia.*
 
@@ -96,7 +96,7 @@ After thoroughly listening to those albums, [checking out his website](http://ww
 
 {{% /whitebox %}}{{% graybox %}}
 
-![R. Stevie Moore](http://tedium.imgix.net/2017/08/0830_stevie3.jpg)
+![R. Stevie Moore](https://tedium.imgix.net/2017/08/0830_stevie3.jpg)
 
 *A vintage R. Stevie Moore press photo. (Courtesy of the author)*
 
@@ -118,7 +118,7 @@ This was also his last appearance on *The Uncle Floyd Show* and a few years late
 
 {{% /redbox %}}{{% whitebox %}}
 
-[![When dja Get Back?](http://tedium.imgix.net/2017/08/0830_stevie4.jpg)](https://rsteviemoore.bandcamp.com/album/when-dja-get-back)
+[![When dja Get Back?](https://tedium.imgix.net/2017/08/0830_stevie4.jpg)](https://rsteviemoore.bandcamp.com/album/when-dja-get-back)
 
 *When dja Get Back?, R. Stevie Moore's latest album.*
 

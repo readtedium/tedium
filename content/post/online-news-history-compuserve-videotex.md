@@ -4,7 +4,7 @@ categories = ["internet history", "internet access", "compuserve", "newspapers",
 date = 2016-11-04T07:24:00Z
 description = "Newspapers said they wanted to protect the print product, but they were raring to go when it came to experimental online news approaches in the early '80s."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium110316.gif"
+image = "https://tedium.imgix.net/2017/06/tedium110316.gif"
 slug = "online-news-history-compuserve-videotex"
 tags = ["internet history", "internet access", "compuserve", "newspapers", "journalism", "bix", "jerry pournelle"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "News In Small Bytes"
 
 {{% /redbox %}}{{% graybox %}}
 
-![Ceefax system](http://tedium.imgix.net/2017/06/1103_ceefax.jpg)
+![Ceefax system](https://tedium.imgix.net/2017/06/1103_ceefax.jpg)
 
 *An example of a Ceefax system. ([Sarah Joy/Flickr](https://www.flickr.com/photos/joybot/6026021969))*
 
@@ -48,7 +48,7 @@ title = "News In Small Bytes"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Compuserve](http://tedium.imgix.net/2017/06/1103_compuserve.jpg)
+![Compuserve](https://tedium.imgix.net/2017/06/1103_compuserve.jpg)
 
 ### How CompuServe convinced the country's largest newspapers to put their stories on its service
 

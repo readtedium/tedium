@@ -4,7 +4,7 @@ categories = ["airports", "municipal airports", "regional airports", "small airp
 date = 2016-12-14T09:11:00Z
 description = "Regional and municipal airports, which often target enthusiasts or niche needs, are pretty low-key compared to say, LAX. But they have plenty of mystery."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium121316.gif"
+image = "https://tedium.imgix.net/2017/06/tedium121316.gif"
 slug = "municipal-regional-airports"
 tags = ["airports", "municipal airports", "regional airports", "small airports", "security"]
 variant = "article"
@@ -28,7 +28,7 @@ _**Editor’s note:** Hey all, our excellent contributor Andrew Egan is back aga
 
 {{% /redbox %}}{{% whitebox %}}
 
-![St. Paul municipal airport](http://tedium.imgix.net/2017/06/1213_airport.jpg)
+![St. Paul municipal airport](https://tedium.imgix.net/2017/06/1213_airport.jpg)
 
 *Holman Municipal Airport, located in St. Paul, Minnesota. (MCAD Library/Flickr)*
 
@@ -38,7 +38,7 @@ Outside of towns large and small across America, hidden gems can be accessed wit
 
 Regional and municipal airports, or "general aviation airports" as designated by the FAA, can be a lifeblood of economic activity for otherwise remote communities. A fact sheet posted in the lobby of the Polson, Montana airport gleefully highlighted the estimated $7 million in economic activity it brought to the area. In other airports, local dealers offer low cost rentals and restaurants proudly promote their food. You can always find the brochure display, offering everything from skydiving over Moab to the Idaho Potato Museum.
 
-![Regional airport brochures](http://tedium.imgix.net/2017/06/1213_brochures.jpg)
+![Regional airport brochures](https://tedium.imgix.net/2017/06/1213_brochures.jpg)
 
 *Brochures collected by the author during travels for a previous Tedium story.*
 
@@ -58,7 +58,7 @@ Even in some remote parts, like DuBois, Idaho, the data connection is strong and
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Small aircraft](http://tedium.imgix.net/2017/06/1213_airplane.jpg)
+![Small aircraft](https://tedium.imgix.net/2017/06/1213_airplane.jpg)
 
 *(Cristianaikido/Pixabay)*
 
@@ -69,7 +69,7 @@ Access to a general aviation airport is loosely restricted.
 
 Some of the more basic, like Downey, Idaho, are open fields with a single corrugated tin hangar. The only real security is obscurity and curious locals. The more lavishly equipped are locked but hints to entry codes are often posted. At McCarley Field in Blackfoot, Idaho access to the [FBO (fixed based operator)](http://blog.privatefly.com/what-is-a-fbo) or the pilots lounge area is controlled with a quick, publicly posted aviation quiz. When put together, the answers created the code to enter the building. The UNICOMM question at the start was by far the most commonly used. [It’s 122.8, by the way](https://www.airnav.com/airport/U02).
 
-![Airport UNICOMM question](http://tedium.imgix.net/2017/06/1213_list.jpg)
+![Airport UNICOMM question](https://tedium.imgix.net/2017/06/1213_list.jpg)
 
 *Sorry for the quality of the picture. Since it was Idaho, I was required to take it with a potato.* 
 

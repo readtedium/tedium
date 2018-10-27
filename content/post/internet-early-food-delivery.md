@@ -4,7 +4,7 @@ categories = ["internet", "internet history", "pizza hut", "food.com", "food his
 date = 2017-04-07T07:49:00Z
 description = "Online food mechanisms were probably secretly essential to the internet’s success, but it took a while for us to get a food option as good as Grubhub."
 draft = false
-image = "http://tedium.imgix.net/2017/04/tedium040617.gif"
+image = "https://tedium.imgix.net/2017/04/tedium040617.gif"
 slug = "internet-early-food-delivery"
 tags = ["internet", "internet history", "pizza hut", "food.com", "food history", "internet coke machine", "the net"]
 variant = "article"
@@ -18,7 +18,7 @@ title = "The Internet of Food"
 
 {{% /whitebox %}}{{% graybox %}}
 
-![Coke Machine](http://tedium.imgix.net/2017/04/0406_coke.jpg)
+![Coke Machine](https://tedium.imgix.net/2017/04/0406_coke.jpg)
 
 *A Coke machine that's not on the internet. ([Ajmexico/Flickr](https://www.flickr.com/photos/ajmexico/3474641412/))*
 
@@ -56,7 +56,7 @@ In other words, a Coke Freestyle machine is an Internet Coke Machine on steroids
 
 {{% /redbox %}}{{% whitebox %}}
 
-![The Net Pizza Delivery](http://tedium.imgix.net/2017/04/0406_pizza.jpg)
+![The Net Pizza Delivery](https://tedium.imgix.net/2017/04/0406_pizza.jpg)
 
 *If your startup is inspired by this movie, reconsider your startup.*
 
@@ -74,7 +74,7 @@ But when Glass looked around for a real-world example of the idea, he couldn’t
 
 This whole state of affairs was more complicated than it sounds. Remember, Google Maps didn’t exist at the time, so the company had to rely on the vanguard at the time, which was MapQuest. [Like Pets.com just a couple years later](http://tedium.co/2017/01/12/pets-dot-com-failure-history/), the company had to build out a lot of its own technology at the time.
 
-![CyberMeals patent](http://tedium.imgix.net/2017/04/0406_patent.jpg)
+![CyberMeals patent](https://tedium.imgix.net/2017/04/0406_patent.jpg)
 
 *A shot of CyberMeals' website, according to its patent filing.*
 
@@ -88,7 +88,7 @@ The company, in a petty astute bit of marketing, used WebObjects, the NeXT Softw
 
 That stroke of good luck quickly turned out to be a mess, because of a particularly bad idea: According to *Newsweek*, the company, soon renamed Cybermeals, [spent $54 million on advertising](http://www.newsweek.com/trying-get-started-164828)—on four major web portals over a four-year period. This was costly and poorly-considered, because web advertising wasn’t very good at the time, and not every market had the company’s service.
 
-![Food.com screenshot](http://tedium.imgix.net/2017/04/0406_food.jpg)
+![Food.com screenshot](https://tedium.imgix.net/2017/04/0406_food.jpg)
 
 *80 percent of this front page is not focused on getting me food. ([Internet Archive](https://web-beta.archive.org/web/20000305233153/http://food.com:80/))*
 
@@ -118,7 +118,7 @@ Read that last paragraph over and consider whether, if we were playing Mad Libs,
 
 The only thing that could make it better, really, is if the messenger bag was a Kozmo.com bag. Chrome Industries [got its start in 1995](http://www.chromeindustries.com/our-story.html), and just a couple of years later, its bags were converted into the startup’s main promotional tool.
 
-![Kozmo.com](http://tedium.imgix.net/2017/04/0406_kozmo.jpg)
+![Kozmo.com](https://tedium.imgix.net/2017/04/0406_kozmo.jpg)
 
 *A Kozmo.com bag that has been through the ringer on the outside. On the inside, it's probably waterproof. ([Danjo Paluska/Flickr](https://www.flickr.com/photos/sixmilliondollardan/3487322681/))*
 

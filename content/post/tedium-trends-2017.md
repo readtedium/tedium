@@ -4,7 +4,7 @@ categories = ["tedium", "state of tedium", "new year's eve", "year end", "fake n
 date = 2016-12-30T07:48:00Z
 description = "The state of our tedium in 2017 is a bit worrying, but there are just enough bright spots to make yet another year of drudgery worthwhile."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium122916.gif"
+image = "https://tedium.imgix.net/2017/06/tedium122916.gif"
 slug = "tedium-trends-2017"
 tags = ["tedium", "state of tedium", "new year's eve", "year end", "fake news", "journalism", "catfish", "pitchforks"]
 variant = "article"
@@ -28,7 +28,7 @@ _**Editor’s note:**  For those playing at home, compare this one to our other 
 
 {{% /redbox %}}{{% graybox %}}
 
-![A catfish that may soon find itself on the liberating end of a pitchfork.](http://tedium.imgix.net/2017/06/1229_catfish.jpg)
+![A catfish that may soon find itself on the liberating end of a pitchfork.](https://tedium.imgix.net/2017/06/1229_catfish.jpg)
 
 *A catfish that may soon find itself on the liberating end of a pitchfork. (Pixabay)*
 
@@ -50,7 +50,7 @@ _**Editor’s note:**  For those playing at home, compare this one to our other 
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Spinning newspaper injures printer](http://tedium.imgix.net/2017/06/1229_newspaper.jpg)
+![Spinning newspaper injures printer](https://tedium.imgix.net/2017/06/1229_newspaper.jpg)
 
 ### The state of our Tedium in 2017 is best defined by the fact we don’t know what “fake news” looks like
 
@@ -62,7 +62,7 @@ So we’re closing 2016 with an immensely important role within our media sudden
 
 The thing is, though, the idea of “fake” stuff on the internet is one of the medium’s greatest products. In the late ’80s, for example, [a guy apparently named “Dave Rhodes”](http://tedium.co/2015/06/18/anatomy-scams-when-pyramids-collapse/#ifirunintodaverhodesonthestreetimgonnapunchhimintheface) had figured out how to turn the chain letter into a digital tool. And the news industry [has been getting misled by their sources](http://tedium.co/2015/07/23/early-computer-virus-history/#thedaythemedialearnedwhatacomputerviruswas) for decades. Hoaxes are, in many ways, a language that the internet only accentuates. So we need to understand that as we’re getting high on information, we could be getting high on the wrong supply.
 
-![Awful school is awful rich](http://tedium.imgix.net/2017/06/1229_newspaper2.jpg)
+![Awful school is awful rich](https://tedium.imgix.net/2017/06/1229_newspaper2.jpg)
 
 This issue is likely to get even worse as 2016 tuns into 2017. Those “hoaxes” once skittered on the edges of the mainstream in a way Penn & Teller [spent nearly a decade](http://amzn.to/2iBrYzV) decrying on premium cable as *Bullshit*. Now, they’re in the middle, more pervasive due to how we get them. In the days of newspapers and television, gatekeepers helped suss out the good from the bad. Now, there are so many gates that we can’t even tell them apart anymore.
 
@@ -70,7 +70,7 @@ Is the problem our culture’s collective reading comprehension? Certainly, ther
 
 "In every case and at every level, we were taken aback by students' lack of preparation," the authors wrote in their study.
 
-![Crazy promises the key](http://tedium.imgix.net/2017/06/1229_newspaper3.jpg)
+![Crazy promises the key](https://tedium.imgix.net/2017/06/1229_newspaper3.jpg)
 
 Combine this with the recent desire by many to call legitimate news outlets “fake news,” and suddenly, it feels like we’re playing a pretty dangerous game as a culture.
 

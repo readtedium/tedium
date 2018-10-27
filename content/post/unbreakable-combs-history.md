@@ -4,7 +4,7 @@ categories = ["plastic", "plastic history", "rubber", "rubber history", "combs",
 date = 2017-08-02T07:07:00Z
 description = "When new innovations in rubber and plastic hit during the 19th and 20th centuries, hair combs usually had them first—especially in unbreakable form."
 draft = false
-image = "http://tedium.imgix.net/2017/08/tedium080117-1.gif"
+image = "https://tedium.imgix.net/2017/08/tedium080117-1.gif"
 slug = "unbreakable-combs-history"
 tags = ["plastic", "plastic history", "rubber", "rubber history", "combs", "hair", "unbreakable combs", "hair salons", "barber shop"]
 variant = "article"
@@ -30,7 +30,7 @@ title = "Bend, Don’t Break"
 
 {{% whitebox %}}
 
-![Comb ad Brooklyn Daily Eagle](http://tedium.imgix.net/2017/08/0801_comb3.jpg)
+![Comb ad Brooklyn Daily Eagle](https://tedium.imgix.net/2017/08/0801_comb3.jpg)
 
 *A most appropriate Christmas gift. ([Brooklyn Daily Eagle](https://www.newspapers.com/clip/12803322/comb/))*
 
@@ -54,7 +54,7 @@ Goodyear’s experiments with combs had a lot of advantages over this state of a
 
 Goodyear, who died in 1860, left behind a growing comb market, with two companies allowed to sell the devices under his patent—the India Rubber Comb Company and the American Hard Rubber Company. Eventually, though, Goodyear’s patent expired, and competition started to build up in the comb space, leading to more aggressive advertising in newspapers and trade publications. One of the common phrases that gained currency around this time was “unbreakable,” something highlighted by the Hercules Combs sold by the Butler Hard Rubber Company.
 
-[![Hercules Combs](http://tedium.imgix.net/2017/08/0801_comb.jpg)](https://books.google.com/books?id=Z1BHAQAAMAAJ&pg=RA1-PA4)
+[![Hercules Combs](https://tedium.imgix.net/2017/08/0801_comb.jpg)](https://books.google.com/books?id=Z1BHAQAAMAAJ&pg=RA1-PA4)
 
 “Various kinds of so-called unbreakable combs have been offered to the public at different times, and the trade is cautioned against accepting any not bearing the gold stamp ‘Hercules,’ Warranted Unbreakable, on the one side, and The Butler Hard Rubber Co. in black on the other,” [an ad for the device in *American Druggist*](https://books.google.com/books?id=Z1BHAQAAMAAJ&pg=RA1-PA4) said in 1891.
 
@@ -70,7 +70,7 @@ It wouldn’t last, thanks to the eventual uptake in plastic, but there was a ti
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Plastic comb](http://tedium.imgix.net/2017/08/0801_comb2.jpg)
+![Plastic comb](https://tedium.imgix.net/2017/08/0801_comb2.jpg)
 
 ([Christopher Woodrich/Flickr](https://www.flickr.com/photos/63807998@N05/18565221431/))
 

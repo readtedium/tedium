@@ -4,7 +4,7 @@ categories = ["mail", "adhesives", "glues", "envelopes", "licking envelopes", "s
 date = 2017-04-12T07:22:00Z
 description = "Why lick-on adhesives on letters maintain a market presence, despite being seemingly old-hat. (Well, except for stamps. We kinda gave up on ‘em there.)"
 draft = false
-image = "http://tedium.imgix.net/2017/04/tedium041117.gif"
+image = "https://tedium.imgix.net/2017/04/tedium041117.gif"
 slug = "envelope-adhesives-licking-history"
 tags = ["mail", "adhesives", "glues", "envelopes", "licking envelopes", "stamps", "direct mail"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Lickety Split"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Adhesive stamp](http://tedium.imgix.net/2017/04/0411_stamp.jpg)
+![Adhesive stamp](https://tedium.imgix.net/2017/04/0411_stamp.jpg)
 
 *The famed Penny Black stamp. (tehhen/Flickr)*
 
@@ -58,7 +58,7 @@ The number of calories, per gram, that gum arabic generally has, according to a 
 
 {{% /redbox %}}{{% graybox %}}
 
-![Licking an envelope](http://tedium.imgix.net/2017/04/0411_envelope.jpg)
+![Licking an envelope](https://tedium.imgix.net/2017/04/0411_envelope.jpg)
 
 *([Kizzzbeth/Flickr](https://www.flickr.com/photos/31403417@N00/6428604253/))*
 
@@ -72,7 +72,7 @@ The number of calories, per gram, that gum arabic generally has, according to a 
 
 {{% /graybox %}}{{% whitebox %}}
 
-![Self-Seal](http://tedium.imgix.net/2017/04/0411_selfseal.jpg)
+![Self-Seal](https://tedium.imgix.net/2017/04/0411_selfseal.jpg)
 
 *An ad for the Self-Seal envelope from a 1941 edition of Life Magazine. (Google Books)*
 

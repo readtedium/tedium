@@ -4,7 +4,7 @@ categories = ["lemons", "lemon squeeze bottles", "squeeze bottles", "plastic", "
 date = 2017-03-01T09:31:00Z
 description = "Lemon juice has long come in containers shaped like lemons. In the U.K., the containers hold an important legacy—both with pancakes and the legal system."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium022817.gif"
+image = "https://tedium.imgix.net/2017/06/tedium022817.gif"
 slug = "lemon-juice-squeeze-bottles-history"
 tags = ["lemons", "lemon squeeze bottles", "squeeze bottles", "plastic", "plastic history", "industrial design"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Lemony Fresh"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Plastic lemon](http://tedium.imgix.net/2017/03/0228_lemon.jpg)
+![Plastic lemon](https://tedium.imgix.net/2017/03/0228_lemon.jpg)
 
 *An example of the plastic lemon form. ([Drew McLellan/Flickr](https://www.flickr.com/photos/drewm/402412545/))*
 
@@ -52,7 +52,7 @@ This was one of many molded plastic products that Pugh’s team designed in the 
 
 They tried other devices for this idea. But in terms of combining novelty and function, the lemon hit all the bases—you only need a little lemon juice at a time, and it needs to be stored for long periods. Hence, that's why we have this for lemons (and limes) and not, uh, oranges.
 
-![Hax Lemon Juice](http://tedium.imgix.net/2017/03/0228_lemon.png)
+![Hax Lemon Juice](https://tedium.imgix.net/2017/03/0228_lemon.png)
 
 *A Hax Lemon Juice ad in a 1955 edition of The Chemist and Druggist. (via [Beach Packaging Design's "Box Vox" blog](http://beachpackagingdesign.com/boxvox/packaged-past-tense-the-hax-plastic-lemon-pack))*
 
@@ -78,7 +78,7 @@ There was briefly a legal battle between the two sides, but eventually, Reckitt 
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Jif Lemon](http://tedium.imgix.net/2017/03/0228_jif1.jpg)
+![Jif Lemon](https://tedium.imgix.net/2017/03/0228_jif1.jpg)
 
 *A Jif lemon. ([Gin Soak/Flickr](https://www.flickr.com/photos/gin_soak/2241852869/))*
 

@@ -4,7 +4,7 @@ categories = ["privacy policy", "privacy", "federal government", "federal trade 
 date = 2016-12-16T09:13:00Z
 description = "The recent saga Evernote faced with its privacy policy proves the document's necessity. But did you know there's no single federal law mandating its use?"
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium121516.gif"
+image = "https://tedium.imgix.net/2017/06/tedium121516.gif"
 slug = "evernote-privacy-policy-digital-analysis"
 tags = ["privacy policy", "privacy", "federal government", "federal trade commission", "evernote", "coppa", "hipaa"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "The Digital Fine Print"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Fine print](http://tedium.imgix.net/2017/06/1215_fineprint.jpg)
+![Fine print](https://tedium.imgix.net/2017/06/1215_fineprint.jpg)
 
 *([Damian Gadal/Flickr](https://www.flickr.com/photos/23024164@N06/14295224395/))*
 
@@ -66,7 +66,7 @@ So as a result, privacy standards are completely spread out among U.S. federal a
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Android phone](http://tedium.imgix.net/2017/06/1215_app.jpg)
+![Android phone](https://tedium.imgix.net/2017/06/1215_app.jpg)
 
 *([Pexels/Pixabay](https://pixabay.com/en/smartphone-technology-apps-1281669/))*
 

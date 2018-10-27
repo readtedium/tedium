@@ -4,7 +4,7 @@ categories = ["pets", "live animals", "animals", "horses", "horse ownership", "n
 date = 2017-09-20T05:58:27Z
 description = "What it's like to keep and maintain a pet horse in New York City, the largest city in the U.S., in 2017. As it turns out, it's not particularly cheap."
 draft = false
-image = "http://tedium.imgix.net/2017/09/tedium091917-iloveimg-compressed.gif"
+image = "https://tedium.imgix.net/2017/09/tedium091917-iloveimg-compressed.gif"
 slug = "horse-ownership-nyc"
 tags = ["pets", "live animals", "animals", "horses", "horse ownership", "new york city", "nyc", "gallopnyc"]
 variant = "article"
@@ -42,7 +42,7 @@ _**Editor's note:** Hey guys, Ernie here with the latest piece from Andrew Egan,
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Beau](http://tedium.imgix.net/2017/09/0918_horse2.jpg)
+![Beau](https://tedium.imgix.net/2017/09/0918_horse2.jpg)
 
 _(All photos by author)_
 
@@ -66,7 +66,7 @@ The total number of private horses owners in the city is small, perhaps a few hu
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Beau](http://tedium.imgix.net/2017/09/0918_horse1.jpg)
+![Beau](https://tedium.imgix.net/2017/09/0918_horse1.jpg)
 
 _Writing this story was kinda the best. (photos by author)_
 
@@ -79,7 +79,7 @@ Beau is a six year-old off-the-track thoroughbred that currently lives in Queens
 Here he is eating some hay:
 
 
-![Beau eating hay](http://tedium.imgix.net/2017/09/0918_horse3.jpg)
+![Beau eating hay](https://tedium.imgix.net/2017/09/0918_horse3.jpg)
 
 _[Chrysippus died](https://en.wikipedia.org/wiki/Chrysippus#Life) watching a donkey eat figs. I get it now._
 

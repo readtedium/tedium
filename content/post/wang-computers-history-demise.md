@@ -4,7 +4,7 @@ categories = ["wang", "wang computers", "computer history", "minicomputers", "an
 date = 2017-02-15T09:18:00Z
 description = "The minicomputer maker Wang Laboratories ran an ad on the Super Bowl long before Apple did. So why did the company and its minicomputers become a footnote?"
 draft = false
-image = "http://tedium.imgix.net/2017/02/tedium021417.gif"
+image = "https://tedium.imgix.net/2017/02/tedium021417.gif"
 slug = "wang-computers-history-demise"
 tags = ["wang", "wang computers", "computer history", "minicomputers", "an wang", "disruption", "wang laboratories", "fred wang"]
 variant = "article"
@@ -29,7 +29,7 @@ _**Editor’s note:** This has been a very big week on the Tedium front; Monday 
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Wang 2200](http://tedium.imgix.net/2017/02/0214_wang.jpg)
+![Wang 2200](https://tedium.imgix.net/2017/02/0214_wang.jpg)
 
 *The Wang 2200. (via Wikimedia Commons)*
 
@@ -69,7 +69,7 @@ Wang sold itself as an enterprise solution, [and advertised its email platform t
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Dr. An Wang](http://tedium.imgix.net/2017/02/0214_wang2.jpg)
+![Dr. An Wang](https://tedium.imgix.net/2017/02/0214_wang2.jpg)
 
 *Dr. An Wang, shown with an array of 2200 models. (Via the Computer History Museum)*
 
@@ -107,7 +107,7 @@ In 1992, the company filed for chapter 11 bankruptcy.
 
 **It could be said that the leadership challenges** that Wang Laboratories faced came about largely as a side effect of the shifting waves in computing. It’s easier to make an unforced error when you’re not keeping up with trends.
 
-![Martin Prince Wang Computers](http://tedium.imgix.net/2017/02/0214_martin.jpg)
+![Martin Prince Wang Computers](https://tedium.imgix.net/2017/02/0214_martin.jpg)
 
 *Because no story about Wang computers is complete without this image of Martin Prince.*
 

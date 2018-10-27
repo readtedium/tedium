@@ -4,7 +4,7 @@ categories = ["design", "internet", "internet history", "microsoft", "internet e
 date = 2017-03-03T09:08:00Z
 description = "FrontPage tried to solve an important problem in the early-internet era—the idea of making web design accessible to mere mortals—but the code wasn't so hot."
 draft = false
-image = "http://tedium.imgix.net/2017/03/tedium030217.gif"
+image = "https://tedium.imgix.net/2017/03/tedium030217.gif"
 slug = "microsoft-frontpage-history-web-design-wysiwyg"
 tags = ["design", "internet", "internet history", "microsoft", "internet explorer", "web design", "html", "coding", "microsoft frontpage"]
 variant = "article"
@@ -26,7 +26,7 @@ title = "Your Code Is Junky"
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Vermeer FrontPage](http://tedium.imgix.net/2017/03/0303_frontpage1.jpg)
+![Vermeer FrontPage](https://tedium.imgix.net/2017/03/0303_frontpage1.jpg)
 
 *The initial version of FrontPage. (via [MicrosoftBob.com](http://www.microsoftbob.com/post/FrontPage-Versions-and-Timeline))*
 
@@ -46,7 +46,7 @@ From Ferguson’s *High Stakes*:
 
 > Our lives would have been far simpler if we could have written just a shrink-wrapped PC application like Word. The problem was that, no matter  what Andy and Randy tried, Web technology dictated that many of the functions we wanted to provide, like text-search engines, had to run alongside the Web server. In part, this is just the way servers work. In part, it was the result of our extremely ambitious goals. In part, it reflected the fact that Berners-Lee had not designed the Web architecture with mere mortals or PC applications in mind. 
 
-![FrontPage](http://tedium.imgix.net/2017/03/0303_frontpage.png)
+![FrontPage](https://tedium.imgix.net/2017/03/0303_frontpage.png)
 
 *The about window on FrontPage. (via [MicrosoftBob.com](http://www.microsoftbob.com/post/FrontPage-Versions-and-Timeline))*
 
@@ -70,7 +70,7 @@ They aimed for something big, but they were about to get something even bigger.
 
 {{% /redbox %}}{{% whitebox %}}
 
-![FrontPage](http://tedium.imgix.net/2017/03/0303_frontpage.jpg)
+![FrontPage](https://tedium.imgix.net/2017/03/0303_frontpage.jpg)
 
 *A screenshot of FrontPage Express, a basic version of FrontPage included with some versions of Internet Explorer.*
 

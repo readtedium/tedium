@@ -4,7 +4,7 @@ categories = ["time", "time tracking", "calculagraph", "clocks", "benjamin frank
 date = 2017-07-07T07:47:00Z
 description = "The story of the calculagraph—a vintage device that helped pool halls, workplaces, and telephone operators track time—and the phrase that helped inspire it."
 draft = false
-image = "http://tedium.imgix.net/2017/07/tedium070617.gif"
+image = "https://tedium.imgix.net/2017/07/tedium070617.gif"
 slug = "calculagraph-history-time-tracking"
 tags = ["time", "time tracking", "calculagraph", "clocks", "benjamin franklin", "time is money", "Poor Richard’s Almanack", "Henry Abbott"]
 variant = "article"
@@ -22,7 +22,7 @@ _**Editor’s note:** Hey guys! Ernie here, handing the floor over once again to
 
 {{% adbox bgcolor="#48485e" color="#ffffff" accent="#ffffff" %}}
 
-[![Springboard](http://tedium.imgix.net/2017/07/springboard.jpg)](https://www.springboard.com/workshops/data-science-career-track/?utm_source=tedium&utm_medium=email&utm_campaign=tediumjuly2017)
+[![Springboard](https://tedium.imgix.net/2017/07/springboard.jpg)](https://www.springboard.com/workshops/data-science-career-track/?utm_source=tedium&utm_medium=email&utm_campaign=tediumjuly2017)
 
 **Get a data science job—guaranteed!** Become a data scientist with the **[first online data science bootcamp](https://www.springboard.com/workshops/data-science-career-track/)** to offer you personalized mentoring, career coaching, and a job guarantee. **[Learn more about the course](https://www.springboard.com/workshops/data-science-career-track/?utm_source=tedium&utm_medium=email&utm_campaign=tediumjuly2017).**
 
@@ -39,7 +39,7 @@ _**Editor’s note:** Hey guys! Ernie here, handing the floor over once again to
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Benjamin Franklin Drawing Electricity from the Sky](http://tedium.imgix.net/2017/07/0706_franklin.jpg)
+![Benjamin Franklin Drawing Electricity from the Sky](https://tedium.imgix.net/2017/07/0706_franklin.jpg)
 
 *The 1815 painting Benjamin Franklin Drawing Electricity from the Sky, which shows off Ben Franklin at his most awesome. (Philadelphia Museum of Art)*
 
@@ -71,7 +71,7 @@ Franklin’s saying was largely understood as an abstract. The direct correlatio
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Calculagraph ad](http://tedium.imgix.net/2017/07/0706_calculagraphad2.jpg)
+![Calculagraph ad](https://tedium.imgix.net/2017/07/0706_calculagraphad2.jpg)
 
 *It's certainly better than a guess. ([The Magazine of Business, Volume 8/via Google Books](https://books.google.com/books?id=bx4_AQAAMAAJ&dq=calculagraph&pg=PA312-IA79))*
 
@@ -83,7 +83,7 @@ In March 1888, yet another trend (changing key-wound watches to stem-wound versi
 
 "This instrument grew out of the idea that *elapsed time* per se has value; that in some industries it is bought and sold as a commodity," Abbott told [*Telephony: The Journal of the Telephone Industry*](http://adirondack.pastperfectonline.com/library/3CE61C30-DAE0-4DBF-A535-944057963064) in 1943. By then, Abbott was in his nineties and waxing philosophical about his life and career.
 
-![Calculagraph patent illustration](http://tedium.imgix.net/2017/07/0706_calculagraph-1.jpg)
+![Calculagraph patent illustration](https://tedium.imgix.net/2017/07/0706_calculagraph-1.jpg)
 
 *A patent illustration of a calculagraph. ([Google Patents](https://www.google.com/patents/US697427))*
 
@@ -95,7 +95,7 @@ The watchmaker sensed he had a blockbuster product on his hands, but creating a 
 
 Pool halls also proved to be reliable customers. The calculagraph helped end surly customer bickering about how much time was spent playing. Abbott also built one for a dentist who wanted to accurately bill patients based on time. (One interesting side note: Abbott said that dentists in the early 20th century earned $15 an hour, or $375 per hour in 2017.)
 
-![](http://tedium.imgix.net/2017/07/0706_calculagraphad.jpg)
+![](https://tedium.imgix.net/2017/07/0706_calculagraphad.jpg)
 
 *It makes no clerical errors. ([The Magazine of Business, Volume 8/via Google Books](https://books.google.com/books?id=bx4_AQAAMAAJ&pg=PA524-IA84))*
 

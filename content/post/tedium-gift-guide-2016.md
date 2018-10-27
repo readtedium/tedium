@@ -4,7 +4,7 @@ categories = ["gift guide", "tedium", "holidays", "commerce", "shopping", "a loo
 date = 2016-12-21T09:40:00Z
 description = "Need to weed out some of the folks on your gift list? Buy them some of the stuff listed here. You won't have to worry about buying them a gift next year."
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium122016.gif"
+image = "https://tedium.imgix.net/2017/06/tedium122016.gif"
 slug = "tedium-gift-guide-2016"
 tags = ["gift guide", "tedium", "holidays", "commerce", "shopping", "a look back", "christmas"]
 variant = "article"
@@ -20,7 +20,7 @@ _**Editor’s note:** And by the way, check out last year’s list. [Most of the
 
 {{% /whitebox %}}{{% graybox %}}
 
-[![Chester Cheetah](http://tedium.imgix.net/2017/06/1220_cheetah.jpg)](http://amzn.to/2gZsjLt)
+[![Chester Cheetah](https://tedium.imgix.net/2017/06/1220_cheetah.jpg)](http://amzn.to/2gZsjLt)
 
 **Chester Cheetah was an icon of marketing,** but there were some who saw the cheetah [and the cheese curls he sold](http://tedium.co/2016/11/10/cheese-curls-creation-story/) and believed that there was much more potential there than a mere branded icon. “I still believe he’s one of the best characters since Bugs Bunny, and the fact he is associated with a product was irrelevant to us,” a Fox Kids executive said in 1992, as they were shelving an attempt to turn him into a Saturday morning cartoon. They didn’t turn him into a cartoon, but they [did turn him into a video game series](http://tedium.co/2016/05/24/video-games-advertising-mascots/), which you can play [for either the Sega Genesis or Super Nintendo Entertainment System](http://amzn.to/2gZsjLt). Choose your cheesy poison. 
 
@@ -28,7 +28,7 @@ _**Editor’s note:** And by the way, check out last year’s list. [Most of the
 
 {{% /graybox %}}{{% redbox %}}
 
-[![Thumb](http://tedium.imgix.net/2017/06/1220_meditations.jpg)](http://amzn.to/2icWno5)
+[![Thumb](https://tedium.imgix.net/2017/06/1220_meditations.jpg)](http://amzn.to/2icWno5)
 
 *([Meditations/Pixabay](https://pixabay.com/en/achievement-agree-approval-1238472/))*
 
@@ -38,13 +38,13 @@ _**Editor’s note:** And by the way, check out last year’s list. [Most of the
 
 {{% /redbox %}}{{% whitebox %}}
 
-[![Robertson Screws](http://tedium.imgix.net/2017/06/1220_robertson.jpg)](http://amzn.to/2hFydVX)
+[![Robertson Screws](https://tedium.imgix.net/2017/06/1220_robertson.jpg)](http://amzn.to/2hFydVX)
 
 **Square screwdrivers, with their many strengths,** nearly owned the American market. Unfortunately, [due to a little competition](http://tedium.co/2016/09/15/screw-history-standards/) from a guy named Philips, the Robertson screw never caught on outside of Canada. But maybe next year it can catch on in your household. Buy a set of [Robertson screwdrivers](http://amzn.to/2h83QH6), as well as a set of [Robertson screws](http://amzn.to/2hFydVX), and encourage your loved one to spend the next eight months replacing every screw in your house. It’s hip to be square.
 
 {{% /whitebox %}}{{% graybox %}}
 
-[![Red Scorpion](http://tedium.imgix.net/2017/06/1220_lundgren.jpg)](http://amzn.to/2hT7Z2J)
+[![Red Scorpion](https://tedium.imgix.net/2017/06/1220_lundgren.jpg)](http://amzn.to/2hT7Z2J)
 
 **No matter how you feel** about this year’s politics or who won what, you have to admit that it’s a tad bit *weirder* than what we’re used to as either a country or a world. But it’s far from the only weird political moment of the last 30 years. For example, there’s Jack Abramoff, who made a name for himself as a lobbyist who would take on all sorts of weird clients. But before that, he was a film producer— [and the movie he came up with](http://tedium.co/2016/04/07/jack-abramoff-film-producer/), *Red Scorpion*, was a Dolph Lundgren-starring piece of propaganda that could have only entered our lives in the late ‘80s. [Which makes it a great gift](http://amzn.to/2hT7Z2J) for someone who is mentally still living in 1989.
 
@@ -52,7 +52,7 @@ _**Editor’s note:** And by the way, check out last year’s list. [Most of the
 
 {{% /graybox %}}{{% redbox %}}
 
-[![Johnson Smith catalogue](http://tedium.imgix.net/2017/06/1220_johnsonsmith.jpg)](http://amzn.to/2ie2l81)
+[![Johnson Smith catalogue](https://tedium.imgix.net/2017/06/1220_johnsonsmith.jpg)](http://amzn.to/2ie2l81)
 
 *(via [Brandeis University](http://www.cs.brandeis.edu/~storer/JimPuzzles/ZPAGES/zzzJohnsonSmithBook.html))*
 
@@ -60,25 +60,25 @@ _**Editor’s note:** And by the way, check out last year’s list. [Most of the
 
 {{% /redbox %}}{{% whitebox %}}
 
-[![Introducing WebTV](http://tedium.imgix.net/2017/06/1220_webtv.jpg)](http://amzn.to/2hYqAaU)
+[![Introducing WebTV](https://tedium.imgix.net/2017/06/1220_webtv.jpg)](http://amzn.to/2hYqAaU)
 
 **You know the phrase “… needs no introduction”?** That definitely did not apply to [WebTV, the attempted “killer app”](http://tedium.co/2016/09/13/webtv-history-20th-anniversary/) that predicted the wave of set-top devices that would take over the living room, but ultimately failed to predict that we wouldn’t be using those devices to surf the web. There were multiple books released [explaining how to use WebTV](http://amzn.to/2hYqAaU), which would be great stocking stuffers for people who like obsolete books with zero relevance to the modern day. 
 
 {{% /whitebox %}}{{% redbox %}}
 
-![Sumé](http://tedium.imgix.net/2017/06/0202_sume.jpg)
+![Sumé](https://tedium.imgix.net/2017/06/0202_sume.jpg)
 
 **On the musical front,** one of the [more interesting tales](http://tedium.co/2016/02/02/greenland-popular-culture/) we came across this year was the story of Sumé, the Greenlandic rock band that became revolutionary in the 1970s. [That band is the subject of a documentary](http://www.thesoundofarevolution.com/), one that probably deserves a little more notice than it’s getting. (If you order [through Amazon](http://amzn.to/2idATHx), by the way, you’re not getting it until February. Buy it for someone who likes getting late Christmas presents, obviously, or consider [Greenland’s most well-known film, *Heart of Light*](http://amzn.to/2h0kvcA), instead.)
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Chia seeds](http://tedium.imgix.net/2017/06/1220_chia.jpg)
+![Chia seeds](https://tedium.imgix.net/2017/06/1220_chia.jpg)
 
 **Have a family member who likes eating really healthy?** Someone made the perfect foodstuff for you to respond to their healthy behavior in a patronizing way: The company behind the Chia Pet [sells chia seeds separately](http://amzn.to/2idQRSa). (If you want to rub it in their faces, [pair it with a Chia politician](http://amzn.to/2hS1dYW).) It’s just one way of many that [the industrial seed trade](http://tedium.co/2016/04/05/seed-industry-bureaucracy-politics/) is going to win over everyone, GMOs or not.
 
 {{% /whitebox %}}{{% graybox %}}
 
-![Phone books](http://tedium.imgix.net/2017/06/1220_phonebooks.jpg)
+![Phone books](https://tedium.imgix.net/2017/06/1220_phonebooks.jpg)
 
 *([Bonnie Natko/Flickr](https://www.flickr.com/photos/bondidwhat/410935146/))*
 
@@ -86,7 +86,7 @@ _**Editor’s note:** And by the way, check out last year’s list. [Most of the
 
 {{% /graybox %}}{{% whitebox %}}
 
-[![My Pillow guy](http://tedium.imgix.net/2017/06/1220_mypillow.jpg)](http://amzn.to/2idEqFJ)
+[![My Pillow guy](https://tedium.imgix.net/2017/06/1220_mypillow.jpg)](http://amzn.to/2idEqFJ)
 
 **Finally, let’s get to the most controversial story** of our 2016—our tale about “hipster mattresses,” [which snarked wise about the Casper trend](http://tedium.co/2016/01/14/hipster-mattresses-casper-yogabed/). There were quite a few people that read that story and thought to themselves, “man, these guys are haters.” But we argue that we were simply analyzing a trend that got a bit out of hand in 2015. We were simply talking ourselves out of that sweet Casper sponsorship money! Plus, they’ve kinda moved on a little. These days, companies like [GhostBed](http://amzn.to/2idE3Le) and [Casper](https://casper.com/pillows) have created new niches for themselves in the hipster pillow business. As long as they don’t ruin [the My Pillow guy’s](http://amzn.to/2idEqFJ) racket, I won’t write another takedown piece. Promise. (Side note: I also wrote about [air mattresses](http://tedium.co/2016/09/06/air-mattresses-bizarre-facts/) this year but only recently learned about [air chairs](http://amzn.to/2i8cAPs).)
 

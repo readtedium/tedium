@@ -4,7 +4,7 @@ categories = ["home ownership", "homes", "houses", "rental", "apartments", "home
 date = 2016-10-21T05:35:10Z
 description = "Home ownership is down. Rentals are up. So are monthly rents—and not just in big cities. How can we get the rental crisis in check before it's too late?"
 draft = false
-image = "http://tedium.imgix.net/2017/06/tedium102016.gif"
+image = "https://tedium.imgix.net/2017/06/tedium102016.gif"
 slug = "rental-crisis-history-problems"
 tags = ["home ownership", "homes", "houses", "rental", "apartments", "home rental", "apartment rental", "make room", "partner post"]
 variant = "article"
@@ -22,7 +22,7 @@ _**Editor’s note:** Today’s issue is created in partnership [with the folks 
 
 <div class="md-redbox" style="background-color:#4D5760;">
 
-<a href="http://makeroomusa.org/"><img src="http://tedium.imgix.net/2017/06/makeroom3.png" style="float: left;max-width: 200px;display: inline-block;padding-right: 1em;margin-top: .75em;" title=""></a>
+<a href="http://makeroomusa.org/"><img src="https://tedium.imgix.net/2017/06/makeroom3.png" style="float: left;max-width: 200px;display: inline-block;padding-right: 1em;margin-top: .75em;" title=""></a>
   
 <p style="font-size: 14pt; line-height: 2.4rem;"><strong><a href="http://makeroomusa.org/">Make Room</a> gives voice</strong> to struggling renters and elevates rental housing on the agendas of our nation’s leaders. We’re <a href="http://www.makeroomusa.org/take-action-organizations/">advocating</a> for better policies and <a href="https://1-million-messages.makeroomusa.org/?target=story">telling the stories</a> of real families who can’t make rent today.</p>
 <p style="font-size: 11pt; line-height: 1rem;">Today's issue is sponsored by <a href="http://makeroomusa.org/">Make Room</a>. (<a href="http://tedium.co/advertising/">You can sponsor us, too</a>.)</p>
@@ -38,7 +38,7 @@ _**Editor’s note:** Today’s issue is created in partnership [with the folks 
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Apartment Buildings](http://tedium.imgix.net/2017/06/1020_apartments.jpg)
+![Apartment Buildings](https://tedium.imgix.net/2017/06/1020_apartments.jpg)
 
 *([Unsplash/Pixabay](https://pixabay.com/en/open-window-air-balcony-fire-escape-1246191/))*
 
@@ -74,7 +74,7 @@ Plenty of people in Toledo probably make a lot more than $19,113. But plenty mor
 
 {{% /redbox %}}{{% whitebox %}}
 
-![Furnished apartment for rent](http://tedium.imgix.net/2017/06/1018_furnished.jpg)
+![Furnished apartment for rent](https://tedium.imgix.net/2017/06/1018_furnished.jpg)
 
 *([turkeychik/Flickr](https://www.flickr.com/photos/turkeychik/))*
 
