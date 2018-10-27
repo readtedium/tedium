@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3d Printing on My New Hugo Site</title>
+    <link>http://example.org/categories/3d-printing/</link>
+    <description>Recent content in 3d Printing on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/3d-printing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Back That Thang Up</title>
+      <link>http://example.org/post/physical-backup-antiques-3d-printing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/physical-backup-antiques-3d-printing/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: It&amp;rsquo;s deeply ironic that World Backup Day comes just a day before April Fools Day. One day encourages people to be stoic, serious, and overly cautious because people are inherently clumsy or devious; the other is designed to encourage people to throw caution in the wind because people are just Joshin&amp;rsquo; you. So in honor of both days (and in an effort to counter-program against all the stupid April Fool&amp;rsquo;s emails you&amp;rsquo;re probably going to be getting in the next 24 hours), let&amp;rsquo;s talk about the nature of destruction—physical things that are valuable because they can&amp;rsquo;t be backed up, getting damaged, dinged up, or destroyed.</description>
+    </item>
+    
+    <item>
+      <title>Cloth, Meet Plastic</title>
+      <link>http://example.org/post/3d-printing-t-shirt-designs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/3d-printing-t-shirt-designs/</guid>
+      <description>[big]As I learned a few months ago, creating custom T-shirts is a somewhat-complicated, but often quite useful way of promoting a product or raising money for an endeavor. That’s in part because it’s something that can’t effectively be done in the comfort of one’s home. [/big]
+Screen-printing is a complicated process, embroidery moreso. You generally need specialized equipment, and the result of doing it at home is usually obvious—you can tell when a shirt was the product of an iron-on design.</description>
+    </item>
+    
+    <item>
+      <title>I’ll Do Something Innovative When I Die</title>
+      <link>http://example.org/post/funeral-technology-innovation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/funeral-technology-innovation/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Death is a weird thing. Everyone does it eventually (unless they’re immortal), and we don’t always have control over when it happens. (If you’re reading this right now, you’ve confirmed that I did not die in the production of this issue.) But the problem is that death is a very sensitive thing, it’s loaded with emotions, it’s expensive, and it’s hard to get right. Perhaps that’s why “death” and “innovation” don’t tend to be so closely associated with one another.</description>
+    </item>
+    
+  </channel>
+</rss>

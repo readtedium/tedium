@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Learning Company on My New Hugo Site</title>
+    <link>http://example.org/tags/the-learning-company/</link>
+    <description>Recent content in The Learning Company on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/the-learning-company/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Total Edutainment Forever</title>
+      <link>http://example.org/post/edutainment-math-blaster-chocolate-covered-broccoli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/edutainment-math-blaster-chocolate-covered-broccoli/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Forcing education and entertainment together is a great way to ensure you don’t really do either all that well. (Case in point: The Jack Hanna repeat wasteland, targeted toward young teens as part of an advertising loophole, that is FCC-mandated educational television on broadcast stations.) Games are no exception. In the infancy of computers, educators quickly figured out that computer games could be a great vessel for both education and entertainment.</description>
+    </item>
+    
+  </channel>
+</rss>

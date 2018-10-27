@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steven Spielberg on My New Hugo Site</title>
+    <link>http://example.org/tags/steven-spielberg/</link>
+    <description>Recent content in Steven Spielberg on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/steven-spielberg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Between the Bars</title>
+      <link>http://example.org/post/movie-letterboxing-pan-scan-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/movie-letterboxing-pan-scan-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Taking an experience like going to the movies and converting it to your living room is a hugely controversial thing, despite the fact we&amp;rsquo;ve been doing it for decades. Rich guy and wannabe disruptor Sean Parker is learning this the hard way, thanks to his efforts to sell a product called Screening Room. The service would allow homes access to first-run movies through a set-top box for a price of $50 a pop—not cheap at all, but potentially cheaper than a night at the movies.</description>
+    </item>
+    
+    <item>
+      <title>The Sound and the Fury</title>
+      <link>http://example.org/post/indiana-jones-sound-design-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/indiana-jones-sound-design-history/</guid>
+      <description>[whitebox]
+Hey all, Ernie here with a piece from Andrew Egan about a specific kind of movie magic—the kind you hear, whether during a dramatic fall or the crack of a whip. Enjoy!
+[big]Today in Tedium: Returning to my sunny little Brooklyn apartment a few weeks ago, I heard a familiar sound coming from my living room. It wasn&amp;rsquo;t music or dialogue but the second I heard it, I knew exactly what one of my roommates was watching in our living room.</description>
+    </item>
+    
+  </channel>
+</rss>

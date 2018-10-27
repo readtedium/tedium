@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Radio Stations on My New Hugo Site</title>
+    <link>http://example.org/tags/radio-stations/</link>
+    <description>Recent content in Radio Stations on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/radio-stations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Don’t Touch That Dial</title>
+      <link>http://example.org/post/radio-technology-upgrades-fmx-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/radio-technology-upgrades-fmx-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Recently, the Norwegian government—which has helped the country become first-movers on the electric car front—decided that it wanted to be ahead of another kind of curve. It was a curve that not everyone was ready for, however. Norway recently decided to drop FM radio, in favor of a modern equivalent, digital audio broadcasting (DAB). This early move comes with a lot of risks, as does every other attempt to mess with the technology that drives the airwaves.</description>
+    </item>
+    
+    <item>
+      <title>Swearing In Code</title>
+      <link>http://example.org/post/pearls-before-swine-morse-code-swearing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/pearls-before-swine-morse-code-swearing/</guid>
+      <description>[big]Unless you’re listening to a numbers station for work reasons, odds are that you aren’t going to need Morse Code for any good reason. Which means that, if you want to take advantage of the lack of general knowledge of Morse Code, you absolutely can.[/big]
+The folk group Pearls Before Swine, a modest psychedelic phenomenon in 1967, thought they were pulling a fast one on their audience when they recorded the tune “Oh Dear (Miss Morse),” the most popular song from the band’s hit album One Nation Underground.</description>
+    </item>
+    
+    <item>
+      <title>Waaaaay Left of the Dial</title>
+      <link>http://example.org/post/frankenfm-radio-fcc-analog-tv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/frankenfm-radio-fcc-analog-tv/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: TV on the Radio isn&amp;rsquo;t just the name of a really freaking good band. Instead, it&amp;rsquo;s a quirk of the design of analog television. But a funny thing happened on the way to obscurity: As analog TV gave way to digital, a handful of risk-taking broadcasters, sensing an opportunity, have started to run those analog TV stations as FM radio stations—big FCC plans be damned. The shift is surprisingly contentious in the world of broadcast.</description>
+    </item>
+    
+  </channel>
+</rss>

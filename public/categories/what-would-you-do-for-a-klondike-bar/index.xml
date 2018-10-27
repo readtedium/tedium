@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>What Would You Do for a Klondike Bar on My New Hugo Site</title>
+    <link>http://example.org/categories/what-would-you-do-for-a-klondike-bar/</link>
+    <description>Recent content in What Would You Do for a Klondike Bar on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/what-would-you-do-for-a-klondike-bar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Frozen Karma&#39;s Gonna Get You</title>
+      <link>http://example.org/post/klondike-bar-trademark-lawsuit-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/klondike-bar-trademark-lawsuit-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: What would you do for a Klondike bar? Most people would probably go to the nearest store, buy a package of chocolate-covered ice cream novelties, and make sure that the package eventually finds an icebox—well, as long as they don&amp;rsquo;t finish said novelties first. (That said, &amp;ldquo;I&amp;rsquo;m ashamed of what I did for a Klondike bar&amp;rdquo; makes for a pretty good T-shirt slogan.) The food conglomerate Kraft was willing to do more than most for a Klondike bar: They saw an opportunity to usurp a rising regional dairy treat with their own version, blatantly ripping it off, causing a listeria outbreak, and finding themselves mired in legal battles, all within the span of a few years.</description>
+    </item>
+    
+  </channel>
+</rss>

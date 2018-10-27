@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Direct Current on My New Hugo Site</title>
+    <link>http://example.org/tags/direct-current/</link>
+    <description>Recent content in Direct Current on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/direct-current/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adapters, Unplugged</title>
+      <link>http://example.org/post/ac-adapters-power-outlet-purpose/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/ac-adapters-power-outlet-purpose/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Power outlets are frustrating, but the devices we use on a daily basis? They don&amp;rsquo;t necessarily make things easier. In fact, the bricks that come with many modern devices, from your router to your Bluetooth speakers to your game console, tend to be giant, and at first, they were designed without any consideration for the fact that there was ample competition for your limited outlet space.</description>
+    </item>
+    
+  </channel>
+</rss>

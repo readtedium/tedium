@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Compression on My New Hugo Site</title>
+    <link>http://example.org/tags/compression/</link>
+    <description>Recent content in Compression on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/compression/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Double Trouble</title>
+      <link>http://example.org/post/disk-compression-stacker-doublespace-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/disk-compression-stacker-doublespace-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: As anyone who has ever owned a smartphone with the minimum amount of flash storage knows, space runs out fast, and once you realize you need more than you’ve allocated yourself, it’s way too late. In computing, this is a story that goes back decades, to a time when giant platters walked (OK, rolled) the Earth. But while running out of storage space on a 16-gig iPhone is annoying, it’s at least reasonable; you can put stuff on the cloud, and if the space drives you nuts, you can always upgrade.</description>
+    </item>
+    
+  </channel>
+</rss>

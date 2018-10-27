@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mattel on My New Hugo Site</title>
+    <link>http://example.org/categories/mattel/</link>
+    <description>Recent content in Mattel on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/mattel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>12 Volts Of Horsepower</title>
+      <link>http://example.org/post/power-wheels-history-kids/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/power-wheels-history-kids/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: With Black Friday past us, this is about the time of year when gift lists start being written by kids who are still fairly new to writing. Over the years, toys like Teddy Ruxpin and the Super Nintendo floated up to the top of many of these lists. But those toys have faded away, for the most part. Power Wheels, on the other hand? The battery driven cars are very much still with us, still in stores, and still likely to be on some kid’s list this year.</description>
+    </item>
+    
+  </channel>
+</rss>

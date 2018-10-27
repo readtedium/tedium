@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cars on My New Hugo Site</title>
+    <link>http://example.org/tags/cars/</link>
+    <description>Recent content in Cars on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/cars/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>12 Volts Of Horsepower</title>
+      <link>http://example.org/post/power-wheels-history-kids/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/power-wheels-history-kids/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: With Black Friday past us, this is about the time of year when gift lists start being written by kids who are still fairly new to writing. Over the years, toys like Teddy Ruxpin and the Super Nintendo floated up to the top of many of these lists. But those toys have faded away, for the most part. Power Wheels, on the other hand? The battery driven cars are very much still with us, still in stores, and still likely to be on some kid’s list this year.</description>
+    </item>
+    
+    <item>
+      <title>Genuine Imitation Leather</title>
+      <link>http://example.org/post/genuine-imitation-leather/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/genuine-imitation-leather/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: As any cursory watch of an episode of Happy Days will tell you, we&amp;rsquo;re obsessed with the look of leather—but perhaps not fans of the way leather is produced. Much like a meal at McDonald&amp;rsquo;s or a fur coat, we&amp;rsquo;re more impressed with the final result without any worries about where it came from—because thinking about where it came from potentially raises some heavy ethical questions.</description>
+    </item>
+    
+    <item>
+      <title>Lithium&#39;s on Fire</title>
+      <link>http://example.org/post/lithium-mining-growth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/lithium-mining-growth/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Those stupid hoverboards that have shown up just about everywhere lately have a big problem, and its name is lithium. In recent weeks, numerous news stories have cropped up about these devices and their tendency to cause fires. The problem is that many of these devices are knockoffs that use really cruddy low-quality lithium batteries, batteries so cruddy that airlines are now telling customers to leave their stupid wheeled floaty devices at home.</description>
+    </item>
+    
+    <item>
+      <title>One Bumpy Ride</title>
+      <link>http://example.org/post/asphalt-pothole-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/asphalt-pothole-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: In this age of questionable support for local journalism, one thing can be guaranteed: Some local reporter, somewhere, is writing a story about potholes. It’s a basic fact of life when it comes to journalism—lots of things divide us, but the things best that unite us are the things we can’t control, and potholes are high on the list, because they’re definitely not intentional. They may be the most frustrating side effect of one of the most common materials you probably never think about: asphalt (also known in some cases as bitumen).</description>
+    </item>
+    
+  </channel>
+</rss>

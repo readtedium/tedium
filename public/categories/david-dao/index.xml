@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Dao on My New Hugo Site</title>
+    <link>http://example.org/categories/david-dao/</link>
+    <description>Recent content in David Dao on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/david-dao/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>There’s Always Next Year</title>
+      <link>http://example.org/post/tedium-trends-2018/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/tedium-trends-2018/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: We’re near the start of the new year, and, as a result, I’m closing in on the third anniversary of launching this crazy newsletter. New Year’s Day is kind of an important day for me personally, as it’s the day that I’ve launched two of my projects, including this one. So I’d like to spend this time reflecting back a little bit … and looking forward.</description>
+    </item>
+    
+  </channel>
+</rss>

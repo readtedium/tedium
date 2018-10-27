@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sports on My New Hugo Site</title>
+    <link>http://example.org/tags/sports/</link>
+    <description>Recent content in Sports on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/sports/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Out Of Our League</title>
+      <link>http://example.org/post/obscure-sports-leagues/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/obscure-sports-leagues/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Despite our interest in sports as a society, for whatever reason, we can’t seem to handle more than a handful of specific professional team sports at any one time. Clearly, there’s an ongoing interest in basketball, baseball, football (both kinds), hockey, and (if you’re feeling generous with the definition of “team sport”) auto racing, but there are just some sports that struggle to move beyond a niche, or perhaps can’t get notice outside of the Olympics.</description>
+    </item>
+    
+    <item>
+      <title>Serious Cornhole</title>
+      <link>http://example.org/post/professional-cornhole-league/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/professional-cornhole-league/</guid>
+      <description>[whitebox]
+Editor&amp;rsquo;s note: Hey all, I have my good pal Andrew Egan back with another offbeat slice of life. Last time, he was talking horses in the big city, now he&amp;rsquo;s all about professional cornhole, which is pretty awesome if you ask me. Read on below!
+&amp;nbsp;
+[big]Today in Tedium: Going to school at one of the country&amp;rsquo;s largest universities was pretty awesome. Sure the parties were great, but some of the best nights we&amp;rsquo;re simply playing beer pong with your buddies and taking it way too seriously.</description>
+    </item>
+    
+    <item>
+      <title>Such Great Heights</title>
+      <link>http://example.org/post/icarus-trophy-race-extreme-sports/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/icarus-trophy-race-extreme-sports/</guid>
+      <description>[whitebox]
+Editor’s note: Today’s issue is a piece from writer Andrew Egan, who had a great story he wanted to share about something really risky. It took him to a few interesting places. Here’s his story.
+[big]Today in Tedium: Risk is a part of everyday life. Even basic tasks, such as commuting to work or eating, involve a minimal amount of danger. Yet some people prefer activities that involve an inordinate amount of risk.</description>
+    </item>
+    
+    <item>
+      <title>Take me out to the riot</title>
+      <link>http://example.org/post/famous-baseball-riots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/famous-baseball-riots/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: This weekend marks the opening day of the 2015 season of Major League Baseball—a sport that you find either immensely fascinating or overrated compared to more action-packed sports like football or basketball. Baseball has never completely lost the public&amp;rsquo;s fascination, though it&amp;rsquo;s certainly had some rough periods over the years. And sometimes, the fans can be total jerks. Today&amp;rsquo;s issue of Tedium covers what it&amp;rsquo;s like to be in the midst of a crowd of annoying baseball fans.</description>
+    </item>
+    
+    <item>
+      <title>The Agony Of Repeat</title>
+      <link>http://example.org/post/wide-world-of-sports-agony-of-defeat-fall/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/wide-world-of-sports-agony-of-defeat-fall/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: I have fond memories of America’s Funniest Home Videos, particularly the early years hosted by Bob Saget. It was a show that defined a uniquely American kind of embarrassment—an embarrassment caught on camera. (Or in the case of Papa John, on tape.) We’re highly familiar with that in the age of YouTube, of course. But there’s something kind of graceful about the woman who gets stuck in her own dishwasher, the above-ground pool that goes kablooey, and (of course!</description>
+    </item>
+    
+  </channel>
+</rss>

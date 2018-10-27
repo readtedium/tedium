@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kraft Foods on My New Hugo Site</title>
+    <link>http://example.org/categories/kraft-foods/</link>
+    <description>Recent content in Kraft Foods on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/kraft-foods/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cheese, American Style</title>
+      <link>http://example.org/post/american-cheese-culture-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/american-cheese-culture-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Of the many things the United States has become known for globally over the years, our addiction to cheese probably stands out the most. We didn’t create it, but we made it ours: An essential part of our diets, a calling card for our food on a global level, and an easy thing to mock within our culture. The U.S. just celebrated its birthday—a birthday that’s built around strong signs of patriotism.</description>
+    </item>
+    
+    <item>
+      <title>Frozen Karma&#39;s Gonna Get You</title>
+      <link>http://example.org/post/klondike-bar-trademark-lawsuit-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/klondike-bar-trademark-lawsuit-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: What would you do for a Klondike bar? Most people would probably go to the nearest store, buy a package of chocolate-covered ice cream novelties, and make sure that the package eventually finds an icebox—well, as long as they don&amp;rsquo;t finish said novelties first. (That said, &amp;ldquo;I&amp;rsquo;m ashamed of what I did for a Klondike bar&amp;rdquo; makes for a pretty good T-shirt slogan.) The food conglomerate Kraft was willing to do more than most for a Klondike bar: They saw an opportunity to usurp a rising regional dairy treat with their own version, blatantly ripping it off, causing a listeria outbreak, and finding themselves mired in legal battles, all within the span of a few years.</description>
+    </item>
+    
+  </channel>
+</rss>

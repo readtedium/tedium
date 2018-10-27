@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Columbia House on My New Hugo Site</title>
+    <link>http://example.org/tags/columbia-house/</link>
+    <description>Recent content in Columbia House on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/columbia-house/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The first 12 cost a penny, but …</title>
+      <link>http://example.org/post/columbia-house-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/columbia-house-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Yesterday, a coworker and good friend of mine revealed to me a fact that made me feel very old. We were talking about Spotify—and his desire not to pay $10 per month for the service—and I referenced Columbia House. He did not know what I was talking about. I was taken aback by this news—I thought everyone knew what Columbia House was! The mail-order CD service (along with its competitor BMG) had a bright moment in the early &amp;lsquo;90s, only to see its business model fall apart thanks to iTunes, and later, Spotify.</description>
+    </item>
+    
+  </channel>
+</rss>

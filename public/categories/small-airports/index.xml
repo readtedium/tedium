@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Small Airports on My New Hugo Site</title>
+    <link>http://example.org/categories/small-airports/</link>
+    <description>Recent content in Small Airports on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/small-airports/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Smaller Airports, Lower Stakes</title>
+      <link>http://example.org/post/municipal-regional-airports/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/municipal-regional-airports/</guid>
+      <description>[whitebox]
+Editor’s note: Hey all, our excellent contributor Andrew Egan is back again; apparently not sick of working with me just yet. Enjoy!
+[big]Today in Tedium: This is my third Tedium piece in as many months. Though previous articles placed figures on World War II tourism in Germany or the danger of a relatively new aerial sport, the revelations offered in this piece were the most ardently cautioned against by sources.</description>
+    </item>
+    
+  </channel>
+</rss>

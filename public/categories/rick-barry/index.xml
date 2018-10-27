@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rick Barry on My New Hugo Site</title>
+    <link>http://example.org/categories/rick-barry/</link>
+    <description>Recent content in Rick Barry on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/rick-barry/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Throwing Muses</title>
+      <link>http://example.org/post/granny-free-throw-comeback/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/granny-free-throw-comeback/</guid>
+      <description>[big]Throughout his entire 15-year playing career, NBA legend Rick Barry was a man without shame.[/big]
+He won a lot of accolades for his play, and was a massively successful star. But he won that success, strangely, by using a style of shot that most people throw out before they reach middle school. See, Barry was an underhand free-throw shooter, and it worked really well for him: For every 10 free throw shots he attempted during his career in the ABA and NBA, he made about nine of them, a rate that was extremely impressive for its time.</description>
+    </item>
+    
+  </channel>
+</rss>

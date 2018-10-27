@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robotics on My New Hugo Site</title>
+    <link>http://example.org/tags/robotics/</link>
+    <description>Recent content in Robotics on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Going Through The Motions</title>
+      <link>http://example.org/post/robotic-arm-history-unimate-versatran/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/robotic-arm-history-unimate-versatran/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: In the nearly 100 years since Czech playwright Karel Čapek borrowed the phrase “robot” from his brother Josef and introduced it to the lexicon, the relationship between man and machine has become endlessly complex and world-defining. And robotic limbs in are a particularly great example of this. Most of our modern innovations have been shaped by the fact that, nearly 60 years ago, someone figured out a way to program a machine to function like an arm—redefining the role of industry in the process.</description>
+    </item>
+    
+    <item>
+      <title>Robotic, But Lovable</title>
+      <link>http://example.org/post/80s-home-robot-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/80s-home-robot-history/</guid>
+      <description>[whitebox]
+Hey all, Ernie here with a brand-new writer to the Tedium stable. John Ohno has some fun obsessions that will come out in this piece about robots. Strap in.
+&amp;nbsp;
+[big]Today in Tedium: Sometimes, the combination of excellent engineering and a concept far ahead of its time isn’t enough, and truly impressive products become almost entirely forgotten. From the mid-1970s to the early 1980s, the home computer market went from a single half-broken $400 kit that shipped months late to an economic powerhouse and a major cultural presence, mostly on the backs of enthusiastic hobbyists willing to pay a great deal of money for extremely impractical and limited machines.</description>
+    </item>
+    
+  </channel>
+</rss>

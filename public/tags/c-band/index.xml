@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C Band on My New Hugo Site</title>
+    <link>http://example.org/tags/c-band/</link>
+    <description>Recent content in C Band on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/c-band/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deep Dish</title>
+      <link>http://example.org/post/early-satellite-dish-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/early-satellite-dish-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: As a whole, the most interesting time for television was the late 1970s and early 1980s. It was an era when most networks were still willing to experiment and the technology wasn’t so locked down that an enthusiast couldn’t get around it. Comcast existed back then, but it wasn’t the juggernaut it is now; DirecTV and Dish Network hadn’t yet taken their current forms. The result was that satellite dishes—which were really freaking massive back then—were only starting to take off, and there was nothing really stopping people willing to buy a dish from investing once and getting all their shows for free after that.</description>
+    </item>
+    
+  </channel>
+</rss>

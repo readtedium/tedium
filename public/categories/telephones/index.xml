@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Telephones on My New Hugo Site</title>
+    <link>http://example.org/categories/telephones/</link>
+    <description>Recent content in Telephones on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/telephones/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Weaponized Slogan</title>
+      <link>http://example.org/post/weird-scam-calls-verizon-slogan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/weird-scam-calls-verizon-slogan/</guid>
+      <description>[big]A not-so-innocent question: For years, Verizon sold millions of people on the promise of solid cellular phone signals with a simple question. “Can you hear me now?” asked Paul Marcarelli, the living pitchman who spent years in anonymity because of his ties to the brand. (He’s much happier with Sprint.)[/big]
+But that question, so innocent-seeming, has become weaponized in the hands of a bunch of scamming robocallers. The Better Business Bureau reported this week that scammers were calling unsuspecting people, asking people on the other end of the line if they can hear them, then hanging up.</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s Dial Up the Weirdness</title>
+      <link>http://example.org/post/weird-telephone-numbers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/weird-telephone-numbers/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: NYNEX hasn&amp;rsquo;t been a going concern since Smash Mouth was first telling us to walk on the sun. (You might know it under its current post-merger name, Verizon.) But that didn&amp;rsquo;t stop me last night from dialing up a message on my Google Hangouts window with an automated request from a NYNEX operator that I deposit five cents or my phone call will be terminated. (Couldn&amp;rsquo;t do it.</description>
+    </item>
+    
+    <item>
+      <title>More Dialing, More Weirdness</title>
+      <link>http://example.org/post/weird-phone-number-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/weird-phone-number-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Almost exactly a year ago, we wrote up a lengthy piece on weird telephone numbers. This piece has been a sleeper hit of sorts in Tedium history. Many of our pieces, if they do gain steam, tend to pick up within a week of writing. Not this one. Instead, the piece went to the top of Google for dozens of variations on the search term “weird phone numbers,” “creepy phone numbers,” and so on.</description>
+    </item>
+    
+    <item>
+      <title>Recorded For Quality Assurance</title>
+      <link>http://example.org/post/call-centers-technology-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/call-centers-technology-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Customer support is a big frustration for the public. We want to be treated well, we want the human on the other end of the line to correctly pronounce our name, we want them to be friendly even when we&amp;rsquo;re not, and (most importantly) we want our problem solved. Most of the time, we&amp;rsquo;re lucky to get one of these things out of a customer support interaction.</description>
+    </item>
+    
+    <item>
+      <title>The Chinese Robocall Blues</title>
+      <link>http://example.org/post/spam-robocalls-history-comparison/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/spam-robocalls-history-comparison/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Recently, I got a phone call from a number I’d never seen before. In other words, an average day. But this call was weird, largely because it was decidedly not for me. It sounded like Chinese, which was confirmed when I had the bright idea of holding my phone against my laptop’s microphone so Google Translate could make it out. Suddenly, it became slightly more clear: The message was a robocall—a strange one at that, one that suggested some sort of immigration trouble for the caller.</description>
+    </item>
+    
+    <item>
+      <title>The Polyphonic Screed</title>
+      <link>http://example.org/post/cell-phone-ringtone-history-evolution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/cell-phone-ringtone-history-evolution/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: For nearly a century, the ring that we associated with a telephone sounded like a variation on this noise. It was simple, consistent. It was boring. And we eventually improved on it, especially in the digital age. When our phones shrank to pocket dimensions and their innards integrated into tiny circuits, it allowed us to redefine exactly a ringtone could be. But that created another problem entirely—the default noise.</description>
+    </item>
+    
+  </channel>
+</rss>

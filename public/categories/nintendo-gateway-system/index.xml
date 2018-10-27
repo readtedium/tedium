@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nintendo Gateway System on My New Hugo Site</title>
+    <link>http://example.org/categories/nintendo-gateway-system/</link>
+    <description>Recent content in Nintendo Gateway System on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/nintendo-gateway-system/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Are You Not Entertained?</title>
+      <link>http://example.org/post/in-flight-entertainment-system-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/in-flight-entertainment-system-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: There was a time when in-flight entertainment was better than anything you could actually bring onto a plane. That time has long passed, and some airlines are looking to get rid of seat-back screens, in favor of letting you use whatever screen you have with you—while making the WiFi better so you’d actually want to do that. Odds are that not many people are going to miss those screens.</description>
+    </item>
+    
+  </channel>
+</rss>

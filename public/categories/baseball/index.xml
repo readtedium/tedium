@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Baseball on My New Hugo Site</title>
+    <link>http://example.org/categories/baseball/</link>
+    <description>Recent content in Baseball on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/baseball/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Otis Nixon, the CD-i, and Me</title>
+      <link>http://example.org/post/otis-nixon-the-cd-i-and-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/otis-nixon-the-cd-i-and-me/</guid>
+      <description>*Editor&amp;rsquo;s note: Once I heard this story from my pal D. Frank Smith about America&amp;rsquo;s Team, the Atlanta Braves, and the worst console of a generation, I knew I had to share it with you guys. Enjoy!*
+&amp;nbsp;
+[big]“Is that Otis Nixon?” I asked my dad as we walked through an Atlanta mall in 1992.[/big]
+It took a moment to adjust my eyes to reality, because Nixon was wearing a suit, not his traditional Atlanta Braves uniform, likely because he was doing an endorsement.</description>
+    </item>
+    
+    <item>
+      <title>Take me out to the riot</title>
+      <link>http://example.org/post/famous-baseball-riots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/famous-baseball-riots/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: This weekend marks the opening day of the 2015 season of Major League Baseball—a sport that you find either immensely fascinating or overrated compared to more action-packed sports like football or basketball. Baseball has never completely lost the public&amp;rsquo;s fascination, though it&amp;rsquo;s certainly had some rough periods over the years. And sometimes, the fans can be total jerks. Today&amp;rsquo;s issue of Tedium covers what it&amp;rsquo;s like to be in the midst of a crowd of annoying baseball fans.</description>
+    </item>
+    
+  </channel>
+</rss>

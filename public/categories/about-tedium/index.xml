@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Tedium on My New Hugo Site</title>
+    <link>http://example.org/categories/about-tedium/</link>
+    <description>Recent content in About Tedium on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/about-tedium/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Nod To Readability</title>
+      <link>http://example.org/post/a-nod-to-readability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/a-nod-to-readability/</guid>
+      <description>[big]I have to admit, I kind of loved the idea of launching this site with a slab-serif font. Slab-serifs, with their hard edges and consistent widths, have a lot of character, and I&amp;rsquo;ve always loved the feel that they&amp;rsquo;ve given my work over the years. I loved using them when I still designed newspapers, and I love using them now. A while back, I found a good one, and it has treated me well—both at Tedium, and the last iteration of my old site ShortFormBlog.</description>
+    </item>
+    
+    <item>
+      <title>Gifts For Total Strangers</title>
+      <link>http://example.org/post/tedium-2017-gift-guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/tedium-2017-gift-guide/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: We’re nearing the part of the holiday shopping season when it’s do or die time. If you didn’t do something already, you’re likely scrambling to figure out a Plan B, or maybe even a Plan Q. The gift, no matter the quality, needs to show up by, like, Friday to count as a decent gift for Christmas. Maybe you can swing Saturday—if UPS is willing to swing it for you.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://example.org/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/privacy-policy/</guid>
+      <description>Last updated: 01/07/2016
+If you&amp;rsquo;re reading Tedium—whether through email, our RSS feed, or our http://tedium.co/ website—you agree to certain things regarding how we use your data in running this newsletter.
+Rather than just keeping those to ourselves, we have this page here to explain exactly what we&amp;rsquo;re doing as part of this interaction where you read our content and we write it for you. It may change from time to time, but ultimately the nuts and bolts will stay the same.</description>
+    </item>
+    
+    <item>
+      <title>Tell Your Company&#39;s Story</title>
+      <link>http://example.org/highlight-your-corporate-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/highlight-your-corporate-history/</guid>
+      <description>[big]Here at Tedium, we take a lot of different angles on issues big and small—and quite often, the angles we hit on are related to the histories of companies large and small. Some of these companies have been around for decades, for generations, and have never had a real story told about them.[/big]
+So I kind of wonder to myself: What if any company could tell its story, Tedium-style? Because, the fact of the matter is, every company has a story, and those stories matter in ways big and small.</description>
+    </item>
+    
+    <item>
+      <title>The Difficult Second Album</title>
+      <link>http://example.org/post/daily-tedium-announcement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/daily-tedium-announcement/</guid>
+      <description>[big]Testing 1, 2, 3: Two years ago, Tedium got its start based on what I like to call the &amp;ldquo;difficult second album&amp;rdquo; theory. &amp;ldquo;The cliche that you have a lifetime to make your first album and only a year or two to make your second holds true,&amp;rdquo; The Guardian&amp;rsquo;s Dorian Lynskey wrote back in 2003 of this basic concept, in the context of The Strokes, whose second album wasn&amp;rsquo;t actually all that difficult.</description>
+    </item>
+    
+    <item>
+      <title>The Great Platform Problem</title>
+      <link>http://example.org/post/youtube-demonetization-problem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/youtube-demonetization-problem/</guid>
+      <description>[big]Yesterday afternoon, I admit, was a bit rough. In a good way, but still rough. A piece from months ago by Andrew Egan, my regular contributor to the site, hit the Reddit front page completely unexpectedly, bringing my server to its knees. It was not exactly how I saw myself spending a Tuesday afternoon, but I got things worked out. Bump up the specs on the cloud server a little bit, change some server settings to make sure it&amp;rsquo;s working to the best of its abilities, and back in business.</description>
+    </item>
+    
+    <item>
+      <title>We’re Making A Zine</title>
+      <link>http://example.org/post/tedium-zine-announcement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/tedium-zine-announcement/</guid>
+      <description>[big]A while back, my friend Simon Owens wrote this piece in which he compared email newsletters to zines, and used good old Tedium as an example of the form.[/big]
+It makes sense to a degree—there’s a DIY ethos that comes with any self-publishing project, and with newsletters as with zines, the weirder, the better.
+That thought stuck with me and kind of got into my head as a thought monster, and as I was thinking about ways to do something fresh with the Tedium concept, the zine struck me as the perfect kind of vessel to do something a little different, while still in the spirit of this thing I’m already writing.</description>
+    </item>
+    
+    <item>
+      <title>What the heck is Tedium, anyway?</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>[big]Interesting stuff doesn&amp;rsquo;t necessarily have to go viral. In fact, it can actually be a little boring or dull on its face. Just because it&amp;rsquo;s not Upworthy doesn&amp;rsquo;t mean it&amp;rsquo;s not worthy. Maybe it&amp;rsquo;s simply not being consumed the right way. There&amp;rsquo;s still time to shift the balance before all those great stories are lost to history.[/big]
+Hey, I&amp;rsquo;m Ernie Smith, journalist, onetime newspaper guy, blogger, and 2011 Shorty Award nominee.</description>
+    </item>
+    
+    <item>
+      <title>Your Email&#39;s On FIRE !!!</title>
+      <link>http://example.org/subscriber-landing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/subscriber-landing/</guid>
+      <description>[whitebox]
+[big]Welcome to Tedium! We&amp;rsquo;re glad to have you on the list! We&amp;rsquo;ll be sending you pieces twice a week until infinity. We&amp;rsquo;re happy to have you, but we&amp;rsquo;ll try not to annoy you too much. If you have feedback, you can put it right here, and if you&amp;rsquo;d like to get a taste of what you just signed up for, here are a few of our favorite issues:[/big]
+[/whitebox][redbox]</description>
+    </item>
+    
+  </channel>
+</rss>

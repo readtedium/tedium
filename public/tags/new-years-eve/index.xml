@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New Years Eve on My New Hugo Site</title>
+    <link>http://example.org/tags/new-years-eve/</link>
+    <description>Recent content in New Years Eve on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/new-years-eve/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Finish Line In Sight</title>
+      <link>http://example.org/post/tedium-trends-2017/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/tedium-trends-2017/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Can you believe we’ve been publishing this newsletter for two full years now? (Our anniversary hits on New Year’s Day, just like with my last project, ShortFormBlog.) There’s a good chance that most of you might not be aware of this fact. See, it was only back in January of 2016 that we topped a thousand subscribers, a fact that we revealed in an issue about dollar stores.</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s Drop the Ball Again</title>
+      <link>http://example.org/post/tedium-trends-2016/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/tedium-trends-2016/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Here it is, mofos—issue 100 of Tedium, the Dull Side of the Internet. A year–and 99 issues—ago, we launched this thing by looking ahead at the year 2015. Now 2015 is over, and we need new things to hope and dream for. Today, we&amp;rsquo;re going to talk about the inane things that will come to define the 2016 calendar year. Despite the focus on the inane, we promise that there will be no mentions of a man whose name rhymes with Monald Mump.</description>
+    </item>
+    
+    <item>
+      <title>The New Millennium Blues</title>
+      <link>http://example.org/post/y2k-pop-culture-oddities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/y2k-pop-culture-oddities/</guid>
+      <description>[whitebox]
+Hey all, Ernie here with another piece from contributor David J. Buck—who’s taking a break from covering outsider music to bring you a tale of twisted culture at the turn of the century … and the dawn of the new millennium.
+[big]Today in Tedium: Remember the terrifying, tumultuous, insert-scary-adjective-here year leading up to the new millennium? Did the uncertainty of the what the future held keep you up at night?</description>
+    </item>
+    
+    <item>
+      <title>There’s Always Next Year</title>
+      <link>http://example.org/post/tedium-trends-2018/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/tedium-trends-2018/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: We’re near the start of the new year, and, as a result, I’m closing in on the third anniversary of launching this crazy newsletter. New Year’s Day is kind of an important day for me personally, as it’s the day that I’ve launched two of my projects, including this one. So I’d like to spend this time reflecting back a little bit … and looking forward.</description>
+    </item>
+    
+  </channel>
+</rss>

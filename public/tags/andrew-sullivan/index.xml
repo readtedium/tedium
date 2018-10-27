@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew Sullivan on My New Hugo Site</title>
+    <link>http://example.org/tags/andrew-sullivan/</link>
+    <description>Recent content in Andrew Sullivan on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/andrew-sullivan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quitting is OK</title>
+      <link>http://example.org/post/andrew-sullivan-quitting-is-ok/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/andrew-sullivan-quitting-is-ok/</guid>
+      <description>[whitebox][big]
+Today in Tedium: Everyone is addicted to something. There are certain addictions that we carry around with us that eventually need to be put to bed. Andrew Sullivan, one of the greatest (and most controversial) pundits of the early 21st century, was addicted to blogging. Sully, who&amp;rsquo;s was one of the most popular online writers of his era and the first big-name writer to devote his life to the practice, announced that he was quitting his longtime platform, The Dish, on Wednesday.</description>
+    </item>
+    
+  </channel>
+</rss>

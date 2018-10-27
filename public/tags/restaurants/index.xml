@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Restaurants on My New Hugo Site</title>
+    <link>http://example.org/tags/restaurants/</link>
+    <description>Recent content in Restaurants on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/restaurants/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I&#39;ll Have Water, Please</title>
+      <link>http://example.org/post/restaurant-water-consumption-phenomenon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/restaurant-water-consumption-phenomenon/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Going to a restaurant is a game of expectations. We expect certain things out of the experience, based on the set parameters when we walk in the door. If we&amp;rsquo;re going to Mickey D&amp;rsquo;s, we expect our food pretty fast and fairly low-quality. If the restaurant doesn&amp;rsquo;t have a counter, we expect a menu at the table. And when we sit down at a restaurant—in the United States, at least—we expect a couple of glasses of water ready to go to help satiate our appetites.</description>
+    </item>
+    
+    <item>
+      <title>Identifying a Real Fake</title>
+      <link>http://example.org/post/why-fake-ids-exist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/why-fake-ids-exist/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: True story—over the weekend, a restaurant attempted to suggest that I had a fake ID. The ID was a few years old, granted, and it has a small crack in it, but it nonetheless was a real form of identification. The waiter made a joke along the lines of the ID looking like a fake ID he used in college, which seemed like a bad joke until a few minutes later, when the manager came out and asked to look at it.</description>
+    </item>
+    
+    <item>
+      <title>Stating The Seemingly Obvious</title>
+      <link>http://example.org/post/utah-bar-restaurant-sign-regulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/utah-bar-restaurant-sign-regulation/</guid>
+      <description>[big]Utah is a great state, but with its historic ties to the Mormon religion (and that religion’s hard-to-ignore political clout), it occasionally runs into some head-scratching situations—especially when it comes to alcohol.[/big]
+The Church of Jesus Christ of Latter-day Saints prohibits its members from consuming alcohol, and that has informed the state’s laws on the issue over the years.
+Beer is sold at bars and some restaurants, but at an alcohol level that barely even counts.</description>
+    </item>
+    
+    <item>
+      <title>We Are All Made Of Stars</title>
+      <link>http://example.org/post/michelin-chef-removal-request/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/michelin-chef-removal-request/</guid>
+      <description>[big]Honestly, it makes no sense why a company best known for manufacturing tires is such an important voice in the world of fine dining, but Michelin has embraced its gastronomic role with gusto for more than a century.[/big]
+Now, it turns out that one of its most-decorated chefs isn’t feeling that gusto himself. Sébastien Bras, a French chef whose restaurant Le Suquet has been a three-star mainstay of the Michelin guide for close to two decades, made the first-ever request to be removed from the guide without a significant change to his model.</description>
+    </item>
+    
+    <item>
+      <title>When Tech Hit Retail</title>
+      <link>http://example.org/post/point-of-sale-retail-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/point-of-sale-retail-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: If it feels like the the “robots are trying to steal our jobs” meme is a new development, I have some news for you: It’s really not. For decades, automation has been implied to be the cause of—and solution to—all life’s problems. Nowhere is this more the case than in the halls of retail, where automation helped redefine our interaction with shopping in important ways. And those innovations are still happening.</description>
+    </item>
+    
+    <item>
+      <title>You Don&#39;t Win Friends With Salad</title>
+      <link>http://example.org/post/salad-bar-history-factoids/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/salad-bar-history-factoids/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Last month, a major lobbying group for the school lunch industry won a victory that involved salad bars. The School Nutrition Association, feeling the pressure because of what it called arduous nutrition rules, fought for (and won) a slightly more reasonable policy, including rules that specifically allowed schools to continue to offer salad bars to those super-grubby, messy kids. Some local health inspectors tried to veto the salad bars, claiming they created health hazards.</description>
+    </item>
+    
+  </channel>
+</rss>

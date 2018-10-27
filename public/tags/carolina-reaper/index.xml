@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carolina Reaper on My New Hugo Site</title>
+    <link>http://example.org/tags/carolina-reaper/</link>
+    <description>Recent content in Carolina Reaper on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/carolina-reaper/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Let’s Live Forever</title>
+      <link>http://example.org/post/worlds-hottest-peppers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/worlds-hottest-peppers/</guid>
+      <description>[big]Eating hot peppers is apparently a great way to avoid having a stroke or heart attack, according to a recent study from the University of Vermont’s Larner College of Medicine. The study found that people who ate hot peppers tended to live longer despite the fact that they had other bad habits, such as smoking.[/big]
+To be fair, it’s not entirely clear where the direct tie is between the peppers and the longevity (the researchers speculate that capsaicin helps prevent obesity), but going by the crazy logic of studies like this, it only makes sense that we take a logical leap of our own: If you eat increasingly hotter peppers, you should theoretically be able to live forever.</description>
+    </item>
+    
+  </channel>
+</rss>

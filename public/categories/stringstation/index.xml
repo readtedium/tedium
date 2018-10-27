@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stringstation on My New Hugo Site</title>
+    <link>http://example.org/categories/stringstation/</link>
+    <description>Recent content in Stringstation on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/stringstation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Searching for the perfect tones</title>
+      <link>http://example.org/post/unusual-musical-instruments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/unusual-musical-instruments/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: If you&amp;rsquo;ve never seen a 12-foot-tall upright piano, you&amp;rsquo;re in for a treat. The neo-classical German musician Nils Frahm recorded his latest album, Solo, on such a device, the Klavins Model 370. Frahm told Pitchfork that the experience was so inspiring that he wanted to launch a crowdfunding effort to help the piano&amp;rsquo;s creator, David Klavins, build an even taller instrument. (Read about that here.) Today, inspired by Frahm&amp;rsquo;s excitement, we want to talk about some incredibly bizarre instruments.</description>
+    </item>
+    
+  </channel>
+</rss>

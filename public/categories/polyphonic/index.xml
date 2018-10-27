@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Polyphonic on My New Hugo Site</title>
+    <link>http://example.org/categories/polyphonic/</link>
+    <description>Recent content in Polyphonic on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/polyphonic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Polyphonic Screed</title>
+      <link>http://example.org/post/cell-phone-ringtone-history-evolution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/cell-phone-ringtone-history-evolution/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: For nearly a century, the ring that we associated with a telephone sounded like a variation on this noise. It was simple, consistent. It was boring. And we eventually improved on it, especially in the digital age. When our phones shrank to pocket dimensions and their innards integrated into tiny circuits, it allowed us to redefine exactly a ringtone could be. But that created another problem entirely—the default noise.</description>
+    </item>
+    
+  </channel>
+</rss>

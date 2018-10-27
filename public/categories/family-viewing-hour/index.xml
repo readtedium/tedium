@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Family Viewing Hour on My New Hugo Site</title>
+    <link>http://example.org/categories/family-viewing-hour/</link>
+    <description>Recent content in Family Viewing Hour on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/family-viewing-hour/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Institute You Can’t Disparage</title>
+      <link>http://example.org/post/married-with-children-terry-rakolta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/married-with-children-terry-rakolta/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: The culture wars never really went away, but in an era when gun violence and online censorship are once again becoming hot topics in the news, now feels like a great time to discuss one of the greatest sources of controversy of the past 30 years—Married … With Children, an edge-busting TV sitcom that predated the Streisand Effect but may have been one of its earliest examples.</description>
+    </item>
+    
+  </channel>
+</rss>

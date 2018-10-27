@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Mini Pages on My New Hugo Site</title>
+    <link>http://example.org/categories/the-mini-pages/</link>
+    <description>Recent content in The Mini Pages on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/the-mini-pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Trimmed For Space</title>
+      <link>http://example.org/post/newspaper-newsprint-cuts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/newspaper-newsprint-cuts/</guid>
+      <description>[whitebox]
+_Editor’s note: Tonight’s Tedium is an updated rerun of a classic issue about the stuff that newspapers get rid of when trying to slim down. Unspoken in this article: Usually, the final step of this process is people. And with the recent sagas of L.A. Weekly and (on the digital side of things) DNAinfo, now felt like a good time to revisit. (If you&amp;rsquo;ve read before, keep reading; there&amp;rsquo;s a new section on newsprint.</description>
+    </item>
+    
+  </channel>
+</rss>

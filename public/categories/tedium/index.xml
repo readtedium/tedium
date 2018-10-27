@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tedium on My New Hugo Site</title>
+    <link>http://example.org/categories/tedium/</link>
+    <description>Recent content in Tedium on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/tedium/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Finish Line In Sight</title>
+      <link>http://example.org/post/tedium-trends-2017/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/tedium-trends-2017/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Can you believe we’ve been publishing this newsletter for two full years now? (Our anniversary hits on New Year’s Day, just like with my last project, ShortFormBlog.) There’s a good chance that most of you might not be aware of this fact. See, it was only back in January of 2016 that we topped a thousand subscribers, a fact that we revealed in an issue about dollar stores.</description>
+    </item>
+    
+    <item>
+      <title>Anything But Politics</title>
+      <link>http://example.org/post/mental-health-break/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/mental-health-break/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: If you’re in the U.S.—and perhaps, even if you’re not—every other message you’re getting right now is probably about this dang 2016 presidential election that’s coming to a close as we speak. Much fighting has been had. Many stories have been written. As a newsletter, Tedium exists to talk about dull, unusual things that basically aren’t, well … the 2016 election. Your brain most certainly needs a break from the electoral pummeling it’s going to be taking in the next few hours as Wolf Blitzer and Chris Matthews do the opposite of soothing your frayed nerves.</description>
+    </item>
+    
+    <item>
+      <title>Gifts For People You Don’t Like</title>
+      <link>http://example.org/post/tedium-gift-guide-2016/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/tedium-gift-guide-2016/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: You’ve already checked off the people you know and love. Maybe even the people you know and tolerate. But what about gifts for folks you have a distaste for? That’s where our end-of-season gift guide comes into play. It’s full of obscure stuff and absolute dreck that you may or may not care for. But it’s perfect for breaking off weak friendships, telling a long-lost relative that they probably shouldn’t have returned, or for lowering someone’s overall standard for living.</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s Drop the Ball Again</title>
+      <link>http://example.org/post/tedium-trends-2016/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/tedium-trends-2016/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Here it is, mofos—issue 100 of Tedium, the Dull Side of the Internet. A year–and 99 issues—ago, we launched this thing by looking ahead at the year 2015. Now 2015 is over, and we need new things to hope and dream for. Today, we&amp;rsquo;re going to talk about the inane things that will come to define the 2016 calendar year. Despite the focus on the inane, we promise that there will be no mentions of a man whose name rhymes with Monald Mump.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://example.org/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/privacy-policy/</guid>
+      <description>Last updated: 01/07/2016
+If you&amp;rsquo;re reading Tedium—whether through email, our RSS feed, or our http://tedium.co/ website—you agree to certain things regarding how we use your data in running this newsletter.
+Rather than just keeping those to ourselves, we have this page here to explain exactly what we&amp;rsquo;re doing as part of this interaction where you read our content and we write it for you. It may change from time to time, but ultimately the nuts and bolts will stay the same.</description>
+    </item>
+    
+    <item>
+      <title>Stocking Stinkers: A Tedium Gift Guide</title>
+      <link>http://example.org/post/stocking-stinkers-tedium-gift-guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/stocking-stinkers-tedium-gift-guide/</guid>
+      <description>[whitebox]
+Editor&amp;rsquo;s note: Tedium is publishing on an different schedule this week—Monday and Wednesday mornings rather than Tuesday and Thursday evenings—so as to get in your inbox before the holiday rush of out-of-office replies and connecting flights.
+[big]Today in Tedium: If you&amp;rsquo;re reading this and still in need of gift ideas for your loved ones, it&amp;rsquo;s already too late. (Did you know that Christmas is on Friday?!) You will find nothing good in your inbox or elsewhere that will save you at this point.</description>
+    </item>
+    
+    <item>
+      <title>There’s Always Next Year</title>
+      <link>http://example.org/post/tedium-trends-2018/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/tedium-trends-2018/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: We’re near the start of the new year, and, as a result, I’m closing in on the third anniversary of launching this crazy newsletter. New Year’s Day is kind of an important day for me personally, as it’s the day that I’ve launched two of my projects, including this one. So I’d like to spend this time reflecting back a little bit … and looking forward.</description>
+    </item>
+    
+    <item>
+      <title>Time To Drop The Ball.</title>
+      <link>http://example.org/post/tedium-time-to-drop-the-ball/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/tedium-time-to-drop-the-ball/</guid>
+      <description>[whitebox]
+[big]Welcome to Tedium. Here&amp;rsquo;s the first issue of the twice-weekly newsletter that&amp;rsquo;s bound to become the only email you read—just in time for New Year&amp;rsquo;s Day. And in honor of everyone&amp;rsquo;s favorite hangover catalyst, we&amp;rsquo;re gonna tell you some crazy crap about the first holiday of the year, as well as the holiday that bookends it. May your internet be functional as you scroll through this message on your electronic reading device of choice.</description>
+    </item>
+    
+    <item>
+      <title>What the heck is Tedium, anyway?</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>[big]Interesting stuff doesn&amp;rsquo;t necessarily have to go viral. In fact, it can actually be a little boring or dull on its face. Just because it&amp;rsquo;s not Upworthy doesn&amp;rsquo;t mean it&amp;rsquo;s not worthy. Maybe it&amp;rsquo;s simply not being consumed the right way. There&amp;rsquo;s still time to shift the balance before all those great stories are lost to history.[/big]
+Hey, I&amp;rsquo;m Ernie Smith, journalist, onetime newspaper guy, blogger, and 2011 Shorty Award nominee.</description>
+    </item>
+    
+  </channel>
+</rss>

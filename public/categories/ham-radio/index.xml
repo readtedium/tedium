@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ham Radio on My New Hugo Site</title>
+    <link>http://example.org/categories/ham-radio/</link>
+    <description>Recent content in Ham Radio on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/ham-radio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>When Signal Beats Noise</title>
+      <link>http://example.org/post/dxing-radio-television-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/dxing-radio-television-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: For decades, television owners haven&amp;rsquo;t been content with simply embracing the options already in front of them. There are lots of tales of this nature throughout TV history—from the people who owned (or in some cases, built) massive satellite dishes so they could pick up obscure television signals from other parts of the world, to the public-access weirdos who have long created their own kinds of television (some of whom got really lucky), to the people who got obsessed with the Amiga in the &amp;lsquo;90s.</description>
+    </item>
+    
+  </channel>
+</rss>

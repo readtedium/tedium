@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elf Bowling on My New Hugo Site</title>
+    <link>http://example.org/categories/elf-bowling/</link>
+    <description>Recent content in Elf Bowling on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/elf-bowling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fake Elf News</title>
+      <link>http://example.org/post/elf-bowling-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/elf-bowling-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: I know this sounds pretty crazy and dangerous, but there was once a time when we sent one another executable files via email. It was kinda like playing Russian Roulette with our operating systems, but we still did it. (No executables in this message. Promise.) And one of these executable files that was distributed over this medium that’s infamously prone to security problems is basically a goofy holiday-themed game.</description>
+    </item>
+    
+    <item>
+      <title>Shelf This Elf</title>
+      <link>http://example.org/post/elf-bowling-movie-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/elf-bowling-movie-review/</guid>
+      <description>[big]**Last week’s article about the game Elf Bowling** really hit the sweet spot for a lot of folks. It’s a fun, maybe not groundbreaking game that is great to play for a few minutes—or based on your addiction level, a whole lot longer. (It should be remade for smartphones—the mechanics work really well for that medium.)[/big]
+But by no means was the game, with its cheeky jokes, offbeat animation, and goofy concept, enough to carry a movie.</description>
+    </item>
+    
+  </channel>
+</rss>

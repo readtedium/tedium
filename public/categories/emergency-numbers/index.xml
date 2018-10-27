@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emergency Numbers on My New Hugo Site</title>
+    <link>http://example.org/categories/emergency-numbers/</link>
+    <description>Recent content in Emergency Numbers on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/emergency-numbers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>In Case Of Emergency</title>
+      <link>http://example.org/post/911-emergency-system-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/911-emergency-system-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Of all the things William Shatner has done in his career—captain of the starship USS Enterprise, veteran police officer, totally-game muse for Ben Folds, fairly good tweeter for being 86 years old—the one thing that&amp;rsquo;s stuck with me the most is his years on Rescue 911, the early reality show that was America&amp;rsquo;s Most Wanted (mostly) without the crime and Unsolved Mysteries with the solutions laid out clear as day.</description>
+    </item>
+    
+  </channel>
+</rss>

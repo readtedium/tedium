@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New Wave on My New Hugo Site</title>
+    <link>http://example.org/categories/new-wave/</link>
+    <description>Recent content in New Wave on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/new-wave/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Wave Titans</title>
+      <link>http://example.org/post/oingo-boingo-danny-elfman-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/oingo-boingo-danny-elfman-history/</guid>
+      <description>[whitebox]
+Hey guys, Ernie here with another piece from David Buck. Last we saw of him, he was talking to Tom Bodett. Tonight, he’s obsessing over an iconic West Coast band. Read on; it&amp;rsquo;s worth it.
+[big]Today in Tedium: If you’re a fan of director Tim Burton, you may recognize the name Danny Elfman. If you’re a Nightmare before Christmas fan, you may even recognize his voice. But, did you know he started his music career with a band called The Mystic Knights of the Oingo Boingo (later just Oingo Boingo)?</description>
+    </item>
+    
+  </channel>
+</rss>

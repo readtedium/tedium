@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cheese on My New Hugo Site</title>
+    <link>http://example.org/tags/cheese/</link>
+    <description>Recent content in Cheese on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/cheese/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cheese, American Style</title>
+      <link>http://example.org/post/american-cheese-culture-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/american-cheese-culture-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Of the many things the United States has become known for globally over the years, our addiction to cheese probably stands out the most. We didn’t create it, but we made it ours: An essential part of our diets, a calling card for our food on a global level, and an easy thing to mock within our culture. The U.S. just celebrated its birthday—a birthday that’s built around strong signs of patriotism.</description>
+    </item>
+    
+    <item>
+      <title>Junk Food’s Happiest Accident</title>
+      <link>http://example.org/post/cheese-curls-creation-story/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/cheese-curls-creation-story/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: They change the color of our skin. They get stuck in our teeth. But for some reason, we can’t stop eating cheese curls, the puffiest snack food ever created. But these corn-and-powder snacks didn’t just fall like manna from the sky into our bowls, always there for us ahead of our Bojack Horseman marathon. The story of the cheese curl is one of the more unusual creation stories in snack-food history.</description>
+    </item>
+    
+    <item>
+      <title>Secretly Made With Meat</title>
+      <link>http://example.org/post/guinness-no-longer-secretly-made-with-meat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/guinness-no-longer-secretly-made-with-meat/</guid>
+      <description>[whitebox]
+Editor’s note: In honor of Guinness’ recent move to full veganism, I’m reviving an old post of mine and getting it up to date. It wasn’t an easy task with all those fish bladders. &amp;ldquo;Wait, fish bladders?&amp;rdquo; Keep reading …
+[big]Today in Tedium: Meat is in the news a lot these days, it seems. One study claims that animal fat might lower your cholesterol level, while a completely different one suggests meat affects your gut bacteria or causes blood clots.</description>
+    </item>
+    
+    <item>
+      <title>Secretly Made With Meat</title>
+      <link>http://example.org/post/guinness-secretly-made-with-meat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/guinness-secretly-made-with-meat/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Meat is in the news a lot these days, it seems. We all know about the cancer story, but really, we&amp;rsquo;re more interested in the tales of meat being where it shouldn&amp;rsquo;t be. It started a couple of weeks ago, when a startup named Clear Foods analyzed a bunch of hot dogs and found that many veggie dogs had remnants of meat on them due to the production process—enough to make any vegan lose his-or-her you-know-what.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dominos Pizza on My New Hugo Site</title>
+    <link>http://example.org/categories/dominos-pizza/</link>
+    <description>Recent content in Dominos Pizza on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/dominos-pizza/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Ballad of Yo! Noid</title>
+      <link>http://example.org/post/video-games-advertising-mascots-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/video-games-advertising-mascots-history/</guid>
+      <description>[whitebox]
+Hey guys, Ernie here with a piece from the Tedium archives about Madison Avenue’s infiltration of classic video games, which is legitimately a thing that happened.
+[big]Today in Tedium: Here&amp;rsquo;s a challenge for you: Take your favorite video game of the &amp;lsquo;90s and don&amp;rsquo;t think about it in terms of the quality of the game, its graphical quality, or its replayability—especially if it&amp;rsquo;s a game based on an existing license.</description>
+    </item>
+    
+    <item>
+      <title>The Ballad of Yo! Noid</title>
+      <link>http://example.org/post/video-games-advertising-mascots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/video-games-advertising-mascots/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Here&amp;rsquo;s a challenge for you: Take your favorite video game of the &amp;lsquo;90s and don&amp;rsquo;t think about it in terms of the quality of the game, its graphical quality, or its replayability—especially if it&amp;rsquo;s a game based on an existing license. Instead, think of that game in terms of it merely being a vessel to market another product: say, a movie like Terminator 2, a toy like a Barbie doll, or a musical act like Aerosmith.</description>
+    </item>
+    
+  </channel>
+</rss>

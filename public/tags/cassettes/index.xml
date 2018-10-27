@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cassettes on My New Hugo Site</title>
+    <link>http://example.org/tags/cassettes/</link>
+    <description>Recent content in Cassettes on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/cassettes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Bigger, Better Tape</title>
+      <link>http://example.org/post/sony-elcaset-history-tape/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/sony-elcaset-history-tape/</guid>
+      <description>[big]Start the tape: Roughly a year and a half ago, I made a pitch that we were due for a magnetic-tape comeback similar to the one we’ve seen for vinyl. (I titled it after a Frank Turner album, because Frank Turner is cool.) Now, we haven’t seen that magnetic-tape comeback just yet, but it might help if I did my part by highlighting tape-format obscurities.[/big]
+One of those obscurities worth a mention is the Elcaset, just one of Sony’s many attempts to create a new standard of some kind.</description>
+    </item>
+    
+    <item>
+      <title>The Man With 400 Albums</title>
+      <link>http://example.org/post/r-stevie-moore-outsider-music-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/r-stevie-moore-outsider-music-history/</guid>
+      <description>[whitebox]
+Editor&amp;rsquo;s note: Hey all, Ernie from Tedium here! So I&amp;rsquo;m happy to introduce David Buck, a first-time writer for the newsletter who&amp;rsquo;s a massive fan of a guy you&amp;rsquo;re probably not even aware of. He makes me excited about the guy, to be honest. Read on—tonight&amp;rsquo;s piece is a total treat. And be sure to check out his list for newbies!
+&amp;nbsp;
+[big]Today in Tedium: Many great artists exist outside the mainstream.</description>
+    </item>
+    
+  </channel>
+</rss>

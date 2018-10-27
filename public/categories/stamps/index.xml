@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stamps on My New Hugo Site</title>
+    <link>http://example.org/categories/stamps/</link>
+    <description>Recent content in Stamps on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/stamps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lickety Split</title>
+      <link>http://example.org/post/envelope-adhesives-licking-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/envelope-adhesives-licking-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Considering all the money that the greeting card industry spends on making really interesting looking cards (but not as interesting, of course, as they were when Robert Crumb was a greeting card illustrator), I have a question: Why do gift card envelopes still rely on a kind of glue that adheres with licking? Do they not realize that people frequently write these cards in pen, and might realize, halfway through the process, that they forgot a loved one?</description>
+    </item>
+    
+  </channel>
+</rss>

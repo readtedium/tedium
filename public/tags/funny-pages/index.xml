@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Funny Pages on My New Hugo Site</title>
+    <link>http://example.org/tags/funny-pages/</link>
+    <description>Recent content in Funny Pages on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/funny-pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rethinking the Funny Page</title>
+      <link>http://example.org/post/newspaper-funny-pages-rethink-2018/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/newspaper-funny-pages-rethink-2018/</guid>
+      <description>[big]At the beginning of 2018, we’re on the cusp of something that might arguably be one of the biggest changes to newspapers in generations: Comic strips, one of the newspaper’s great standbys, are starting to “age out.”[/big]
+This took quite a long time, but two major things have happened in recent weeks that suggest a major sea change is on the way: the January death of Mort Walker, who was responsible for creating Beetle Bailey and co-creating Hi and Lois, and the decision by cartoonist Guy Gilchrist (who has plenty of years in front of him) to stop doing Nancy, whose final edition published on Sunday.</description>
+    </item>
+    
+  </channel>
+</rss>

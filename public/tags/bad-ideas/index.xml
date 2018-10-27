@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bad Ideas on My New Hugo Site</title>
+    <link>http://example.org/tags/bad-ideas/</link>
+    <description>Recent content in Bad Ideas on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/bad-ideas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Business Card With Impact</title>
+      <link>http://example.org/post/cd-rom-business-card-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/cd-rom-business-card-history/</guid>
+      <description>[big]Back in 2010, Inc. contributor Josh Spiro made this point about the importance of business cards: “A snazzy card is no good if you hand it out left and right without an exchange of pleasantries and ideas, but a poor quality card can undermine even the best rapport or the most persuasive conversation.”[/big]
+With this in mind, it only makes sense that someone had the idea of creating a business card that doubled as a CD-ROM.</description>
+    </item>
+    
+    <item>
+      <title>Contractually Obligated to Suck</title>
+      <link>http://example.org/post/contractually-obligated-to-suck/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/contractually-obligated-to-suck/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: The TV network ABC Family is a family network in the loosest of senses. For years, it&amp;rsquo;s mostly focused on one particular element of that family—the older teens and young adults that make up the massive wave of millennials that appeal so much to advertisers. In fact, the term &amp;ldquo;Family&amp;rdquo; barely made sense—which is why the network decided recently to change its name to Freeform, a change that takes effect early next year.</description>
+    </item>
+    
+    <item>
+      <title>Do Not Trust</title>
+      <link>http://example.org/post/do-not-resuscitate-tattoo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/do-not-resuscitate-tattoo/</guid>
+      <description>[big]A tattoo probably isn’t a binding legal document, but it certainly seems like a convincing argument. Clearly you must believe what you tattoo on yourself if you’re willing to go to that level of permanence, right?[/big]
+But a recent saga involving a patient at a Miami hospital proved that question is a little more fraught than it seems. Doctors at Jackson Memorial Hospital, located at the University of Miami, were presented with a unconscious 70-year-old man who had a “Do Not Resuscitate” tattoo, along with his apparent signature, emblazoned on his chest.</description>
+    </item>
+    
+    <item>
+      <title>Shorthand For No</title>
+      <link>http://example.org/post/scotland-journalism-cerebral-palsy-controversy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/scotland-journalism-cerebral-palsy-controversy/</guid>
+      <description>[big]In an era when literally every rule of traditional journalism has been blown to shreds (case in point: the fact I can run a site and newsletter like this), it’s depressing to see how far some sticklers are willing to go in maintaining rules that make zero sense in 2017.[/big]
+Case in point: It was revealed this week that a Scottish college wouldn’t let a journalism student with cerebral palsy pass a course to gain a journalism qualification … because he can’t write shorthand due to his out-of-his-control physical condition.</description>
+    </item>
+    
+    <item>
+      <title>Smells Like a Stupid Idea</title>
+      <link>http://example.org/post/terrible-product-ideas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/terrible-product-ideas/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Let&amp;rsquo;s say you had a terrible idea. It&amp;rsquo;s not an uncommon thing; we all have them daily. But what if, unlike most people, you were able to get money to create and fund that terrible idea, ensuring that it would turn into a car wreck that the world would be unable to miss? If that&amp;rsquo;s the case, you might want to keep reading, because there&amp;rsquo;s a good chance we might mention your terrible idea for a product in today&amp;rsquo;s Tedium, which is all about terrible product ideas—for example, this novelty bath mat that makes what look like bloody footprints.</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s Your Gimmick?</title>
+      <link>http://example.org/post/television-history-gimmicks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/television-history-gimmicks/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: These days, it seems like TV is all about gimmicks: Think reality shows, TV shows that recap the TV shows that literally just aired, limited series designed to recycle old hit shows, and even live theatre productions like The Wiz. TV executives are like P.T. Barnum-style hucksters, willing to try anything to keep us watching. And it&amp;rsquo;s always been that way, honestly—if they can make watching your boob tube into an &amp;ldquo;event,&amp;rdquo; they know they&amp;rsquo;ve sucked you in.</description>
+    </item>
+    
+  </channel>
+</rss>

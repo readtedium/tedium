@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microsoft Word on My New Hugo Site</title>
+    <link>http://example.org/tags/microsoft-word/</link>
+    <description>Recent content in Microsoft Word on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/microsoft-word/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bare-Metal Writing</title>
+      <link>http://example.org/post/bare-metal-writing-word-processor-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/bare-metal-writing-word-processor-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: I&amp;rsquo;m writing these opening lines in Markdown, using a Mac app called Focused, one of many attempts to rethink the word processor as a minimalist exercise. Every one of my articles starts out in this app (or at least in John Gruber&amp;rsquo;s neglected gift to the world), and yet, I always find myself looking for another option, periodically launching into a Google deep dive that rarely leads to a better solution.</description>
+    </item>
+    
+    <item>
+      <title>Clippy Couture</title>
+      <link>http://example.org/post/clip-art-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/clip-art-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Art is everywhere. It’s easier to access than it’s ever been. All you need to do to access art is to turn on your search engine of choice—Google, Flickr, Giphy—and start searching. The hard part of this, of course, is that this art is often copyrighted, and while there are cases where the copyright is a bit more loosey-goosey (thank you, Creative Commons), many times, if you’re trying to print off a flyer or newsletter for your local sect of Satanists, you might need a free alternative.</description>
+    </item>
+    
+  </channel>
+</rss>

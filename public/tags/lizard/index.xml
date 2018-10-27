@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lizard on My New Hugo Site</title>
+    <link>http://example.org/tags/lizard/</link>
+    <description>Recent content in Lizard on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/lizard/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Not Just Nostalgia</title>
+      <link>http://example.org/post/nes-homebrew-scene-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/nes-homebrew-scene-history/</guid>
+      <description>[whitebox]
+Hey guys, Ernie here with another great piece from David Buck, who we last saw talking about Oingo Boingo. Tonight, he’s got something else brewin’.
+[big]Today in Tedium: Growing up in the era of the Nintendo Entertainment System, I always wanted to create my own NES game. I scribbled ideas in notebooks, mapped out levels on graph paper and spent countless hours composing my own MIDI-based soundtracks to games that didn’t exist.</description>
+    </item>
+    
+  </channel>
+</rss>

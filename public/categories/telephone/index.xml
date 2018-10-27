@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Telephone on My New Hugo Site</title>
+    <link>http://example.org/categories/telephone/</link>
+    <description>Recent content in Telephone on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/telephone/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Let&#39;s Dial Up the Weirdness</title>
+      <link>http://example.org/post/weird-telephone-numbers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/weird-telephone-numbers/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: NYNEX hasn&amp;rsquo;t been a going concern since Smash Mouth was first telling us to walk on the sun. (You might know it under its current post-merger name, Verizon.) But that didn&amp;rsquo;t stop me last night from dialing up a message on my Google Hangouts window with an automated request from a NYNEX operator that I deposit five cents or my phone call will be terminated. (Couldn&amp;rsquo;t do it.</description>
+    </item>
+    
+    <item>
+      <title>More Dialing, More Weirdness</title>
+      <link>http://example.org/post/weird-phone-number-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/weird-phone-number-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Almost exactly a year ago, we wrote up a lengthy piece on weird telephone numbers. This piece has been a sleeper hit of sorts in Tedium history. Many of our pieces, if they do gain steam, tend to pick up within a week of writing. Not this one. Instead, the piece went to the top of Google for dozens of variations on the search term “weird phone numbers,” “creepy phone numbers,” and so on.</description>
+    </item>
+    
+    <item>
+      <title>Out Of Order</title>
+      <link>http://example.org/post/telephone-area-codes-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/telephone-area-codes-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: From a distance, at least, there seems to be no rhyme or reason to the way we got our telephone numbers. And it’s becoming even less clear thanks to the increasing sophistication of the phone technologies we use. In particular, the layout of the area code system seems to have been picked at random, with no thought as to how the broader system should work. Or am I simply missing something bigger?</description>
+    </item>
+    
+    <item>
+      <title>Recorded For Quality Assurance</title>
+      <link>http://example.org/post/call-centers-technology-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/call-centers-technology-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Customer support is a big frustration for the public. We want to be treated well, we want the human on the other end of the line to correctly pronounce our name, we want them to be friendly even when we&amp;rsquo;re not, and (most importantly) we want our problem solved. Most of the time, we&amp;rsquo;re lucky to get one of these things out of a customer support interaction.</description>
+    </item>
+    
+  </channel>
+</rss>

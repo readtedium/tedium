@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Salons on My New Hugo Site</title>
+    <link>http://example.org/tags/salons/</link>
+    <description>Recent content in Salons on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/salons/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Little off the Top</title>
+      <link>http://example.org/post/barber-shop-credit-card-transactions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/barber-shop-credit-card-transactions/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: If you find yourself in a mom-and-pop barber shop or hair salon of any kind, you might find this common (but annoying) state of affairs in play: Despite the fact that basically every other store on the block accepts credit cards, the barber shop is the lone holdout on that front, forcing consumers who may have otherwise stopped paying cash for most things long ago to hit up the ATM.</description>
+    </item>
+    
+  </channel>
+</rss>

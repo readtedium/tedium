@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Class Wars on My New Hugo Site</title>
+    <link>http://example.org/categories/class-wars/</link>
+    <description>Recent content in Class Wars on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/class-wars/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Get off my lawn</title>
+      <link>http://example.org/post/lawn-care-history-get-off-my-lawn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/lawn-care-history-get-off-my-lawn/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Rich people care about their grass way more than normal people do. Now, rarely is this an issue, but in recent months, the ongoing California drought has made this mundane issue a political one. This week, the city of Rancho Santa Fe became a target of this culture clash after _The Washington Post_ highlighted the water-rationing requirement it soon faces. Local residents aren&amp;rsquo;t happy. “When we bought, we didn’t plan on getting a place that looks like we’re living in an African savanna,” said conservative radio host and local resident Steve Yuhas.</description>
+    </item>
+    
+    <item>
+      <title>I Want to Live Like Common People</title>
+      <link>http://example.org/post/common-people-rich-to-poor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/common-people-rich-to-poor/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: The greatest six minutes that the British band Pulp ever put to wax pulled off a lot of small victories as it leaped into a larger one. &amp;ldquo;Common People&amp;rdquo; highlighted the lingering definitions of class that the U.K. still hasn&amp;rsquo;t managed to shake; it drew a vibrant character sketch that few songwriters can put together in a single album, let alone a pop song; and it broke through to the mainstream at a time when most British music buyers were focused mostly on Blur and Oasis.</description>
+    </item>
+    
+  </channel>
+</rss>

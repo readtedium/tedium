@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frito Lay on My New Hugo Site</title>
+    <link>http://example.org/categories/frito-lay/</link>
+    <description>Recent content in Frito Lay on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/frito-lay/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Junk Food’s Happiest Accident</title>
+      <link>http://example.org/post/cheese-curls-creation-story/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/cheese-curls-creation-story/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: They change the color of our skin. They get stuck in our teeth. But for some reason, we can’t stop eating cheese curls, the puffiest snack food ever created. But these corn-and-powder snacks didn’t just fall like manna from the sky into our bowls, always there for us ahead of our Bojack Horseman marathon. The story of the cheese curl is one of the more unusual creation stories in snack-food history.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blender Magazine on My New Hugo Site</title>
+    <link>http://example.org/tags/blender-magazine/</link>
+    <description>Recent content in Blender Magazine on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/blender-magazine/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Magazine You Can&#39;t Bend</title>
+      <link>http://example.org/post/cd-rom-magazines-launch-blender/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/cd-rom-magazines-launch-blender/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: The promise of multimedia technology led creators of all stripes to do particularly crazy things in an effort to seem hip and with the times. The CD-ROM, much like the sound card, was seen as the lynchpin for much of this innovation—as it could hold a large amount of data, making room for audio, video, and interactive features that no piece of paper, glossy or otherwise, could pull off.</description>
+    </item>
+    
+  </channel>
+</rss>

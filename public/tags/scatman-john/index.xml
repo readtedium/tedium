@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scatman John on My New Hugo Site</title>
+    <link>http://example.org/tags/scatman-john/</link>
+    <description>Recent content in Scatman John on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/scatman-john/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Stammer Of Success</title>
+      <link>http://example.org/post/scatman-john-stuttering-success-story/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/scatman-john-stuttering-success-story/</guid>
+      <description>[whitebox]
+Editor&amp;rsquo;s note: Hey guys, Ernie here. Our good pal Andrew Egan is back with an awesome tale about a guy who kicked adversity&amp;rsquo;s ass. Enjoy.
+[big]Today in Tedium: On the 14th floor of a midtown Manhattan office building, an organization works diligently to help raise awareness of stuttering. The National Stuttering Association was founded in 1977 to teach the general public about one of America’s more common speech impediments.</description>
+    </item>
+    
+  </channel>
+</rss>

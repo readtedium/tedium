@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fabric on My New Hugo Site</title>
+    <link>http://example.org/tags/fabric/</link>
+    <description>Recent content in Fabric on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/fabric/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Let &#39;Er Rip</title>
+      <link>http://example.org/post/clothing-tags-why-they-exist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/clothing-tags-why-they-exist/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Last week, there was a tag on an item on my clothing that was so uncomfortable that there was nothing I wanted to do more than pull it off—to send that miserable tag to a recycling bin where it would never again see the light of day. But that annoying tag got me to thinking: Where did clothing tags come from, and who decided that an annoying tag was an important thing to have on a piece of clothing?</description>
+    </item>
+    
+    <item>
+      <title>Why Aren&#39;t You Wearing Corduroy?</title>
+      <link>http://example.org/post/corduroy-trend-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/corduroy-trend-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: This newsletter/information feed is many things, but it’s not a fashion blog. We’re anything but fashionable. But we do have a tendency to follow trends to at least understand them, so when I saw on Refinery 29 today that “The Corduroy Comeback is in Full Swing,” I knew what was about to happen next in my life. I had to do a deep dive to understand this trend and understand why corduroy, of all fabrics, was important.</description>
+    </item>
+    
+  </channel>
+</rss>

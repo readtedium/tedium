@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>House of Cards on My New Hugo Site</title>
+    <link>http://example.org/tags/house-of-cards/</link>
+    <description>Recent content in House of Cards on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/house-of-cards/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>House of product cards</title>
+      <link>http://example.org/post/house-of-product-cards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/house-of-product-cards/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Last weekend, you may have been like me and binged on House of Cards. Along the way, you may have spotted a few direct references to big-name brands … many of which may have paid for the chance to be on screen with Frank Underwood and SPOILER ALERT. But the nature of products on screen and elsewhere have become so prevalent that they just bleed into the action after a while—subliminally influencing us along the way.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visual Arts on My New Hugo Site</title>
+    <link>http://example.org/categories/visual-arts/</link>
+    <description>Recent content in Visual Arts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/visual-arts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A New Coat of Paint</title>
+      <link>http://example.org/post/anthony-dortch-artist-stroke-recovery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/anthony-dortch-artist-stroke-recovery/</guid>
+      <description>[big]Last year, Anthony Dortch suffered a major personal setback—surviving a stroke at a young age.[/big]
+This health struggle threatened to stop Dortch, a Washington, D.C.-based artist, from following his muse, a muse that he’s followed for years with a long-term creative project that’s taken on many layers. Quite literally, in fact.
+See, Dortch’s art literally involves painting people to and making them, effectively, into comic book characters—each in different colors to represent different walks of life, with elements of his storytelling highlighting issues of race, gender and sexuality.</description>
+    </item>
+    
+  </channel>
+</rss>

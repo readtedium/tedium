@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Klm on My New Hugo Site</title>
+    <link>http://example.org/tags/klm/</link>
+    <description>Recent content in Klm on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/klm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Maximum Cargo</title>
+      <link>http://example.org/post/combi-planes-cargo-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/combi-planes-cargo-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Earlier this year, when the CEO of United Airlines was put in front of a Senate panel and asked to defend his company’s notably shoddy treatment of a passenger, Sen. Bill Nelson (D-FL) described his interactions with air passengers as such: “[They] feel like they’re being treated as self-loading cargo rather than as valued consumers.&amp;rdquo; That’s an interesting comparison point. If an airline isn’t shipping passengers from one side of the country or world to another, it’s shipping cargo that may be inanimate.</description>
+    </item>
+    
+  </channel>
+</rss>

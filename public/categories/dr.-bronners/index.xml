@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dr. Bronners on My New Hugo Site</title>
+    <link>http://example.org/categories/dr.-bronners/</link>
+    <description>Recent content in Dr. Bronners on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/dr.-bronners/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Outside-the-Bottle Thinking</title>
+      <link>http://example.org/post/bottle-design-outside-the-bottle-thinking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/bottle-design-outside-the-bottle-thinking/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: It may be the most famous hard-to-read bottle in history. For generations, Dr. Bronner&amp;rsquo;s 18-in-1 Pure Castile Soap has become an essential tool for many looking to stay clean without the extra chemicals they throw into more main-line soaps. But all the benefits that come with the soap (it&amp;rsquo;s highly concentrated, it&amp;rsquo;s effective at getting you clean) are joined by Emanuel Bronner&amp;rsquo;s unusual opinions about just about everything—particularly his unique take on religion called the &amp;ldquo;Moral ABC.</description>
+    </item>
+    
+  </channel>
+</rss>

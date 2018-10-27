@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Atari on My New Hugo Site</title>
+    <link>http://example.org/tags/atari/</link>
+    <description>Recent content in Atari on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/atari/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Retail’s Tech Champion</title>
+      <link>http://example.org/post/sears-technology-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/sears-technology-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: For a wide variety of reasons, Sears has been a company creaking its way through modern times for longer than many of the people reading this have even been alive. It was a fundamental company to the American revolution—while it didn’t invent the mail-order catalog, it made it a successful business and set the stage for decades of followers. But I don’t want to wallow in Sears’ failings; there are plenty of other outlets for that.</description>
+    </item>
+    
+    <item>
+      <title>Reverse-Engineering The Industry</title>
+      <link>http://example.org/post/video-games-reverse-engineering-tengen-accolade/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/video-games-reverse-engineering-tengen-accolade/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: When it comes to video game consoles, the manufacturers don’t like it when you bend the rules. But it happens anyway. Technically inclined individuals inevitably want to bend the platforms to their will, despite platform owners that want to protect their massive investments, and aren’t afraid to resort to lawsuits to get their way. There are plenty of cases like this, most infamously the case of the Game Genie.</description>
+    </item>
+    
+    <item>
+      <title>The Scrolling Orb</title>
+      <link>http://example.org/post/trackball-input-device-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/trackball-input-device-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Ever find yourself in a bar with a single arcade machine, and the machine is inevitably not targeting gamers? Like, rather than, say, a fighting game or something iconic like NBA Jam or even Donkey Kong, it’s either a variation of Big Buck Hunter, a bowling game like Silver Strike Bowling, or a golf game like Golden Tee. These games, of course, aim for a wide audience, quite literally in the case of Big Buck Hunter.</description>
+    </item>
+    
+    <item>
+      <title>What a Wonderful World</title>
+      <link>http://example.org/post/worlds-of-wonder-teddy-ruxpin-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/worlds-of-wonder-teddy-ruxpin-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: If you grew up in the &amp;lsquo;80s, you already you probably know this, but that decade&amp;rsquo;s toy industry was a fascinating place. At this juncture, parents were already used to having to get batteries for their kids&amp;rsquo; toys, and at the same time, primitive computing technology was just getting cheap enough that it could be integrated into those toys. Some companies, like Tiger Electronics, doubled down on the cheap silicon and thrived.</description>
+    </item>
+    
+  </channel>
+</rss>

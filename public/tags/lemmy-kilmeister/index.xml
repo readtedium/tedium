@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lemmy Kilmeister on My New Hugo Site</title>
+    <link>http://example.org/tags/lemmy-kilmeister/</link>
+    <description>Recent content in Lemmy Kilmeister on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/lemmy-kilmeister/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I’ll Do Something Innovative When I Die</title>
+      <link>http://example.org/post/funeral-technology-innovation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/funeral-technology-innovation/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Death is a weird thing. Everyone does it eventually (unless they’re immortal), and we don’t always have control over when it happens. (If you’re reading this right now, you’ve confirmed that I did not die in the production of this issue.) But the problem is that death is a very sensitive thing, it’s loaded with emotions, it’s expensive, and it’s hard to get right. Perhaps that’s why “death” and “innovation” don’t tend to be so closely associated with one another.</description>
+    </item>
+    
+  </channel>
+</rss>

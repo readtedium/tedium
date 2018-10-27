@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pop Stars on My New Hugo Site</title>
+    <link>http://example.org/categories/pop-stars/</link>
+    <description>Recent content in Pop Stars on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/pop-stars/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Members Only</title>
+      <link>http://example.org/post/non-performing-band-members-coldplay-grateful-dead/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/non-performing-band-members-coldplay-grateful-dead/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: “Look at the stars, look how they shine for you, and all the things that you do, non-performing band member …” I personally gained a major distaste for Coldplay sometime in the early naughts, when I failed to understand the appeal of “Clocks,” despite having enjoyed Parachutes. Perhaps it’s for that reason I never realized that Coldplay has five members, that I assumed they were a quartet.</description>
+    </item>
+    
+    <item>
+      <title>Purple Copyright Eater</title>
+      <link>http://example.org/post/prince-troubled-relationship-with-copyright/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/prince-troubled-relationship-with-copyright/</guid>
+      <description>[whitebox]
+Today in Tedium: In losing Prince Rogers Nelson, we&amp;rsquo;re losing a lot more than a idiosyncratic pop star who defined an entire New Power Generation. We&amp;rsquo;re losing the last link between our current remix-heavy culture (which, let&amp;rsquo;s face it, this newsletter wouldn&amp;rsquo;t exist without) and an era when ownership of creative work was treated as an end-all-be-all. Here was a guy who started the internet era sporting a name that literally could not be searched, who forced lawsuits over barely-noticeable renditions of his songs in YouTube clips, and who made a lot of creative stuff that nobody will likely ever see.</description>
+    </item>
+    
+  </channel>
+</rss>

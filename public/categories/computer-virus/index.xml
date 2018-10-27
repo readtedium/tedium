@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Virus on My New Hugo Site</title>
+    <link>http://example.org/categories/computer-virus/</link>
+    <description>Recent content in Computer Virus on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/computer-virus/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>We&#39;re going viral</title>
+      <link>http://example.org/post/early-computer-virus-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/early-computer-virus-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: The computer virus has kind of taken on a life of its own in popular culture, often being seen as a device that destroys computers and data, while making itself known in the process. Things have changed since that hallowed era—the malware is still with us, but the way it attacks computers has changed drastically since the &amp;lsquo;80s. Today, we talk about computer viruses as if we&amp;rsquo;re in the midst of an archaeological dig.</description>
+    </item>
+    
+    <item>
+      <title>Weirdest Ransom Note Ever</title>
+      <link>http://example.org/post/joseph-l-popp-aids-ransomware/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/joseph-l-popp-aids-ransomware/</guid>
+      <description>[big]Back in the ’80s, it was a big deal when a frustrated satellite dish operator overrode the HBO feed for a few minutes on a Saturday night. But late last year, a saga involving a programmer whose family member’s TV set had fallen victim to ransomware shows we haven’t even scratched the surface of TV hacking.[/big]
+https://twitter.com/darrencauthon/status/813096722989809665
+Ransomware has a long and sordid history, though it’s relatively new to television. (But not too new.</description>
+    </item>
+    
+  </channel>
+</rss>

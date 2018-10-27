@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unused Material on My New Hugo Site</title>
+    <link>http://example.org/categories/unused-material/</link>
+    <description>Recent content in Unused Material on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/unused-material/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Lost (And Found) Levels</title>
+      <link>http://example.org/post/hidden-content-video-games-cutting-room-floor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/hidden-content-video-games-cutting-room-floor/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: It took a while for us to culturally admit it, but video games are a form of art on the level of many films—and that means that game developers are very much auteurs in the way that film directors are. (Or, depending on the game, schlockmeisters.) But as anyone who has ever used a Game Genie could tell you, there are things that developers don&amp;rsquo;t want you to see, at a basic level far removed from a mere easter egg.</description>
+    </item>
+    
+  </channel>
+</rss>

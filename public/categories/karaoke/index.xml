@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Karaoke on My New Hugo Site</title>
+    <link>http://example.org/categories/karaoke/</link>
+    <description>Recent content in Karaoke on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/karaoke/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sing Your Heart Out</title>
+      <link>http://example.org/post/karaoke-technology-evolution-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/karaoke-technology-evolution-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Apologies to Chris Carrabba and his decades-old heartbreak, but my favorite karaoke song is totally at the Dashboard Confessional singer’s expense. During the height of the emo era, I was shocked that the heart-bleeding-on-floor anthem “Screaming Infidelities” was commonly featured in the books at karaoke bars, because it seemed like the opposite of a good karaoke song. So, knowing it was available, I decided to make it my signature song.</description>
+    </item>
+    
+  </channel>
+</rss>
