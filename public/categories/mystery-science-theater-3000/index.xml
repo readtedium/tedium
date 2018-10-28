@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mystery Science Theater 3000 on My New Hugo Site</title>
+    <link>http://example.org/categories/mystery-science-theater-3000/</link>
+    <description>Recent content in Mystery Science Theater 3000 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/mystery-science-theater-3000/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Podcasting Puppet Master</title>
+      <link>http://example.org/post/mst3k-puppeteer-interview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/mst3k-puppeteer-interview/</guid>
+      <description>[whitebox]
+Hey all, Ernie here with a fresh piece from David Buck, who last came to you with a piece on DOS nostalgia. This time, he highlights the story of a guy who helped bring you the most recent season of MST3K, among other things.
+[big]Today in Tedium: From the early days of civilization to modern day pop culture, puppetry has always been used to tell stories. What happens when you mix music, comedy and puppets?</description>
+    </item>
+    
+    <item>
+      <title>We’ll Send Him Cheesy Movies</title>
+      <link>http://example.org/post/mst3k-revival-joel-hodgson-creative-redo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/mst3k-revival-joel-hodgson-creative-redo/</guid>
+      <description>[big]Recently, I had a reader send me a zip file full of old ideas I had for a website I worked on nearly 20 years ago. It was an unusual bit of digital archaeology, in part because I didn’t actually remember the project until after I had seen the end results. Then, it all came back to me—a revival of ideas, good and bad, the reflection that I’ve been building sites like the one I&amp;rsquo;m typing on now since before I was even in college.</description>
+    </item>
+    
+  </channel>
+</rss>

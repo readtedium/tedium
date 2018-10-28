@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Copyright Infringement on My New Hugo Site</title>
+    <link>http://example.org/tags/copyright-infringement/</link>
+    <description>Recent content in Copyright Infringement on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/copyright-infringement/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Symbiotic Infringement</title>
+      <link>http://example.org/post/consumer-john-oliver-copyright-infringement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/consumer-john-oliver-copyright-infringement/</guid>
+      <description>[big]On a day when the news is utterly saturated with stories about a famous YouTube user getting blocked from the service, I’d like to spend some time writing about another YouTube user who was blocked from the service today.[/big]
+You don’t know him, but you’ve likely seen the videos he uploaded—because news sites linked those videos pretty religiously.
+The user, named “consumer,” played a small but important role in the YouTube ecosystem.</description>
+    </item>
+    
+  </channel>
+</rss>

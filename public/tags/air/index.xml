@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Air on My New Hugo Site</title>
+    <link>http://example.org/tags/air/</link>
+    <description>Recent content in Air on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/air/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stuck On You</title>
+      <link>http://example.org/post/suction-cups-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/suction-cups-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: It was the cup that comical YouTube unboxing videos were made for. Last year, the Mighty Mug, a drink receptacle that’s designed to not fall down under normal circumstances, gained a lot of attention from video makers the world over because of its one weird trick. Unboxer extraordinaire Lamarr Wilson, for example, was so freaked out by this cup that he took a baseball bat to it.</description>
+    </item>
+    
+    <item>
+      <title>This&#39;ll Blow You Away</title>
+      <link>http://example.org/post/hand-dryer-dyson-airblade-xlerator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/hand-dryer-dyson-airblade-xlerator/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: if you&amp;rsquo;ve been reading us for a while, you might notice a common theme in the pieces we send out to you guys. Often, our strangest issues take things common (but mundane), and discover a secret history hiding under your nose. From belly buttons to bandages to veggie burgers, no subject is too mundane for us. If you use it, there&amp;rsquo;s probably a great story as to how it got there.</description>
+    </item>
+    
+  </channel>
+</rss>

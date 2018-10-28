@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Comedy on My New Hugo Site</title>
+    <link>http://example.org/categories/comedy/</link>
+    <description>Recent content in Comedy on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/comedy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Let’s Be Frank</title>
+      <link>http://example.org/post/frank-sidebottom-story/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/frank-sidebottom-story/</guid>
+      <description>[big]Behind the Mask: It takes a certain kind of human being to create a persona for yourself, and—by all accounts—Chris Sievey was very much that person.[/big]
+The British musician made his name in the ‘80s with an oddball comic persona named Frank Sidebottom, who was noted for both the giant mask he wore and his ability to rewrite classic pop songs into comic odes about Frank’s hometown, the Manchester suburb of Timperley.</description>
+    </item>
+    
+    <item>
+      <title>What if Tedium … Had Lyrics?</title>
+      <link>http://example.org/post/brentalfloss-interview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/brentalfloss-interview/</guid>
+      <description>As our readers are now undoubtedly aware, there are two things I’m incredibly interested in—unique types of music and the history/technical aspects/playing the games of the original Nintendo Entertainment System (I’m also really into miniatures, FWIW). Knowing this, it was only a matter of time before I discovered someone who combined these two interests into one. Unlike U2, circa 1987, I found what I was looking for almost a decade ago.</description>
+    </item>
+    
+  </channel>
+</rss>

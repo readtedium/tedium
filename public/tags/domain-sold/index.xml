@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Domain Sold on My New Hugo Site</title>
+    <link>http://example.org/tags/domain-sold/</link>
+    <description>Recent content in Domain Sold on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/domain-sold/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Purple Unicorn</title>
+      <link>http://example.org/post/purple-com-domain-sold/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/purple-com-domain-sold/</guid>
+      <description>[big]For more than 23 years, the Purple.com domain reflected one guy’s simple, colorful vision. But last week, the man who owned what was secretly becoming the internet’s most valuable domain finally sold it. To … wait for it … a mattress company.[/big]
+Per Domain Investing, Purple Innovations LLC, the company that owns the hipster mattress giant worth an estimated $1.1 billion, purchased the domain from Jeff Abrahamson, who spent more than two decades pledging that he would never sell the domain—instead suggesting he’d rather hold onto the URL and license it out to an interested party for a six-digit sum.</description>
+    </item>
+    
+  </channel>
+</rss>

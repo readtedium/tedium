@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hudson News on My New Hugo Site</title>
+    <link>http://example.org/tags/hudson-news/</link>
+    <description>Recent content in Hudson News on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/hudson-news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Network Effects</title>
+      <link>http://example.org/post/why-airport-stores-are-named-after-tv-networks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/why-airport-stores-are-named-after-tv-networks/</guid>
+      <description>[whitebox]
+Hey all! In lieu of a new piece, tonight’s Tedium is a lightly updated classic edition discussing one of the weirdest phenomena you’ll see at the airport: The naming conventions of the stores. Admit it, you’re curious.
+[big]Today in Tedium: When you travel to different places—in the U.S. in particular, perhaps less so outside of it—the airports often feel like they’re designed of a single piece of cloth, despite the fact that they’re most certainly not.</description>
+    </item>
+    
+  </channel>
+</rss>

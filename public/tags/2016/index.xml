@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2016 on My New Hugo Site</title>
+    <link>http://example.org/tags/2016/</link>
+    <description>Recent content in 2016 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/2016/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Let&#39;s Drop the Ball Again</title>
+      <link>http://example.org/post/tedium-trends-2016/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/tedium-trends-2016/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Here it is, mofos—issue 100 of Tedium, the Dull Side of the Internet. A year–and 99 issues—ago, we launched this thing by looking ahead at the year 2015. Now 2015 is over, and we need new things to hope and dream for. Today, we&amp;rsquo;re going to talk about the inane things that will come to define the 2016 calendar year. Despite the focus on the inane, we promise that there will be no mentions of a man whose name rhymes with Monald Mump.</description>
+    </item>
+    
+  </channel>
+</rss>

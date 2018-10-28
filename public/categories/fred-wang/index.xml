@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fred Wang on My New Hugo Site</title>
+    <link>http://example.org/categories/fred-wang/</link>
+    <description>Recent content in Fred Wang on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/fred-wang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>We’re Gunning For IBM</title>
+      <link>http://example.org/post/wang-computers-history-demise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/wang-computers-history-demise/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: The history of computing is full of stories that follow a specific arc, or a slight variation on it. Here’s the gist: A company has massive success, dominating an entire era of computing. They, understandably, get big in their britches, and fail to consider that their technology may not always be the greatest thing since sliced bread. First, they go into slow decline, then leadership problems pile up and the slow decline happens fast.</description>
+    </item>
+    
+  </channel>
+</rss>

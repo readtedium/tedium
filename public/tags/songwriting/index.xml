@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Songwriting on My New Hugo Site</title>
+    <link>http://example.org/tags/songwriting/</link>
+    <description>Recent content in Songwriting on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/songwriting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Maybe You’ve Been Brainwashed Too</title>
+      <link>http://example.org/post/new-radicals-gregg-alexander-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/new-radicals-gregg-alexander-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Two decades ago this month, a couple of things happened in the world of music that forever shaped the way I thought about it. One, the Barenaked Ladies scored a number-one hit on the Billboard Hot 100 with “One Week,” and a band called The New Radicals released their first and only album, *Maybe You’ve Been Brainwashed Too*—whose lead single, “You Get What You Give,” would turn the band into the perfect one-hit wonder.</description>
+    </item>
+    
+  </channel>
+</rss>

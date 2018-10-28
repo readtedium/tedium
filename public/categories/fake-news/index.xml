@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fake News on My New Hugo Site</title>
+    <link>http://example.org/categories/fake-news/</link>
+    <description>Recent content in Fake News on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/fake-news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Finish Line In Sight</title>
+      <link>http://example.org/post/tedium-trends-2017/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/tedium-trends-2017/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Can you believe we’ve been publishing this newsletter for two full years now? (Our anniversary hits on New Year’s Day, just like with my last project, ShortFormBlog.) There’s a good chance that most of you might not be aware of this fact. See, it was only back in January of 2016 that we topped a thousand subscribers, a fact that we revealed in an issue about dollar stores.</description>
+    </item>
+    
+  </channel>
+</rss>

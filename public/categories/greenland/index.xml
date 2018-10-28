@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Greenland on My New Hugo Site</title>
+    <link>http://example.org/categories/greenland/</link>
+    <description>Recent content in Greenland on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/greenland/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Greenlandia</title>
+      <link>http://example.org/post/greenland-popular-culture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/greenland-popular-culture/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: What does your pop culture look like when there&amp;rsquo;s not a lot of modern culture to pop? This is an interesting challenge in a lot of ways for the world&amp;rsquo;s most-sparsely-populated country, Greenland. With a population of less than 60,000 and a land area larger than Mexico, Indonesia, France, or Germany—though with nearly all of that area covered in a giant block of ice—Greenland is most definitely a region where creating a unique, modern culture can be a bit of a challenge.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digital Television on My New Hugo Site</title>
+    <link>http://example.org/categories/digital-television/</link>
+    <description>Recent content in Digital Television on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/digital-television/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Digital TV’s Tiny Achilles Heel</title>
+      <link>http://example.org/post/portable-digital-television-problems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/portable-digital-television-problems/</guid>
+      <description>[big]When it comes to technology, I have a lot of love for edge cases—situations where the march of innovation actually makes things a little bit worse.[/big]
+Which means that I’ve become a pretty sizable fan of the YouTube channel Techmoan in recent months. Host Mat Taylor’s magical ability to drop matter-of-fact bits of knowledge about obscure AV equipment is unparalleled, and his clip this past weekend highlighting the way that the move to digital television (basically) killed the portable TV is no exception.</description>
+    </item>
+    
+    <item>
+      <title>Our Annoying National Upgrade</title>
+      <link>http://example.org/post/digital-television-upgrade-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/digital-television-upgrade-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: The move of the television airwaves from analog to digital in 2009 was perhaps the most unusual case of planned obsolescence in the modern age. Here was a decision, mandated by the Telecommunications Act of 1996 and forced upon hundreds of millions of people at once, that threw lots of people out of their routine. Many folks weren&amp;rsquo;t ready, or maybe they didn&amp;rsquo;t care enough about their TV signal quality to upgrade.</description>
+    </item>
+    
+    <item>
+      <title>Our Next Annoying National Upgrade</title>
+      <link>http://example.org/post/atsc-3-0-digital-television-standard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/atsc-3-0-digital-television-standard/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: With all the recent chatter about Ajit Pai’s aggressive attempt to roll back net neutrality standards, it’s easy for other parts of the Federal Communications Commission’s winding docket to get lost. But there are things that the FCC is doing beyond ruining your internet that are worth discussing. One of those things is the recent passage of a measure to allow the voluntary rollout of ATSC 3.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Easter Eggs on My New Hugo Site</title>
+    <link>http://example.org/tags/easter-eggs/</link>
+    <description>Recent content in Easter Eggs on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/easter-eggs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>This Is My Top Secret Room</title>
+      <link>http://example.org/post/zelda-chris-houlihan-secret-room/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/zelda-chris-houlihan-secret-room/</guid>
+      <description>[big]These days, The Legend of Zelda is getting a whole lot of well-deserved extra attention as a franchise, thanks to Breath of the Wild being one of the Nintendo Switch’s launch titles.[/big]
+(Side note: We totally covered Bitrex months before Nintendo started covering its Switch cartridges with it. Yes, we’re ahead of the curve.)
+But as interesting as Breath of the Wild is, I wanted to spend a minute talking about one of the weirdest things ever to appear on a Nintendo cartridge, ever, let alone a Legend of Zelda game.</description>
+    </item>
+    
+  </channel>
+</rss>

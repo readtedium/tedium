@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neo Geo on My New Hugo Site</title>
+    <link>http://example.org/tags/neo-geo/</link>
+    <description>Recent content in Neo Geo on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/neo-geo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sharper Pixels</title>
+      <link>http://example.org/post/analogue-super-nt-premium-retro-gaming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/analogue-super-nt-premium-retro-gaming/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Recently, I had a big problem really put a damper on my retro-gaming experience. After modding my Super NES Classic, I proceeded to play one of my all-time favorite games, The Legend of the Mystical Ninja. I got all the way up to level 5, but when I ran into that level’s boss, something strange happened: The entire system crashed, hard. What happened? Well, the Super NES Classic’s emulator couldn’t handle what was on the screen.</description>
+    </item>
+    
+  </channel>
+</rss>

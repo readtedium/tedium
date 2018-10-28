@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The 8 Bit Guy on My New Hugo Site</title>
+    <link>http://example.org/categories/the-8-bit-guy/</link>
+    <description>Recent content in The 8 Bit Guy on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/the-8-bit-guy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Command Line</title>
+      <link>http://example.org/post/dos-nostalgia-squirrel-monkey-interview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/dos-nostalgia-squirrel-monkey-interview/</guid>
+      <description>[whitebox]
+Hey all, Ernie here with a fresh piece from David Buck, who has moved away from his NES for a while to tell you all about how awesome DOS is as a creative medium. Yeah, DOS.
+[big]Today in Tedium: From the early 90s, up until 2005 or so, I did much of my computer gaming on an American Megatrends IBM PC, running MS-DOS and Windows 3.11. I even got online once using Netscape Communicator.</description>
+    </item>
+    
+  </channel>
+</rss>

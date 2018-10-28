@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Subcultures on My New Hugo Site</title>
+    <link>http://example.org/tags/subcultures/</link>
+    <description>Recent content in Subcultures on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/subcultures/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>8-Bit Archaeology</title>
+      <link>http://example.org/post/8-bit-archaeology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/8-bit-archaeology/</guid>
+      <description>[whitebox][big]
+Today in Tedium: Here&amp;rsquo;s something you probably don&amp;rsquo;t know about me. For a couple years in the late-&amp;lsquo;90s and early 2000s, I got my sea legs in writing from a little site called Zophar&amp;rsquo;s Domain, a console emulation enthusiast site. At the time, ZD held a kind of legendary status among retro gamers, and though it&amp;rsquo;s aged some, it&amp;rsquo;s still around. (Here&amp;rsquo;s what it looked like when I was there.</description>
+    </item>
+    
+    <item>
+      <title>Despite All My Rage …</title>
+      <link>http://example.org/post/anger-rage-psychology-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/anger-rage-psychology-analysis/</guid>
+      <description>[whitebox]
+[big]
+Today in Tedium: 1995 was the year that Billy Corgan got in our faces and shouted, &amp;ldquo;Despite all my rage, I am still just a rat in a cage!&amp;rdquo; And since then, we&amp;rsquo;ve only gotten angrier as a society. All of our failings are tied to that inner rage that makes for good drama … but causes the most damage. Last week, uber-scientist Stephen Hawking called aggression &amp;ldquo;the human failing I would most like to correct.</description>
+    </item>
+    
+    <item>
+      <title>Diaspora: Not just a forgotten social network</title>
+      <link>http://example.org/post/how-a-diaspora-forms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/how-a-diaspora-forms/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: North America is a melting pot of the highest order, and it&amp;rsquo;s something that&amp;rsquo;s best exemplified by our junk food—a stew made of Taco Bell, ranch dressing, Sriracha, ramen noodles, and a whole lot of ground beef. But despite our disparate histories and tastes, we all made it here—some assimilating more than others. In today&amp;rsquo;s issue of Tedium, we consider some of the more unusual cultural pockets that have put a stake into the United States.</description>
+    </item>
+    
+    <item>
+      <title>I believe in symmetry</title>
+      <link>http://example.org/post/i-believe-in-symmetry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/i-believe-in-symmetry/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: The internet is full of dumb debates (as we all know), but a recent iPhone/Android argument took the cake for a lot of people. This week, _iMore_ editor-in-chief Rene Ritchie made the argument that Samsung&amp;rsquo;s Galaxy S6 phone was a worse phone than the iPhone because, unlike Apple&amp;rsquo;s device, the alignment of its ports was off. No, really. He suggested that it was a sign of shoddy craftsmanship.</description>
+    </item>
+    
+    <item>
+      <title>Tales Of The Interwebs</title>
+      <link>http://example.org/post/early-internet-history-tales/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/early-internet-history-tales/</guid>
+      <description>[big]
+Today in Tedium: Last week, one of the men who created the internet as we know it sounded the alarms on its future. Vinton Cerf, a Google executive and one of the architects of ARPANET, noted that decades of files could be lost to history, with no way to access the documents, due to lacking digital preservation efforts. “When you think about the quantity of documentation from our daily lives that is captured in digital form, like our interactions by email, people’s tweets, and all of the world wide web, it’s clear that we stand to lose an awful lot of our history,” he said, according to The Guardian.</description>
+    </item>
+    
+    <item>
+      <title>The Game Genie Generation</title>
+      <link>http://example.org/post/the-game-genie-generation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/the-game-genie-generation/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: For kids of a certain age, the Game Genie was a life-changer. Literally. It could change the number of lives you had in whatever cartridge you put it on, as well as do a bunch of other crazy things to the game you were playing. It provided a thrill that we&amp;rsquo;ve kinda gotten away from as video games have grown more complex, but the device leaves behind a rich legacy.</description>
+    </item>
+    
+    <item>
+      <title>We&#39;re going viral</title>
+      <link>http://example.org/post/early-computer-virus-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/early-computer-virus-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: The computer virus has kind of taken on a life of its own in popular culture, often being seen as a device that destroys computers and data, while making itself known in the process. Things have changed since that hallowed era—the malware is still with us, but the way it attacks computers has changed drastically since the &amp;lsquo;80s. Today, we talk about computer viruses as if we&amp;rsquo;re in the midst of an archaeological dig.</description>
+    </item>
+    
+  </channel>
+</rss>

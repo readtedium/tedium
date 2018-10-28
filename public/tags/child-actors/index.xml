@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Child Actors on My New Hugo Site</title>
+    <link>http://example.org/tags/child-actors/</link>
+    <description>Recent content in Child Actors on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/child-actors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bad Education</title>
+      <link>http://example.org/post/bad-education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/bad-education/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: The life of a child actor is anything but traditional. Between long stays on sets and a formative experience in the public spotlight, it’s no wonder that some former child stars resort to using drugs, going crazy on reality shows, or licking donuts. On the plus side, you still get to go to school—but even there, the experience is anything but traditional. There may be some really good on-set teachers, but sometimes it’s just a drunk guy trying to freeload on a movie set rather than teach kids algebra.</description>
+    </item>
+    
+  </channel>
+</rss>

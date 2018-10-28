@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sound on My New Hugo Site</title>
+    <link>http://example.org/tags/sound/</link>
+    <description>Recent content in Sound on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/sound/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Keep Your Composure</title>
+      <link>http://example.org/post/film-composition-subtle-art/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/film-composition-subtle-art/</guid>
+      <description>[whitebox]
+Hey guys, Ernie here with a fresh piece from Andrew Egan, who last hit us with some chatter on sound design in film. This time, he talks about another aural element of the cinematic experience.
+[big]Today in Tedium: There is no shortage of colloquialisms that advise you to chill out, take it easy, and don&amp;rsquo;t sweat the small stuff. But details matter. (Where else are you going to find the devil when you need him?</description>
+    </item>
+    
+    <item>
+      <title>The Polyphonic Screed</title>
+      <link>http://example.org/post/cell-phone-ringtone-history-evolution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/cell-phone-ringtone-history-evolution/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: For nearly a century, the ring that we associated with a telephone sounded like a variation on this noise. It was simple, consistent. It was boring. And we eventually improved on it, especially in the digital age. When our phones shrank to pocket dimensions and their innards integrated into tiny circuits, it allowed us to redefine exactly a ringtone could be. But that created another problem entirely—the default noise.</description>
+    </item>
+    
+    <item>
+      <title>The Sound and the Fury</title>
+      <link>http://example.org/post/indiana-jones-sound-design-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/indiana-jones-sound-design-history/</guid>
+      <description>[whitebox]
+Hey all, Ernie here with a piece from Andrew Egan about a specific kind of movie magic—the kind you hear, whether during a dramatic fall or the crack of a whip. Enjoy!
+[big]Today in Tedium: Returning to my sunny little Brooklyn apartment a few weeks ago, I heard a familiar sound coming from my living room. It wasn&amp;rsquo;t music or dialogue but the second I heard it, I knew exactly what one of my roommates was watching in our living room.</description>
+    </item>
+    
+  </channel>
+</rss>

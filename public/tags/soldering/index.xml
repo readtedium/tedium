@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soldering on My New Hugo Site</title>
+    <link>http://example.org/tags/soldering/</link>
+    <description>Recent content in Soldering on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/soldering/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How&#39;s Your Soldering Technique?</title>
+      <link>http://example.org/post/soldering-technology-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/soldering-technology-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: A lot of people use electronics with little to no idea of what actually happens inside of the little box they have on their desk or in their pockets. Sure, we might talk about the chips inside of that machine, or the processing power, but rarely do we think about the connective tissue holding many of the circuits onto the silicon. That tissue is solder, the meltable filler metal that has existed in one form or another for more than 4,000 years—long before electronics even existed as a modern context.</description>
+    </item>
+    
+  </channel>
+</rss>

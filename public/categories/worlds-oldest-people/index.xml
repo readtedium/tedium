@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Worlds Oldest People on My New Hugo Site</title>
+    <link>http://example.org/categories/worlds-oldest-people/</link>
+    <description>Recent content in Worlds Oldest People on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/worlds-oldest-people/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I&#39;m older than you&#39;ll ever be</title>
+      <link>http://example.org/post/im-older-than-youll-ever-be/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/im-older-than-youll-ever-be/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: It&amp;rsquo;s the most dangerous title to hold—the title of the world&amp;rsquo;s oldest person. You know that you&amp;rsquo;re not going to survive for long, and while there are occasional exceptions, it&amp;rsquo;s a title that frequently changes hands. Gertrude Weaver barely even had a chance to celebrate her newfound reign as the world&amp;rsquo;s oldest woman—she died a mere five days after the title changed hands, at age 116.</description>
+    </item>
+    
+  </channel>
+</rss>

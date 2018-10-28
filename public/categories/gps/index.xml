@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gps on My New Hugo Site</title>
+    <link>http://example.org/categories/gps/</link>
+    <description>Recent content in Gps on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/gps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Your Position, Triangulated</title>
+      <link>http://example.org/post/gps-history-evolution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/gps-history-evolution/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Last month, a blog post caught my attention, because I’m the kind of person for whom blog posts catch attention. The piece, by onetime Apple Maps cartographer Justin O’Beirne, noted how Google, objectively, has maps better than every one of its competitors, because it captures levels of detail that no other mapping system does. For one thing, it tells you where buildings are, using a mixture of computer visioning and aerial photography.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nintendo Entertainment System on My New Hugo Site</title>
+    <link>http://example.org/tags/nintendo-entertainment-system/</link>
+    <description>Recent content in Nintendo Entertainment System on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/nintendo-entertainment-system/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Australian Rules Nintendo</title>
+      <link>http://example.org/post/nintendo-beam-software-australia-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/nintendo-beam-software-australia-history/</guid>
+      <description>[big]Recently I found myself hanging out in a retro video game store, looking at the cheapo bin at the various titles for the NES and other systems. If you’ve done something similar in the recent past, you’ll know that the cheapo bin will inevitably be filled with lots of sports games. It doesn’t matter if the sports games are well-regarded or even iconic—for whatever reason gamers just don’t want to buy them.</description>
+    </item>
+    
+    <item>
+      <title>Not Just Nostalgia</title>
+      <link>http://example.org/post/nes-homebrew-scene-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/nes-homebrew-scene-history/</guid>
+      <description>[whitebox]
+Hey guys, Ernie here with another great piece from David Buck, who we last saw talking about Oingo Boingo. Tonight, he’s got something else brewin’.
+[big]Today in Tedium: Growing up in the era of the Nintendo Entertainment System, I always wanted to create my own NES game. I scribbled ideas in notebooks, mapped out levels on graph paper and spent countless hours composing my own MIDI-based soundtracks to games that didn’t exist.</description>
+    </item>
+    
+  </channel>
+</rss>

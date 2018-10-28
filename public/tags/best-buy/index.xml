@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Best Buy on My New Hugo Site</title>
+    <link>http://example.org/tags/best-buy/</link>
+    <description>Recent content in Best Buy on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/best-buy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>We Were Selling Computers All Wrong</title>
+      <link>http://example.org/post/big-box-retail-computers-problems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/big-box-retail-computers-problems/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: The big-box technology store isn&amp;rsquo;t dead yet—and in the case of Best Buy, it&amp;rsquo;s actually doing pretty well, beating financial estimates by a country mile. But as a whole, the concept of the sprawling electronics chain is far from its peak. In fact, it&amp;rsquo;s sort of another shade of the office-supply store. Despite that, investors keep trying to revive this idea. Right now, an investor named Ronny Shmoel is trying to bring Circuit City back to life as a physical presence, roughly seven years after the brand was mothballed.</description>
+    </item>
+    
+  </channel>
+</rss>

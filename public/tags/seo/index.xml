@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seo on My New Hugo Site</title>
+    <link>http://example.org/tags/seo/</link>
+    <description>Recent content in Seo on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/seo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Forget Rand Paul, Let&#39;s Talk Paul Rand</title>
+      <link>http://example.org/post/rand-paul-paul-rand-logo-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/rand-paul-paul-rand-logo-design/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: A horrible thing has happened to search results in recent months. If you do a Google search for Paul Rand, nearly half the results on the first page—and all of the Google News results—are about Rand Paul, a man who has little to do with graceful, iconic logo design. In fact, if you actually knew something about logo design, you might be disappointed by Rand&amp;rsquo;s campaign logo.</description>
+    </item>
+    
+    <item>
+      <title>In front of the music</title>
+      <link>http://example.org/post/worst-album-covers-analyzed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/worst-album-covers-analyzed/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Nearly as long as there has been the internet, there have been lists of terrible album covers—many of which predate the internet and are looked at using modern standards for humor and kitsch. But the problem with these images is that there&amp;rsquo;s often no story behind them, because they&amp;rsquo;re often not shared with any information to speak of. They&amp;rsquo;re historic memes, but they never seem to have any attached history.</description>
+    </item>
+    
+    <item>
+      <title>No Thanks, Spammers</title>
+      <link>http://example.org/post/seo-spammers-ruining-open-web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/seo-spammers-ruining-open-web/</guid>
+      <description>[big]Tedium has a decent number of readers, but when it comes down to it, it’s a small blip on the larger internet—a small professional publisher at a time when so many of our publishers are large and centralized.[/big]
+As a result of this relatively unique status, I get a lot of messages on a fairly regular basis asking me to do one of a few things:
+ Update a link on a story I’ve already written to get in a business I didn’t previously mention.</description>
+    </item>
+    
+    <item>
+      <title>Walk on the Vinyl Side</title>
+      <link>http://example.org/post/soundalike-records-walk-on-the-vinyl-side/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/soundalike-records-walk-on-the-vinyl-side/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Late rock legend Lou Reed has been in the news lately for a somewhat odd reason. On Monday, Reed&amp;rsquo;s sister wrote about her brother&amp;rsquo;s medical situation during his teenage years—when, the rumor goes, his parents had him undergo electroshock therapy to fend off homosexual urges. (Lou did undergo the controversial therapy treatment, but his sister denies that latent homosexuality was the cause. Speaking of their parents, she explains: &amp;ldquo;They were caught in a bewildering web of guilt, fear, and poor psychiatric care.</description>
+    </item>
+    
+  </channel>
+</rss>

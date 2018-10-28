@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abc on My New Hugo Site</title>
+    <link>http://example.org/categories/abc/</link>
+    <description>Recent content in Abc on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/abc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Agony Of Repeat</title>
+      <link>http://example.org/post/wide-world-of-sports-agony-of-defeat-fall/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/wide-world-of-sports-agony-of-defeat-fall/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: I have fond memories of America’s Funniest Home Videos, particularly the early years hosted by Bob Saget. It was a show that defined a uniquely American kind of embarrassment—an embarrassment caught on camera. (Or in the case of Papa John, on tape.) We’re highly familiar with that in the age of YouTube, of course. But there’s something kind of graceful about the woman who gets stuck in her own dishwasher, the above-ground pool that goes kablooey, and (of course!</description>
+    </item>
+    
+  </channel>
+</rss>

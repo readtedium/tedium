@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hard Drives on My New Hugo Site</title>
+    <link>http://example.org/tags/hard-drives/</link>
+    <description>Recent content in Hard Drives on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/hard-drives/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>You Spin Me Right Round, Baby</title>
+      <link>http://example.org/post/early-hard-drive-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/early-hard-drive-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Hard drives may be the most fundamental building block of the computer revolution. Hitting the perfect balance between size and cost, it was a defining piece of computer history, one that made our machines more permanent and helped us rethink the way we store information. With a hard drive, we were eventually able to move away from the idea of thinking of our documents in terms of a linear order and a physical space.</description>
+    </item>
+    
+  </channel>
+</rss>

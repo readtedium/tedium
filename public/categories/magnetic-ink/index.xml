@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Magnetic Ink on My New Hugo Site</title>
+    <link>http://example.org/categories/magnetic-ink/</link>
+    <description>Recent content in Magnetic Ink on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/magnetic-ink/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Scanning And Sorting</title>
+      <link>http://example.org/post/check-processing-history-automation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/check-processing-history-automation/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: The physical check, for most general purposes, is a sheer relic—basically used mostly for specific big-ticket purchases like rent, it certainly doesn’t have the sex appeal of, say, blockchain-based currencies like Ethereum and Litecoin. But it’s worth keeping in mind that check scanning, sorting, and distribution played an important early role in electronic commerce. Before we got niceties like ACH and magnetic strips, it set the wheels in motion for our highly automated commerce-based world.</description>
+    </item>
+    
+  </channel>
+</rss>

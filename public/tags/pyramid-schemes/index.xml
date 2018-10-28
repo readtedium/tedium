@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pyramid Schemes on My New Hugo Site</title>
+    <link>http://example.org/tags/pyramid-schemes/</link>
+    <description>Recent content in Pyramid Schemes on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/pyramid-schemes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>When Pyramids Collapse</title>
+      <link>http://example.org/post/anatomy-scams-when-pyramids-collapse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/anatomy-scams-when-pyramids-collapse/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: It&amp;rsquo;s the oldest scam in the book, and people fall for it all the freaking time. Pyramid schemes of all shapes and sizes have been bilking people out of their hard-earned money for generations, and you&amp;rsquo;re probably gonna get screwed out of your hard-earned money before you even realize it. Today&amp;rsquo;s Tedium is all about scams that leave scars way deeper than all the money stolen.</description>
+    </item>
+    
+  </channel>
+</rss>

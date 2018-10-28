@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mattress on My New Hugo Site</title>
+    <link>http://example.org/categories/mattress/</link>
+    <description>Recent content in Mattress on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/mattress/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lurking In Your Bed</title>
+      <link>http://example.org/post/hipster-mattress-online-sales-practices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/hipster-mattress-online-sales-practices/</guid>
+      <description>[big]As you guys may or may not know, my first really big piece on Tedium was a takedown of sorts on hipster mattresses. It pondered the idea of how the companies came to prominence, as well as what it would take to start up a company just like this. It was absurd, but it was fun to write. It’s currently the top-ranking item on Google for the term “hipster mattress.”[/big]</description>
+    </item>
+    
+  </channel>
+</rss>

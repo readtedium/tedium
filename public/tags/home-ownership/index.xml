@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home Ownership on My New Hugo Site</title>
+    <link>http://example.org/tags/home-ownership/</link>
+    <description>Recent content in Home Ownership on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/home-ownership/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Own To Rent</title>
+      <link>http://example.org/post/rental-crisis-history-problems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/rental-crisis-history-problems/</guid>
+      <description>[whitebox]
+Editor’s note: Today’s issue is created in partnership with the folks at Make Room, a nonpartisan organization sponsored by the housing nonprofit Enterprise Community Partners.
+[big]Today in Tedium: There’s a lot of country hiding between New York and San Francisco, but for some reason, these two cities dominate discussions about rent prices in the United States. It’s understandable. It’s pretty easy for your eyes to pop when you read about a 1-bedroom apartment’s price topping $3,500, as ApartmentList reported about San Francisco earlier this month.</description>
+    </item>
+    
+    <item>
+      <title>The Neighbors You Love to Hate</title>
+      <link>http://example.org/post/homeowners-associations-ruin-everything/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/homeowners-associations-ruin-everything/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: You probably don’t need to read it from me to know that homeowners associations are pretty much the worst thing ever to happen to neighborhoods, but in case you need more evidence, 11-year-old Sara Marston has plenty. Marston found out recently that a popular Halloween display in her neighborhood wouldn’t go up this year due to a set of restrictions specifically targeting that house. She put up an online petition, hoping she would get 100 supporters.</description>
+    </item>
+    
+    <item>
+      <title>Throw Away Your Rake</title>
+      <link>http://example.org/post/throw-away-your-rake/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/throw-away-your-rake/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: As I pointed out earlier this year, people are unhealthily obsessed with mowing their lawns, despite the fact that the popularity of doing so only goes back about a century or two. And as seasons change, the mindset that leads people to freak out about their lawns stays the same—but the target changes. Odds are that if you live in a state north of the Mason-Dixon line, you&amp;rsquo;ve probably seen a dead leaf or two on the dirty ground.</description>
+    </item>
+    
+  </channel>
+</rss>

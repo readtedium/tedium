@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cardinal Richelieu on My New Hugo Site</title>
+    <link>http://example.org/tags/cardinal-richelieu/</link>
+    <description>Recent content in Cardinal Richelieu on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/cardinal-richelieu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Never A Dull Moment</title>
+      <link>http://example.org/post/steak-knife-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/steak-knife-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Obviously, knives, with their sharp blades for cutting through things, have been around forever—they’re a key ingredient of any horror film, slasher flick, or murder mystery that’s ever been created. But here’s a question that I don’t think a lot of people have pondered (mainly because they aren’t expected to like I am): Why do steaks get their own dedicated knives, and why do we shove them into giant blocks of wood for storage?</description>
+    </item>
+    
+  </channel>
+</rss>

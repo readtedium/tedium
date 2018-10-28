@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ticketmaster on My New Hugo Site</title>
+    <link>http://example.org/categories/ticketmaster/</link>
+    <description>Recent content in Ticketmaster on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/ticketmaster/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unsettled</title>
+      <link>http://example.org/post/ticketmaster-live-nation-free-ticket-settlement-boycott/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/ticketmaster-live-nation-free-ticket-settlement-boycott/</guid>
+      <description>[big]Nearly a quarter-century ago, Pearl Jam—which had become the biggest band in the world around this time effectively by ignoring the music industry orthodoxy of the time—decided to take on live music’s biggest middleman.[/big]
+It probably hurt their career to take aim at Ticketmaster, which had become known for charging expensive service fees on every ticket it sold. But the politically minded band did, going so far as to file a complaint with the Justice Department and speak in front of Congress about the problem, something rock bands don’t usually do.</description>
+    </item>
+    
+  </channel>
+</rss>

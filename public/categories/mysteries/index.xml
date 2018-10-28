@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mysteries on My New Hugo Site</title>
+    <link>http://example.org/categories/mysteries/</link>
+    <description>Recent content in Mysteries on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/mysteries/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Beachside Mystery</title>
+      <link>http://example.org/post/rhode-island-weird-beach-mystery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/rhode-island-weird-beach-mystery/</guid>
+      <description>[big]Sorry, guys: The unofficial end of summer gets us no closer to the solution of the summer’s great mystery. Yes, that’s right, there was a big mystery hiding in the sand this summer—and it would’ve been a kickass discovery using any average metal detector.[/big]
+Here’s the deal: Beachgoers in Westerly, Rhode Island have been confused as heck about a large metal object that was jutting out of the ground on the city’s beach.</description>
+    </item>
+    
+  </channel>
+</rss>

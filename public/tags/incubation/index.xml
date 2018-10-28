@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Incubation on My New Hugo Site</title>
+    <link>http://example.org/tags/incubation/</link>
+    <description>Recent content in Incubation on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/incubation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hatching a Plan</title>
+      <link>http://example.org/post/hatchimal-alternatives-eggs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/hatchimal-alternatives-eggs/</guid>
+      <description>Currently, it’s easier to get a nest-style bed for a Hatchimal than it is to get an actual Hatchimal.
+Not that the buzzy toys may be worth it anyway, based on the class-action lawsuit filed against the toymaker Spin Master after the toy animals failed to hatch.
+All of this makes me wonder whether we might be better off buying something else that hatches and hoping for the best.
+Fortunately, it’s possible—and it’s a great workaround for a notable policy Amazon has against selling live animals in most cases.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poor Richards Almanack on My New Hugo Site</title>
+    <link>http://example.org/categories/poor-richards-almanack/</link>
+    <description>Recent content in Poor Richards Almanack on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/poor-richards-almanack/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>When Time Became Money</title>
+      <link>http://example.org/post/calculagraph-history-time-tracking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/calculagraph-history-time-tracking/</guid>
+      <description>[whitebox]
+Editor’s note: Hey guys! Ernie here, handing the floor over once again to Andrew Egan, who last showed up on Tedium to tell us all about photo processing. Today, he’s talking about the value of time.
+[big]Today in Tedium: Some phrases are so ingrained in the common lexicon that it’s almost impossible to imagine a time without them. Idioms, turns-of-phrase, colloquialisms, whatever you want to call them, take generations to develop.</description>
+    </item>
+    
+  </channel>
+</rss>

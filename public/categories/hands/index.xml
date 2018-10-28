@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hands on My New Hugo Site</title>
+    <link>http://example.org/categories/hands/</link>
+    <description>Recent content in Hands on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/hands/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I Wanna Trademark Things All Night</title>
+      <link>http://example.org/post/gene-simmons-trademark-devil-horns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/gene-simmons-trademark-devil-horns/</guid>
+      <description>[big]Gene Simmons, love him or hate him, has a history of trademarking very common things.[/big]
+As any fan of the Scottish power-pop group Teenage Fanclub knows, the band’s label, Geffen, had to send a check to Simmons because the cover of the alternative rock band’s Bandwagonesque (which is a stellar album) featured a sack of money with a dollar sign on it—an image that Gene Simmons has long owned the trademark for, as it was the logo of his label, Simmons Records.</description>
+    </item>
+    
+  </channel>
+</rss>

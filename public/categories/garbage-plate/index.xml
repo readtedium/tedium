@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Garbage Plate on My New Hugo Site</title>
+    <link>http://example.org/categories/garbage-plate/</link>
+    <description>Recent content in Garbage Plate on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/garbage-plate/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I got the munchies</title>
+      <link>http://example.org/post/i-got-the-munchies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/i-got-the-munchies/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: &amp;rdquo;You don&amp;rsquo;t have to go home, but you can&amp;rsquo;t stay here,&amp;rdquo; Grammy award-winning songwriter Dan Wilson frequently sings to the unwashed masses at many a college town bar around the country. (Fun fact: He won that Grammy not with Semisonic, but for writing a Dixie Chicks song.) And often, they don&amp;rsquo;t go home. Instead, they go to restaurants made for easing the next morning&amp;rsquo;s hangovers. Or they do go home, but then they order late-night food that gets delivered to dorm rooms so fast, they freak.</description>
+    </item>
+    
+  </channel>
+</rss>

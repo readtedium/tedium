@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marketing on My New Hugo Site</title>
+    <link>http://example.org/tags/marketing/</link>
+    <description>Recent content in Marketing on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/marketing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Business Card With Impact</title>
+      <link>http://example.org/post/cd-rom-business-card-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/cd-rom-business-card-history/</guid>
+      <description>[big]Back in 2010, Inc. contributor Josh Spiro made this point about the importance of business cards: “A snazzy card is no good if you hand it out left and right without an exchange of pleasantries and ideas, but a poor quality card can undermine even the best rapport or the most persuasive conversation.”[/big]
+With this in mind, it only makes sense that someone had the idea of creating a business card that doubled as a CD-ROM.</description>
+    </item>
+    
+    <item>
+      <title>Big in Brazil</title>
+      <link>http://example.org/post/sega-master-system-brazil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/sega-master-system-brazil/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Here’s a true fact that will blow your mind—the game-maker Sega started out as an American company, not as a Japanese one. Sure, much of its success came about after it moved to Japan, but it was not by any means a company that necessarily needed Japan, like notable competitors Nintendo, Sony, and NEC did. While the company had one solid era of major success in the American market—where the Sega Genesis went toe-to-toe with the Super NES and became one of the most popular systems of the ‘90s—it was Brazil where Sega really came into its own.</description>
+    </item>
+    
+    <item>
+      <title>Brand bastardizations</title>
+      <link>http://example.org/post/brand-bastardizations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/brand-bastardizations/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Last week, the internet collectively threw McDonald&amp;rsquo;s a nostalgic bone. On January 20th, a reporter for Canada.com reminded the Northern Hemisphere of the obscure phenomenon that was the McPizza, a food item that most people probably forgot existed—especially if those people were American. (It was largely a Canadian phenomenon.) But, as it turns out, two franchise locations in Ohio and West Virginia still sell the pies.</description>
+    </item>
+    
+    <item>
+      <title>Get Yourself A Treat</title>
+      <link>http://example.org/post/lets-all-go-lobby-movie-snipe-advertising/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/lets-all-go-lobby-movie-snipe-advertising/</guid>
+      <description>[whitebox]
+Editor’s note: Hey all, Ernie here—just wanted to let you guys know I’m handing the reins over to Andrew Egan once again. (If you want some of my thoughts on things, I did a recent interview with LetterList.) Last time, he told us about a time-storing device; this time, he has a stalling tactic of sorts. Check it out!
+[big]Today in Tedium: As we&amp;rsquo;ve noted before, long-running traditions in movies are slowly dying as media becomes digitized.</description>
+    </item>
+    
+    <item>
+      <title>Leavin’ The Light On</title>
+      <link>http://example.org/post/tom-bodett-motel-6-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/tom-bodett-motel-6-history/</guid>
+      <description>[whitebox]
+Hey all, Ernie here with another slice of life from my pal David Buck. This time, he gives us the story of the Great American Motel Chain, and the man whose voice defines that story.
+[big]Today in Tedium: You may recognize the voice of Tom Bodett as the whimsical narrator of those hilarious Motel 6 radio spots that have been floating around the airwaves for the past thirty years.</description>
+    </item>
+    
+    <item>
+      <title>The Many Lives of Packard Bell</title>
+      <link>http://example.org/post/packard-bell-multiple-brand-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/packard-bell-multiple-brand-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Let’s go back in time about 20 years, to two days after Christmas, 1996. On this day, as I was becoming accustomed to Bush’s second album, millions of families around the United States were unpacking and setting up their first home computers. For those who skipped the Commodore and Apple II eras, who didn’t have a Videotex installed in their televisions, and had no idea who Commander Keen even was, this was the moment in time when they joined the internet revolution, brandishing their their AOL or Hotmail addresses for all the world to see.</description>
+    </item>
+    
+    <item>
+      <title>This Old Scandal</title>
+      <link>http://example.org/post/bob-vila-this-old-house-departure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/bob-vila-this-old-house-departure/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: In an era when HGTV has turned home repair into a lasting form of light entertainment and figures like Property Brothers Jonathan and Drew Scott and Fixer Upper power couple Chip and Joanna Gaines into big-name public figures and experts at monetizing their names and work, it’s worth remembering the foundation for this approach—specifically, the home-repair experts that came before. One of those experts is a guy by the name of Bob Vila.</description>
+    </item>
+    
+  </channel>
+</rss>

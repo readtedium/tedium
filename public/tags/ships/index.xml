@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ships on My New Hugo Site</title>
+    <link>http://example.org/tags/ships/</link>
+    <description>Recent content in Ships on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/ships/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Floating Fast Food</title>
+      <link>http://example.org/post/mcbarge-vancouver-floating-fast-food/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/mcbarge-vancouver-floating-fast-food/</guid>
+      <description>[big]The other night, I took a bit of a swipe at McDonald’s for its poor track record in the Icelandic market. Ray Kroc and company, I apologize and admit that your sausage biscuits give me modest joy. After I write this piece, I may be forced to apologize again.[/big]
+That’s because I’m about to bring up a bad memory for the fast-food giant.
+In the late ‘80s, the World’s Fair was still a fairly Big Deal in North America, and Vancouver played host to one of the most notable World Expo galas, Expo ’86.</description>
+    </item>
+    
+  </channel>
+</rss>

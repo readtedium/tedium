@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Albums on My New Hugo Site</title>
+    <link>http://example.org/tags/albums/</link>
+    <description>Recent content in Albums on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/albums/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Beautiful Neighborhood</title>
+      <link>http://example.org/post/ernest-hood-neighborhoods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/ernest-hood-neighborhoods/</guid>
+      <description>[big]Back in 2004, the Arcade Fire released one of the greatest musical documents of our still-young 21st century, an album titled Funeral that was built around a series of four songs, each titled “Neighborhood.” Those songs, with their high tension and genuine pain, evoked something both local and emotional. They became huge. They moved far beyond neighborhoods, into the stratosphere.[/big]
+Nearly three decades earlier, Portland, Oregon jazz musician Ernest Hood wasn’t aiming for the same kind of emotions with his album Neighborhoods, but he did hit on something very local and emotional in his own right.</description>
+    </item>
+    
+  </channel>
+</rss>

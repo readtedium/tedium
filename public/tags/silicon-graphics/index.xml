@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Silicon Graphics on My New Hugo Site</title>
+    <link>http://example.org/tags/silicon-graphics/</link>
+    <description>Recent content in Silicon Graphics on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/silicon-graphics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Silicon Persistence</title>
+      <link>http://example.org/post/sgi-collector-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/sgi-collector-history/</guid>
+      <description>[whitebox]
+Hey all, Ernie here with a recent piece of mine that also showed up in Motherboard. In case you haven&amp;rsquo;t read it yet, it&amp;rsquo;s a good one and highlights both SGI and the the excellent community IRIX.cc. Read on, and hope you dig!
+[big]Today in Tedium: Recently, I was faced with an unusual question about a piece of hardware that very few people have ever used. The question: What makes a giant workstation, one that once cost as much as a house when it was first produced in the early ‘90s and makes as much noise as a vacuum, so appealing to a 16-year-old?</description>
+    </item>
+    
+  </channel>
+</rss>

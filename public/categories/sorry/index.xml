@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sorry on My New Hugo Site</title>
+    <link>http://example.org/categories/sorry/</link>
+    <description>Recent content in Sorry on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/sorry/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reopening the Book</title>
+      <link>http://example.org/post/encyclopaedia-britannica-cdrom-update/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/encyclopaedia-britannica-cdrom-update/</guid>
+      <description>[big]If you look at nearly every retelling of Encyclopaedia Britannica’s move away from the physical book, the story goes something like this: Britannica ran head-first into the digital revolution and nearly lost its head in the process. And, like a few other retellings of this story, that was the story arc of a recent piece of mine on the matter.[/big]
+So it wasn’t the world’s greatest feeling to see someone claiming that I had gotten this story arc completely wrong.</description>
+    </item>
+    
+  </channel>
+</rss>

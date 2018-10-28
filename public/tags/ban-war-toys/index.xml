@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ban War Toys on My New Hugo Site</title>
+    <link>http://example.org/tags/ban-war-toys/</link>
+    <description>Recent content in Ban War Toys on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/ban-war-toys/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>War, Peace, And Action Figures</title>
+      <link>http://example.org/post/ban-war-toys-movement-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/ban-war-toys-movement-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: The &amp;lsquo;80s were by and large a time of peace for the United States. The Cold War was thawing, and most of the conflicts the U.S. did get in took place over secured phone lines, rather than on the battlefield. Pop culture was far more likely to arm itself to the teeth during this era: Military-inspired cartoons like G.I. Joe: A Real American Hero ruled the after-school airwaves, while films like Rambo and stars like Chuck Norris and Dolph Lundgren were bringing explosive military action to the cineplex.</description>
+    </item>
+    
+  </channel>
+</rss>

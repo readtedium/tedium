@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lcd Monitors on My New Hugo Site</title>
+    <link>http://example.org/categories/lcd-monitors/</link>
+    <description>Recent content in Lcd Monitors on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/lcd-monitors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LOUD NOISES</title>
+      <link>http://example.org/post/loudest-noises-ever-nuclear-attack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/loudest-noises-ever-nuclear-attack/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: This week, the Federal Communications Commission dropped the hammer on cable-TV giants ESPN and Viacom, fining them a combined $1.4 million for running an ad for the movie Olympus Has Fallen. The reason? The ad featured tones from the Emergency Alert System (EAS), and the FCC was not cool with allowing an advertiser to use the tones. They weren&amp;rsquo;t the only ones to face the fine—NBCUniversal got nailed by a $530,000 fine in 2014.</description>
+    </item>
+    
+  </channel>
+</rss>

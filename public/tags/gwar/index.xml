@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gwar on My New Hugo Site</title>
+    <link>http://example.org/tags/gwar/</link>
+    <description>Recent content in Gwar on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/gwar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Members Only</title>
+      <link>http://example.org/post/non-performing-band-members-coldplay-grateful-dead/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/non-performing-band-members-coldplay-grateful-dead/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: “Look at the stars, look how they shine for you, and all the things that you do, non-performing band member …” I personally gained a major distaste for Coldplay sometime in the early naughts, when I failed to understand the appeal of “Clocks,” despite having enjoyed Parachutes. Perhaps it’s for that reason I never realized that Coldplay has five members, that I assumed they were a quartet.</description>
+    </item>
+    
+  </channel>
+</rss>

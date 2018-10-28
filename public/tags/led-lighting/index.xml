@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Led Lighting on My New Hugo Site</title>
+    <link>http://example.org/tags/led-lighting/</link>
+    <description>Recent content in Led Lighting on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/led-lighting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Here’s a bright idea</title>
+      <link>http://example.org/post/bright-idea-lighting-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/bright-idea-lighting-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Not many light bulbs can say that they&amp;rsquo;ve managed to survive two World Wars and then some, but the fire department in Livermore, California has managed to keep a life of its own far beyond many of the firefighters that have stayed on call over the past 114 years. The bulb, which the department calls &amp;ldquo;The Centennial Bulb,&amp;rdquo; has only been shut off a few times in its history, and remains working to this day essentially because they go out of their way to never turn the light bulb off.</description>
+    </item>
+    
+  </channel>
+</rss>

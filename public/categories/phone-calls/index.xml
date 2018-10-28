@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phone Calls on My New Hugo Site</title>
+    <link>http://example.org/categories/phone-calls/</link>
+    <description>Recent content in Phone Calls on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/phone-calls/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Chinese Robocall Blues</title>
+      <link>http://example.org/post/spam-robocalls-history-comparison/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/spam-robocalls-history-comparison/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Recently, I got a phone call from a number I’d never seen before. In other words, an average day. But this call was weird, largely because it was decidedly not for me. It sounded like Chinese, which was confirmed when I had the bright idea of holding my phone against my laptop’s microphone so Google Translate could make it out. Suddenly, it became slightly more clear: The message was a robocall—a strange one at that, one that suggested some sort of immigration trouble for the caller.</description>
+    </item>
+    
+  </channel>
+</rss>

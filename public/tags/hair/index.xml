@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hair on My New Hugo Site</title>
+    <link>http://example.org/tags/hair/</link>
+    <description>Recent content in Hair on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/hair/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Little off the Top</title>
+      <link>http://example.org/post/barber-shop-credit-card-transactions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/barber-shop-credit-card-transactions/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: If you find yourself in a mom-and-pop barber shop or hair salon of any kind, you might find this common (but annoying) state of affairs in play: Despite the fact that basically every other store on the block accepts credit cards, the barber shop is the lone holdout on that front, forcing consumers who may have otherwise stopped paying cash for most things long ago to hit up the ATM.</description>
+    </item>
+    
+    <item>
+      <title>Bend, Don’t Break</title>
+      <link>http://example.org/post/unbreakable-combs-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/unbreakable-combs-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Modern hair combs are unusually simple tools—perhaps our simplest. Their single row of bristles, usually black, are designed to do one thing—separate and organize your hair follicles into a more attractive format. They do this effectively, without the need of any electricity. And they’re cheap, too—you never have one when you need one, but you can buy a pack of 72 of them for eight bucks, or 11 cents each.</description>
+    </item>
+    
+  </channel>
+</rss>

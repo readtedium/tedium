@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Environment on My New Hugo Site</title>
+    <link>http://example.org/tags/environment/</link>
+    <description>Recent content in Environment on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/environment/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I&#39;ll Have Water, Please</title>
+      <link>http://example.org/post/restaurant-water-consumption-phenomenon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/restaurant-water-consumption-phenomenon/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Going to a restaurant is a game of expectations. We expect certain things out of the experience, based on the set parameters when we walk in the door. If we&amp;rsquo;re going to Mickey D&amp;rsquo;s, we expect our food pretty fast and fairly low-quality. If the restaurant doesn&amp;rsquo;t have a counter, we expect a menu at the table. And when we sit down at a restaurant—in the United States, at least—we expect a couple of glasses of water ready to go to help satiate our appetites.</description>
+    </item>
+    
+    <item>
+      <title>Still Grasping At Straws</title>
+      <link>http://example.org/post/plastic-straw-replacement-controversy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/plastic-straw-replacement-controversy/</guid>
+      <description>[whitebox]
+Hey all, with all the recent chatter about straws in the news of late, we thought it would be a good idea to bring back this piece on the topic—with some sizable updates, of course. Cheers!
+[big]Today in Tedium: The plastic straw is a simple invention with relatively modest value: For a few moments, the device helps make beverages easier to drink. And then, due to reasons of sanitation and ease of use, the straws are thrown away, never to be seen again.</description>
+    </item>
+    
+    <item>
+      <title>The Air of Superiority</title>
+      <link>http://example.org/post/air-conditioning-architecture-problems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/air-conditioning-architecture-problems/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: The 1902 invention of air conditioning has long been hailed as one of the most important inventions of the 20th century, one that has forever changed the way we live. But as we hit an era when robots become more human than ever and try to steal our jobs, I find myself wondering—what can we learn from the additional freedom that air conditioning gave us? Sure, it improved our society by making temperature something that we can control, but what about the problems that came with this cool breeze?</description>
+    </item>
+    
+    <item>
+      <title>You Can&#39;t Drink Saltwater</title>
+      <link>http://example.org/post/desalination-saltwater-reverse-osmosis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/desalination-saltwater-reverse-osmosis/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Salt is a great substance, and one that deserves an important place in our culture. But salt is also the most annoying substance on the planet, in that it makes nearly all of our water supply basically unusable for drinking purposes. Now, removing salt from water is not a painless process, but in an era when drought is a fact of life in places as far-flung as Australia and California, desalination is becoming an increasingly important process for increasing our freshwater supply by just a little bit.</description>
+    </item>
+    
+  </channel>
+</rss>

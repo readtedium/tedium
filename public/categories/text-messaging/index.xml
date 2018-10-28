@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Text Messaging on My New Hugo Site</title>
+    <link>http://example.org/categories/text-messaging/</link>
+    <description>Recent content in Text Messaging on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/text-messaging/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Get Yourself A Treat</title>
+      <link>http://example.org/post/lets-all-go-lobby-movie-snipe-advertising/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/lets-all-go-lobby-movie-snipe-advertising/</guid>
+      <description>[whitebox]
+Editor’s note: Hey all, Ernie here—just wanted to let you guys know I’m handing the reins over to Andrew Egan once again. (If you want some of my thoughts on things, I did a recent interview with LetterList.) Last time, he told us about a time-storing device; this time, he has a stalling tactic of sorts. Check it out!
+[big]Today in Tedium: As we&amp;rsquo;ve noted before, long-running traditions in movies are slowly dying as media becomes digitized.</description>
+    </item>
+    
+    <item>
+      <title>Search By Text</title>
+      <link>http://example.org/post/google-sms-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/google-sms-history/</guid>
+      <description>[big]Back in college, some friends and I found ourselves dealing with a pre-mobile Internet problem. After engaging in activity that is now legal for recreational use in four states, we desperately needed to order pizza. No one knew the number for Domino’s or any other place from memory. And we weren’t immediately near a computer with internet access. Through the disappointment and haze, my friend suddenly remembered, &amp;ldquo;Hey, we can text Google!</description>
+    </item>
+    
+  </channel>
+</rss>

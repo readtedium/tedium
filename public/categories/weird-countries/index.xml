@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weird Countries on My New Hugo Site</title>
+    <link>http://example.org/categories/weird-countries/</link>
+    <description>Recent content in Weird Countries on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/weird-countries/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>This land is my land</title>
+      <link>http://example.org/post/micronations-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/micronations-analysis/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Starting your own country is not something that&amp;rsquo;s particularly easy to do. For one thing, you have no idea if it&amp;rsquo;s going to work, plus you&amp;rsquo;re stuck having to figure out annoyingly complicated details like currency, how laws will be implemented, and how you&amp;rsquo;re going to defend your borders from jerks you don&amp;rsquo;t want on your land. Czech politician Vít Jedlicka, however, thinks he&amp;rsquo;s up to the task.</description>
+    </item>
+    
+  </channel>
+</rss>

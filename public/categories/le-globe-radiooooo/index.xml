@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Le Globe Radiooooo on My New Hugo Site</title>
+    <link>http://example.org/categories/le-globe-radiooooo/</link>
+    <description>Recent content in Le Globe Radiooooo on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/le-globe-radiooooo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Around the World</title>
+      <link>http://example.org/post/le-globe-radiooooo-online-radio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/le-globe-radiooooo-online-radio/</guid>
+      <description>[big]When you find an outlet that creates a sense of adventure around something as pedestrian and overexposed as online music, you know it’s worth a bookmark.[/big]
+The French website Radiooooo, an online time machine that combines a Mercator projection of the globe with a radio, feels like the modern version of the shortwave radio, in some ways—except with the added dimension of time.
+In a New Yorker piece last year, founder Benjamin Moreau recalled that he had the idea based on an experience of listening to modern music in his 1966 Renault Caravelle, and finding the result fully unappealing.</description>
+    </item>
+    
+  </channel>
+</rss>

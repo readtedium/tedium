@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frosted Flakes on My New Hugo Site</title>
+    <link>http://example.org/categories/frosted-flakes/</link>
+    <description>Recent content in Frosted Flakes on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/frosted-flakes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Let&#39;s Bowl &#39;Em Over</title>
+      <link>http://example.org/post/cereal-around-the-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/cereal-around-the-world/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Cereal is basically the perfect food, in my opinion, especially in Life form. Simple to make, easy to eat, and available in options varying from over-the-top healthy to teeth-destroying, it&amp;rsquo;s a part of many breakfasts that will never go away. Or will it? Last month, the internet jumped on a New York Times story that implied millennials were losing interest in breakfast cereal across the board, in part because these lazy kids had to clean up after themselves.</description>
+    </item>
+    
+  </channel>
+</rss>

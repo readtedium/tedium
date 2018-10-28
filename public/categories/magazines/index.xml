@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Magazines on My New Hugo Site</title>
+    <link>http://example.org/categories/magazines/</link>
+    <description>Recent content in Magazines on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/magazines/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Magazine You Can&#39;t Bend</title>
+      <link>http://example.org/post/cd-rom-magazines-launch-blender/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/cd-rom-magazines-launch-blender/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: The promise of multimedia technology led creators of all stripes to do particularly crazy things in an effort to seem hip and with the times. The CD-ROM, much like the sound card, was seen as the lynchpin for much of this innovation—as it could hold a large amount of data, making room for audio, video, and interactive features that no piece of paper, glossy or otherwise, could pull off.</description>
+    </item>
+    
+    <item>
+      <title>A phone book for computers</title>
+      <link>http://example.org/post/computer-shopper-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/computer-shopper-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: The phone book isn&amp;rsquo;t really anyone&amp;rsquo;s idea of an innovative product, but it definitely had its place on the shelf of many a home before the internet took over. In the late throes of the age of the white pages, however, an unusually large magazine stole the hearts of many a techie, and in the process became something of a bible for people looking to replace their 286 with a 486—and maybe buy a laser printer in the process.</description>
+    </item>
+    
+    <item>
+      <title>Consumer Conflict</title>
+      <link>http://example.org/post/consumer-reports-history-origin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/consumer-reports-history-origin/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Last year, a consumer advocate showed up in the most unlikely place: On YouTube, the home of the no-questions-asked unboxing channel. Cody Crouch, aka iTwe4kz, reviewed a set of earbuds from a company called Kanoa. In a Nike hat and a Puma sleeveless shirt, Crouch (who was clearly frustrated) trashed the earbuds at length and questioned the behavior of the company that was banking on him to give a good review.</description>
+    </item>
+    
+    <item>
+      <title>Down With Snippet View</title>
+      <link>http://example.org/post/google-books-snippet-view-archival/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/google-books-snippet-view-archival/</guid>
+      <description>[big]You may or may not have noticed this, but Tedium relies pretty heavily on archival content to exist. This newsletter and publication is not just about offering up weird facts: It&amp;rsquo;s often about introducing facts that have otherwise been forgotten about by the public at large.[/big]
+Sometimes, this takes me in some interesting directions. An example I regularly cite is my piece on lemon juice squeeze bottles. It was the rare piece I had the chance to mostly write ahead of time, and while there were some incredibly useful starting points on the issue from the Beach Packaging Design, I find it important that, even if an existing resource like this offers a starting point, I spend time doing some digging of my own.</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s Talk Toner</title>
+      <link>http://example.org/post/photocopiers-xerox-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/photocopiers-xerox-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: In an era where paper is becoming less important than ever, it feels a bit bizarre at this point to go back in time just 35 years ago, when paper was perhaps having its greatest moment of all time. We were just a few years from the desktop publishing revolution, which expanded the sheer amount of stuff one could put on a page. The &amp;lsquo;zine movement was perhaps at its peak during this time, proving an important way to democratize content for the average person.</description>
+    </item>
+    
+    <item>
+      <title>We’re Making A Zine</title>
+      <link>http://example.org/post/tedium-zine-announcement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/tedium-zine-announcement/</guid>
+      <description>[big]A while back, my friend Simon Owens wrote this piece in which he compared email newsletters to zines, and used good old Tedium as an example of the form.[/big]
+It makes sense to a degree—there’s a DIY ethos that comes with any self-publishing project, and with newsletters as with zines, the weirder, the better.
+That thought stuck with me and kind of got into my head as a thought monster, and as I was thinking about ways to do something fresh with the Tedium concept, the zine struck me as the perfect kind of vessel to do something a little different, while still in the spirit of this thing I’m already writing.</description>
+    </item>
+    
+  </channel>
+</rss>

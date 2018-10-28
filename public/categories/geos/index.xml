@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geos on My New Hugo Site</title>
+    <link>http://example.org/categories/geos/</link>
+    <description>Recent content in Geos on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/geos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Other Windows</title>
+      <link>http://example.org/post/geoworks-windows-3-1-competitor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/geoworks-windows-3-1-competitor/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Back in the early &amp;lsquo;90s, it wasn&amp;rsquo;t a sure thing that Microsoft Windows was going to take over the market, even though they had a clear lead over many of their competitors, thanks to MS-DOS. In fact, one of the iconic GUI-based experiences of the era, AOL, hedged its bets for a while, creating and maintaining a DOS version of its iconic pseudo-internet software using an GUI platform few were familiar with: GeoWorks.</description>
+    </item>
+    
+  </channel>
+</rss>

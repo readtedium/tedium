@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>France on My New Hugo Site</title>
+    <link>http://example.org/tags/france/</link>
+    <description>Recent content in France on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/france/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>We Are All Made Of Stars</title>
+      <link>http://example.org/post/michelin-chef-removal-request/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/michelin-chef-removal-request/</guid>
+      <description>[big]Honestly, it makes no sense why a company best known for manufacturing tires is such an important voice in the world of fine dining, but Michelin has embraced its gastronomic role with gusto for more than a century.[/big]
+Now, it turns out that one of its most-decorated chefs isn’t feeling that gusto himself. Sébastien Bras, a French chef whose restaurant Le Suquet has been a three-star mainstay of the Michelin guide for close to two decades, made the first-ever request to be removed from the guide without a significant change to his model.</description>
+    </item>
+    
+  </channel>
+</rss>

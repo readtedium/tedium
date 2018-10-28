@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mathematics on My New Hugo Site</title>
+    <link>http://example.org/categories/mathematics/</link>
+    <description>Recent content in Mathematics on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/mathematics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Game Boy For Math</title>
+      <link>http://example.org/post/graphing-calculators-gaming-popularity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/graphing-calculators-gaming-popularity/</guid>
+      <description>[whitebox]
+Editor&amp;rsquo;s Note: After tonight&amp;rsquo;s issue, I&amp;rsquo;ll be out of the office for a bit. Like a CBS sitcom airing in June, expect a couple weeks of reruns.
+[big]Today in Tedium: Last week&amp;rsquo;s saga of clock-hacker Ahmed Mohamed has become a political fireball. It&amp;rsquo;s a case of a student who chose to bend the rules of his own education and try to learn things outside of school, only to get punished for it.</description>
+    </item>
+    
+    <item>
+      <title>Math &#43; The Mechanics</title>
+      <link>http://example.org/post/curta-calculator-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/curta-calculator-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: We think of computers as being purely digital objects—computational beasts that work with abstracted collections of 1s and 0s. As complexity increased, so did the tactics to making the computing devices smaller, to the point where we can shove one in our skin as if that’s something we wanna do. Of course, computers are reliant on power these days, but there was a time when computers didn’t need things like batteries, because they weren’t electronic.</description>
+    </item>
+    
+    <item>
+      <title>Plotting A Takeover</title>
+      <link>http://example.org/post/desmos-ti-graphing-calculator-competition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/desmos-ti-graphing-calculator-competition/</guid>
+      <description>[big]Of all the artificial monopolies created by government and standards bodies, the one created for the graphing calculator by standardized testing bodies is perhaps the most disappointing.[/big]
+If the TI-84+ calculator that has become a fact of life for many students were used as a way to teach teens basic programming skills through a technical-but-ultimately-harmless interface, perhaps in the way that the Raspberry Pi has gained currency in the education world, it would be a great tool for education.</description>
+    </item>
+    
+  </channel>
+</rss>

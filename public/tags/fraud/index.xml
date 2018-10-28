@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fraud on My New Hugo Site</title>
+    <link>http://example.org/tags/fraud/</link>
+    <description>Recent content in Fraud on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/fraud/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Shell Game</title>
+      <link>http://example.org/post/shell-companies-easy-to-launch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/shell-companies-easy-to-launch/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Last week, the journalists at the Las Vegas Review-Journal had a problem: Their newspaper had a new owner, but they couldn&amp;rsquo;t figure out who the hell it was. After roughly a week of reporting, they finally figured out exactly who spent $140 million on the paper—one Sheldon Adelson, the casino owner and major Republican donor—but it wasn&amp;rsquo;t easy to get quite that far. Thanks to the law, there was nothing requiring the owner to come forward and reveal themselves to the public.</description>
+    </item>
+    
+  </channel>
+</rss>

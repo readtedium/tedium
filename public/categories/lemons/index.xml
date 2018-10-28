@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lemons on My New Hugo Site</title>
+    <link>http://example.org/categories/lemons/</link>
+    <description>Recent content in Lemons on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/lemons/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I&#39;ll Have Water, Please</title>
+      <link>http://example.org/post/restaurant-water-consumption-phenomenon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/restaurant-water-consumption-phenomenon/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Going to a restaurant is a game of expectations. We expect certain things out of the experience, based on the set parameters when we walk in the door. If we&amp;rsquo;re going to Mickey D&amp;rsquo;s, we expect our food pretty fast and fairly low-quality. If the restaurant doesn&amp;rsquo;t have a counter, we expect a menu at the table. And when we sit down at a restaurant—in the United States, at least—we expect a couple of glasses of water ready to go to help satiate our appetites.</description>
+    </item>
+    
+    <item>
+      <title>Lemony Fresh</title>
+      <link>http://example.org/post/lemon-juice-squeeze-bottles-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/lemon-juice-squeeze-bottles-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Plastic, barring all the environmental problems and health concerns that might come with it, is awesome as a moldable product. It shows up in all sorts of places, from laptop cases, to CDs, to bottles. Today, I want to talk about a common, but relatively obscure use for plastic: As a way to sell lemon juice. Someone had the idea to sell lemon juice inside a squeezable container that looks exactly like a lemon, and it’s been something of a hit product ever since.</description>
+    </item>
+    
+  </channel>
+</rss>

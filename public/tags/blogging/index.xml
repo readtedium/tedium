@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogging on My New Hugo Site</title>
+    <link>http://example.org/tags/blogging/</link>
+    <description>Recent content in Blogging on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blogging Before it Was Cool</title>
+      <link>http://example.org/post/rip-jerry-pournelle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/rip-jerry-pournelle/</guid>
+      <description>[big]Of all the people it’s sucked to lose in 2017, Jerry Pournelle’s loss might quietly be the saddest.[/big]
+Case in point: His final blog post, published Thursday. He noted the cold he was dealing with after attending a convention, wrote about immigration (Pournelle, an irreverent if hard-line conservative voice even at the height of his popularity, suggested that we let the “Dreamers” in after they serve seven years overseas in the military), and then overshared just a little bit before ending the post.</description>
+    </item>
+    
+    <item>
+      <title>Is Blogging Dead?</title>
+      <link>http://example.org/post/is-blogging-dead-2018/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/is-blogging-dead-2018/</guid>
+      <description>[big]Is a newsletter a blog? And if it is, does that make what I do with Tedium blogging? And if so, is that practice in decline as we enter 2018?[/big]
+That’s not exactly how I approach this process, certainly, but I think it’s worth discussing at length at the moment, as the culture of blogging evolves away from what it once was. Over at JSTOR’s excellent daily news site, author Farah Mohammed analyzes blogging in the past tense, pondering whether the medium is in broader decline, as big-name bloggers like Nicholas Kristof leave the game.</description>
+    </item>
+    
+    <item>
+      <title>Quitting is OK</title>
+      <link>http://example.org/post/andrew-sullivan-quitting-is-ok/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/andrew-sullivan-quitting-is-ok/</guid>
+      <description>[whitebox][big]
+Today in Tedium: Everyone is addicted to something. There are certain addictions that we carry around with us that eventually need to be put to bed. Andrew Sullivan, one of the greatest (and most controversial) pundits of the early 21st century, was addicted to blogging. Sully, who&amp;rsquo;s was one of the most popular online writers of his era and the first big-name writer to devote his life to the practice, announced that he was quitting his longtime platform, The Dish, on Wednesday.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Metalachi on My New Hugo Site</title>
+    <link>http://example.org/tags/metalachi/</link>
+    <description>Recent content in Metalachi on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/metalachi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hurricane Ned</title>
+      <link>http://example.org/post/okilly-dokilly-ned-flanders-metal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/okilly-dokilly-ned-flanders-metal/</guid>
+      <description>[big]If you haven’t been following the modern metal scene, you’ve apparently been missing out on a lot of bands pigging out on pop-culture references in the best way possible.[/big]
+Last month, a trio of bands went on tour that make Tenacious D look like they’re not high-concept enough. The two co-headliners of the 2017 Mockstrosity Tour were weird enough: Metalachi, a mariachi-themed metal band, shared the stage with Mac Sabbath, a McDonald’s-themed Black Sabbath cover band.</description>
+    </item>
+    
+  </channel>
+</rss>

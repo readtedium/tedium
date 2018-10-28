@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sandisk on My New Hugo Site</title>
+    <link>http://example.org/tags/sandisk/</link>
+    <description>Recent content in Sandisk on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/sandisk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flash Forward</title>
+      <link>http://example.org/post/flash-memory-compactflash-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/flash-memory-compactflash-history/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Thanksgiving, of course, was a day full of memories. You, of course, need a place to store all those memories—and for a long time, preferably in a way that makes them easy to access for many years to come. It would also help if that method was easy to carry, easy to store, and, well, was standardized. For years, when it came to pictures, that format was, of course, film.</description>
+    </item>
+    
+  </channel>
+</rss>

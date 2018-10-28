@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Memory Foam on My New Hugo Site</title>
+    <link>http://example.org/tags/memory-foam/</link>
+    <description>Recent content in Memory Foam on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/memory-foam/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hipster Mattresses: Why?</title>
+      <link>http://example.org/post/hipster-mattresses-casper-yogabed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/hipster-mattresses-casper-yogabed/</guid>
+      <description>[whitebox]
+[big]Today in Tedium: Is there anything more annoying than a mattress company that thinks it&amp;rsquo;s clever? It&amp;rsquo;s weird, but in the past year or so, we&amp;rsquo;ve seen a whole boatload of companies that want to turn the process of buying a mattress into something fun. But buying mattresses shouldn&amp;rsquo;t be fun. It should be work, something you do once or twice in your life and forget about after you&amp;rsquo;ve gotten over the frustration of getting the mattress into your bedroom.</description>
+    </item>
+    
+  </channel>
+</rss>
