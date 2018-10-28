@@ -14,7 +14,7 @@ variant = "page"
 
 1. **Open rates** around 40 percent—and more than 10,000 dedicated readers, many of whom get all the way to the end of the articles.
 2. **Focused subject matter** that has a shelf life long beyond the issue's drop date.
-3. **Copy directly relevant** to your advertising needs—including (in case of an issue takeover) a related ar ticle that's a great fit.
+3. **Copy directly relevant** to your advertising needs—including (in case of an issue takeover) a related article that's a great fit.
 4. **A bold, colorful design unlike anything else** currently hitting your audience's inboxes.
 5. **An alternative to marketing spam:** If sending yet another transactional marketing email is going to drive your subscribers crazy, send them an issue of Tedium instead. It could let you say hello to your audience in a new way.
 
