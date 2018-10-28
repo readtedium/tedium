@@ -1,20 +1,18 @@
 +++
 author = "Ernie Smith"
 categories = ["spam", "robocalls", "phone calls", "scams", "telephones", "phone history", "phone numbers", "robocall"]
-date = 2018-05-16T07:18:00Z
+date = "2018-05-16T07:18:00.000+00:00"
 description = "Like spam messages, robocalls aim for the broadest possible audience in an effort to get someone, anyone, with its scam. And both are annoying as heck, too."
-draft = false
 image = "https://tedium.imgix.net/2018/05/tedium051518.gif"
 slug = "spam-robocalls-history-comparison"
 tags = ["spam", "robocalls", "phone calls", "scams", "telephones", "phone history", "phone numbers", "robocall"]
-variant = "article"
 title = "The Chinese Robocall Blues"
+variant = "article"
 
 +++
-
 {{% whitebox %}}
 
-{{% big %}}**Today in Tedium:** Recently, I got a phone call from a number I’d never seen before. In other words, an average day. But this call was weird, largely because it was decidedly not for me. It sounded like Chinese, which was confirmed when I had the bright idea of holding my phone against my laptop’s microphone so Google Translate could make it out. Suddenly, it became slightly more clear: The message was a robocall—a strange one at that, one that suggested some sort of immigration trouble for the caller. It was clearly a scam, with a wide net and a narrow target. I wasn’t alone in getting this call. [A lot of New Yorkers have been annoyed by them of late](https://www.wnyc.org/story/chinese-robocalls-bombarding-new-york-are-part-international-phone-scam/). But this call got me thinking about the nature of technological spam, and how, when it comes down to it, only the medium changes. This was a robocall, but it shares a lineage with a whole lot of other types of spam. Today’s Tedium connects the threads. *— Ernie @ Tedium*{{% /big %}}
+{{% big %}}**Today in Tedium:** Recently, I got a phone call from a number I’d never seen before. In other words, an averag e day. But this call was weird, largely because it was decidedly not for me. It sounded like Chinese, which was confirmed when I had the bright idea of holding my phone against my laptop’s microphone so Google Translate could make it out. Suddenly, it became slightly more clear: The message was a robocall—a strange one at that, one that suggested some sort of immigration trouble for the caller. It was clearly a scam, with a wide net and a narrow target. I wasn’t alone in getting this call. [A lot of New Yorkers have been annoyed by them of late](https://www.wnyc.org/story/chinese-robocalls-bombarding-new-york-are-part-international-phone-scam/). But this call got me thinking about the nature of technological spam, and how, when it comes down to it, only the medium changes. This was a robocall, but it shares a lineage with a whole lot of other types of spam. Today’s Tedium connects the threads. _— Ernie @ Tedium_{{% /big %}}
 
 {{% /whitebox %}}
 
@@ -31,7 +29,9 @@ title = "The Chinese Robocall Blues"
 {{% redbox %}}
 
 {{% number %}}
+
 ### 1978
+
 {{% /number %}}
 
 **The year of the first incident of computer spam.** (Happy 40th birthday, spam!) A guy named Gary Thuerk, a marketer for Digital Equipment Corp., [had the bright idea of using ARPANET](https://www.templetons.com/brad/spamreact.html) to promote the fact that DEC’s newest hardware could use the primitive computer network. The idea, while clever, went off the rails because Thuerk sent the message to so many people that the message couldn’t fit all of the recipients. Which meant that Thuerk sent it again to the people that didn’t get it. The message quickly created a series of complaints. “I knew I was pushing the envelope,” [Thuerk admitted in 2007](https://www.computerworld.com/article/2539767/cybercrime-hacking/unsung-innovators--gary-thuerk--the-father-of-spam.html). “I thought of it as e-marketing.”
@@ -40,7 +40,7 @@ title = "The Chinese Robocall Blues"
 
 ![Spam](https://tedium.imgix.net/2018/05/0515_spam.jpg)
 
-*([Mike Mozart/Flickr](https://www.flickr.com/photos/jeepersmedia/7436557004/))*
+_(_[_Mike Mozart/Flickr_](https://www.flickr.com/photos/jeepersmedia/7436557004/)_)_
 
 ### The immigration lawyers that uncovered a lucrative business opportunity by covering Usenet in spam
 
@@ -48,9 +48,9 @@ title = "The Chinese Robocall Blues"
 
 If you go through your email spam folder and read examples of messages that you get on an average basis, you’ll see a common thread—quite often, someone is trying to trick you, or at the very least, take advantage of you. I personally deal with dozens of messages per week featuring people asking for a guest post in this newsletter for the goal of gaming search-engine algorithms.
 
-But there’s also a tendency for spam to be built around things that most people *don’t* need. Maslow’s Hierarchy of Needs is great and all, but if you’re not selling food, shelter or creature comforts, you might just struggle to find new clients.
+But there’s also a tendency for spam to be built around things that most people _don’t_ need. Maslow’s Hierarchy of Needs is great and all, but if you’re not selling food, shelter or creature comforts, you might just struggle to find new clients.
 
-This is a problem that immigration lawyers might have. If you’re looking to enter a country, the process of getting a green card can be tough, but it’s relatively rare, with renewals only happening once a decade or so; the average person might only work with a particular immigration lawyer once. Most people don’t need green cards, but those that do *really* want them.
+This is a problem that immigration lawyers might have. If you’re looking to enter a country, the process of getting a green card can be tough, but it’s relatively rare, with renewals only happening once a decade or so; the average person might only work with a particular immigration lawyer once. Most people don’t need green cards, but those that do _really_ want them.
 
 Perhaps that’s the line of thinking that led two such immigration lawyers, Laurence Canter and Martha Siegel, to Usenet. In 1994, the husband and wife legal team adulterated the still fairly pristine confines of Usenet to push a message far and wide.
 
@@ -60,11 +60,11 @@ Which is what Canter and Siegel did. But instead of using old tactics to draw at
 
 But unlike a lot of modern spammers, you could very much argue that Canter and Siegel were quite savvy in a traditional sense. They saw Usenet as a place to market their basic ideas. And while it was annoying and exposed them to significant backlash, it also was objectively successful at what it was trying to do: the couple claimed that the ads earned them $100,000 in business.
 
-Canter and Siegel had a reputation for being troublemakers in the world of immigration law long before they discovered their clever tactic for barraging hundreds of thousands of people at once. This particular situation, however, went too far, and ended up costing the couple their law license. In a 1999 retrospective piece for *Wired*, lawyer and tech security expert Ray Everett-Church, who then worked at the American Immigration Lawyers Association, noted how the cheap tactic personally made his life hell.
+Canter and Siegel had a reputation for being troublemakers in the world of immigration law long before they discovered their clever tactic for barraging hundreds of thousands of people at once. This particular situation, however, went too far, and ended up costing the couple their law license. In a 1999 retrospective piece for _Wired_, lawyer and tech security expert Ray Everett-Church, who then worked at the American Immigration Lawyers Association, noted how the cheap tactic personally made his life hell.
 
 “I realize now that I was one of the first computer professionals to experience the feeling of dread evoked by a flood of spam complaints,” [Everett-Church recalled](https://www.wired.com/1999/04/the-spam-that-started-it-all/). “I have never quite forgotten that feeling, and it is part of the reason I have spent so much of these last several years combating Internet abuse.”
 
-But even without a law license, the sheer novelty of what Canter and Siegel had done meant that they had options: They managed to score a book deal, which may be the first and only time that anyone cared what a spammer had to say. Fittingly, the book was titled *How to Make a Fortune on the Information Superhighway*, putting it in the same territory as [*Free $tuff on the Internet*](https://tedium.co/2017/06/29/90s-internet-books-history/).
+But even without a law license, the sheer novelty of what Canter and Siegel had done meant that they had options: They managed to score a book deal, which may be the first and only time that anyone cared what a spammer had to say. Fittingly, the book was titled _How to Make a Fortune on the Information Superhighway_, putting it in the same territory as [_Free $tuff on the Internet_](https://tedium.co/2017/06/29/90s-internet-books-history/).
 
 I alas couldn’t find a version of the book online, but a summary of the book for sale on Amazon highlights the nut of the couple’s many ideas about marketing and getting rich. [Here’s one such nugget from the summary](https://amzn.to/2IjT3c8):
 
@@ -77,7 +77,9 @@ In many cases, spam is a bludgeoning tool, with no distinct focus. It’s big da
 {{% /whitebox %}}{{% redbox %}}
 
 {{% quote %}}
+
 ### “On a final note, just because you don't see something here doesn't mean we haven't already seen, dealt with, and filed a complaint about it. Really the best thing to so is delete it and move on.”
+
 {{% /quote %}}
 
 **— A statement on a MIT webpage,** [discussing the spam that hit the university’s servers](http://web.mit.edu/network/spam/examples/) circa 1999. These messages, which vary wildly in nature and in tone, would put strain on the university’s server in numerous ways (think of [Elf Bowling](https://tedium.co/2017/12/21/elf-bowling-history/)) and would often prove time sucks for the school’s IT staff. In case you’re looking for a time capsule of what old spam looked like before automated phishing links, links to counterfeit drugs, and obvious scams became the norm.
@@ -86,17 +88,17 @@ In many cases, spam is a bludgeoning tool, with no distinct focus. It’s big da
 
 ![Robocall](https://tedium.imgix.net/2018/05/0515_robocall.jpg)
 
-*([Grant Hutchinson/Flickr](https://www.flickr.com/photos/splorp/64027565/))*
+_(_[_Grant Hutchinson/Flickr_](https://www.flickr.com/photos/splorp/64027565/)_)_
 
 ### Political candidates didn’t invent robocalls, but they sure made them annoying
 
 The federal government had already taken steps to ban the robocall before we actually bothered to give it that name.
 
-In 1991, [the House had considered a law to ban junk faxes](https://www.nytimes.com/1990/07/31/us/house-considers-restriction-on-advertising-by-telephone-and-fax.html), which sounds like a worst-of-all-worlds form of physical spam. The law, additionally, eyed a plan to take on automatic dialing systems, which evolved from [a phone-system-sanctioned idea](https://www.newspapers.com/clip/20116957/magicall_automated_phone_system/) into an easy way for scammers and debt collectors to further their reach. 
+In 1991, [the House had considered a law to ban junk faxes](https://www.nytimes.com/1990/07/31/us/house-considers-restriction-on-advertising-by-telephone-and-fax.html), which sounds like a worst-of-all-worlds form of physical spam. The law, additionally, eyed a plan to take on automatic dialing systems, which evolved from [a phone-system-sanctioned idea](https://www.newspapers.com/clip/20116957/magicall_automated_phone_system/) into an easy way for scammers and debt collectors to further their reach.
 
 ![Magicall](https://tedium.imgix.net/2018/05/0515_magicall.jpg)
 
-*The Magicall, an early example of an autodialer. No automated messages, however.*
+_The Magicall, an early example of an autodialer. No automated messages, however._
 
 That measure eventually became law—the Telephone Consumer Protection Act of 1991—and has led the Federal Communications Commission [to take the issue seriously ever since](https://www.fcc.gov/general/telemarketing-and-robocalls). Clearly, the issue has been on the FCC’s radar for nearly 30 years.
 
